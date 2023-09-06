@@ -1,0 +1,44 @@
+- An array that satisfies certain properties, conceptually looks like a binary tree
+- Max heap: Every child node contains a lower value than its parent, (every child node has a higher value parent)
+- Almost heap: Max heap holds for all but parent node
+- Max-heapify: turns almost heap into max heap
+	- If root node is lower value than child node, swap parent with child and then [[Recursion|recursively]]
+	- call Max-heapify again on the swapped child
+	- ![[Pasted image 20230208100923.png]]
+	- Running time:
+		- ![[Pasted image 20230208101111.png]]
+		- The height determines the running time a lot
+		- the height = floor(log(input size n))
+- Building a heap:
+	- invoke max-heapify on lowest level non leaf nodes so that each lowest subtree is a heap then, move to the parent nodes and turn their almost-heaps to max-heaps
+	- ![[Pasted image 20230208101556.png]]
+	- _What is this: this is how we find the non-leaf, lowest node to start the process at_
+	- Running time
+		- ![[Pasted image 20230208101943.png]]
+		- number of recursive calls depends on the height
+		- _c * log n = c * height_
+		- _c = time to process each node for each height_
+		- _n/2 = total number of max-heapify calls_
+		- _Overall: total number of max-heapify calls * time to process all of the heights =  running time_
+		- OR
+		- _total number of max-heapify calls * time to process every level of tree  * height of tree =  O(n log n)_
+		- ![[Pasted image 20230208102257.png]]
+		- _c = time to do comparisons_
+		- _c*4 = time for 4 nodes_
+		- _2c*2 = 2 swaps for 2 nodes_
+	- Tighter bound running time
+		- ![[Pasted image 20230208103040.png]]
+		- #edit #review 
+- Heap sort
+	- Build a heap
+	- Swap last element of heap with root
+	- then do max-heapify
+	- do this from bottom of heap to top
+	- ![[Pasted image 20230210101751.png]]
+	- ![[Pasted image 20230210101850.png]]
+	- ![[Pasted image 20230210101902.png]]
+	- ![[Pasted image 20230210101916.png]]
+	- Running time
+		- ![[Pasted image 20230210103234.png]]
+		- #review WHY???
+	- 

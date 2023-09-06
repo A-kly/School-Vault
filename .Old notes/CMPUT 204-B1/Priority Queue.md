@@ -1,0 +1,20 @@
+Implenented using [[Divide-and-Conquer]]
+- Items are ordered in the queue based on priority
+- Elements are associated with a key
+- ![[Pasted image 20230208104146.png]]
+- Ignore actual queue
+- Work around heap to conceptually crate the queue
+- Extract Maximun: Dequeue
+	- ![[Pasted image 20230208104420.png]]
+	- Remove max
+	- Move last element to root and reduce size by 1
+	- run max-heapify to maintain consistency and shifts elements over properly
+	- Running time: O(log n)
+- Increase Key : increase priority
+	- ![[Pasted image 20230208104653.png]]
+	- Bubble updated key node up until it is higher than children and lower than parent
+	- O(log n)
+- Insert element
+	- ![[Pasted image 20230208104835.png]]
+	- Create an infinitely low priority key and add it to end
+	- increase priority of that node to get it to the right place

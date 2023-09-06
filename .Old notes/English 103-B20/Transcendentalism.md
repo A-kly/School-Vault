@@ -1,0 +1,8 @@
+- Humans connect with nature and the world with a "divine emanation"
+- They generally replace anthropomorphic god with a spirit that is present in all things and and could be learned about not just by studying god but also people and nature
+- "who are we when situated in the greater world around us and how do we access it"
+- Concord Massachusetts was Transcendentalism Headquarters
+	- Where [[Henry David Thoreau]] Lived most his life
+- Very political movement
+	- Slavery
+	- "we must find the general good without having to rely on government or other to set the rules"

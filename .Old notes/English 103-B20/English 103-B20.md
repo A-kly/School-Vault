@@ -1,0 +1,61 @@
+
+- Isolation, Loneliness, and Solitude
+- Syllabus: [eclass.srv.ualberta.ca/mod/resource/view.php?id=6819957](https://eclass.srv.ualberta.ca/mod/resource/view.php?id=6819957) 
+- Instructor: Karen McFadyen
+    - Email: kpmcfady@ualberta.ca
+- Biggest thing is the analysis of text
+- Looking at a text through different lenses
+- BEAM method
+    - Background, Exhibit, Argument, and Method
+- Books needed:
+    - [[Walden]] by [[Henry David Thoreau]] (Penguin Random House, 2017)
+    - Some [[Emily Dickinson]] poems (NOT TO BUY)
+    - [[My year of rest and Relaxation]] by Ottessa Moshfegh (Penguin Publishing Group, 2018)
+- 3 minute independent free writing:
+    - How would you describe loneliness, solitude and isolation? What images, words or stories come to mind? How do you distinguish between these terms?
+        - Loneliness: A negative feeling associated with being alone and especially with not wanting to be alone, possible to be felt when surrounded by others and alone socially or romantically.
+        - Solitude: More simple and broader than Loneliness, Physically.
+        - Isolation: Forced solitude either by oneself or others, also negative connotation.
+- People are getting more socially disconnected in developed societies
+- Emile Durkheim's Anomie
+    - Sociological study of suicide
+    - At the time was imagined as a person "failing"
+    - NOT someone in a bad situation ⇒ suicide
+    - Actually, Social isolation ⇒ suicide
+        - Big changes + Society moving on without us ⇒ more likely to suicide
+    - Anomie: "Lawlessness"
+        - Who am I in relation to this new world?
+    - Not just about physical experience, how do we see and conceive of ourselves in a social framework?
+    - Fuck Andrew Tate, Why do young men gravitate to him?
+        - lonely ⇒ aggression and misogyny
+        - You've rejected me ⇒ I reject you as well
+- Freud - Civilization and Discontents
+    - Why is human society such a profound source of suffering?
+    - Our minds develop by understanding our relation to others through our "Ego"
+    - Newborns have no understanding of self
+    - Once we begin to understand our-self, trauma
+    - Civilization has to guard against our impulses and drive for destruction and aggression
+    - Authority does this
+    - Civilization is a Constant reinforcement of guilt 
+        - Son internalizes the authority of the dad which "keeps him in check"
+        - Ambivalence: Love something and hate something at the same time
+        - Society is built on repression and if we don't want that, we reject and repress others
+
+%% Begin Waypoint %%
+- [[Conference]]
+- [[Emily Dickinson]]
+- [[Essay structure]]
+- [[Henry David Thoreau]]
+- [[Hikikomori]]
+- [[Indigenous content]]
+- [[Letters to my Weird Sisters]]
+- **Media**
+- [[My year of rest and Relaxation]]
+- [[Position paper - (due Jan 31)]]
+- [[QUAD]]
+- [[The lighthouse]]
+- [[Thursday Journals]]
+- [[Transcendentalism]]
+- [[Walden]]
+
+%% End Waypoint %%

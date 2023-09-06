@@ -1,0 +1,3 @@
+What is a child's connection to story? Do we lose this connection as we grow up?
+
+A child is connected to story mainly by their ability to imagine well, the creativity and ability to mentally picture the content of the story as well as the. Also, when you're a kind yo are told stories by people close to you where as when you're an adult, you are kind of forced to experience them in a less personal way.
