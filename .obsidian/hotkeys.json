@@ -1,0 +1,45 @@
+{
+  "shortcuts-extender:heading-0": [],
+  "shortcuts-extender:shortcut-list-items": [],
+  "shortcuts-extender:heading-1": [],
+  "shortcuts-extender:heading-2": [],
+  "shortcuts-extender:heading-3": [],
+  "shortcuts-extender:heading-4": [],
+  "shortcuts-extender:heading-5": [],
+  "shortcuts-extender:heading-6": [],
+  "text-snippets-obsidian:text-snippets": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-asterisk-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-asterisk-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "editor:toggle-bold": [],
+  "editor:toggle-italics": []
+}
