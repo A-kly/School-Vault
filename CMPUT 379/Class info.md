@@ -42,4 +42,3 @@
 - ~50% of grade is lecture content, ,~50% is implementation
 - Class is fully curved for each major assessment
 - 
-

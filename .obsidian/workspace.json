@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Class info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Class info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Class info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "CMPUT 379/Class info.md"
               }
             }
           }
@@ -137,6 +137,7 @@
   },
   "active": "ca4804824b10f58e",
   "lastOpenFiles": [
+    "Markdown Cheat sheet.md",
     "CMPUT 379/Class info.md",
     "CMPUT 379/CMPUT 379.md",
     "STAT 151/Data and Variables.md",
@@ -146,7 +147,6 @@
     "PSYCH 105/PSYCH 105.md",
     "STAT 151/Data and Variables - Copy.md",
     "CMPUT 379",
-    "Markdown Cheat sheet.md",
     "STAT 151",
     "PSYCH 105/Media/Pasted image 20230905162726.png",
     "PSYCH 105/Media/Pasted image 20230905162523.png",
