@@ -55,7 +55,6 @@ To understand behaviour we rely on:
 ## Scientific Method
 ![[Pasted image 20230905162726.png]]
 ![[Pasted image 20230905162523.png]]
-
 ## How Do We Collect Data?
 - **Psychological test:** a standardized measure to obtain a sample of subjects’ behaviour
 - **Physiological/neural recording:** an instrument monitors and records specific physiological processes in a subject
@@ -94,10 +93,26 @@ To understand behaviour we rely on:
 - Relatively easy to administer
 - An effective approach to gather lots of information
 - Susceptible to biases from both researchers and participants
-
 ### Types of Statistics
 - **Statistics:** using mathematics to organize, summarize, and interpret numerical data
 	- **Descriptive statistics:** organizing and summarizing data in a useful way
 	- **Inferential statistics:** interpreting data and drawing conclusions
+### Describing Data
+- Measures of central tendency: where is the centre of the data?
+	- Mode – most frequent value
+	- Median – look at total number of values, divide in half, record value given for middle data point
+	- Mean – average; center of dataset, skewed by outliers
+- Variability: How spread out is the data? What is the shape of the data?
+	- Range – subtract lowest from highest data value
+	- Standard deviation – spread of data around mean; √𝑣𝑎𝑟𝑖𝑎𝑛𝑐𝑒
+	- Variance – average of squared deviation scores; (standard deviation)^2
+![[Pasted image 20230907153514.png]]
+### Pros & Cons of Descriptive Research
+- Pros:
+	- Can describe variables of interest
+- Cons:
+	- Do not learn about relationships or causality
+	- Cannot manipulate measured variables
 ## Correlational Research
+- Study of the r
 ## Experimental Research
