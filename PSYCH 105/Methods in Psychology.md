@@ -16,7 +16,7 @@ To understand behaviour we rely on:
 	- Being persuaded by what easily comes to mind
 	- Failing to think about what we cannot see
 	- Focusing on the evidence we like best
-	- Being biased about being biased
+	- Being biased about *being* biased
 ## Science: Rationalism vs Empiricism
 - **Rationalism:** the idea that knowledge can be obtained through reasoning
 - **Empiricism:** the idea that knowledge can be obtained through observation and experience
