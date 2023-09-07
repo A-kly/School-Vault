@@ -11,5 +11,12 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sky",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
-  "anuppuccin-theme-settings@@anp-speech-bubble": true
+  "anuppuccin-theme-settings@@anp-speech-bubble": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Components@@tab-autohide": false,
+  "Components@@Ribbon-autohide": true,
+  "Components@@icon-autohide": false,
+  "Components@@nav-header-autohide": false,
+  "Components@@tab-title-bar-autohide": false
 }
