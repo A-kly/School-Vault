@@ -108,6 +108,7 @@ To understand behaviour we rely on:
 	- Range – subtract lowest from highest data value
 	- Standard deviation – spread of data around mean; sqrt(variance)
 	- Variance – average of squared deviation scores; (standard deviation)^2
+#### THE FOLLOWING IS IMPORTANT AND ALSO CONFUSING
 ![[Pasted image 20230907153514.png]]
 ### Pros & Cons of Descriptive Research
 - Pros:
