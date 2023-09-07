@@ -128,4 +128,10 @@ To understand behaviour we rely on:
 - Negative correlations
 	- -1.0 ≤ r < 0
 	- Increase in variable A --> **Decrease** in variable B
+- Zero Correlations
+	- r=0
+	- Neither Variable is dependent on another
+### Scatterplots
+![[Pasted image 20230907154300.png]]
+
 ## Experimental Research
