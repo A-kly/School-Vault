@@ -114,5 +114,18 @@ To understand behaviour we rely on:
 	- Do not learn about relationships or causality
 	- Cannot manipulate measured variables
 ## Correlational Research
-- Study of the r
+- Study of the relationship between two measured variables
+- unlike [[#Descriptive Research]], we are not simply measuring and describing one thing
+- ==Correlation =/= causation==
+### Correlation
+- **Correlation coefficient (r)**: describes the relationship between two variables
+	- Ranges from -1.0 to +1.0
+	- Sign indicates direction
+	- Absolute value indicates strength
+- Positive correlations
+	- 0 < r ≤ +1.0
+	- Increase in variable A --> **Increase** in variable B
+- Negative correlations
+	- -1.0 ≤ r < 0
+	- Increase in variable A --> **Decrease** in variable B
 ## Experimental Research
