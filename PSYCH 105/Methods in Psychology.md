@@ -115,6 +115,7 @@ To understand behaviour we rely on:
 	- Do not learn about relationships or causality
 	- Cannot manipulate measured variables
 ## Correlational Research
+- At least two measured variables
 - Study of the relationship between two measured variables
 - unlike [[#Descriptive Research]], we are not simply measuring and describing one thing
 - ==Correlation =/= causation==
@@ -134,4 +135,19 @@ To understand behaviour we rely on:
 	- Neither Variable is dependent on another
 ### Scatterplots
 ![[Pasted image 20230907154300.png]]
+### Advantages of Correlational Research
+- Shows strength of relationships
+- Make predictions
+	- Past + future extrapolation
+- Identifies "real world" associations
+### Disadvantages of Correlational Research
+- Cannot manipulate measured variables
+	- eg. Studying amount vs grade result
+- Can't assume cause/effect relationship
+	- Only Correlation not causation
+	- Shows association, **Not** cause
+### Third variable problem
+![[Pasted image 20230907162520.png]]
 ## Experimental Research
+- At least one manipulated variable
+- Not like[[#Descriptive Research]], Not just describing measured 
