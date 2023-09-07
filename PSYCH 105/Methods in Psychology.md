@@ -1,4 +1,5 @@
 ==Carbon Copy of 104 intro==
+[Slides](https://eclass.srv.ualberta.ca/pluginfile.php/10312762/mod_resource/content/0/Chapter%202%20-%20Slides%20-%20Students.pdf)
 # Experience and Intuition V.S. Science
 ## Pitfalls of Everyday Approaches
 To understand behaviour we rely on:
@@ -16,7 +17,7 @@ To understand behaviour we rely on:
 	- Being persuaded by what easily comes to mind
 	- Failing to think about what we cannot see
 	- Focusing on the evidence we like best
-	- Being biased about *being* biased
+	- Being biased about being biased
 ## Science: Rationalism vs Empiricism
 - **Rationalism:** the idea that knowledge can be obtained through reasoning
 - **Empiricism:** the idea that knowledge can be obtained through observation and experience
@@ -133,5 +134,4 @@ To understand behaviour we rely on:
 	- Neither Variable is dependent on another
 ### Scatterplots
 ![[Pasted image 20230907154300.png]]
-
 ## Experimental Research
