@@ -1,11 +1,11 @@
 {
-  "encore-settings@@theme-dark": "encore-theme-dark-blackout",
+  "encore-settings@@theme-dark": "encore-theme-dark",
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-mobile-oled-mode": false,
   "encore-settings@@blur-amount": "encore-blur-less",
   "encore-settings@@encore-disable-grain": true,
   "encore-settings@@encore-bright-accent": false,
-  "encore-settings@@encore-fancy-headers": true,
+  "encore-settings@@encore-fancy-headers": false,
   "encore-settings@@colors": "encore-colors-colorful",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sky",

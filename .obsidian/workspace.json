@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,7 +144,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5bfc7f5c9441e4",
+  "active": "ca4804824b10f58e",
   "lastOpenFiles": [
     "PSYCH 105/Methods in Psychology.md",
     "Markdown Cheat sheet.md",
