@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca4804824b10f58e",
+            "id": "0d3ce4b4a2f08ad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242,
-    "collapsed": true
+    "width": 242
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -133,8 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,22 +142,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca4804824b10f58e",
+  "active": "0d3ce4b4a2f08ad7",
   "lastOpenFiles": [
-    "PSYCH 105/Media/Pasted image 20230907162520.png",
+    "PSYCH 105/Untitled.md",
+    "CMPUT 379/Class info.md",
     "PSYCH 105/Methods in Psychology.md",
+    "PSYCH 105/Media/Pasted image 20230907162941.png",
+    "PSYCH 105/Media/Pasted image 20230907162520.png",
     "Markdown Cheat sheet.md",
     "PSYCH 105/Media/Pasted image 20230907154300.png",
     "PSYCH 105/Media/Pasted image 20230907153514.png",
-    "CMPUT 379/Class info.md",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607164012.png",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607163822.png",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607163644.png",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607163534.png",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607163404.png",
     "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607132956.png",
-    "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607162434.png",
-    "Year 2 Obsidian notes/Math 146/Media/Pasted image 20230607162859.png",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",
     "Year 2 Obsidian notes/Math 146/9.1 Separation of variables.md",
@@ -184,7 +182,6 @@
     "Year 2 Obsidian notes/Math 146/2.1 Integration by parts.md",
     "Year 2 Obsidian notes/Math 146/13.2 Chain rule for functions of several variables.md",
     "Year 2 Obsidian notes/Math 146/11.3 Functions of several variables.md",
-    "Year 2 Obsidian notes/Math 146/12.3 Tangent plane, linear approximation and linearization.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",

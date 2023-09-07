@@ -100,12 +100,13 @@ To understand behaviour we rely on:
 	- **Inferential statistics:** interpreting data and drawing conclusions
 ### Describing Data
 - Measures of central tendency: where is the centre of the data?
-	- Mode – most frequent value
-	- Median – look at total number of values, divide in half, record value given for middle data point
-	- Mean – average; center of dataset, skewed by outliers
+	- **Mode** – most frequent value
+	- **Median** – look at total number of values, divide in half, record value given for middle data point
+	- **Mean** – average; center of dataset, skewed by outliers
+	- ![[Pasted image 20230907162941.png|200]]
 - Variability: How spread out is the data? What is the shape of the data?
 	- Range – subtract lowest from highest data value
-	- Standard deviation – spread of data around mean; √𝑣𝑎𝑟𝑖𝑎𝑛𝑐𝑒
+	- Standard deviation – spread of data around mean; sqrt(variance)
 	- Variance – average of squared deviation scores; (standard deviation)^2
 ![[Pasted image 20230907153514.png]]
 ### Pros & Cons of Descriptive Research
@@ -150,4 +151,10 @@ To understand behaviour we rely on:
 ![[Pasted image 20230907162520.png]]
 ## Experimental Research
 - At least one manipulated variable
-- Not like[[#Descriptive Research]], Not just describing measured 
+- Not like [[#Descriptive Research]], Not just describing one measured variable
+- Not like [[#Correlational Research]]], Not passively observing
+- Experimental research involves **manipulating** one variable under controlled conditions to observe another variable change
+	- Emphasis on our own manipulation
+- Detects **Cause-effect relationships**
+- Tests Theories, Hypotheses
+### Important Variables In Experiments
