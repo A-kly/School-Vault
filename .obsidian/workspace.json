@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,16 +70,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
     "type": "split",
     "children": [
       {
+        "id": "753634e1b73af31d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d5bfc7f5c9441e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "cff14d84e57cc96b",
         "type": "tabs",
         "children": [
+          {
+            "id": "9abb078a04ba34ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "a717f8a43684b494",
             "type": "leaf",
@@ -97,38 +122,19 @@
             }
           },
           {
-            "id": "9abb078a04ba34ef",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "24162dc252b7081a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "2d5bfc7f5c9441e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 401.5,
+    "width": 268.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -139,10 +145,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "2d5bfc7f5c9441e4",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "Markdown Cheat sheet.md",
     "Untitled.canvas",
     "CMPUT 379/Untitled.md",
     "PSYCH 105/Methods in Psychology.md",
