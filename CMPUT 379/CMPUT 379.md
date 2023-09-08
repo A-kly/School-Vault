@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Class info]]
+- [[CMPUT 379/Class info]]
 - **Media**
 
 - [[Operating Systems Introduction]]

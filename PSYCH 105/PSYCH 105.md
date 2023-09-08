@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Class Info]]
+- [[PSYCH 105/Class Info]]
 - **Media**
 
 - [[Methods in Psychology]]
