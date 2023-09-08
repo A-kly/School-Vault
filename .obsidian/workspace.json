@@ -137,8 +137,13 @@
             "id": "2d5bfc7f5c9441e4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -146,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 642
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,16 +161,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432598a8972097",
+  "active": "2d5bfc7f5c9441e4",
   "lastOpenFiles": [
-    "Class info.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "PSYCH 105/Methods in Psychology.md",
+    "STAT 151/Data and Variables.md",
+    "CMPUT 379/CMPUT 379.md",
+    "CMPUT 379/Class info.md",
+    "Class info.md",
     "CMPUT 379/Media/Pasted image 20230908121207.png",
     "CMPUT 379/Media/Pasted image 20230908120425.png",
     "CMPUT 379/Media",
-    "CMPUT 379/Class info.md",
-    "CMPUT 379/CMPUT 379.md",
-    "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Media/Pasted image 20230907164702.png",
     "PSYCH 105/Untitled.md",
     "PSYCH 105/Media/Pasted image 20230907162941.png",
@@ -198,7 +203,6 @@
     "Year 2 Obsidian notes/Math 146/3.1 Partial fraction decomposition.md",
     "Year 2 Obsidian notes/Math 146/13.3 Maxima and minima of functions of two variables.md",
     "Year 2 Obsidian notes/Math 146/2.2 Trigonometric integrals.md",
-    "Year 2 Obsidian notes/Math 146/2.1 Integration by parts.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",

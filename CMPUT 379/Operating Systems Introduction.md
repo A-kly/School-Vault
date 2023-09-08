@@ -35,3 +35,10 @@ Hardware: CPU, memory, storage, I/O etc.
 	- conflict resolution
 	- security
 ## OS Roles
+- Referee
+	- Resource allocation for users + applications
+	- Isolate users/programs from each other
+	- Communication between users + applications
+- Illusionist
+- 
+- Glue
