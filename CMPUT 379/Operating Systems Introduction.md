@@ -21,7 +21,7 @@ Hardware: CPU, memory, storage, I/O etc.
 ## What Is an Operating System?
 - Resource manager of *time* and *space*
 - manage processor, main memory, I/O devices
-- provides **orderly** and **controlled** resource allocation and use by  the users (jobs) that compete for them
+- provides **orderly** and **controlled** resource allocation and use by the users (jobs) that compete for them
 - Hides complexity of underlying hardware and give the user a better view (an abstraction) of the computer.
 ## Why study OS?
 - Abstractions effect application structure
@@ -45,3 +45,4 @@ Hardware: CPU, memory, storage, I/O etc.
 		- details not necessary for users to see or mess with
 - Glue
 	- Libraries, UI Widgets
+/

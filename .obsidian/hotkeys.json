@@ -31,14 +31,6 @@
       "key": "B"
     }
   ],
-  "obsidian-smarter-md-hotkeys:smarter-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "editor:open-search-replace": [],
   "editor:toggle-bold": [],
   "editor:toggle-italics": []
