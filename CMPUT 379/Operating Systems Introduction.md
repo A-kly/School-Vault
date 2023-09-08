@@ -14,4 +14,6 @@ User Applications: Calculations, file manipulation, communication, etc.
 Hardware: CPU, memory, storage, I/O etc.
 
 - We put in a simple request and the OS figures the rest out
-- 
+
+## Contemporary Hardware/Software Structure
+
