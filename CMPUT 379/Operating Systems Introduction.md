@@ -40,5 +40,8 @@ Hardware: CPU, memory, storage, I/O etc.
 	- Isolate users/programs from each other
 	- Communication between users + applications
 - Illusionist
-- 
+	- Applications see a machine all to themselves
+	- Application assumes/sees a perfect computer w/ infinite resources, memory, storage, etc.
 - Glue
+	- Libraries, UI Widgets
+
