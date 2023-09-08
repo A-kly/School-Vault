@@ -61,5 +61,6 @@
   "Editor@@inline-title-color-select": "inline-title-color-default",
   "Editor@@h1-size": "3em",
   "Editor@@collapse-icon-restore": false,
-  "Editor@@heading-indicator-off": false
+  "Editor@@heading-indicator-off": false,
+  "Appearance-dark@@accent-dark": "#62B5FF"
 }

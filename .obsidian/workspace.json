@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "Markdown Cheat sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306,
+    "width": 401.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -143,11 +139,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432598a8972097",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
-    "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "Untitled.canvas",
+    "CMPUT 379/Untitled.md",
+    "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Media/Pasted image 20230908121207.png",
     "CMPUT 379/Media/Pasted image 20230908120425.png",
     "CMPUT 379/CMPUT 379.md",
@@ -183,14 +181,12 @@
     "Year 2 Obsidian notes/Math 146/2.3 Trigonometric substitution.md",
     "Year 2 Obsidian notes/Math 146/4.3 Solids of revolution I & 2.md",
     "Year 2 Obsidian notes/Math 146/3.1 Partial fraction decomposition.md",
-    "Year 2 Obsidian notes/Math 146/13.3 Maxima and minima of functions of two variables.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",
     "Year 2 Obsidian notes/temp",
     "Year 2 Obsidian notes/Math 146",
     "Year 2 Obsidian notes/English 103-B20",
-    "Untitled.canvas",
     "The game/Map.canvas"
   ]
 }
