@@ -23,3 +23,15 @@ Hardware: CPU, memory, storage, I/O etc.
 - manage processor, main memory, I/O devices
 - provides **orderly** and **controlled** resource allocation and use by  the users (jobs) that compete for them
 - Hides complexity of underlying hardware and give the user a better view (an abstraction) of the computer.
+## Why study OS?
+- Abstractions effect application structure
+- Largest and most complicated software systems
+- Draws on many domains in CompSci
+	- software engineering, architecture, data structures, networks, algorithms
+- Can apply OS techniques to other areas
+	- Data structure design
+	- concurrency
+	- resource management
+	- conflict resolution
+	- security
+## OS Roles
