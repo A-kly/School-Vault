@@ -45,7 +45,7 @@
   "Components@@file-icon-color-select": "file-icon-color-accent",
   "Components@@outline-enhanced": true,
   "Components@@new-tab-btn-select": "new-tab-btn-default",
-  "Appearance-dark@@accent-color-override-dark": false,
+  "Appearance-dark@@accent-color-override-dark": true,
   "Plugin@@colorful-checkbox": false,
   "Editor@@h1-color-select": "h1-color-default",
   "Editor@@h2-size": "2em",
@@ -62,6 +62,6 @@
   "Editor@@h1-size": "3em",
   "Editor@@collapse-icon-restore": false,
   "Editor@@heading-indicator-off": false,
-  "Appearance-dark@@accent-dark": "#62B5FF",
+  "Appearance-dark@@accent-dark": "#8DA4FF",
   "Components@@setting-item-title-icon-remove": false
 }
