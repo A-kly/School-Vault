@@ -137,6 +137,7 @@ To understand behaviour we rely on:
 	- Neither Variable is dependent on another
 ### Scatterplots
 ![[Pasted image 20230907154300.png]]
+![[Pasted image 20230907164702.png]]
 ### Advantages of Correlational Research
 - Shows strength of relationships
 - Make predictions

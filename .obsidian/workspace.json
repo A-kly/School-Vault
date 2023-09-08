@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSYCH 105/Methods in Psychology.md"
+              }
             }
           },
           {
@@ -139,8 +143,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5bfc7f5c9441e4",
+  "active": "0d3ce4b4a2f08ad7",
   "lastOpenFiles": [
+    "PSYCH 105/Media/Pasted image 20230907164702.png",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Untitled.md",
     "CMPUT 379/Class info.md",
