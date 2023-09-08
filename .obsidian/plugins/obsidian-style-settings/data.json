@@ -45,5 +45,6 @@
   "Components@@file-icon-color-select": "file-icon-color-currentColor",
   "Components@@outline-enhanced": false,
   "Components@@new-tab-btn-select": "new-tab-btn-default",
-  "Appearance-dark@@accent-color-override-dark": false
+  "Appearance-dark@@accent-color-override-dark": false,
+  "Plugin@@colorful-checkbox": false
 }
