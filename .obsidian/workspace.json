@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "CMPUT 379/Operating Systems Introduction.md"
               }
             }
           },
@@ -145,8 +145,8 @@
   },
   "active": "7b432598a8972097",
   "lastOpenFiles": [
-    "PSYCH 105/Methods in Psychology.md",
     "Markdown Cheat sheet.md",
+    "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230908121207.png",
     "CMPUT 379/Media/Pasted image 20230908120425.png",
