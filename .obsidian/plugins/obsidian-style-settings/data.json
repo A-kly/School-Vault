@@ -35,5 +35,15 @@
   "ul-theme-settings@@ul-folders": "none",
   "ul-theme-settings@@ul-radius": "var(--radius-m)",
   "encore-settings@@encore-custom-italic@@dark": "#C5FFFF",
-  "encore-settings@@encore-custom-bold@@dark": "#FFB4B4"
+  "encore-settings@@encore-custom-bold@@dark": "#FFB4B4",
+  "Components@@file-names-untrim": false,
+  "Components@@vault-name-fixed": false,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true,
+  "Components@@file-icon-style-select": "file-icon-fill",
+  "Components@@file-icon-color-select": "file-icon-color-currentColor",
+  "Components@@outline-enhanced": false,
+  "Components@@new-tab-btn-select": "new-tab-btn-default",
+  "Appearance-dark@@accent-color-override-dark": false
 }
