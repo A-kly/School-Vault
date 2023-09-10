@@ -102,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMPUT 379/Operating Systems Introduction.md"
+              }
             }
           }
         ],
