@@ -63,5 +63,6 @@
   "Editor@@collapse-icon-restore": false,
   "Editor@@heading-indicator-off": false,
   "Appearance-dark@@accent-dark": "#8DA4FF",
-  "Components@@setting-item-title-icon-remove": false
+  "Components@@setting-item-title-icon-remove": false,
+  "Components@@status-bar-autohide": false
 }
