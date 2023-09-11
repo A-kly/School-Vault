@@ -86,3 +86,14 @@ Traps are immediate and are usually predictable since they occur while executing
 - System call.
 - Error item (e.g., illegal instruction, addressing violation, divide by zero).
 - Page fault (memory management).
+
+## Interrupt Handling
+![[Pasted image 20230911123502.png]]
+
+1. An interrupt occurs, branch to OS.
+	1. Stop, Jump out of program and let OS deal with the problem.
+2. Locate the interrupt service routine (ISR).
+	1. This is done in interrupt vector
+	2. Do a bunch of condition checks and figure out which one, Jump to code to deal with it (IRS).
+3. Execute the ISR.
+5. Return to interrupted program.

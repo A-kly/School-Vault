@@ -46,7 +46,7 @@
   "Components@@outline-enhanced": true,
   "Components@@new-tab-btn-select": "new-tab-btn-default",
   "Appearance-dark@@accent-color-override-dark": true,
-  "Plugin@@colorful-checkbox": false,
+  "Plugin@@colorful-checkbox": true,
   "Appearance-dark@@accent-dark": "#5291FF",
   "Components@@setting-item-title-icon-remove": false,
   "Components@@status-bar-autohide": false,

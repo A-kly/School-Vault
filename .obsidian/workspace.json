@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "Markdown Cheat sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "Markdown Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "Markdown Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md"
+                "file": "Markdown Cheat sheet.md"
               }
             }
           }
@@ -153,8 +153,9 @@
   },
   "active": "7b432598a8972097",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Media/Pasted image 20230911123502.png",
+    "Markdown Cheat sheet.md",
     "CMPUT 379/Media/Pasted image 20230911121707.png",
     "CMPUT 379/Media/Pasted image 20230911121611.png",
     "CMPUT 379/Media/Pasted image 20230911121541.png",
@@ -173,7 +174,6 @@
     "CMPUT 379/Media",
     "PSYCH 105/Media/Pasted image 20230907164702.png",
     "PSYCH 105/Untitled.md",
-    "PSYCH 105/Media/Pasted image 20230907162941.png",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",
     "Year 2 Obsidian notes/Math 146/9.1 Separation of variables.md",
