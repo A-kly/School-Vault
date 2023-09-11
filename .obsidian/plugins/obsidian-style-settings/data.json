@@ -50,7 +50,7 @@
   "Appearance-dark@@accent-dark": "#5291FF",
   "Components@@setting-item-title-icon-remove": false,
   "Components@@status-bar-autohide": false,
-  "Editor@@h1-color-select": "h1-color-designated",
+  "Editor@@h1-color-select": "h1-color-customized",
   "Editor@@h2-color-select": "h2-color-designated",
   "Editor@@h3-color-select": "h3-color-designated",
   "Editor@@h4-color-select": "h4-color-designated",
@@ -64,5 +64,6 @@
   "Editor@@h1-size": "2.5em",
   "Editor@@inline-title-size": "2.5em",
   "Editor@@h6-size": "1.0em",
-  "Editor@@h1-divider-on": true
+  "Editor@@h1-divider-on": true,
+  "Editor@@h1-color@@dark": "#C59DFE"
 }
