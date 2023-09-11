@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "120b2b69c1656c19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.10"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,6 +99,16 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "536413c70880ce94",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       },
@@ -151,7 +172,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b432598a8972097",
+  "active": "120b2b69c1656c19",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
     "CMPUT 379/Operating Systems Introduction.md",
