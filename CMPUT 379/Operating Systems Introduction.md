@@ -45,3 +45,5 @@ Hardware: CPU, memory, storage, I/O etc.
 		- details not necessary for users to see or mess with
 - Glue
 	- Libraries, UI Widgets
+
+## 
