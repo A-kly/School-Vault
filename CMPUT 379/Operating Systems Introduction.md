@@ -48,3 +48,13 @@ Hardware: CPU, memory, storage, I/O etc.
 
 ## History
 ### Job Interleaving
+- Uniprogramming
+	- One job after the other, no I/O sharing, 
+	- ![[Pasted image 20230911121541.png]]
+	- Job A goes to completion and then Job B does the same
+- "Pure" Multiprogramming
+	- I/O and Cpu use is Interweaved, more efficient and less component downtime
+	- ![[Pasted image 20230911121611.png]]
+### Memory partitionning
+- Divide system memory into chunks that programs can use seperately
+- ![[Pasted image 20230911121707.png|300]]
