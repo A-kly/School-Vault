@@ -71,5 +71,8 @@ Hardware: CPU, memory, storage, I/O etc.
 - ![[Pasted image 20230911121707.png|300]]
 # Hardware considerations
 ## Interrupts 
-External or internal event (or an exception) interrupts the CPU for it to deal with.
-### External e
+External or internal event (or an exception) interrupts the CPU for it to deal with. Notification of an external event that occurs asynchronously from current processor activity. Time of interrupt is not known or predictable
+### External Events
+- Character typed on keyboard or console
+- Completion of I/O operation
+- Timer to make sure operating system eventually gets control (infinite loop)

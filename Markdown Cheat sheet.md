@@ -83,6 +83,13 @@ Here is a sentence with a ^[This Footnote is found at the bottom of the page] fo
 ```
 
 - [/] this is a checkbox
+- [>]  this is a checkbox
+- [<] this is a checkbox
+- [!] this is a checkbox
+- [?] this is a checkbox
+- [*] this is a checkbox
+- [-] this is a checkbox
+- [] 
 
 [[Markdown Cheat sheet#hello|THIS]]  is a link to a header that has been renamed, It can be a header in a different file
 
