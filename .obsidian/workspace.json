@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0ae5a2a1bd72e832",
+        "id": "1c9399df67bf9a10",
         "type": "tabs",
         "children": [
           {
-            "id": "7b432598a8972097",
+            "id": "ce6d14e82669a37f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "120b2b69c1656c19",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.10"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -123,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -172,9 +153,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120b2b69c1656c19",
+  "active": "ce6d14e82669a37f",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
+    "PSYCH 105/PSYCH 105.md",
+    "PSYCH 105/Class Info.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230911123502.png",
     "CMPUT 379/Media/Pasted image 20230911121707.png",
@@ -213,7 +196,6 @@
     "Year 2 Obsidian notes/Math 146/4.1 Improper integrals.md",
     "Year 2 Obsidian notes/Math 146/2.3 Trigonometric substitution.md",
     "Year 2 Obsidian notes/Math 146/4.3 Solids of revolution I & 2.md",
-    "Year 2 Obsidian notes/Math 146/3.1 Partial fraction decomposition.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",

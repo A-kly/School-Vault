@@ -1,3 +1,6 @@
+---
+This is a property field: This is a property value
+---
 [Install this git extention](obsidian://show-plugin?id=obsidian-git)
 
 

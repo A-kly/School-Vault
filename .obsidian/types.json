@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Notes": "number",
-    "Linked": "multitext"
+    "Linked": "multitext",
+    "t": "checkbox"
   }
 }
