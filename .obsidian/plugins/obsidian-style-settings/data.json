@@ -47,7 +47,7 @@
   "Components@@new-tab-btn-select": "new-tab-btn-default",
   "Appearance-dark@@accent-color-override-dark": true,
   "Plugin@@colorful-checkbox": false,
-  "Appearance-dark@@accent-dark": "#8DA4FF",
+  "Appearance-dark@@accent-dark": "#5291FF",
   "Components@@setting-item-title-icon-remove": false,
   "Components@@status-bar-autohide": false,
   "Editor@@h1-color-select": "h1-color-designated",
@@ -63,5 +63,6 @@
   "Editor@@h2-size": "2em",
   "Editor@@h1-size": "2.5em",
   "Editor@@inline-title-size": "2.5em",
-  "Editor@@h6-size": "1.0em"
+  "Editor@@h6-size": "1.0em",
+  "Editor@@h1-divider-on": true
 }
