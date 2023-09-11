@@ -96,4 +96,7 @@ Traps are immediate and are usually predictable since they occur while executing
 	1. This is done in interrupt vector
 	2. Do a bunch of condition checks and figure out which one, Jump to code to deal with it (IRS).
 3. Execute the ISR.
-5. Return to interrupted program.
+	1. Interrupts can be interrupted
+	2. Interrupts have a priority over other interrupts
+4. Return to interrupted program.
+
