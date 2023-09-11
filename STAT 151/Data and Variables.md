@@ -1,4 +1,5 @@
 # Statistics Process
+Goal: to take a sample of a very large population, Analyze and come to conclusion about the full population
 ## Descriptive Statistics
 - Gathering data
 - Summarize and present the data
@@ -17,7 +18,7 @@ No granularity, only categories
 	- Eg: Gender, Blood type
 - **Ordinal**: We can made an order to each category, One observation/category comes before (or is better than) another category
 	- Eg: Letter grades
-- **Center of data:** ==Mode==
+- **Center of data:** Mode
 ### Nominal vs Ordinal
 Ask: Is one data better than another?
 - Phone area code -> Number is not ordered -> Nominal
