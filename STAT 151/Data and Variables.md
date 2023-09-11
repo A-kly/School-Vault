@@ -11,23 +11,23 @@
 
 # Gathering data: Data types
 ## Categorical
-- No granularity, only categories	
-- Can be:
-	- **Nominal**: No method to compare between categories, we have simply given *Names* to categories
-		- Eg: Gender, Blood type
-	- **Ordinal**: We can made an order to each category, One observation/category comes before (or is better than) another category
-		- Eg: Letter grades
-## Numerical
-- No distinct categories, more continuous
-- Eg:
-	- Height
-		- 190 cm, 190.1 cm, etc
-	- Number of students in 151
+No granularity, only categories	
+- **Nominal**: No method to compare between categories, we have simply given *Names* to categories
+	- Eg: Gender, Blood type
+- **Ordinal**: We can made an order to each category, One observation/category comes before (or is better than) another category
+	- Eg: Letter grades
 
-## Figure out which
-### Categorical vs Numerical
-Ask: Does the data descibe a category or a value?
-- Phone area code -> Category of location ->Categorical
 ### Nominal vs Ordinal
 Ask: Is one data better than another?
 - Phone area code -> Number is not ordered -> Nominal
+## Numerical
+No distinct categories, more continuous
+- **Discrete**: described with *integers* only
+	- Counted, not measured
+	- eg: \# of customers
+- **Continuous**: Fractions of a unit are allowed
+	- Measured, not counted
+	- Eg: Height
+## Categorical vs Numerical
+Ask: Does the data descibe a category or a value?
+- Phone area code -> Category of location ->Categorical

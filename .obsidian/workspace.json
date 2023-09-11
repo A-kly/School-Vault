@@ -11,8 +11,13 @@
             "id": "ce6d14e82669a37f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STAT 151/Data and Variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STAT 151/Data and Variables.md"
+              }
             }
           }
         ],
@@ -155,6 +163,7 @@
   },
   "active": "ce6d14e82669a37f",
   "lastOpenFiles": [
+    "STAT 151/STAT 151.md",
     "Markdown Cheat sheet.md",
     "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Class Info.md",
@@ -195,7 +204,6 @@
     "Year 2 Obsidian notes/Math 146/6.1a Arc length.md",
     "Year 2 Obsidian notes/Math 146/4.1 Improper integrals.md",
     "Year 2 Obsidian notes/Math 146/2.3 Trigonometric substitution.md",
-    "Year 2 Obsidian notes/Math 146/4.3 Solids of revolution I & 2.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",
