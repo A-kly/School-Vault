@@ -82,14 +82,28 @@ Here is a sentence with a ^[This Footnote is found at the bottom of the page] fo
 ""This is a query""
 ```
 
-- [/] this is a checkbox
-- [>]  this is a checkbox
-- [<] this is a checkbox
-- [!] this is a checkbox
-- [?] this is a checkbox
-- [*] this is a checkbox
-- [-] this is a checkbox
-- [] 
+- [ ] to-do
+- [/] incomplete
+- [x] done
+- [-] canceled
+- [>] forwarded
+- [<] scheduling
+- [?] question
+- [!] important
+- [*] star
+- ["] quote
+- [l] location
+- [b] bookmark
+- [i] information
+- [S] savings
+- [I] idea
+- [p] pros
+- [c] cons
+- [f] fire
+- [k] key
+- [w] win
+- [u] up
+- [d] down
 
 [[Markdown Cheat sheet#hello|THIS]]  is a link to a header that has been renamed, It can be a header in a different file
 

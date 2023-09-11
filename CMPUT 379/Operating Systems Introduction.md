@@ -71,8 +71,18 @@ Hardware: CPU, memory, storage, I/O etc.
 - ![[Pasted image 20230911121707.png|300]]
 # Hardware considerations
 ## Interrupts 
+**External from program execution**
 External or internal event (or an exception) interrupts the CPU for it to deal with. Notification of an external event that occurs asynchronously from current processor activity. Time of interrupt is not known or predictable
 ### External Events
 - Character typed on keyboard or console
 - Completion of I/O operation
 - Timer to make sure operating system eventually gets control (infinite loop)
+
+## Traps
+**Internal to program execution**
+A trap is the notification of an (internal) event that occurs while a program is executing, therefore is synchronous with the current activity of the processor.
+Traps are immediate and are usually predictable since they occur while executing (or as a result of) a machine instruction.
+### Internal Events
+- System call.
+- Error item (e.g., illegal instruction, addressing violation, divide by zero).
+- Page fault (memory management).
