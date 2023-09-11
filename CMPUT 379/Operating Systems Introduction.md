@@ -47,6 +47,17 @@ Hardware: CPU, memory, storage, I/O etc.
 	- Libraries, UI Widgets
 
 ## History
+**Multiprogramming:** One processor, Multiple Programs
+**Multiprocessing:** Many processors, Many programs per processor
+**Parallel processing**:
+- multiprocessors (share a common bus, clock, and memory), multi-core
+- tightly-coupled; multiprocessing
+**Distributed processing**:
+- multicomputers (do not share memory and clock)
+- loosely-coupled
+**Real-time**:
+- deadline (time critical) requirements
+- soft real-time (miss some, performance degrades); hard real-time (must make deadlines)
 ### Job Interleaving
 - Uniprogramming
 	- One job after the other, no I/O sharing, 
@@ -58,3 +69,7 @@ Hardware: CPU, memory, storage, I/O etc.
 ### Memory partitionning
 - Divide system memory into chunks that programs can use seperately
 - ![[Pasted image 20230911121707.png|300]]
+# Hardware considerations
+## Interrupts 
+External or internal event (or an exception) interrupts the CPU for it to deal with.
+### External e
