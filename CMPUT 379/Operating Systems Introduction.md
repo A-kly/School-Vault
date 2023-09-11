@@ -97,6 +97,11 @@ Traps are immediate and are usually predictable since they occur while executing
 	2. Do a bunch of condition checks and figure out which one, Jump to code to deal with it (IRS).
 3. Execute the ISR.
 	1. Interrupts can be interrupted
-	2. Interrupts have a priority over other interrupts
+	2. Certain interrupts have a priority over other interrupts
 4. Return to interrupted program.
 
+**When the CPU receives an interrupt, it is forced to a different context (kernel's) and the following occurs**:
+- Current state of the CPU (PSW) is saved in a specific location.
+- Interrupt information is stored in another specified location.
+- CPU resumes execution at some other specific location: the Interrupt Service Routine.
+- After servicing the interrupt, execution resumes at the saved point of the interrupted program.
