@@ -159,6 +159,16 @@ To understand behaviour we rely on:
 	- Emphasis on our own manipulation
 - Detects **Cause-effect relationships**
 - Tests Theories, Hypotheses
+
+- **Type I error:** a false positive
+	- Conclusion says there is a causal relationship when there actually is not
+- **Type II error:** a miss
+	- Inverse of type I, Conclusion says no causal relationship but there is
+
+Other considerations:
+- **Power:** Would we be able to actually find a relationship if it exists?
+- **Reliability:** How consistent is our science (manipulation and measurement)?
+
 ### Important Variables In Experiments
 - **Independent variable (IV):** variable manipulated
 - **Dependent variable (DV):** variable affected by manipulation
@@ -237,10 +247,12 @@ Using math to deal with data
 - **Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
 - **Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population
 - **5% Rule:** If probability of event is less than 5% it is a rare event
-- **Statistical Significance:** Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
+- Statistical Significance: Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
 
-- **Type I error:** a false positive
-	- Conclusion says there is a causal relationship when there actually is not
-- **Type II error:** a miss
-	- Inverse of type I, Conclusion says no causal relationship but there is
+### Pros and Cons of Experimental Research
+- [p] Conclusions about cause-and-effect can be drawn
+- [c] Artificial nature of experiments
+- [c] Ethical and practical issues
 
+### Do We Trust the Experimental Results? (Validity)
+**Internal Validity**:
