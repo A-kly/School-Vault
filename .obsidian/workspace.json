@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1c9399df67bf9a10",
+        "id": "20f52ad8f3baf22c",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6d14e82669a37f",
+            "id": "4d756f98a49cd524",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown Cheat sheet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown Cheat sheet.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -170,12 +161,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce6d14e82669a37f",
+  "active": "4d756f98a49cd524",
   "lastOpenFiles": [
+    "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",
     "Untitled.canvas",
     "STAT 151/STAT 151.md",
-    "Markdown Cheat sheet.md",
     "PSYCH 105/Methods in Psychology.md",
     "STAT 151/Media/Pasted image 20230912112540.png",
     "STAT 151/Media/Pasted image 20230912112409.png",
