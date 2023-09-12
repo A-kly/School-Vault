@@ -170,4 +170,18 @@ To understand behaviour we rely on:
 ### Populations and Samples
 - **Population**: All individuals we want to draw a conclusion about
 - **Sample**: Subset of population
-- **A representative sample**: 
+- **A representative sample**: A sample that reflects the important characteristics of
+the population
+#### Random sampling
+- Method of sampling in which every member of the population has an equal probability of being chosen to participate
+![[Pasted image 20230912153327.png]]
+1. Simple random sample
+	- Everyone has an equal chance
+2. Stratified random sample
+	- Divide into subgroups and take representative samples
+3. Non-random sample
+	- Due to study constraints, not equal chances
+	- eg. Convenience sample
+
+- Sometimes it's not possible to randomly sample.
+	- We sometimes have to design research with a lack ofrepresentative sample 
