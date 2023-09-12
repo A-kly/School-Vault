@@ -229,8 +229,16 @@ Example:
 
 ### Statistics
 Using math to deal with data
-**Descriptive statistics:** organizing and summarizing data in a useful way
-**Inferential statistics:** interpreting data and drawing conclusions
-#### Making 
-**Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
-**Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population
+- **Descriptive statistics:** organizing and summarizing data in a useful way
+- **Inferential statistics:** interpreting data and drawing conclusions
+#### Making judgements with data
+- **Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
+- **Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population
+- **5% Rule:** If probability of event is less than 5% it is a rare event
+- **Statistical Significance:** Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
+
+- **Type I error:** a false positive
+	- Conclusion says there is a causal relationship when there actually is not
+- **Type II error:** a miss
+	- Inverse of type I, Conclusion says no causal relationship but there is
+
