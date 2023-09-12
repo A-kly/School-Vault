@@ -48,8 +48,15 @@ Ask: Does the data descibe a category or a value?
 6. How is data taken?
 
 ## Random Sampling
-
+Only way to get unbiased sample data
 ### Simple random sampling
 - Randomly pick one individual from entire population repeatedly until we get desired sample size
 - Every individual has an equal chance of being picked
 ### Stratified random sampling
+- Divide population into groups based on characteristics. Choose samples from each group using simple random sampling. ==Sample size of each group is proportional to group's size in entire population.==
+### Cluster Sampling
+- Divide population into groups randomly, *Not* by characteristics. Select a few groups randomly to be sample.
+
+## Bias Avoidance
+We must avoid the following to have representative data:
+### 
