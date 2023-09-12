@@ -37,7 +37,6 @@
   "encore-settings@@encore-custom-italic@@dark": "#C5FFFF",
   "encore-settings@@encore-custom-bold@@dark": "#FFB4B4",
   "Components@@file-names-untrim": true,
-  "Components@@vault-name-fixed": false,
   "Components@@folder-font-bold": true,
   "Components@@file-icon-remove": false,
   "Components@@colorful-folder": false,

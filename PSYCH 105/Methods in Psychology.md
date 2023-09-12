@@ -247,7 +247,7 @@ Using math to deal with data
 - **Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
 - **Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population
 - **5% Rule:** If probability of event is less than 5% it is a rare event
-- Statistical Significance: Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
+- **Statistical Significance:** Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
 
 ### Pros and Cons of Experimental Research
 - [p] Conclusions about cause-and-effect can be drawn
@@ -255,4 +255,8 @@ Using math to deal with data
 - [c] Ethical and practical issues
 
 ### Do We Trust the Experimental Results? (Validity)
-**Internal Validity**:
+- **Internal Validity:** degree to which results can be attributed to the *IV* and not other explanations. *Is the science good?* 
+- **External Validity:** The degree to which results can be generalized to other people, across settings, and across time
+![[Pasted image 20230912162952.png]]
+
+# Ethics for Psychological Research
