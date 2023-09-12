@@ -160,3 +160,14 @@ To understand behaviour we rely on:
 - Detects **Cause-effect relationships**
 - Tests Theories, Hypotheses
 ### Important Variables In Experiments
+- **Independent variable (IV)**: variable manipulated
+- **Dependent variable (DV)**: variable affected by manipulation
+	- How does X affect Y?
+	- X = independent variable, Y = dependent variable
+- **Extraneous Variables**: uncontrolled events that can affect our DV
+	- Aka confounding variables
+
+### Populations and Samples
+- **Population**: All individuals we want to draw a conclusion about
+- **Sample**: Subset of population
+- **A representative sample**: 
