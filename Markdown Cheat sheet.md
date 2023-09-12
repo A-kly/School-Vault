@@ -70,6 +70,7 @@ ___
 
 
 ==this is highlighted== cool
+<mark>this is highlighted cool
 
 
 | This is a table | Heading 1 | 
