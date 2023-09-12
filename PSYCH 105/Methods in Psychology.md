@@ -179,6 +179,7 @@ the population
 	- Everyone has an equal chance
 2. Stratified random sample
 	- Divide into subgroups and take representative samples
+	- Used when there is a small number of participants (so that we don't by chance get an unrepresentative sample because our dice roll was bad)
 3. Non-random sample
 	- Due to study constraints, not equal chances
 	- eg. Convenience sample
@@ -210,12 +211,13 @@ Example:
 - Use more than one *dependent variable*
 	- More complete picture of *IV* effect
 	- ![[Pasted image 20230912155740.png|400]]
-		- This study for example measures both rate of learning and performance accuracy
+		- This study for example measures both rate of learning **and** performance accuracy
 - Expose a single group to two different conditions #what 
 	- Reduces extraneous variables
 - Manipulate more than one *independent variable*
 	- Allows for study of interactions between variables
-	- 
+	- ![[Pasted image 20230912160252.png|800]]
+		- This study measures impact of cellphone use **and** traffic density on stopping time
 ### Types of Experimental Designs
 - **Between groups** (or between subjects) design
 	- Each group (experimental or control) is made up of a different group of people
@@ -225,3 +227,5 @@ Example:
 	- ![[Pasted image 20230912160044.png]]
 
 
+### Statistics
+Using ,a
