@@ -112,8 +112,17 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "dac380c294be00e5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "cff14d84e57cc96b",
@@ -164,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f196b8dec8883445",
+  "active": "dac380c294be00e5",
   "lastOpenFiles": [
+    "STAT 151/Media/Pasted image 20230912112540.png",
+    "STAT 151/Media/Pasted image 20230912112409.png",
     "STAT 151/Media/Pasted image 20230912112200.png",
     "STAT 151/Media/Pasted image 20230912112115.png",
     "STAT 151/Media",
@@ -196,10 +206,8 @@
     "CMPUT 379/Media/Pasted image 20230911121541.png",
     "CMPUT 379/Media/Pasted image 20230911121523.png",
     "CMPUT 379/Media/Pasted image 20230911121413.png",
-    "CMPUT 379/Media/Pasted image 20230911121350.png",
     "Untitled.canvas",
     "CMPUT 379/Untitled.md",
-    "CMPUT 379/Media/Pasted image 20230908121207.png",
     "Class info.md",
     "CMPUT 379/Media",
     "PSYCH 105/Untitled.md",
