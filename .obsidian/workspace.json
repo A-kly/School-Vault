@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f196b8dec8883445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT 151/Data and Variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           }
@@ -161,12 +175,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce6d14e82669a37f",
+  "active": "f196b8dec8883445",
   "lastOpenFiles": [
+    "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "PSYCH 105/Methods in Psychology.md",
-    "Markdown Cheat sheet.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
     "PSYCH 105/Media/Pasted image 20230905155811.png",

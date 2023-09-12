@@ -59,4 +59,5 @@ Only way to get unbiased sample data
 
 ## Bias Avoidance
 We must avoid the following to have representative data:
-### 
+### Voluntary response sample
+- respondents dec
