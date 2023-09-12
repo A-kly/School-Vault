@@ -97,9 +97,17 @@ Alternatively, We can use relative frequencies
 
 | Grade | Count | Percentage (can replace count) |
 | ----- | ----- | ------------------------------ |
-| A     | 0.1   |          10                      |
-| B     | 0.4   |            40                    |
-| C     | 0.3   |              30                  |
-| D     | 0.15  |                15                |
-| F     | 0.05  |                  5              |
+| A     | 0.1   |          10%                      |
+| B     | 0.4   |            40%                    |
+| C     | 0.3   |              30%                  |
+| D     | 0.15  |                15%                |
+| F     | 0.05  |                  5%              |
 | Total | 1.0   |                   100%             |
+
+### Bar chart
+![[Pasted image 20230912112115.png|500]]
+### Pie chart
+![[Pasted image 20230912112200.png|400]]
+## For [[#Numerical]] data
+### Histogram
+
