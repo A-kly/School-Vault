@@ -202,17 +202,26 @@ the population
 	- dependent variable change is due to independent variable only
 Example:
 ![[Pasted image 20230912154218.png]]
-## Placebo and The Placebo Effect
+### Placebo and The Placebo Effect
 - **Placebo:** treatment that has no therapeutic effect but emulates the other aspects of a treatment
 	- Fake IV that does nothing but may cause change due to expectations
 - **Placebo effect:** Placebo treatment causes changes to participant/patient due to expectations of patient and not due to *IV*.
-## Variations in Experimental Design
-- Use more than one dependent variable
+### Variations in Experimental Design
+- Use more than one *dependent variable*
 	- More complete picture of *IV* effect
-	- ![[Pasted image 20230912155740.png]]
-	- 
+	- ![[Pasted image 20230912155740.png|400]]
+		- This study for example measures both rate of learning and performance accuracy
 - Expose a single group to two different conditions #what 
 	- Reduces extraneous variables
-- Manipulate more than one independent variable
+- Manipulate more than one *independent variable*
 	- Allows for study of interactions between variables
-- 
+	- 
+### Types of Experimental Designs
+- **Between groups** (or between subjects) design
+	- Each group (experimental or control) is made up of a different group of people
+	- ![[Pasted image 20230912160020.png]]
+- **Repeated measures** (or within subjects) design
+	- Each participant is exposed to all possible *IV* conditions
+	- ![[Pasted image 20230912160044.png]]
+
+
