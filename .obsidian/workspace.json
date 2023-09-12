@@ -11,8 +11,13 @@
             "id": "4d756f98a49cd524",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "STAT 151/Data and Variables.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "STAT 151/Data and Variables.md"
+              }
             }
           }
         ],
@@ -161,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d756f98a49cd524",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",

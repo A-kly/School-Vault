@@ -113,6 +113,7 @@ Alias: `cite`
 > code blocks are also effected
 > This overall makes formatting weird and cannot be live previewed but looks nice in the end
 >```
+>
 
 
 ==this is highlighted== cool
@@ -161,5 +162,4 @@ Here is a sentence with a ^[This Footnote is found at the bottom of the page] fo
 var = "hello"
 def test(aah):
 	return aah
-
 ```
