@@ -32,9 +32,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4e7d958d45ec31e3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,9 +169,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "STAT 151/Data and Variables.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -173,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dac380c294be00e5",
+  "active": "4e7d958d45ec31e3",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
+    "STAT 151/STAT 151.md",
+    "Markdown Cheat sheet.md",
+    "PSYCH 105/Methods in Psychology.md",
     "STAT 151/Media/Pasted image 20230912112540.png",
     "STAT 151/Media/Pasted image 20230912112409.png",
     "STAT 151/Media/Pasted image 20230912112200.png",
     "STAT 151/Media/Pasted image 20230912112115.png",
     "STAT 151/Media",
-    "Markdown Cheat sheet.md",
-    "STAT 151/Data and Variables.md",
-    "STAT 151/STAT 151.md",
-    "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
     "PSYCH 105/Media/Pasted image 20230905155811.png",
@@ -205,7 +210,6 @@
     "CMPUT 379/Media/Pasted image 20230911121611.png",
     "CMPUT 379/Media/Pasted image 20230911121541.png",
     "CMPUT 379/Media/Pasted image 20230911121523.png",
-    "CMPUT 379/Media/Pasted image 20230911121413.png",
     "Untitled.canvas",
     "CMPUT 379/Untitled.md",
     "Class info.md",

@@ -119,15 +119,15 @@ Alternatively, We can use relative frequencies
 - Like a histogram but shows individual values
 - Example: For the data {56, 60, 64, 64, 64, 68, 68, 68, 68, 72, 72, 72, 72, 76, 76, 76, 76, 80, 80, 80, 80, 84, 84, 88 }
 
-| Stem                      | Leaf   |
-| ------------------------- | ------ |
-| 5                         | 6      |
-| 6                         | 04444  |
-| 6                         | 8888   |
-| 7                         | 2222   |
-| 7                         | 6666   |
-| 8                         | 000044 |
-| 8                         | 8      |
-| (This is the first digit) | (This is the second digit)       |
+| Stem                      | Leaf                       |
+| ------------------------- | -------------------------- |
+| (This is the first digit) | (This is the second digit) |
+| 5                         | 6                          |
+| 6                         | 04444                      |
+| 6                         | 8888                       |
+| 7                         | 2222                       |
+| 7                         | 6666                       |
+| 8                         | 000044                     |
+| 8                         | 8                          |
 
 

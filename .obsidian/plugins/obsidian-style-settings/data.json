@@ -46,7 +46,7 @@
   "Components@@outline-enhanced": true,
   "Components@@new-tab-btn-select": "new-tab-btn-default",
   "Appearance-dark@@accent-color-override-dark": true,
-  "Plugin@@colorful-checkbox": true,
+  "Plugin@@colorful-checkbox": false,
   "Appearance-dark@@accent-dark": "#5291FF",
   "Components@@setting-item-title-icon-remove": false,
   "Components@@status-bar-autohide": false,
@@ -118,5 +118,7 @@
   "Editor@@h4-color-select": "h4-color-customized",
   "Editor@@h4-color@@dark": "#86E2D5",
   "Editor@@h5-color-select": "h5-color-designated",
-  "Editor@@h6-color-select": "h6-color-designated"
+  "Editor@@h6-color-select": "h6-color-designated",
+  "Editor@@zoom-off": false,
+  "Components@@CTA-BTN-enable": false
 }
