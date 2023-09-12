@@ -209,6 +209,8 @@ Example:
 ## Variations in Experimental Design
 - Use more than one dependent variable
 	- More complete picture of *IV* effect
+	- ![[Pasted image 20230912155740.png]]
+	- 
 - Expose a single group to two different conditions #what 
 	- Reduces extraneous variables
 - Manipulate more than one independent variable
