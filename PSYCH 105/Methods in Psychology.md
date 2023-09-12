@@ -258,27 +258,30 @@ Using math to deal with data
 - [c] Artificial nature of experiments
 - [c] Ethical and practical issues
 # Ethics for Psychological Research
-## Notable Psych studies
+How people should be educated, treated, and respected when participating in any study
+## Notable (bad) Psych studies
 - The Tuskegee Syphilis Study
 - The Milgram Obedience Studies
 - The Stanford Prison Experiment
 - The Little Albert Experiment
 - The Bobo Doll Experiment
 - The Robbers Cave Experiment
-## Ethics
-How people should be educated, treated, and respected when participating in any study
 
-### The Belmont Report
+## The Belmont Report
 - Commission of physicians, ethicists, philosophers, scientists, and citizens in 1976
 - Critical evaluation of ethical principles researchers should follow when working with human participants
 	- Prompted by the unethical research practices of previous years
-### Three Core Ethical Principles
+## Three Core Ethical Principles
 1. The principle of respect for persons
 	-  Individuals should be treated as autonomous agents, free to make their own decisions
 		-  Informed consent: provide information about the research and potential risks and benefits
 	- Some groups have less autonomy and need special protections
-• E.g., children, those with developmental disabilities,
-prisoners
+		- eg. children, those with developmental disabilities, prisoners
 2. The principle of beneficence
+	- Researchers must take precautions to protect participants from harm and ensure well-being
+		- Consider potential risks (FOIP concerns, privacy, psychological damage)
+		- Consider potential benefits (for participants and for community)
 3. The principle of justice
+	- There must be a fair balance between those who participate in the research and those who benefit from it
+	- Researchers need to ensure that participants are representative of the group that will benefit
 
