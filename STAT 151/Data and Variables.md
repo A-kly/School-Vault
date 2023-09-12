@@ -3,8 +3,8 @@ Goal: to take a sample of a very large population, Analyze and come to conclusio
 ## Descriptive Statistics
 - Gathering data
 - Summarize and present the data
-	- *Summarize:** Mean, standard dev, median
-	- *Present:* Histogram, graphs, tables
+	- **Summarize**: Mean, standard dev, median
+	- **Present**: Histogram, graphs, tables
 - Analyze and interpret the data
 	- What does the data (median, mean, standard deviation, histogram) mean?
 ## Inferential statistics

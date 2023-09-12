@@ -1,0 +1,17 @@
+.highlighted {
+  --c:rgb(154, 216, 215); /* the color */
+  --r:12px; /* the size/radius */
+  background: 
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom left,
+    linear-gradient(var(--c) 0 0) bottom,
+    radial-gradient(farthest-side,var(--c) 98%,#0000) bottom right;
+  background-size:var(--r) var(--r),calc(100% - var(--r)) var(--r);
+  background-repeat:no-repeat;
+  padding: 0 0.5rem;
+  line-height: 2;
+  font-size: 2rem;
+  display: inline;
+  font-weight: bold;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}

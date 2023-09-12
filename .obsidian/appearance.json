@@ -7,5 +7,8 @@
   "translucency": false,
   "nativeMenus": false,
   "interfaceFontFamily": "",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "Highlight"
+  ]
 }
