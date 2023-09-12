@@ -205,7 +205,12 @@ Example:
 ## Placebo and The Placebo Effect
 - **Placebo:** treatment that has no therapeutic effect but emulates the other aspects of a treatment
 	- Fake IV that does nothing but may cause change due to expectations
-- **Placebo effect:** Placebo treatment causes changes to participant/patient due to expectations of patient and not due to IV.
+- **Placebo effect:** Placebo treatment causes changes to participant/patient due to expectations of patient and not due to *IV*.
 ## Variations in Experimental Design
 - Use more than one dependent variable
-	- More complete picture of 
+	- More complete picture of *IV* effect
+- Expose a single group to two different conditions #what 
+	- Reduces extraneous variables
+- Manipulate more than one independent variable
+	- Allows for study of interactions between variables
+- 
