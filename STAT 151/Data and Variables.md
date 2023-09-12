@@ -36,3 +36,5 @@ No distinct categories, more continuous
 Ask: Does the data descibe a category or a value?
 - Phone area code -> Category of location ->Categorical
 # Sampling
+## 5 Ws of Sampling
+1. 
