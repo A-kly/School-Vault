@@ -82,4 +82,24 @@ We must avoid the following to have representative data:
 # Organizing and presenting data
 ## For [[#Categorical]] data
 ### Frequency table
-|
+- Listing of values and their frequencies
+
+| Grade | Count |
+| ----- | ----- |
+| A     | 20    |
+| B     | 80    |
+| C     | 60    |
+| D     | 30    |
+| F     | 10    |
+| Total | 200  |
+
+Alternatively, We can use relative frequencies
+
+| Grade | Count | Percentage (can replace count) |
+| ----- | ----- | ------------------------------ |
+| A     | 0.1   |          10                      |
+| B     | 0.4   |            40                    |
+| C     | 0.3   |              30                  |
+| D     | 0.15  |                15                |
+| F     | 0.05  |                  5              |
+| Total | 1.0   |                   100%             |
