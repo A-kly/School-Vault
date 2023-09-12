@@ -36,7 +36,8 @@ No distinct categories, more continuous
 Ask: Does the data descibe a category or a value?
 - Phone area code -> Category of location ->Categorical
 # Sampling
-Small, representative subset of population
+**Good sample data**: Small, representative subset of population, random sampling
+**Bias**: Result of non-representative sample
 ## 5 Ws of Sampling
 1. Who is in the sample data?
 2. When is the data collected?
@@ -45,3 +46,10 @@ Small, representative subset of population
 4. Why is the data collected?
 5. What is in the Study?
 6. How is data taken?
+
+## Random Sampling
+
+### Simple random sampling
+- Randomly pick one individual from entire population repeatedly until we get desired sample size
+- Every individual has an equal chance of being picked
+### Stratified random sampling

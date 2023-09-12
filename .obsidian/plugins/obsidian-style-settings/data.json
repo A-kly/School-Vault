@@ -113,5 +113,10 @@
   "Editor@@h1-color-select": "h1-color-designated",
   "Appearance-dark@@color-red-rgb@@dark": "#FF7896",
   "Appearance-dark@@color-green-rgb@@dark": "#87D37C",
-  "Editor@@hover-indicator-color@@dark": "#00000000"
+  "Editor@@hover-indicator-color@@dark": "#00000000",
+  "Editor@@h3-color@@dark": "#87D37C",
+  "Editor@@h4-color-select": "h4-color-customized",
+  "Editor@@h4-color@@dark": "#86E2D5",
+  "Editor@@h5-color-select": "h5-color-designated",
+  "Editor@@h6-color-select": "h6-color-designated"
 }
