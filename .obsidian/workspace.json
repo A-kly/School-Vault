@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "PSYCH 105/Methods in Psychology.md"
               }
             }
           }
@@ -170,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "4d756f98a49cd524",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",
+    "Markdown Cheat sheet.md",
     "Untitled.canvas",
     "STAT 151/STAT 151.md",
     "PSYCH 105/Methods in Psychology.md",
