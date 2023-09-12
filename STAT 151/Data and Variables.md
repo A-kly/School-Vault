@@ -71,3 +71,11 @@ We must avoid the following to have representative data:
 
 # Data Sources
 ## Observational Study
+- Observe & measure characteristics
+- Determines Association, *Not* Causation
+### Retrospective
+- Look at (and gather) data after the event happened
+	- eg. data of patients before Covid-19
+### Prospective
+- Look at (and gather) data of ongoing event as it's happening
+	- eg. 

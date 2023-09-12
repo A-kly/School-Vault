@@ -114,6 +114,6 @@ Here is a sentence with a ^[This Footnote is found at the bottom of the page] fo
 ```python
 var = "hello"
 def test(aah):
-	
+	return aah
 
 ```
