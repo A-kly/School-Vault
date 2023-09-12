@@ -154,8 +154,7 @@ Here is a sentence with a ^[This Footnote is found at the bottom of the page] fo
 - [w] win
 - [u] up
 - [d] down
-
-
+	
 [[Markdown Cheat sheet#hello|THIS]]  is a link to a header that has been renamed, It can be a header in a different file
 
 ```python
