@@ -122,7 +122,7 @@ To understand behaviour we rely on:
 - unlike [[#Descriptive Research]], we are not simply measuring and describing one thing
 - ==Correlation =/= causation==
 ### Correlation
-- **Correlation coefficient (r)**: describes the relationship between two variables
+- **Correlation coefficient (r):** describes the relationship between two variables
 	- Ranges from -1.0 to +1.0
 	- Sign indicates direction
 	- Absolute value indicates strength
@@ -160,17 +160,17 @@ To understand behaviour we rely on:
 - Detects **Cause-effect relationships**
 - Tests Theories, Hypotheses
 ### Important Variables In Experiments
-- **Independent variable (IV)**: variable manipulated
-- **Dependent variable (DV)**: variable affected by manipulation
+- **Independent variable (IV):** variable manipulated
+- **Dependent variable (DV):** variable affected by manipulation
 	- How does X affect Y?
 	- X = independent variable, Y = dependent variable
-- **Extraneous Variables**: uncontrolled events that can affect our DV
+- **Extraneous Variables:** uncontrolled events that can affect our DV
 	- Aka confounding variables
 
 ### Populations and Samples
-- **Population**: All individuals we want to draw a conclusion about
-- **Sample**: Subset of population
-- **A representative sample**: A sample that reflects the important characteristics of
+- **Population:** All individuals we want to draw a conclusion about
+- **Sample:** Subset of population
+- **A representative sample:** A sample that reflects the important characteristics of
 the population
 #### Random sampling
 - Method of sampling in which every member of the population has an equal probability of being chosen to participate
@@ -184,4 +184,18 @@ the population
 	- eg. Convenience sample
 
 - Sometimes it's not possible to randomly sample.
-	- We sometimes have to design research with a lack ofrepresentative sample 
+	- We sometimes have to design research with a lack of representative sample in mind
+	- This is ok if:
+		1. Similarity of a sample and a population doesn’t matter
+		2. Multiple experiments conducted on different samples have similar results
+		3. Similarity of sample and population is sometimes reasonable
+
+### Experimental and Control Groups
+- **Experimental group:** subjects who receive some special treatment in regard to the independent variable
+- **Control group:** similar subjects who do not receive the special treatment
+	- Used as comparison
+- We use random *assignment* to assign participants to control or experimental group
+	- Stops groups from having systematic variance
+Example:
+![[Pasted image 20230912154218.png]]
+
