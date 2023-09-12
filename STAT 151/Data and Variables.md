@@ -78,4 +78,8 @@ We must avoid the following to have representative data:
 	- eg. data of patients before Covid-19
 ### Prospective
 - Look at (and gather) data of ongoing event as it's happening
-	- eg. 
+	- eg. data of patients since 2010 *and ongoing*
+# Organizing and presenting data
+## For [[#Categorical]] data
+### Frequency table
+|
