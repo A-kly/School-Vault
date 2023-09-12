@@ -36,5 +36,12 @@ No distinct categories, more continuous
 Ask: Does the data descibe a category or a value?
 - Phone area code -> Category of location ->Categorical
 # Sampling
+Small, representative subset of population
 ## 5 Ws of Sampling
-1. 
+1. Who is in the sample data?
+2. When is the data collected?
+3. Where is sample data collected?
+^ ==These are to make sure sample is representative!==
+4. Why is the data collected?
+5. What is in the Study?
+6. How is data taken?
