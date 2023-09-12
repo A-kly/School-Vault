@@ -246,8 +246,9 @@ Using math to deal with data
 #### Making judgements with data
 - **Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
 - **Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population
-- **5% Rule:** If probability of event is less than 5% it is a rare event
+- **5% Rule:** If probability of event is less than 5% it is a rare event. 
 - **Statistical Significance:** Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
+- **P value:** Usually 5%, degree of error we allow in ours study, 0.05 ==> 95% sure  
 
 ### Pros and Cons of Experimental Research
 - [p] Conclusions about cause-and-effect can be drawn
