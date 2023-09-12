@@ -249,15 +249,36 @@ Using math to deal with data
 - **5% Rule:** If probability of event is less than 5% it is a rare event. 
 - **Statistical Significance:** Rejecting Null hypothesis by determining if the *IV* and *DV* are clearly connected
 - **P value:** Usually 5%, degree of error we allow in ours study, 0.05 ==> 95% sure  
-
-### Pros and Cons of Experimental Research
-- [p] Conclusions about cause-and-effect can be drawn
-- [c] Artificial nature of experiments
-- [c] Ethical and practical issues
-
 ### Do We Trust the Experimental Results? (Validity)
 - **Internal Validity:** degree to which results can be attributed to the *IV* and not other explanations. *Is the science good?* 
 - **External Validity:** The degree to which results can be generalized to other people, across settings, and across time
 ![[Pasted image 20230912162952.png]]
-
+### Pros and Cons of Experimental Research
+- [p] Conclusions about cause-and-effect can be drawn
+- [c] Artificial nature of experiments
+- [c] Ethical and practical issues
 # Ethics for Psychological Research
+## Notable Psych studies
+- The Tuskegee Syphilis Study
+- The Milgram Obedience Studies
+- The Stanford Prison Experiment
+- The Little Albert Experiment
+- The Bobo Doll Experiment
+- The Robbers Cave Experiment
+## Ethics
+How people should be educated, treated, and respected when participating in any study
+
+### The Belmont Report
+- Commission of physicians, ethicists, philosophers, scientists, and citizens in 1976
+- Critical evaluation of ethical principles researchers should follow when working with human participants
+	- Prompted by the unethical research practices of previous years
+### Three Core Ethical Principles
+1. The principle of respect for persons
+	-  Individuals should be treated as autonomous agents, free to make their own decisions
+		-  Informed consent: provide information about the research and potential risks and benefits
+	- Some groups have less autonomy and need special protections
+• E.g., children, those with developmental disabilities,
+prisoners
+2. The principle of beneficence
+3. The principle of justice
+
