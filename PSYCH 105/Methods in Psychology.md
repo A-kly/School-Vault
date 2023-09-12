@@ -212,8 +212,10 @@ Example:
 	- More complete picture of *IV* effect
 	- ![[Pasted image 20230912155740.png|400]]
 		- This study for example measures both rate of learning **and** performance accuracy
-- Expose a single group to two different conditions #what 
+- Expose a single group to two different conditions
 	- Reduces extraneous variables
+	- [[#^8ae0ad|Repeated Measures study]] 
+	- Measuring the same people over and over again
 - Manipulate more than one *independent variable*
 	- Allows for study of interactions between variables
 	- ![[Pasted image 20230912160252.png|800]]
@@ -222,7 +224,7 @@ Example:
 - **Between groups** (or between subjects) design
 	- Each group (experimental or control) is made up of a different group of people
 	- ![[Pasted image 20230912160020.png]]
-- **Repeated measures** (or within subjects) design
+- **Repeated measures** (or within subjects) design ^8ae0ad
 	- Each participant is exposed to all possible *IV* conditions
 	- ![[Pasted image 20230912160044.png]]
 
