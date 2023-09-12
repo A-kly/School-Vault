@@ -120,5 +120,10 @@
   "Editor@@h5-color-select": "h5-color-designated",
   "Editor@@h6-color-select": "h6-color-designated",
   "Editor@@zoom-off": false,
-  "Components@@CTA-BTN-enable": false
+  "Components@@CTA-BTN-enable": false,
+  "Components@@new-tab-image-select": "new-tab-image-default",
+  "Components@@immersive-canvas": false,
+  "Components@@scrollbar-space-occupation-off": false,
+  "Components@@scrollbar-hide": false,
+  "Components@@extra-anim-remove": false
 }
