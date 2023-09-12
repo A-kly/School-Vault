@@ -228,4 +228,9 @@ Example:
 
 
 ### Statistics
-Using ,a
+Using math to deal with data
+**Descriptive statistics:** organizing and summarizing data in a useful way
+**Inferential statistics:** interpreting data and drawing conclusions
+#### Making 
+**Null Hypothesis (H<sub>0</sub>):** there is no relationship between the variables of interest in the population
+**Alternative Hypothesis (H<sub>A</sub>):** there is a relationship between the variables of interest in the population

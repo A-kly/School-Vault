@@ -125,5 +125,9 @@
   "Components@@immersive-canvas": false,
   "Components@@scrollbar-space-occupation-off": false,
   "Components@@scrollbar-hide": false,
-  "Components@@extra-anim-remove": false
+  "Components@@extra-anim-remove": false,
+  "Editor@@h3-divider-on": true,
+  "Editor@@h4-divider-on": true,
+  "Editor@@h5-divider-on": true,
+  "Editor@@h6-divider-on": true
 }
