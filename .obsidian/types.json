@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Notes": "number",
-    "Linked": "multitext",
-    "t": "checkbox"
+    "Linked": "multitext"
   }
 }

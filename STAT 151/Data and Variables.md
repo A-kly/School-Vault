@@ -60,4 +60,14 @@ Only way to get unbiased sample data
 ## Bias Avoidance
 We must avoid the following to have representative data:
 ### Voluntary response sample
-- respondents dec
+- respondents decide whether to be included in sample.
+	- eg. Internet polls
+### Non - response:
+- Only a small fraction of randomly selected people choose to respond.
+	- eg. Mail in polls where only 20% of sent mail gets a response
+### Convenience sample
+- Accessible individuals are more likely to be included in sample.
+	- eg. Instructor asks front row if his voice is loud enough (convenient but not helpfull to those in the back)
+
+# Data Sources
+## Observational Study

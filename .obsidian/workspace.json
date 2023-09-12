@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"t\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "cff14d84e57cc96b",
@@ -164,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f196b8dec8883445",
+  "active": "d1f70ec830a48d37",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",
