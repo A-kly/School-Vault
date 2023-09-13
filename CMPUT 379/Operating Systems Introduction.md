@@ -142,9 +142,17 @@ Traps are immediate and are usually predictable since they occur while executing
 
 ## Accessing OS Services
 - Make a system call in order to do anything with the computer. System calls are an *interface* for the computer. (like an API)
-- **"procedure call":** No CPU mode change
-- **"system call":** CPU changes to Supervisor mode
+- **procedure call / function call:** No CPU mode change
+- **[[#System calls]]:** CPU changes to Supervisor mode
 - **System call interface:** A set of functions that are called by (user) programs to perform specific tasks. *Often implemented as a trap*.
-- 
 
-
+## System calls
+### Mechanism
+![[Pasted image 20230913122959.png]]
+1. Program makes a system call
+	- eg. "I wanna read a file!"
+2. makes sure all arguments are good, make sure privileges, address, everything is good
+	- If no, return with error code
+	- If yes: OS changes mode! then:
+3. Branch to service function
+	1. 
