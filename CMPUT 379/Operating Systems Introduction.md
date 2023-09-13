@@ -78,6 +78,10 @@ External or internal event (or an exception) interrupts the CPU for it to deal w
 - Completion of I/O operation
 - Timer to make sure operating system eventually gets control (infinite loop)
 
+### More content
+- Interrupts have various priority levels. One must be handled before another
+- If a higher level interrupt happens whi 
+
 ## Traps
 **Internal to program execution**
 A trap is the notification of an (internal) event that occurs while a program is executing, therefore is synchronous with the current activity of the processor.
