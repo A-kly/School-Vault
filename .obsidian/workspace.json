@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "20f52ad8f3baf22c",
+        "id": "fb2548577036354a",
         "type": "tabs",
         "children": [
           {
-            "id": "4d756f98a49cd524",
+            "id": "a63c78ae5b5d789b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 95.5,
+                  "y": 56.5,
                   "zoom": 0
                 }
               }
@@ -162,11 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d756f98a49cd524",
+  "active": "a63c78ae5b5d789b",
   "lastOpenFiles": [
-    "STAT 151/Data and Variables.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
+    "STAT 151/Data and Variables.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230913125045.png",
     "CMPUT 379/Media/Pasted image 20230913125005.png",
