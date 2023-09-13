@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -98,14 +98,6 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "dac380c294be00e5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       },
@@ -120,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "CMPUT 379/Operating Systems Introduction.md"
               }
             }
           }
@@ -158,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "4d756f98a49cd524",
   "lastOpenFiles": [
     "PSYCH 105/Methods in Psychology.md",
-    "CMPUT 379/Operating Systems Introduction.md",
     "Markdown Cheat sheet.md",
+    "CMPUT 379/Operating Systems Introduction.md",
     "PSYCH 105/Media/Pasted image 20230912162952.png",
     "PSYCH 105/Media/Pasted image 20230912160252.png",
     "PSYCH 105/Media/Pasted image 20230912160044.png",
