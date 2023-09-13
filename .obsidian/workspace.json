@@ -11,14 +11,12 @@
             "id": "cb5ce7e06c70645e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -86.98025685866207,
-                  "y": 50.72544217573497,
-                  "zoom": 1
-                }
+                "file": "STAT 151/STAT 151.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -114,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "STAT 151/STAT 151.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "STAT 151/STAT 151.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "STAT 151/STAT 151.md"
               }
             }
           }
@@ -164,8 +162,8 @@
   },
   "active": "cb5ce7e06c70645e",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
     "Untitled.canvas",
+    "Markdown Cheat sheet.md",
     "STAT 151/Data and Variables.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230913125045.png",
