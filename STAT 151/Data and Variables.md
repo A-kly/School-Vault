@@ -103,7 +103,15 @@ Alternatively, We can use relative frequencies
 | D     | 0.15  |                15%                |
 | F     | 0.05  |                  5%              |
 | Total | 1.0   |                   100%             |
-
+### Contingency table
+| Treatment   | Relapse | No Relapse | Total |
+| ----------- | ------- | ---------- | ----- |
+| desipramine | 10      | 14         | 24    |
+| lithium     | 18      | 6          | 24    |
+| Placebo     | 20      | 4          | 24    |
+| Total       | 48      | 24         | 72    |
+- Table that shows data for two variables.
+- Two categorical variables are said to be independent or not associated if the conditional distributions of one variable is the same in each category of the other variable.
 ### Bar chart
 ![[Pasted image 20230912112115.png|500]]
 ### Pie chart
