@@ -67,7 +67,7 @@ We must avoid the following to have representative data:
 	- eg. Mail in polls where only 20% of sent mail gets a response
 ### Convenience sample
 - Accessible individuals are more likely to be included in sample.
-	- eg. Instructor asks front row if his voice is loud enough (convenient but not helpfull to those in the back)
+	- eg. Instructor asks front row if his voice is loud enough (convenient but not helpful to those in the back)
 
 # Data Sources
 ## Observational Study
