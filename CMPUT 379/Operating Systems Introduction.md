@@ -105,4 +105,5 @@ Traps are immediate and are usually predictable since they occur while executing
 - Interrupt information is stored in another specified location.
 - CPU resumes execution at some other specific location: the Interrupt Service Routine.
 - After servicing the interrupt, execution resumes at the saved point of the interrupted program.
-
+- *The CPU suspends its (current) execution and services the interrupt.*
+## I/O techniques
