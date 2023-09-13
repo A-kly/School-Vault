@@ -23,6 +23,9 @@
       "key": "I"
     }
   ],
+  "editor:open-search-replace": [],
+  "editor:toggle-italics": [],
+  "editor:toggle-bold": [],
   "obsidian-smarter-md-hotkeys:smarter-asterisk-bold": [
     {
       "modifiers": [
@@ -31,7 +34,12 @@
       "key": "B"
     }
   ],
-  "editor:open-search-replace": [],
-  "editor:toggle-bold": [],
-  "editor:toggle-italics": []
+  "obsidian-smarter-md-hotkeys:smarter-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
 }

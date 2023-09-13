@@ -144,7 +144,7 @@ Traps are immediate and are usually predictable since they occur while executing
 - Make a system call in order to do anything with the computer. System calls are an *interface* for the computer. (like an API)
 - **procedure call / function call:** No CPU mode change
 - **[[#System calls]]:** CPU changes to Supervisor mode
-- **System call interface:** A set of functions that are called by (user) programs to perform specific tasks. *Often implemented as a trap*.
+- System call interface: A set of functions that are called by (user) programs to perform specific tasks. *Often implemented as a trap*.
 
 ## System calls
 ### Mechanism
@@ -169,4 +169,8 @@ Traps are immediate and are usually predictable since they occur while executing
 		- `time(), acct(), gettimeofday()`
 	- Communications
 		- `socket(), accept(), send(), recv()`
-/
+# System Structure
+## OS Kernel
+- ==Kernel = OS - transient components (comes and goes)==
+- Kernel = dispatching, interrupt handling, or managing (critical) resources.
+- **Core of the operaing system. The center. Cannot exist wot**
