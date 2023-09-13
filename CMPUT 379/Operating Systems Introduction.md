@@ -151,8 +151,22 @@ Traps are immediate and are usually predictable since they occur while executing
 ![[Pasted image 20230913122959.png]]
 1. Program makes a system call
 	- eg. "I wanna read a file!"
-2. makes sure all arguments are good, make sure privileges, address, everything is good
+2. jump to system call handler, makes sure all arguments are good, make sure privileges, address, everything is good
 	- If no, return with error code
 	- If yes: OS changes mode! then:
 3. Branch to service function
-	1. 
+	-  deal with system call, if it fails return with error
+4. switch mode back to user mode, return to system call handler and then return to user's program
+### System Call Groups
+- UNIX family:
+	- Process control
+		- `fork(), exec(), wait(), abort()`
+	- File manipulation
+		- `chmod(), link(), stat(), creat()`
+	- Device manipulation
+		- `open(), close(), ioctl(), select()`
+	- Information maintenance
+		- `time(), acct(), gettimeofday()`
+	- Communications
+		- `socket(), accept(), send(), recv()`
+/
