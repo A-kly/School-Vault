@@ -10,6 +10,7 @@
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "Highlight",
-    "canvas_arrows"
+    "canvas_arrows",
+    "canvas_BG"
   ]
 }
