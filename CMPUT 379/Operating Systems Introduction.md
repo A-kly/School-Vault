@@ -107,3 +107,13 @@ Traps are immediate and are usually predictable since they occur while executing
 - After servicing the interrupt, execution resumes at the saved point of the interrupted program.
 - *The CPU suspends its (current) execution and services the interrupt.*
 ## I/O techniques
+### Programmed I/O
+- *Polling system*. Repeatedly check I/O until we see that is not in use anymore. *Slow*.
+![[Pasted image 20230913120530.png]]
+
+### Interrupt-driven I/O (slow speed, character device)
+- CPU issues I/O operation, does other work and then when CPU receives interrupt, it handles data transfer. We have eliminated polling but *introduces interrupt overhead*.
+![[Pasted image 20230913120656.png]]
+### Direct Memory Access (DMA) (high speed, block device)
+- CPU issues an I/O operation specifying the device, the memory location of the data, and the block size. 
+- 
