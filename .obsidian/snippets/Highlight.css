@@ -3,8 +3,8 @@
 .cm-s-obsidian span.cm-highlight,
 .search-result-file-matched-text {
   background-color: hsla(303, 100%, 50%, 0.2);
-  outline: 1px solid hsla(303, 100%, 50%, 0.2);
+  outline: 1px solid hsla(303, 100%, 50%, 0.85);
   padding: 0 0.15em;
   border-radius: 3px;
-  box-shadow: 0 0 10px hsla(303, 0, 50%, 0.75);
+  box-shadow: 0 0 10px hsla(303, 90%, 50%, 0.75);
 }
