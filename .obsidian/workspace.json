@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb2548577036354a",
+        "id": "84340731bb769eb5",
         "type": "tabs",
         "children": [
           {
-            "id": "a63c78ae5b5d789b",
+            "id": "cb5ce7e06c70645e",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -162,10 +162,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a63c78ae5b5d789b",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Markdown Cheat sheet.md",
+    "Untitled.canvas",
     "STAT 151/Data and Variables.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230913125045.png",
