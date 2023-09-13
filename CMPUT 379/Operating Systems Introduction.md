@@ -170,7 +170,21 @@ Traps are immediate and are usually predictable since they occur while executing
 	- Communications
 		- `socket(), accept(), send(), recv()`
 # System Structure
+Possible Structures:
+- **Simple, single-user**
+	- [[#MSDOS]], pre-OS X MacOS, early Windows
+	- iOS (Apple)
+- **Monolithic, multi-user**
+	- Multics, OS/360, [[#UNIX]], Linux,
+- **Virtual machine**
+	- IBM VM/370, VMware ESX, Xen, Linux KVM
+- **Client/Server (microkernel)**
+	- Chorus/MiX, Mach, QNX
 ## OS Kernel
+- **Core of the operating system. The center. Cannot exist without it.**
+	- Highly refined, optimized, "perfect"
 - ==Kernel = OS - transient components (comes and goes)==
 - Kernel = dispatching, interrupt handling, or managing (critical) resources.
-- **Core of the operaing system. The center. Cannot exist wot**
+## MSDOS
+![[Pasted image 20230913124838.png]]
+## U
