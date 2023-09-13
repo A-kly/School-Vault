@@ -112,6 +112,9 @@ Alternatively, We can use relative frequencies
 | Total       | 48      | 24         | 72    |
 - Table that shows data for two variables.
 - Two categorical variables are said to be independent or not associated if the conditional distributions of one variable is the same in each category of the other variable.
+	- When two variables are not associated, then we say one of the variables is homogeneous with respect to the other variable.
+
+
 ### Bar chart
 ![[Pasted image 20230912112115.png|500]]
 ### Pie chart
