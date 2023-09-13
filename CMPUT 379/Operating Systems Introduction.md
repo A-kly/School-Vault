@@ -80,7 +80,8 @@ External or internal event (or an exception) interrupts the CPU for it to deal w
 
 ### More content
 - Interrupts have various priority levels. One must be handled before another
-- If a higher level interrupt happens whi 
+- If a higher level interrupt happens while handling a lower level interrupt (nested interrupts) we have to deal with the higher level one while the lower level one is suspended.
+- When interruption of an interrupt handler is undesirable, other interrupts can be ‘‘masked’’ (inhibited) temporarily.
 
 ## Traps
 **Internal to program execution**
@@ -121,3 +122,18 @@ Traps are immediate and are usually predictable since they occur while executing
 ### Direct Memory Access (DMA) (high speed, block device)
 - CPU issues an I/O operation specifying the device, the memory location of the data, and the block size. This info is sent to DMA device. Once DMA device is done doing shit it Interrupts the CPU. *Memory access and CPU are used in parallel*.
 ![[Pasted image 20230913120938.png]]
+## Architectural Support
+- Modes of operation
+	- Supervisor (protected, kernel) mode: *all (basic and privileged) instructions available*.
+	- User mode: *a subset (basic only) of instructions*.
+	- Hardware support for virtual machines.
+- I/O protection
+	- All I/O operations are privileged.
+- Memory protection
+	- Base/limit registers (in early systems).
+	- Memory management unit.
+- CPU control
+	- Timer (alarm clock); time-quantum.
+	- Context switch
+
+### Modes of
