@@ -122,7 +122,7 @@ Traps are immediate and are usually predictable since they occur while executing
 ### Direct Memory Access (DMA) (high speed, block device)
 - CPU issues an I/O operation specifying the device, the memory location of the data, and the block size. This info is sent to DMA device. Once DMA device is done doing shit it Interrupts the CPU. *Memory access and CPU are used in parallel*.
 ![[Pasted image 20230913120938.png]]
-## Architectural Support
+# Architectural Support
 - Modes of operation
 	- Supervisor (protected, kernel) mode: *all (basic and privileged) instructions available*.
 	- User mode: *a subset (basic only) of instructions*.
@@ -135,5 +135,16 @@ Traps are immediate and are usually predictable since they occur while executing
 - CPU control
 	- Timer (alarm clock); time-quantum.
 	- Context switch
+## Modes of Operation, Why?
+- Needs to protect itself from the user program. Don’t crash when a program misbehaves.
+- Needs to protect multiple programs against themselves. A program should not be able to damage another program (e.g., a different user’s).
+- Wants to be in charge of the resources, presenting a consistent logical view to the programs (and to the user). This is impossible if the programs are allowed to access those resources directly.
 
-### Modes of
+## Accessing OS Services
+- Make a system call in order to do anything with the computer. System calls are an *interface* for the computer. (like an API)
+- **"procedure call":** No CPU mode change
+- **"system call":** CPU changes to Supervisor mode
+- **System call interface:** A set of functions that are called by (user) programs to perform specific tasks. *Often implemented as a trap*.
+- 
+
+
