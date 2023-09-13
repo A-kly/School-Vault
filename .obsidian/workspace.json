@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "Markdown Cheat sheet.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   },
   "active": "4d756f98a49cd524",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20230913125045.png",
     "CMPUT 379/Media/Pasted image 20230913125005.png",
@@ -175,7 +176,6 @@
     "PSYCH 105/Media/Pasted image 20230912162952.png",
     "PSYCH 105/Media/Pasted image 20230912160252.png",
     "PSYCH 105/Media/Pasted image 20230912160044.png",
-    "STAT 151/Data and Variables.md",
     "Untitled.canvas",
     "STAT 151/STAT 151.md",
     "STAT 151/Media",
