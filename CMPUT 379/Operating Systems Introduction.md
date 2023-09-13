@@ -115,5 +115,5 @@ Traps are immediate and are usually predictable since they occur while executing
 - CPU issues I/O operation, does other work and then when CPU receives interrupt, it handles data transfer. We have eliminated polling but *introduces interrupt overhead*.
 ![[Pasted image 20230913120656.png]]
 ### Direct Memory Access (DMA) (high speed, block device)
-- CPU issues an I/O operation specifying the device, the memory location of the data, and the block size. 
-- 
+- CPU issues an I/O operation specifying the device, the memory location of the data, and the block size. This info is sent to DMA device. Once DMA device is done doing shit it Interrupts the CPU. *Memory access and CPU are used in parallel*.
+![[Pasted image 20230913120938.png]]
