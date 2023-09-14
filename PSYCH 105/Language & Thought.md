@@ -70,10 +70,23 @@ Interacts heavily with [[#Biology]] and [[#Cognition]]
 #### Biology
 ##### Broca’s Area
 **Aphasia:** inability or difficulty in producing speech
--Broca’s Patient Tan could only say “tan” after
-head trauma
-• Broca’s aphasia
-• Mostly lower frontal lobe trauma
+- Broca’s Patient Tan could only say “tan” after head trauma
+	- Broca’s aphasia
+- Mostly lower frontal lobe trauma
+	- ![[Pasted image 20230914163854.png|400]]
+##### Wernicke's Area
+- Wernicke’s patient could produce speech, but it was nonsense
+	- Wernicke’s or fluent aphasia
+- Mostly temporal lobe trauma
+	- Wernicke’s area responsible for speech comprehension
+	- ![[Pasted image 20230914164046.png|400]]
+
+##### Important Findings
+1. There seemed to be an area of the brain controlling speech
+2. Language production appeared to be controlled by the left hemisphere
+3. Broca's and Wernicke's Areas are connected
+![[Pasted image 20230914164228.png|400]]
+
 ### Others
 - Culture, language, and thought
 	- Linguistic relativity
