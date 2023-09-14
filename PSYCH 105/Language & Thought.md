@@ -39,8 +39,9 @@
 ![[Pasted image 20230914161244.png]]
 ## Theories of Language Acquisition
 ### Behaviourist - Skinner’s Environmental Theory of Language
-- Language is verbal behavior
-	- Reinforcement mediated by another person
+==hardcore behaviourist mindset, sounds like classical conditioning to me==
+- **Language is verbal behavior**
+	- **Reinforcement mediated by another person**
 - Speaker is more likely to ask for something in the future when she gets what she asked for
 - Speaker is less likely to say something if they are punished for saying it
 - **Evidence for this theory**:
@@ -54,3 +55,17 @@
 	- It cannot explain the overwhelming and rapid development of human language in early childhood
 		- To explain this, many claim that we are *neurologically predisposed* to develop language and that *these innate constraints primarily influence language acquisition*.
 ### Nativist - Chomsky’s Nativist Theory of Language
+- Brains are evolved to produce language
+	- Language acquisition device (LAD) (built in system to help with language learning)
+- *Critical periods* for language demonstrate a biological constraint
+	- *Sensitive period* may be more accurate
+- Similarities across the human species regarding the process of language development
+	- Children across cultures acquire nouns before verbs
+	- Grammatical structure varies little between cultures
+	- Default tendency of gestures
+
+### Others
+- Interactionist
+	- Cognitive, social communication, and emergentist theories
+- Culture, language, and thought
+	- Linguistic relativity
