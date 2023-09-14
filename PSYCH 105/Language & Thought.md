@@ -28,21 +28,29 @@
 	- eg. 
 - **Syntax:** a system of rules for arranging words into sentences
 	- Different rules for different languages
-	- eg. Order of words in sentence
+	- Order of words in sentence
 ![[Pasted image 20230914161022.png]]
 
 - **Grammar:** the systematic rules of a language
 	- Includes words, tenses, and syntax
-	- *Syntax plus verb tenses, words*
+	- *Syntax + verb tenses + how to pluralize words*
 # Language Acquisition
-## Milestones
+## Milestones (FYI)
 ![[Pasted image 20230914161244.png]]
-![[Pasted image 20230914161303.png]]
 ## Theories of Language Acquisition
 ### Behaviourist - Skinner’s Environmental Theory of Language
 - Language is verbal behavior
 	- Reinforcement mediated by another person
 - Speaker is more likely to ask for something in the future when she gets what she asked for
 - Speaker is less likely to say something if they are punished for saying it
-- **Evidence for this theory:**
-	- 
+- **Evidence for this theory**:
+	- Specific caretaker speech patterns associated with improved word recognition in 18 month-olds
+		- (Fernald & Hurtado, 2006)
+	- Reduced speech rate in mothers associated with decrease in children’s stuttering
+		- (Stephenson-Opsal & Bernstein, 1988)
+	- Encouragement, praise, or elaboration on child’s play behavior -> reaching language milestones sooner
+		- (Tamis-LeMonda et al., 2001)
+- **Evidence against this theory**:
+	- It cannot explain the overwhelming and rapid development of human language in early childhood
+		- To explain this, many claim that we are *neurologically predisposed* to develop language and that *these innate constraints primarily influence language acquisition*.
+### Nativist - Chomsky’s Nativist Theory of Language
