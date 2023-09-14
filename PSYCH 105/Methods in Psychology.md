@@ -286,3 +286,5 @@ How people should be educated, treated, and respected when participating in any 
 	- There must be a fair balance between those who participate in the research and those who benefit from it
 	- Researchers need to ensure that participants are representative of the group that will benefit
 
+![[Pasted image 20230914153242.png]]
+## Ethical Standards for Research
