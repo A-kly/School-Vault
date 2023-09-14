@@ -112,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PSYCH 105/Methods in Psychology.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -160,10 +156,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "638cadb9a04bf729",
+  "active": "2d5bfc7f5c9441e4",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
     "PSYCH 105/Methods in Psychology.md",
+    "Markdown Cheat sheet.md",
     "PSYCH 105/Media/Pasted image 20230914153242.png",
     "STAT 151/STAT 151.md",
     "Untitled.canvas",

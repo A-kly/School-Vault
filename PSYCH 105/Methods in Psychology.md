@@ -290,13 +290,15 @@ How people should be educated, treated, and respected when participating in any 
 ## Ethical Standards for Research
 - Standard 8: Specific to research
 	- Institutional review boards (Standard 8.01)
-		- Neutral third party board for every institution
+		- *Neutral third party board for every institution*
 	- Informed Consent (Standard 8.02)
-		- What is happening, Why, Risks
+		- *What is happening, Why?, Risks*
 	- Deception (Standard 8.07)
-		- 
+		- *Is deception required, why exactly?, is it appropriate to do so*?
 	- Debriefing (Standard 8.08)
+		- *What info was withheld during the study, do you have questions? (almost always done)*
 	- Research misconduct
+		- *Consequences of breaking any of the previous rules*
 		- Data fabrication (Standard 8.10) and data falsification
 		- Plagiarism (Standard 8.11)
 	- [[#Animal research (Standard 8.09)]]
@@ -304,7 +306,7 @@ How people should be educated, treated, and respected when participating in any 
 ### Animal research (Standard 8.09)
 - Legal protection for laboratory animals
 - Animal care guidelines and the three R’s
-- Replacement, refinement, reduction
+	- **Replacement, refinement, reduction**
 - Ethically balancing animal welfare, animal rights, and animal research
 
 ## Ethical Decision Making
@@ -319,3 +321,14 @@ How people should be educated, treated, and respected when participating in any 
 - Meta-analysis journal articles
 	- Re-analysis of multiple published studies combined
 	- Statistics conducted on new, larger data pool
+## Finding Scientific Sources
+- PsycINFO
+- Google Scholar
+- University of Alberta Libraries
+	- https://www.library.ualberta.ca/
+## Reading the Research
+- **Abstract:** summary of the article; read it to figure out what the article is about
+- **Introduction:** explains the topic of the study, describes the theoretical and empirical background for the research, and states the specific research goals for the current study
+- **Methods:** how the researchers conducted the study; includes subsections on participants, materials, procedure, and apparatus
+- Results: describes the statistical tests used and
+the quantitative or qualitative results of the study
