@@ -28,7 +28,7 @@ To understand behaviour we rely on:
 	- E.g., before vs after, no treatment vs treatment
 - Systematic methods to avoid confounds
 	- Control for variables or measure to include them
-- Techniques to avoid biases
+- Techniques to avoid biases 
 	- E.g., single- and double-blind designs
 - Science is a public affair
 	- Research is published in peer-reviewed journals
@@ -46,6 +46,7 @@ To understand behaviour we rely on:
 - **Theory:** set of statements that describes general principles about how variables relate to one another
 - **Hypothesis:** prediction about the outcomes of your research based on theory
 - **Participants/Subjects:** the organisms whose behaviour is systematically observed in a study
+- **Demand Characteristic**: Aspects of an observational study that cause people to behave as they think the researcher/someone else expects. 
 ## What makes a good theory?
 - Consistent with prior observation (i.e., predictions are supported by research)
 - Conforms to law of parsimony (i.e., is as simple as possible); aka Occam’s Razor
