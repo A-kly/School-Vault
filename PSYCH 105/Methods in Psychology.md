@@ -273,16 +273,16 @@ How people should be educated, treated, and respected when participating in any 
 - Critical evaluation of ethical principles researchers should follow when working with human participants
 	- Prompted by the unethical research practices of previous years
 ## Three Core Ethical Principles
-1. **The principle of respect for persons** (Autonomy, Consent)
+1. **The principle of respect for persons** *(Autonomy, Informed Consent)*
 	-  Individuals should be treated as autonomous agents, free to make their own decisions
 		-  Informed consent: provide information about the research and potential risks and benefits
 	- Some groups have less autonomy and need special protections
 		- eg. children, those with developmental disabilities, prisoners
-2. **The principle of beneficence** (Harm mitigation, Risk assesment)
+2. **The principle of beneficence** *(Harm mitigation, Risk assesment)*
 	- Researchers must take precautions to protect participants from harm and ensure well-being
 		- Consider potential risks (FOIP concerns, privacy, psychological damage)
 		- Consider potential benefits (for participants and for community)
-3. **The principle of justice** (Benefit to participant and society)**\
+3. **The principle of justice** *(Benefit to participant and society)*
 	- There must be a fair balance between those who participate in the research and those who benefit from it
 	- Researchers need to ensure that participants are representative of the group that will benefit
 
@@ -308,3 +308,11 @@ How people should be educated, treated, and respected when participating in any 
 - Ethical decision making requires a balance of priorities
 - We need to weigh the potential harm to human or animal participants against what the knowledge gained from the research will contribute to society
 # Scientific Literature
+## Types of Journal Articles
+- Empirical journal articles
+	- Studies reported for the first time
+- Review journal articles
+	- Summary of already published studies
+- Meta-analysis journal articles
+	- Re-analysis of multiple published studies combined
+	- Statistics conducted on new, larger data pool
