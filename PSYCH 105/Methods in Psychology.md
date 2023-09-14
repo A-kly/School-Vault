@@ -273,18 +273,38 @@ How people should be educated, treated, and respected when participating in any 
 - Critical evaluation of ethical principles researchers should follow when working with human participants
 	- Prompted by the unethical research practices of previous years
 ## Three Core Ethical Principles
-1. The principle of respect for persons
+1. **The principle of respect for persons** (Autonomy, Consent)
 	-  Individuals should be treated as autonomous agents, free to make their own decisions
 		-  Informed consent: provide information about the research and potential risks and benefits
 	- Some groups have less autonomy and need special protections
 		- eg. children, those with developmental disabilities, prisoners
-2. The principle of beneficence
+2. **The principle of beneficence** (Harm mitigation, Risk assesment)
 	- Researchers must take precautions to protect participants from harm and ensure well-being
 		- Consider potential risks (FOIP concerns, privacy, psychological damage)
 		- Consider potential benefits (for participants and for community)
-3. The principle of justice
+3. **The principle of justice** (Benefit to participant and society)**\
 	- There must be a fair balance between those who participate in the research and those who benefit from it
 	- Researchers need to ensure that participants are representative of the group that will benefit
 
 ![[Pasted image 20230914153242.png]]
 ## Ethical Standards for Research
+- Standard 8: Specific to research
+	- Institutional review boards (Standard 8.01)
+	- Informed consent (Standard 8.02)
+	- Deception (Standard 8.07)
+	- Debriefing (Standard 8.08)
+	- Research misconduct
+		- Data fabrication (Standard 8.10) and data falsification
+		- Plagiarism (Standard 8.11)
+	- [[#Animal research (Standard 8.09)]]
+
+### Animal research (Standard 8.09)
+- Legal protection for laboratory animals
+- Animal care guidelines and the three R’s
+- Replacement, refinement, reduction
+- Ethically balancing animal welfare, animal rights, and animal research
+
+## Ethical Decision Making
+- Ethical decision making requires a balance of priorities
+- We need to weigh the potential harm to human or animal participants against what the knowledge gained from the research will contribute to society
+# Scientific Literature
