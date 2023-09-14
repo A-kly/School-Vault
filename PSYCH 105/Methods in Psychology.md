@@ -312,7 +312,7 @@ How people should be educated, treated, and respected when participating in any 
 ## Ethical Decision Making
 - Ethical decision making requires a balance of priorities
 - We need to weigh the potential harm to human or animal participants against what the knowledge gained from the research will contribute to society
-# Scientific Literature
+# Scientific Literature (Not very important for this class)
 ## Types of Journal Articles
 - Empirical journal articles
 	- Studies reported for the first time
@@ -330,5 +330,6 @@ How people should be educated, treated, and respected when participating in any 
 - **Abstract:** summary of the article; read it to figure out what the article is about
 - **Introduction:** explains the topic of the study, describes the theoretical and empirical background for the research, and states the specific research goals for the current study
 - **Methods:** how the researchers conducted the study; includes subsections on participants, materials, procedure, and apparatus
-- Results: describes the statistical tests used and
-the quantitative or qualitative results of the study
+- **Results:** describes the statistical tests used and the quantitative or qualitative results of the study
+- **Discussion:** summarizes the study and discusses the study’s significant contributions and perhaps alternative explanations for their results
+- **References:** full bibliographic listing of all the sources the authors cited in the article

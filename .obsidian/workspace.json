@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "029cc98bf0ff2011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 105/Language & Thought.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSYCH 105/Language & Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSYCH 105/Language & Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSYCH 105/Language & Thought.md"
+              }
             }
           }
         ],
@@ -156,9 +174,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5bfc7f5c9441e4",
+  "active": "029cc98bf0ff2011",
   "lastOpenFiles": [
     "PSYCH 105/Methods in Psychology.md",
+    "PSYCH 105/Language & Thought.md",
     "Markdown Cheat sheet.md",
     "PSYCH 105/Media/Pasted image 20230914153242.png",
     "STAT 151/STAT 151.md",
@@ -182,7 +201,6 @@
     "CMPUT 379/Untitled.md",
     "Class info.md",
     "CMPUT 379/Media",
-    "PSYCH 105/Untitled.md",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",
     "Year 2 Obsidian notes/Math 146/9.1 Separation of variables.md",
