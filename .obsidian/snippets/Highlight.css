@@ -4,9 +4,9 @@
 .cm-s-obsidian span.cm-formatting-highlight,
 .cm-s-obsidian span.cm-highlight,
 .search-result-file-matched-text {
-  background-color: hsla(189, 100%, 50%, 0.2);
-  outline: 1px solid hsla(189, 100%, 50%, 0.85);
+  background-color: hsla(320, 100%, 50%, 0.2);
+  outline: 1px solid hsla(320, 100%, 50%, 0.85);
   padding: 0 0.15em;
   border-radius: 3px;
-  box-shadow: 0 0 10px hsla(189, 90%, 50%, 0.75);
+  box-shadow: 0 0 10px hsla(320, 90%, 50%, 0.75);
 }

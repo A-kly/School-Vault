@@ -275,7 +275,7 @@ How people should be educated, treated, and respected when participating in any 
 ## Three Core Ethical Principles
 1. **The principle of respect for persons** *(Autonomy, Informed Consent)*
 	-  Individuals should be treated as autonomous agents, free to make their own decisions
-		-  Informed consent: provide information about the research and potential risks and benefits
+		-  Informed consent : provide information about the research and potential risks and benefits
 	- Some groups have less autonomy and need special protections
 		- eg. children, those with developmental disabilities, prisoners
 2. **The principle of beneficence** *(Harm mitigation, Risk assesment)*
@@ -290,8 +290,11 @@ How people should be educated, treated, and respected when participating in any 
 ## Ethical Standards for Research
 - Standard 8: Specific to research
 	- Institutional review boards (Standard 8.01)
-	- Informed consent (Standard 8.02)
+		- Neutral third party board for every institution
+	- Informed Consent (Standard 8.02)
+		- What is happening, Why, Risks
 	- Deception (Standard 8.07)
+		- 
 	- Debriefing (Standard 8.08)
 	- Research misconduct
 		- Data fabrication (Standard 8.10) and data falsification
