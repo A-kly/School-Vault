@@ -63,12 +63,18 @@
 	- Children across cultures acquire nouns before verbs
 	- Grammatical structure varies little between cultures
 	- Default tendency of gestures
-
-
 ### An Emergentist Perspective (Interactionism)
 ==Bridges the gap between nativist and environmentalist (behavioural) approaches==
 ![[Pasted image 20230914163238.png|300]]
-
+Interacts heavily with [[#Biology]] and [[#Cognition]]
+#### Biology
+##### Broca’s Area
+**Aphasia:** inability or difficulty in producing speech
+-Broca’s Patient Tan could only say “tan” after
+head trauma
+• Broca’s aphasia
+• Mostly lower frontal lobe trauma
 ### Others
 - Culture, language, and thought
 	- Linguistic relativity
+
