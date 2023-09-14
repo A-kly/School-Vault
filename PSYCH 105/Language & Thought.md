@@ -64,8 +64,11 @@
 	- Grammatical structure varies little between cultures
 	- Default tendency of gestures
 
+
+### An Emergentist Perspective (Interactionism)
+==Bridges the gap between nativist and environmentalist (behavioural) approaches==
+![[Pasted image 20230914163238.png|300]]
+
 ### Others
-- Interactionist
-	- Cognitive, social communication, and emergentist theories
 - Culture, language, and thought
 	- Linguistic relativity
