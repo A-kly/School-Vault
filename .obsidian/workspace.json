@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84340731bb769eb5",
+        "id": "53c09562caf2bd4e",
         "type": "tabs",
         "children": [
           {
-            "id": "cb5ce7e06c70645e",
+            "id": "638cadb9a04bf729",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSYCH 105/Methods in Psychology.md"
+              }
             }
           }
         ],
@@ -156,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d5bfc7f5c9441e4",
+  "active": "638cadb9a04bf729",
   "lastOpenFiles": [
     "Markdown Cheat sheet.md",
     "PSYCH 105/Methods in Psychology.md",
