@@ -23,8 +23,18 @@
 - **Morphemes:** smallest unit of meaning
 	- 50,000 in English
 	- Root words, prefixes, suffixes
-	- eg. "non", "un", 
+	- eg. "non-", "un-", "do", plural "s"
 - **Semantics:** meaning of words and word combinations
 	- eg. 
 - **Syntax:** a system of rules for arranging words into sentences
 	- Different rules for different languages
+	- eg. grammar
+![[Pasted image 20230914161022.png]]
+
+- **Grammar:** the systematic rules of a language
+	- Includes words, tenses, and syntax
+## Language Acquisition
+### Milestones
+![[Pasted image 20230914161244.png]]
+![[Pasted image 20230914161303.png]]
+
