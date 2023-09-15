@@ -18,5 +18,12 @@ Are they the same?? ***NO***
 	- The CPU *switches automatically from process to process*, running each for tens or hundreds of milliseconds. In reality, the CPU is *actually running one and only one process at a time*.
 
 ## Multiple Processes: One CPU
-
-
+How can several processes share one CPU?
+OS makes sure to take care of processes by:
+- Making sure every process has a chance to run (good *scheduling*).
+- They do not modify each others state (*protection*).
+- Resources (including CPU) are shared.
+## Process States
+- Lifetime of process, from birth to death, can bedescribed by a number of states.
+- The operation of a multiprogramming system can be described by a state transition diagram on the process states.
+-  Most of the state transitions are internal to the operating system and the user has no control.
