@@ -62,4 +62,4 @@ Course Objectives:
 	- support concurrent operations,
 	- provide inter-process communications, and/or
 	- interact with the Internet (client-server programs).
-	- 
+- Understanding how applications can enhance performance by working with (not against) the OS

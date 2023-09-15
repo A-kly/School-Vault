@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Class info.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e8ef644570aed21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Class info.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Class info.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Class info.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           }
@@ -174,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029cc98bf0ff2011",
+  "active": "3e8ef644570aed21",
   "lastOpenFiles": [
-    "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Class info.md",
+    "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Media/Pasted image 20230915120354.png",
     "STAT 151/Data and Variables.md",
     "Untitled.canvas",
@@ -196,10 +211,8 @@
     "Markdown Cheat sheet.md",
     "STAT 151/STAT 151.md",
     "STAT 151/Media",
-    "CMPUT 379/Class info.md",
     "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Class Info.md",
-    "CMPUT 379/Untitled.md",
     "Class info.md",
     "CMPUT 379/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",

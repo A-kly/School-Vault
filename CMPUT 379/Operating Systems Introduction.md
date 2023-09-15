@@ -191,5 +191,6 @@ Possible Structures:
 ![[Pasted image 20230913125005.png]]
 ## IBM VM/370 Structure
 ![[Pasted image 20230913125045.png]]
-## Chorus/MiX
+## Chorus/MiX ==(basically how linux works)==
+
 ![[Pasted image 20230915120354.png]]
