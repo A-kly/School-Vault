@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4048e3ee1fcc022c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029cc98bf0ff2011",
+  "active": "4048e3ee1fcc022c",
   "lastOpenFiles": [
     "STAT 151/Media/Pasted image 20230915103038.png",
     "STAT 151/Media/Pasted image 20230915103016.png",

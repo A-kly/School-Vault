@@ -174,6 +174,8 @@ Example data = `{0,100,100,100}`
 	- *Add all values, divide by number of values*
 	- Uses all values
 	- For example data, Mean = `(0 + 100 + 100 + 100) / 4 = 75`
+	- If we have the average of two groups of data:
+		- $$\overline {x1} $$
 - Median
 	- *Middle value* after sorting data in increasing order
 	- **If n is odd:** median is middle value
