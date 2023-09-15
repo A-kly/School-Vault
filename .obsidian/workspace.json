@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "PSYCH 105/Methods in Psychology.md"
               }
             }
           }
@@ -176,9 +176,9 @@
   },
   "active": "029cc98bf0ff2011",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230915123638.png",
     "CMPUT 379/NO.md",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "Markdown Cheat sheet.md",
     "CMPUT 379/Class info.md",
@@ -196,7 +196,6 @@
     "PSYCH 105/Media/Pasted image 20230914163238.png",
     "PSYCH 105/emergentist.md",
     "PSYCH 105/Media/Pasted image 20230914161303.png",
-    "PSYCH 105/Media/Pasted image 20230914161244.png",
     "PSYCH 105/Methods in Psychology.md",
     "STAT 151/STAT 151.md",
     "STAT 151/Media",

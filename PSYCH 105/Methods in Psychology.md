@@ -306,7 +306,12 @@ How people should be educated, treated, and respected when participating in any 
 ### Animal research (Standard 8.09)
 - Legal protection for laboratory animals
 - Animal care guidelines and the three R’s
-	- **Replacement, refinement, reduction**
+	- **Replacement**
+		- Researchers have to prove there is no alternative to using animals in research and that the use of animals is justified by the scientific or clinical.
+	- **Refinement**
+		- 
+	- **Reduction**
+		- 
 - Ethically balancing animal welfare, animal rights, and animal research
 
 ## Ethical Decision Making
