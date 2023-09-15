@@ -29,6 +29,8 @@ OS makes sure to take care of processes by:
 - Most of the state transitions are internal to the operating system and the user has no control.
 ### Process state diagram
 ![[Pasted image 20230915123638.png]]
+**Internal:** OS makes change.
+**External:** User/program makes change.
 ### Possible States
 - **New:** a process being created but not yet included in the pool of executable processes (resource acquisition).
 - **Ready:** processes that are prepared to execute when given the opportunity.
