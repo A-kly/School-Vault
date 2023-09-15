@@ -157,7 +157,13 @@ Alternatively, We can use relative frequencies
 # Summary of data
 ## Center of Data
 ==Most sypical value==
+`n = Number of values`
+`xi is the ith data value`
 - Mean
-	- $$\sum(xi)\frac(n)$$
+	- $$mean=\frac{\sum(xi)}{n}$$
+	- *Add all values, divide by number of values*
 - Median
+	- *Middle value* after sorting data in increasing order
+	- **If n is odd:** median is middle value
+	- **If n is even:** median is average (mean) of two middle values
 - Mode
