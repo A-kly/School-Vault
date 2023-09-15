@@ -162,10 +162,10 @@ We can generate the following double bar chart:
 # Summary of data
 ## Center of Data
 ==Most typical value==
-			n = Number of values
-			xi = the ith data value
+### For [[#Numerical]] data
 - Mean
 	- $$mean=\frac{\sum(xi)}{n}$$
+	- (n = Number of values, xi = the ith data value)
 	- *Add all values, divide by number of values*
 	- Uses all values
 - Median
@@ -173,8 +173,13 @@ We can generate the following double bar chart:
 	- **If n is odd:** median is middle value
 	- **If n is even:** median is average (mean) of two middle values
 	- Uses only middle values
+
+==For skewed data, the median is more appropriate than the mean==
+- eg. Some CEOs make Millions, Some make BILLIONS
+### For [[#Categorical]] data
 - Mode
 	- The most frequent value in the data
 		- Value that repeats the most frequently
 	- appropriate for categorical data
-		- We cannot use mean (eg. averaging gender)
+		- We cannot use mean (eg. averaging gender) or median (eg. gender is not ordered)
+
