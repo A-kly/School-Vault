@@ -38,3 +38,11 @@ OS makes sure to take care of processes by:
 - **Blocked:** a process that cannot execute until some event occurs.
 - **Stopped:** a special case of blocked where the process is suspended by the operator or the user.
 - **Exiting:** a process that is about to be removed from the pool of executable processes (resource release).
+
+## Process Description
+- The operating system must know specific information about processes to manage and control them.
+- Such information is usually grouped into two categories:
+	- **Process state information**, such as CPU registers and program counter.
+	- **Process control information**, such as scheduling priority, resources held, access privileges, memory allocated, and accounting.
+- Information in both groups are OS dependent.
+- This info is all kept in the **process control block (PCB)** or **process table**.
