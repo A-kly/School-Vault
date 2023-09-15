@@ -123,7 +123,13 @@ Alternatively, We can use relative frequencies
 	- `(Relapse + No Relapse) / Total for each treatment`
 - **The *conditional* relative frequency** distribution of Treatment for the Relapsed group is 10/48 for desipramine, 18/48 for Lithium, and 20/48 for Placebo.
 	- `Relapse for each treatment/total relapse`
-	- If each column's conditional relative frequencies are identical, *Variable 1 anf Var*
+	- ==`For every row in table: (entry in chosen column / total for column)`
+	- If each column's conditional relative frequencies are identical, *Variable 1 and Variable 2 are not associated / Are independent variables*
+
+#### Segmented bar chart + Double bar chart
+- Segmented Bar charts can also be used to see the association between two categorical variables. (Rows from table on bottom, )
+![[Pasted image 20230915101553.png|400]]
+
 ## For [[#Numerical]] data
 ### Histogram
 - Roughly equivalent to Bar chart
