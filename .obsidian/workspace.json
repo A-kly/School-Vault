@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca954bfb5b2e4959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/NO.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -189,8 +202,9 @@
   },
   "active": "3e8ef644570aed21",
   "lastOpenFiles": [
-    "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/NO.md",
     "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Class info.md",
     "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Media/Pasted image 20230915120354.png",
