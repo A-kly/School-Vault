@@ -179,7 +179,7 @@ Possible Structures:
 - **Virtual machine**
 	- [[#IBM VM/370 Structure|IBM VM/370]], VMware ESX, Xen, Linux KVM
 - **Client/Server (microkernel)**
-	- Chorus/MiX, Mach, QNX
+	- [[#Chorus/MiX]], Mach, QNX
 ## OS Kernel
 - **Core of the operating system. The center. Cannot exist without it.**
 	- Highly refined, optimized, "perfect"
@@ -191,3 +191,5 @@ Possible Structures:
 ![[Pasted image 20230913125005.png]]
 ## IBM VM/370 Structure
 ![[Pasted image 20230913125045.png]]
+## Chorus/MiX
+![[Pasted image 20230915120354.png]]

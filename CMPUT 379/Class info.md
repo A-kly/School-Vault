@@ -41,3 +41,25 @@
 - Solutions must work in UNIX environment
 - ~50% of grade is lecture content, ,~50% is implementation
 - Class is fully curved for each major assessment
+
+# Class content
+Focus is on:
+- Multitasking/multiprocessing operating systems
+- Most examples from UNIX-like systems
+- Single CPU system
+- Processes and threads
+- Inter-process communications
+- Process synchronization and deadlocks
+- Virtual memory
+- CPU scheduling
+- File systems
+- Protection and security
+
+Course Objectives:
+- Introducing fundamental ideas underlying the design of modern OS.
+- Enhancing your knowledge and skills in developing programs that:
+	- utilize advanced OS services,
+	- support concurrent operations,
+	- provide inter-process communications, and/or
+	- interact with the Internet (client-server programs).
+	- 

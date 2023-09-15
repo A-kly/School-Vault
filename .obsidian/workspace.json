@@ -26,25 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Class info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4048e3ee1fcc022c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Class info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Class info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "CMPUT 379/Class info.md"
               }
             }
           }
@@ -184,8 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4048e3ee1fcc022c",
+  "active": "029cc98bf0ff2011",
   "lastOpenFiles": [
+    "CMPUT 379/CMPUT 379.md",
+    "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Media/Pasted image 20230915120354.png",
+    "STAT 151/Data and Variables.md",
+    "Untitled.canvas",
     "STAT 151/Media/Pasted image 20230915103038.png",
     "STAT 151/Media/Pasted image 20230915103016.png",
     "STAT 151/Media/Pasted image 20230915101553.png",
@@ -197,16 +192,10 @@
     "PSYCH 105/emergentist.md",
     "PSYCH 105/Media/Pasted image 20230914161303.png",
     "PSYCH 105/Media/Pasted image 20230914161244.png",
-    "PSYCH 105/Media/Pasted image 20230914161022.png",
     "PSYCH 105/Methods in Psychology.md",
-    "Untitled.canvas",
     "Markdown Cheat sheet.md",
-    "PSYCH 105/Media/Pasted image 20230914153242.png",
     "STAT 151/STAT 151.md",
-    "STAT 151/Data and Variables.md",
-    "CMPUT 379/Operating Systems Introduction.md",
     "STAT 151/Media",
-    "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Class info.md",
     "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Class Info.md",
