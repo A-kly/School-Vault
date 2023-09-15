@@ -160,29 +160,34 @@ We can generate the following double bar chart:
 
 
 # Summary of data
-$$\overline x = M = mean$$
-$$\sigma = Standard\space Deviat$$
+$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$$$\sigma = Standard\space Deviation$$
 Calculations based on *population data* is called a **parameter.**
 Calculations based on *sample data* is called a **Statistic.**
 ## Center of Data
 ==Most typical value==
 ### For [[#Numerical]] data
+Example data = `{0,100,100,100}`
+
 - Mean
 	- $$mean=\frac{\sum(xi)}{n}$$
 	- (n = Number of values, xi = the ith data value)
 	- *Add all values, divide by number of values*
 	- Uses all values
+	- For example data, Mean = `(0 + 100 + 100 + 100) / 4 = 75`
 - Median
 	- *Middle value* after sorting data in increasing order
 	- **If n is odd:** median is middle value
 	- **If n is even:** median is average (mean) of two middle values
 	- Uses only middle values
+	- For example data, Median  = `(100 + 100) / 2 = 100`
 
 ==For skewed data, the median is more appropriate than the mean==
 - eg. Some CEOs make Millions, Some make BILLIONS
 ### For [[#Categorical]] data
+Example data = `{F, M, F, F, M}`
 - Mode
 	- The most frequent value in the data
 		- Value that repeats the most frequently
 	- appropriate for categorical data
 		- We cannot use mean (eg. averaging gender) or median (eg. gender is not ordered)
+	- For example data, `M` shows up 2 times, `F` Shows up 2 times Therefore *Mode = F*
