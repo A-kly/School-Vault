@@ -126,9 +126,14 @@ Alternatively, We can use relative frequencies
 	- ==`For every row in table: (entry in chosen column / total for column)`
 	- If each column's conditional relative frequencies are identical, *Variable 1 and Variable 2 are not associated / Are independent variables*
 
-#### Segmented bar chart + Double bar chart
+#### Segmented bar chart
 - Segmented Bar charts can also be used to see the association between two categorical variables. (Rows from table on bottom, )
 ![[Pasted image 20230915101553.png|400]]
+#### Double bar chart 
+For the following contingency table:
+![[Pasted image 20230915103016.png|300]]
+We can generate the following double bar chart:
+![[Pasted image 20230915103038.png|300]]
 
 ## For [[#Numerical]] data
 ### Histogram
@@ -156,14 +161,20 @@ Alternatively, We can use relative frequencies
 
 # Summary of data
 ## Center of Data
-==Most sypical value==
-`n = Number of values`
-`xi is the ith data value`
+==Most typical value==
+			n = Number of values
+			xi = the ith data value
 - Mean
 	- $$mean=\frac{\sum(xi)}{n}$$
 	- *Add all values, divide by number of values*
+	- Uses all values
 - Median
 	- *Middle value* after sorting data in increasing order
 	- **If n is odd:** median is middle value
 	- **If n is even:** median is average (mean) of two middle values
+	- Uses only middle values
 - Mode
+	- The most frequent value in the data
+		- Value that repeats the most frequently
+	- appropriate for categorical data
+		- We cannot use mean (eg. averaging gender)
