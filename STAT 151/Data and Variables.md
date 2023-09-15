@@ -3,7 +3,7 @@ Goal: to take a sample of a very large population, Analyze and come to conclusio
 ## Descriptive Statistics
 - Gathering data
 - Summarize and present the data
-	- **Summarize**: Mean, standard dev, median
+	- **[[#Summary of data|Summarize]]**: Mean, standard dev, median
 	- **Present**: Histogram, graphs, tables
 - Analyze and interpret the data
 	- What does the data (median, mean, standard deviation, histogram) mean?
@@ -153,3 +153,11 @@ Alternatively, We can use relative frequencies
 | 8                         | 8                          |
 
 
+
+# Summary of data
+## Center of Data
+==Most sypical value==
+- Mean
+	- $$\sum(xi)\frac(n)$$
+- Median
+- Mode
