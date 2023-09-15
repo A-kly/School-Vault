@@ -24,6 +24,15 @@ OS makes sure to take care of processes by:
 - They do not modify each others state (*protection*).
 - Resources (including CPU) are shared.
 ## Process States
-- Lifetime of process, from birth to death, can bedescribed by a number of states.
+- Lifetime of process, from birth to death, can be described by a number of states.
 - The operation of a multiprogramming system can be described by a state transition diagram on the process states.
--  Most of the state transitions are internal to the operating system and the user has no control.
+- Most of the state transitions are internal to the operating system and the user has no control.
+### Process state diagram
+![[Pasted image 20230915123638.png]]
+### Possible States
+- **New:** a process being created but not yet included in the pool of executable processes (resource acquisition).
+- **Ready:** processes that are prepared to execute when given the opportunity.
+- **Active:** the process that is currently being executed by the CPU (only one at a time).
+- **Blocked:** a process that cannot execute until some event occurs.
+- **Stopped:** a special case of blocked where the process is suspended by the operator or the user.
+- **Exiting:** a process that is about to be removed from the pool of executable processes (resource release).
