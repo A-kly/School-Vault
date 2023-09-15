@@ -37,7 +37,7 @@
 # Language Acquisition
 ## Milestones (FYI)
 ![[Pasted image 20230914161244.png]]
-## Theories of Language Acquisition
+## Older Theories of Language Acquisition
 ### Behaviourist - Skinner’s Environmental Theory of Language
 ==hardcore behaviourist mindset, sounds like classical conditioning to me==
 - **Language is verbal behavior**
@@ -63,31 +63,33 @@
 	- Children across cultures acquire nouns before verbs
 	- Grammatical structure varies little between cultures
 	- Default tendency of gestures
-### An Emergentist Perspective (Interactionism)
+## An Emergentist Perspective (Interactionism)
 ==Bridges the gap between nativist and environmentalist (behavioural) approaches==
 ![[Pasted image 20230914163238.png|300]]
 Interacts heavily with [[#Biology]] and [[#Cognition]]
-#### Biology
-##### Broca’s Area
+### Biology
+#### Broca’s Area
 **Aphasia:** inability or difficulty in producing speech
 - Broca’s Patient Tan could only say “tan” after head trauma
 	- Broca’s aphasia
 - Mostly lower frontal lobe trauma
 	- ![[Pasted image 20230914163854.png|400]]
-##### Wernicke's Area
+#### Wernicke's Area
 - Wernicke’s patient could produce speech, but it was nonsense
 	- Wernicke’s or fluent aphasia
 - Mostly temporal lobe trauma
 	- Wernicke’s area responsible for speech comprehension
 	- ![[Pasted image 20230914164046.png|400]]
 
-##### Important Findings
+#### Important Findings
 1. There seemed to be an area of the brain controlling speech
 2. Language production appeared to be controlled by the left hemisphere
 3. Broca's and Wernicke's Areas are connected
 ![[Pasted image 20230914164228.png|400]]
 
-### Others
-- Culture, language, and thought
-	- Linguistic relativity
+### What is the purpose of language?
+1. Communicate thoughts, ideas, and feelings
+2. Facilitate social communication
+3. Connect abstract concepts to the real world
+### Cogniton
 
