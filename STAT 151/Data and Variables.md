@@ -160,6 +160,10 @@ We can generate the following double bar chart:
 
 
 # Summary of data
+$$\overline x = M = mean$$
+$$\sigma = Standard\space Deviat$$
+Calculations based on *population data* is called a **parameter.**
+Calculations based on *sample data* is called a **Statistic.**
 ## Center of Data
 ==Most typical value==
 ### For [[#Numerical]] data
@@ -182,4 +186,3 @@ We can generate the following double bar chart:
 		- Value that repeats the most frequently
 	- appropriate for categorical data
 		- We cannot use mean (eg. averaging gender) or median (eg. gender is not ordered)
-
