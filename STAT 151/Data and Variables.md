@@ -103,18 +103,6 @@ Alternatively, We can use relative frequencies
 | D     | 0.15  |                15%                |
 | F     | 0.05  |                  5%              |
 | Total | 1.0   |                   100%             |
-### Contingency table
-| Treatment   | Relapse | No Relapse | Total |
-| ----------- | ------- | ---------- | ----- |
-| desipramine | 10      | 14         | 24    |
-| lithium     | 18      | 6          | 24    |
-| Placebo     | 20      | 4          | 24    |
-| Total       | 48      | 24         | 72    |
-- Table that shows data for two variables.
-- Two categorical variables are said to be independent or not associated if the conditional distributions of one variable is the same in each category of the other variable.
-	- When two variables are not associated, then we say one of the variables is homogeneous with respect to the other variable.
-
-
 ### Bar chart
 ![[Pasted image 20230912112115.png|500]]
 ### Pie chart
@@ -142,3 +130,17 @@ Alternatively, We can use relative frequencies
 | 8                         | 8                          |
 
 
+## Marginal and Conditional relative frequency
+### Contingency table
+| Treatment   | Relapse | No Relapse | Total |
+| ----------- | ------- | ---------- | ----- |
+| desipramine | 10      | 14         | 24    |
+| lithium     | 18      | 6          | 24    |
+| Placebo     | 20      | 4          | 24    |
+| Total       | 48      | 24         | 72    |
+- Table that shows data for two variables.
+- Two categorical variables are said to be independent or not associated if the conditional distributions of one variable is the same in each category of the other variable.
+	- When two variables are not associated, then we say one of the variables is homogeneous with respect to the other variable.
+- **Marginal:** Along the bottom and right border of the table
+- **The marginal *relative* frequency** distribution of Treatment is is 24/72 for desipramine, 24/72 for Lithium, and 24/72 for Placebo.
+- **The conditional *relative* frequency** distribution of Treatment for the Relapsed group is 10/48 for desipramine, 18/48 for Lithium, and 20/48 for Placebo.
