@@ -307,11 +307,11 @@ How people should be educated, treated, and respected when participating in any 
 - Legal protection for laboratory animals
 - Animal care guidelines and the three R’s
 	- **Replacement**
-		- Researchers have to prove there is no alternative to using animals in research and that the use of animals is justified by the scientific or clinical.
+		- Researchers have to prove there is *no alternative to using animals* in research and that the use of animals is justified by the scientific or clinical.
 	- **Refinement**
-		- 
+		- Procedures must be *modified to minimize discomfort, infection, illness, and pain* of animals.
 	- **Reduction**
-		- 
+		- Researchers must use the *smallest number of animals possible* to achieve the research.
 - Ethically balancing animal welfare, animal rights, and animal research
 
 ## Ethical Decision Making
