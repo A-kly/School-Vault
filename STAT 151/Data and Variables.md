@@ -208,7 +208,7 @@ $$Range = Maximum \space value - Minimum \space value$$
 ### Standard deviation
 Measures the variation of values around the mean
 #### For population
-$$\sigma = Standard\space Deviation \space for \space a \space population= \sqrt {\frac{\sum{(x-\mu)^2}}{N}}$$
+$$Standard\space Deviation \space for \space a \space population = \sigma = \sqrt {\frac{\sum{(x-\mu)^2}}{N}}$$
 **Where ==N== is the population size**
 **Where ==Mu== is mean**
 #### For sample
@@ -224,5 +224,8 @@ $$ (xi-\overline{x}) = Mean \space deviation$$
 #### Estimating Quartiles
 - **Q2** is exactly the median of the entire data set.
 - **Q1** is the median of the bottom 50% of the data.
+	- 
 - **Q3** is the median of the top 50% of the data.
-#### 
+#### Interquartile range
+$$IQR = Q3-Q1$$
+IQR gives us the range that covers the *middle 50*% of the data.
