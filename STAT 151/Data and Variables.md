@@ -160,16 +160,7 @@ We can generate the following double bar chart:
 
 
 # Summary of data
-## Formulas
-### Mean
-$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$
-### Standard deviation
-$$\sigma = Standard\space Deviation \space for \space a \space population= $$
-![[Pasted image 20230918101123.png]]
-$$Standard \space deviation \space For \space a \space Sample = s =$$ ![[Pasted image 20230918100849.png|200]] ![[Pasted image 20230918100935.png|400]]
-
-### Range
-$$Range = Maximum \space value - Minimum \space value$$
+### Definitions
 Calculations based on *population data* is called a **parameter.**
 Calculations based on *sample data* is called a **Statistic.**
 ## Center of Data
@@ -185,7 +176,7 @@ Calculations based on *sample data* is called a **Statistic.**
 Example data = `{0,100,100,100}`
 
 - Mean
-	- $$mean=\frac{\sum(xi)}{n}$$
+	- $$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$
 	- (n = Number of values, xi = the ith data value)
 	- *Add all values, divide by number of values*
 	- Uses all values
@@ -210,3 +201,11 @@ Example data = `{F, M, F, F, M}`
 	- appropriate for categorical data
 		- We cannot use mean (eg. averaging gender) or median (eg. gender is not ordered)
 	- For example data, `M` shows up 2 times, `F` Shows up 2 times Therefore *Mode = F*
+## Measures of variation
+### Range
+$$Range = Maximum \space value - Minimum \space value$$
+
+### Standard deviation
+$$\sigma = Standard\space Deviation \space for \space a \space population= \sqrt {\frac{\sum{(x\sub{i}-\overline{x})^2}}{N}}$$
+$$Standard \space deviation \space For \space a \space Sample = s = \sqrt {\frac{\sum{(x-\mu)^2}}{N}}$$![[Pasted image 20230918100849.png|200]] ![[Pasted image 20230918100935.png|400]]
+**Where ==N== is the population size**
