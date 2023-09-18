@@ -160,7 +160,15 @@ We can generate the following double bar chart:
 
 
 # Summary of data
-$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$$$\sigma = Standard\space Deviation = $$ ![[Pasted image 20230918100849.png|]]
+## Formulas
+### Mean
+$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$
+### Standard deviation
+$$\sigma = Standard\space Deviation \space for \space a \space population= $$
+![[Pasted image 20230918101123.png]]
+$$Standard \space deviation \space For \space a \space Sample = s =$$ ![[Pasted image 20230918100849.png|200]] ![[Pasted image 20230918100935.png|400]]
+
+### Range
 $$Range = Maximum \space value - Minimum \space value$$
 Calculations based on *population data* is called a **parameter.**
 Calculations based on *sample data* is called a **Statistic.**
