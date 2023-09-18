@@ -165,6 +165,13 @@ Calculations based on *population data* is called a **parameter.**
 Calculations based on *sample data* is called a **Statistic.**
 ## Center of Data
 ==Most typical value==
+- Mean
+- Median
+- Mode
+![[Pasted image 20230918100228.png]]
+- **Skewed to the Left:** Pushed towards the right from the left.
+- **Skewed to the Right:** Pushed towards the left from the right.
+- **Symetric:** No skewing.
 ### For [[#Numerical]] data
 Example data = `{0,100,100,100}`
 
@@ -174,13 +181,13 @@ Example data = `{0,100,100,100}`
 	- *Add all values, divide by number of values*
 	- Uses all values
 	- For example data, Mean = `(0 + 100 + 100 + 100) / 4 = 75`
-	- If we have the average of two groups of data:
-		- $$\overline {x1} $$
+	- *Symetrical data*
 - Median
 	- *Middle value* after sorting data in increasing order
 	- **If n is odd:** median is middle value
 	- **If n is even:** median is average (mean) of two middle values
 	- Uses only middle values
+	- *Skewed data*
 	- For example data, Median  = `(100 + 100) / 2 = 100`
 
 ==For skewed data, the median is more appropriate than the mean==
