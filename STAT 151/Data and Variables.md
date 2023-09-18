@@ -231,6 +231,14 @@ $$ (xi-\overline{x}) = Mean \space deviation$$
 $$IQR = Q3-Q1$$
 IQR gives us the range that covers the *middle 50%* of the data.
 
+### Upper fence & Lower fence
+**Used to set a cut-off for *outlier* values.**
+- Upper fence/limit:
+$$ Upper \space Fence = Q3 + 1.5 \space IQR$$
+ - Lower fence/limit:
+$$ Lower \space Fence = Q1 - 1.5 \space IQR$$
+- Values *above upper fence* or *below lower fence* are outliers.
+- Values right before cut-offs are called *Adjecent values*.
 ### Variance 
 $$ Sample \space variance = s^2 = (std \space dev)^2$$
 
