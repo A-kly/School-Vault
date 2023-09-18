@@ -160,18 +160,19 @@ We can generate the following double bar chart:
 
 
 # Summary of data
-$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$$$\sigma = Standard\space Deviation$$
+$$\overline x \space in \space sample = M \space in \space population= Mean = \frac{\sum(xi)}{n}$$$$\sigma = Standard\space Deviation = $$ ![[Pasted image 20230918100849.png|]]
+$$Range = Maximum \space value - Minimum \space value$$
 Calculations based on *population data* is called a **parameter.**
 Calculations based on *sample data* is called a **Statistic.**
 ## Center of Data
 ==Most typical value==
-- Mean
-- Median
-- Mode
 ![[Pasted image 20230918100228.png]]
-- **Skewed to the Left:** Pushed towards the right from the left.
-- **Skewed to the Right:** Pushed towards the left from the right.
-- **Symetric:** No skewing.
+- **Skewed to the Left:** Pushed towards the right from the left. Extremes to the left.
+	- Mean < Median < Mode
+- **Skewed to the Right:** Pushed towards the left from the right. Extremes to the right.
+	- Mode < Median < Mean
+- **Symmetric:** No skewing.
+	- Median = Mean = Mode
 ### For [[#Numerical]] data
 Example data = `{0,100,100,100}`
 
@@ -188,6 +189,7 @@ Example data = `{0,100,100,100}`
 	- **If n is even:** median is average (mean) of two middle values
 	- Uses only middle values
 	- *Skewed data*
+	- *Divides area under curve in half equally*
 	- For example data, Median  = `(100 + 100) / 2 = 100`
 
 ==For skewed data, the median is more appropriate than the mean==
