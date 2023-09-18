@@ -206,6 +206,10 @@ Example data = `{F, M, F, F, M}`
 $$Range = Maximum \space value - Minimum \space value$$
 
 ### Standard deviation
-$$\sigma = Standard\space Deviation \space for \space a \space population= \sqrt {\frac{\sum{(x\sub{i}-\overline{x})^2}}{N}}$$
-$$Standard \space deviation \space For \space a \space Sample = s = \sqrt {\frac{\sum{(x-\mu)^2}}{N}}$$![[Pasted image 20230918100849.png|200]] ![[Pasted image 20230918100935.png|400]]
+#### For population
+$$\sigma = Standard\space Deviation \space for \space a \space population= \sqrt {\frac{\sum{(x-\mu)^2}}{N}}$$
 **Where ==N== is the population size**
+#### For sample
+$$Standard \space deviation \space for \space a \space sample = s = \sqrt {\frac{\sum{(xi-\overline {x})^2}}{n-1}}$$ ![[Pasted image 20230918100935.png|400]]
+**Where ==n== is the sample size**
+$$ (xi-\overline{x}) = ,,Mean \space deviation''$$
