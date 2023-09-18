@@ -224,8 +224,13 @@ $$ (xi-\overline{x}) = Mean \space deviation$$
 #### Estimating Quartiles
 - **Q2** is exactly the median of the entire data set.
 - **Q1** is the median of the bottom 50% of the data.
-	- 
+	- Median from lowest value to Q2 (excluding Q2 if it is not part of the original data).
 - **Q3** is the median of the top 50% of the data.
+	- Median from Q2 to highest value (excluding Q2 if it is not part of the original data).
 #### Interquartile range
 $$IQR = Q3-Q1$$
-IQR gives us the range that covers the *middle 50*% of the data.
+IQR gives us the range that covers the *middle 50%* of the data.
+
+### Variance 
+$$ Sample \space variance = s^2 = (std \space dev)^2$$
+
