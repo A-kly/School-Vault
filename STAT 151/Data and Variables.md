@@ -214,5 +214,15 @@ $$\sigma = Standard\space Deviation \space for \space a \space population= \sqrt
 #### For sample
 $$Standard \space deviation \space for \space a \space sample = s = \sqrt {\frac{\sum{(xi-\overline {x})^2}}{n-1}}$$ ![[Pasted image 20230918100935.png|400]]
 **Where ==n== is the sample size**
-**Where ==x bar== is mean
+**Where ==x bar== is mean**
+**Where ==xi== is a given datum**
 $$ (xi-\overline{x}) = Mean \space deviation$$
+### Inter quartile range (IQR)
+- **Quartiles:** Denoted Q1 --> Q3, Divides the sorted data into four equal parts.
+	- *Remember, median divides data into two halves*
+	- *Quartiles are an extension of the median*
+#### Estimating Quartiles
+- **Q2** is exactly the median of the entire data set.
+- **Q1** is the median of the bottom 50% of the data.
+- **Q3** is the median of the top 50% of the data.
+#### 
