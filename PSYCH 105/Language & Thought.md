@@ -100,4 +100,9 @@ Language is localized in the brain.
 ![[Pasted image 20230919153531.png]]
 Construction of lexicon reffers to [[#The Structure of Language]] as well.
 ![[Pasted image 20230919153643.png]]
-#####
+##### Lexicon construction
+![[Pasted image 20230919160206.png]]
+#### Category Membership
+![[Pasted image 20230919160300.png]]
+- Saves processing power and mental storage compared to memorization.
+	- eg, all kinds of street lights are still streetlights, the category is streetlights.
