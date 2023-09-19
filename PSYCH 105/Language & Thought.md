@@ -142,3 +142,16 @@ Problem B can solved more efficiently by using a different strategy.
 		- Narrows our ability to think of novel solutions
 ### Functional Fixedness
 - **Functional fixedness:** tendency to view an object as only having one function, the one that is commonly used for, and neglecting to see other possible uses
+- ![[Pasted image 20230919162815.png]]
+	- eg. burn the candle without letting the wax drip
+		- When items are presented in box, people do not use box as a tool
+		- When items are presented outside of box, box becomes a useable tool
+	- eg. a wrench is not a hammer
+### Strategies
+- **Algorithm:** precise set of rules applied in order to solve a problem
+	- Guaranteed (mostly) to find a solution
+	- eg. trying every possible number combo on a safe 
+- **Trial-and-error:** apply a sequence of possible strategies until the solution is reached
+	- No real order/process
+	- eg. trying birthdays, important dates, etc. on a safe
+![[Pasted image 20230919163300.png]] Logic proble
