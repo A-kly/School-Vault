@@ -108,3 +108,16 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 	- eg, all kinds of street lights are still streetlights, the category is streetlights.
 ![[Pasted image 20230919160910.png]]
 ![[Pasted image 20230919160928.png]]
+### Language, Culture, and Classification
+- **Sapir-Whorf Hypothesis:**
+	- A theory which posits the structural differences in language can alter one’s perception and understanding of reality
+	- Also known as **linguistic relativity**
+![[Pasted image 20230919161416.png]]
+- Look at people in specific cultures and languages to see how many words they have for a certain color for blue
+	- some languages only have "warm" and "cool" colors. 
+- Look at ability to match sample to comparisons
+	- Flash color on screen, remove color, present options
+- Does accuracy relate to # of words for colors?
+	- YES(???). More words to describe colors correlates to more easy perception of colors.
+- Does it actually relate to word count or does it relate to practice?
+	- Maybe!
