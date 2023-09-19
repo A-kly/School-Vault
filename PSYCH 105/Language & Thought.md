@@ -73,6 +73,7 @@ Interacts heavily with [[#Biology]] and [[#Cognition]]
 - Broca’s Patient Tan could only say “tan” after head trauma
 	- Broca’s aphasia
 - Mostly lower frontal lobe trauma
+	- Near motor cortex section for mouth, vocal chords, lips, 
 	- ![[Pasted image 20230914163854.png|400]]
 #### Wernicke's Area
 - Wernicke’s patient could produce speech, but it was nonsense
