@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat sheet.md",
-                "mode": "preview",
+                "file": "PSYCH 105/Language & Thought.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "PSYCH 105/Language & Thought.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +145,7 @@
   },
   "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
+    "Markdown Cheat sheet.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Media/Pasted image 20230919153643.png",
@@ -161,7 +162,6 @@
     "CMPUT 379/Media/Pasted image 20230915123638.png",
     "CMPUT 379/NO.md",
     "CMPUT 379/Operating Systems Introduction.md",
-    "Markdown Cheat sheet.md",
     "CMPUT 379/Class info.md",
     "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Media/Pasted image 20230915120354.png",
