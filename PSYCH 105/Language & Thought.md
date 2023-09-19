@@ -106,3 +106,5 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 ![[Pasted image 20230919160300.png]]
 - Saves processing power and mental storage compared to memorization.
 	- eg, all kinds of street lights are still streetlights, the category is streetlights.
+![[Pasted image 20230919160910.png]]
+![[Pasted image 20230919160928.png]]
