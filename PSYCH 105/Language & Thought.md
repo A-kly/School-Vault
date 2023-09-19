@@ -68,12 +68,13 @@
 ![[Pasted image 20230914163238.png|300]]
 Interacts heavily with [[#Biology]] and [[#Cognition]]
 ### Biology
+Language is localized in the brain.
 #### Broca’s Area
 **Aphasia:** inability or difficulty in producing speech
 - Broca’s Patient Tan could only say “tan” after head trauma
 	- Broca’s aphasia
 - Mostly lower frontal lobe trauma
-	- Near motor cortex section for mouth, vocal chords, lips, 
+	- Near motor cortex section for mouth, vocal chords, lips
 	- ![[Pasted image 20230914163854.png|400]]
 #### Wernicke's Area
 - Wernicke’s patient could produce speech, but it was nonsense

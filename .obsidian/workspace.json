@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,8 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c664f6e01c788ddb",
+  "active": "9abb078a04ba34ef",
   "lastOpenFiles": [
+    "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Media/Pasted image 20230919153643.png",
     "PSYCH 105/Media/Pasted image 20230919153531.png",
@@ -170,7 +171,6 @@
     "PSYCH 105/emergentist.md",
     "STAT 151/STAT 151.md",
     "STAT 151/Media",
-    "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Class Info.md",
     "Class info.md",
     "CMPUT 379/Media",
