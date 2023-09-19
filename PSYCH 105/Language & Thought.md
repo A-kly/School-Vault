@@ -131,4 +131,14 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 	- available strategies
 ![[Pasted image 20230919161936.png|400]]
 #### The Approach to a Problem
-
+![[Pasted image 20230919162512.png|500]]
+![[Pasted image 20230919162526.png|500]]
+Problem B can solved more efficiently by using a different strategy.
+##### Mental Set
+- **Mental set:** expectation of how to solve a problem
+	- Mental set influences how we approach a problem
+	- Can lead to fixations (getting stuck with the same thought process as before)
+		- Past experience or expectations can influence how we approach a problem
+		- Narrows our ability to think of novel solutions
+### Functional Fixedness
+- **Functional fixedness:** tendency to view an object as only having one function, the one that is commonly used for, and neglecting to see other possible uses
