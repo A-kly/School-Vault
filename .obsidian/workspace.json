@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
-                "mode": "source",
+                "file": "Markdown Cheat sheet.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md"
+                "file": "Markdown Cheat sheet.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "Markdown Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "Markdown Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +129,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -144,10 +143,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9abb078a04ba34ef",
+  "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
-    "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Language & Thought.md",
+    "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Media/Pasted image 20230919153643.png",
     "PSYCH 105/Media/Pasted image 20230919153531.png",
     "CMPUT 379/Processes and Threads.md",
