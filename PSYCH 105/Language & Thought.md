@@ -100,3 +100,4 @@ Language is localized in the brain.
 ![[Pasted image 20230919153531.png]]
 Construction of lexicon reffers to [[#The Structure of Language]] as well.
 ![[Pasted image 20230919153643.png]]
+#####
