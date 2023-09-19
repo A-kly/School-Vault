@@ -63,7 +63,7 @@
 	- Children across cultures acquire nouns before verbs
 	- Grammatical structure varies little between cultures
 	- Default tendency of gestures
-## An Emergentist Perspective (Interactionism)
+## Interactionism (An Emergentist Perspective)
 ==Bridges the gap between nativist and environmentalist (behavioural) approaches==
 ![[Pasted image 20230914163238.png|300]]
 Interacts heavily with [[#Biology]] and [[#Cognition]]
@@ -91,5 +91,10 @@ Interacts heavily with [[#Biology]] and [[#Cognition]]
 1. Communicate thoughts, ideas, and feelings
 2. Facilitate social communication
 3. Connect abstract concepts to the real world
-### Cogniton
+### Cognition
 
+#### Mental Lexicon
+- storage of words and related concepts
+![[Pasted image 20230919153531.png]]
+Construction of lexicon reffers to [[#The Structure of Language]] as well.
+![[Pasted image 20230919153643.png]]
