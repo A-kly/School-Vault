@@ -154,4 +154,14 @@ Problem B can solved more efficiently by using a different strategy.
 - **Trial-and-error:** apply a sequence of possible strategies until the solution is reached
 	- No real order/process
 	- eg. trying birthdays, important dates, etc. on a safe
-![[Pasted image 20230919163300.png]] Logic proble
+- Logic problem:![[Pasted image 20230919163300.png]]
+
+### Heuristics
+- Shortcuts that we can apply to solve a problem.
+	- "quick and dirty solution"
+- **Means-end heuristic:** Keep the end goal in mind (goal-state) and take whatever measures necessary to attain that goal
+- **Representative heuristic:** problem solver mentally comparing something to our stored prototype of an event, object, or person
+	- Assume something belongs to a category because it seems like the prototype
+	- Beneficial because it helps us intuitively solve problems quickly
+	- But can also lead to errors in problem solving
+- **Availability heuristic:** Rule of thumb that we accurately estimate frequencies of events based on how difficult it is to think of them
