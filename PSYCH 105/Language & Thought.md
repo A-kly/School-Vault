@@ -107,8 +107,8 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 	- eg, all kinds of street lights are still streetlights, the category is streetlights.
 ![[Pasted image 20230919160910.png]]
 ![[Pasted image 20230919160928.png]]
-# Language, Culture, and Classification
-## Sapir-Whorf Hypothesis:
+### Language, Culture, and Classification
+#### Sapir-Whorf Hypothesis:
 - A theory which posits the structural differences in language can alter one’s perception and understanding of reality
 	- Also known as **linguistic relativity**
 ![[Pasted image 20230919161416.png]]
@@ -120,6 +120,7 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 	- YES(???). More words to describe colors correlates to more easy perception of colors.
 - Does it actually relate to word count or does it relate to practice?
 	- Maybe!
+# Overall cognition
 ## Problem Solving 
 - Sequential process from initial problem state to desired end goal
 - Problem solving ability influenced by:
@@ -139,14 +140,14 @@ Problem B can solved more efficiently by using a different strategy.
 	- Can lead to fixations (getting stuck with the same thought process as before)
 		- Past experience or expectations can influence how we approach a problem
 		- Narrows our ability to think of novel solutions
-## Functional Fixedness
+### Functional Fixedness
 - **Functional fixedness:** tendency to view an object as only having one function, the one that is commonly used for, and neglecting to see other possible uses
 - ![[Pasted image 20230919162815.png]]
 	- eg. burn the candle without letting the wax drip
 		- When items are presented in box, people do not use box as a tool
 		- When items are presented outside of box, box becomes a useable tool
 	- eg. a wrench is not a hammer
-## Strategies
+### Strategies
 - **Algorithm:** precise set of rules applied in order to solve a problem
 	- Guaranteed (mostly) to find a solution
 	- eg. trying every possible number combo on a safe 
@@ -167,4 +168,27 @@ Problem B can solved more efficiently by using a different strategy.
 	- eg. Most people assume sharks kill more people than vending machines
 		- Due to media attention, awareness of when it happens, news, etc.
 	- eg. people assume divorces are as common globally as they are in your friend group
-##
+## Creativity
+1. Preparation - become familiar with a topic
+2. Incubation - taking a break from effortful problem solving
+3. Illumination - insight or suddenly realizing solution to problem
+4. Evaluation - decide how good your solution is
+
+## Bias in Decision Making
+- **Confirmation Bias:** Only pay attention to evidence that supports our original position
+	- Ignore disconfirming evidence
+- **Framing:** How you present information influences the choices people make
+	- Take the sure thing for a gain frame
+	- Take the chance to avoid a loss
+	- eg. Framing Effect in a Game Scenario: ![[Pasted image 20230919164700.png]]
+## Dual-Process Theory
+### System 1
+- Fast
+- Heuristics
+- Experience and emotions (intuition) used
+- Rely on emotional centers of the brain
+### System 2
+• Slow
+• Logical thinking
+• Recruit higher order
+thinking areas of the brain
