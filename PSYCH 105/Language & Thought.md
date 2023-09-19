@@ -121,3 +121,14 @@ Construction of lexicon reffers to [[#The Structure of Language]] as well.
 	- YES(???). More words to describe colors correlates to more easy perception of colors.
 - Does it actually relate to word count or does it relate to practice?
 	- Maybe!
+### Problem Solving
+- Sequential process from initial problem state to desired end goal
+- Problem solving ability influenced by:
+	- nature of the problem
+	- the way you approach the problem
+	- past experiences
+	- general knowledge
+	- available strategies
+![[Pasted image 20230919161936.png|400]]
+#### The Approach to a Problem
+
