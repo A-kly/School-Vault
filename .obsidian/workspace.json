@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "53c09562caf2bd4e",
+        "id": "ebefc6a72b39c214",
         "type": "tabs",
         "children": [
           {
-            "id": "638cadb9a04bf729",
+            "id": "c664f6e01c788ddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "029cc98bf0ff2011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 151/Data and Variables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f395047ce292bba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT 151/Data and Variables.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,15 +72,14 @@
     "type": "split",
     "children": [
       {
-        "id": "753634e1b73af31d",
+        "id": "cff14d84e57cc96b",
         "type": "tabs",
-        "dimension": 40.025252525252526,
         "children": [
           {
-            "id": "2d5bfc7f5c9441e4",
+            "id": "24162dc252b7081a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
               "state": {}
             }
           },
@@ -125,21 +92,13 @@
                 "sortOrder": "frequency"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "cff14d84e57cc96b",
-        "type": "tabs",
-        "dimension": 59.97474747474747,
-        "children": [
+          },
           {
             "id": "9abb078a04ba34ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,23 +119,13 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "24162dc252b7081a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "STAT 151/Data and Variables.md"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,16 +135,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f395047ce292bba",
+  "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
-    "429 Ch1 Q4.md",
+    "PSYCH 105/Methods in Psychology.md",
     "STAT 151/Data and Variables.md",
+    "429 Ch1 Q4.md",
     "STAT 151/Media/Pasted image 20230918101123.png",
     "STAT 151/Media/Pasted image 20230918100935.png",
     "STAT 151/Media/Pasted image 20230918100849.png",
     "STAT 151/Media/Pasted image 20230918100835.png",
     "STAT 151/Media/Pasted image 20230918100228.png",
-    "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230915123638.png",
     "CMPUT 379/NO.md",

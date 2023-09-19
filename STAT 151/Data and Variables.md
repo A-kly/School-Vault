@@ -9,7 +9,6 @@ Goal: to take a sample of a very large population, Analyze and come to conclusio
 	- What does the data (median, mean, standard deviation, histogram) mean?
 ## Inferential statistics
 - Make generalisations of the population
-
 # Data types
 ## Categorical
 No granularity, only categories	
@@ -157,8 +156,6 @@ We can generate the following double bar chart:
 | 8                         | 000044                     |
 | 8                         | 8                          |
 
-
-
 # Summary of data
 ### Definitions
 Calculations based on *population data* is called a **parameter.**
@@ -238,7 +235,7 @@ $$ Upper \space Fence = Q3 + 1.5 \space IQR$$
  - Lower fence/limit:
 $$ Lower \space Fence = Q1 - 1.5 \space IQR$$
 - Values *above upper fence* or *below lower fence* are outliers.
-- Values right before cut-offs are called *Adjecent values*.
+- Values right before cut-offs are called *Adjacent values*.
 ### Variance 
 $$ Sample \space variance = s^2 = (std \space dev)^2$$
 
