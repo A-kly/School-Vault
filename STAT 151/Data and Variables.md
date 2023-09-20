@@ -231,7 +231,7 @@ $$ Sample \space variance = s^2 = (std \space dev)^2$$
 #### Interquartile range
 $$IQR = Q3-Q1$$
 IQR gives us the range that covers the *middle 50%* of the data.
-
+## More summary tools
 ### Upper fence & Lower fence
 **Used to set a cut-off for *outlier* values.**
 - Upper fence/limit:
@@ -259,6 +259,11 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - Same role as quartiles
 ## Relative Standing and Normal Model
 - A **z-score** (or standardized value), is the number of standard deviations that a given value x is above or below the mean.
-	- Shows the relative standing of x in the data.
+	- Shows the relative standing of x in the data (around mean).
 - For a sample: $$ Z = \frac {x−\overline x} {s}$$
 - For a population: $$ Z = \frac {x−\mu} {\sigma}$$Rounded to 2 decimal places
+- *Used to compare two values in two different groups.*
+	- If you have two data sets, `data1` and `data2`
+	- How do we compare a given `x1` from `data1` with a given `x2` from `data2`?
+	- We use the Z-score do do it!
+	- eg. compare two students across two different midterms

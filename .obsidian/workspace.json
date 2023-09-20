@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"This is a property field\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c664f6e01c788ddb",
+  "active": "d1f70ec830a48d37",
   "lastOpenFiles": [
     "STAT 151/Media/Pasted image 20230920103337.png",
     "STAT 151/Media/Pasted image 20230920102632.png",
