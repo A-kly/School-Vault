@@ -13,9 +13,9 @@ Goal: to take a sample of a very large population, Analyze and come to conclusio
 ## Categorical
 No granularity, only categories	
 
-- **Nominal**: No method to compare between categories, we have simply given *Names* to categories
+- **Nominal**: No method to compare between categories, we have simply given *Names* to categories. 
 	- Eg: Gender, Blood type
-- **Ordinal**: We can made an order to each category, One observation/category comes before (or is better than) another category
+- **Ordinal**: We can made an order to each category, One observation/category comes before (or is better than) another category  
 	- Eg: Letter grades
 - **Center of data:** Mode
 ### Nominal vs Ordinal
@@ -24,10 +24,10 @@ Ask: Is one data better than another?
 ## Numerical
 No distinct categories, more continuous
 
-- **Discrete**: described with *integers* only
+- **Discrete**: described with *integers* only  
 	- Counted, not measured
 	- eg: \# of customers
-- **Continuous**: Fractions of a unit are allowed
+- **Continuous**: Fractions of a unit are allowed  
 	- Measured, not counted
 	- Eg: Height
 - **Center of data**: Mean, Median
@@ -35,8 +35,8 @@ No distinct categories, more continuous
 Ask: Does the data descibe a category or a value?
 - Phone area code -> Category of location ->Categorical
 # Sampling
-**Good sample data**: Small, representative subset of population, random sampling
-**Bias**: Result of non-representative sample
+**Good sample data**: Small, representative subset of population, random sampling 
+**Bias**: Result of non-representative sample  
 ## 5 Ws of Sampling
 1. Who is in the sample data?
 2. When is the data collected?
@@ -249,3 +249,6 @@ To Construct a Boxplot:
 3. Connect the quartiles to make a box, and then connect the box to the adjacent values with lines.
 4. Plot each potential outlier with an asterisk
 ![[Pasted image 20230920101230.png]]
+- Remember, Q2 is median.
+**Note:** Boxplots can can be used to compare two data sets as shown in the following example.
+Researchers measured skinfold thickness, an indirect indicator of body fat, of samples of runners and non-runners in the same age group. The sample data, in millimetres (mm), are presented below. Use boxplots to compare these two data sets, paying special attention to center and variation. ![[Pasted image 20230920101809.png]]
