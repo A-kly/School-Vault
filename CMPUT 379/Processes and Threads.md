@@ -64,4 +64,4 @@ Second one prints Parent pid and then child pid.
 ### Typical Use of fork()
 ![[Pasted image 20230920122056.png]]
 - `exec()` causes the currrent (often child) process to rewrite itself. It tells the process to change the code and data that it is executing.
-	- 
+==code example online==
