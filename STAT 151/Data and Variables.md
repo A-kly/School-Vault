@@ -253,4 +253,7 @@ To Construct a Boxplot:
 **Note:** Boxplots can can be used to compare two data sets as shown in the following example.
 Researchers measured skinfold thickness, an indirect indicator of body fat, of samples of runners and non-runners in the same age group. The sample data, in millimetres (mm), are presented below. Use boxplots to compare these two data sets, paying special attention to center and variation. ![[Pasted image 20230920101809.png]]
 - Boxplot can also be used to identify the approximate shape of the distribution of a data set. ![[Pasted image 20230920102632.png]]
-- 
+### Percentiles
+- denoted P1, P2, . . ., P99, which partition the data into 100 groups with about 1% of the values in each group.
+![[Pasted image 20230920103337.png]]
+
