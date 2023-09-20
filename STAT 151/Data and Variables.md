@@ -256,4 +256,9 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 ### Percentiles
 - denoted P1, P2, . . ., P99, which partition the data into 100 groups with about 1% of the values in each group.
 ![[Pasted image 20230920103337.png]]
-
+- Same role as quartiles
+## Relative Standing and Normal Model
+- A **z-score** (or standardized value), is the number of standard deviations that a given value x is above or below the mean.
+	- Shows the relative standing of x in the data.
+- For a sample: $$ Z = \frac {x−\overline x} {s}$$
+- For a population: $$ Z = \frac {x−\mu} {\sigma}$$Rounded to 2 decimal places
