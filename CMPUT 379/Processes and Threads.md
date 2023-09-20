@@ -65,3 +65,7 @@ Second one prints Parent pid and then child pid.
 ![[Pasted image 20230920122056.png]]
 - `exec()` causes the currrent (often child) process to rewrite itself. It tells the process to change the code and data that it is executing.
 ==code example online==
+### Coordination
+- Parent and child(ren) process(es) may need to coordinate with each other.
+	- `wait()` allows the parent to check the running status of the child, and/or wait until the child process completes.
+	- This is a form of synchronization, an important concept in concurrency (more later in the course).
