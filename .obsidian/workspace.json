@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,6 +145,8 @@
   },
   "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
+    "STAT 151/Media/Pasted image 20230920101230.png",
+    "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Media/Pasted image 20230919164700.png",
     "PSYCH 105/Media/Pasted image 20230919163909.png",
     "PSYCH 105/Media/Pasted image 20230919163300.png",
@@ -156,9 +157,7 @@
     "PSYCH 105/Media/Pasted image 20230919161936.png",
     "PSYCH 105/Media/Pasted image 20230919161416.png",
     "PSYCH 105/Media/Pasted image 20230919160928.png",
-    "PSYCH 105/Media/Pasted image 20230919160910.png",
     "Markdown Cheat sheet.md",
-    "PSYCH 105/Language & Thought.md",
     "PSYCH 105/PSYCH 105.md",
     "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Methods in Psychology.md",

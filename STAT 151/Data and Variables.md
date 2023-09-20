@@ -214,6 +214,10 @@ $$Standard \space deviation \space for \space a \space sample = s = \sqrt {\frac
 **Where ==x bar== is mean**
 **Where ==xi== is a given datum**
 $$ (xi-\overline{x}) = Mean \space deviation$$
+### Variance 
+$$ Sample \space variance = s^2 = (std \space dev)^2$$
+
+
 ### Inter quartile range (IQR)
 - **Quartiles:** Denoted Q1 --> Q3, Divides the sorted data into four equal parts.
 	- *Remember, median divides data into two halves*
@@ -235,7 +239,13 @@ $$ Upper \space Fence = Q3 + 1.5 \space IQR$$
  - Lower fence/limit:
 $$ Lower \space Fence = Q1 - 1.5 \space IQR$$
 - Values *above upper fence* or *below lower fence* are outliers.
-- Values right before cut-offs are called *Adjacent values*.
-### Variance 
-$$ Sample \space variance = s^2 = (std \space dev)^2$$
-
+- **Adjacent values:** Values right before cut-offs.
+### The five-number summary
+- The five-number summary of a data set is Min, Q1, Q2, Q3, Max.
+### Box plot
+To Construct a Boxplot:
+1. Determine the quartiles, potential outliers and the adjacent values.
+2. Draw a horizontal axis on which the numbers obtained in Steps 1 can be located. Above this axis,  mark the quartiles and the adjacent values with vertical lines.
+3. Connect the quartiles to make a box, and then connect the box to the adjacent values with lines.
+4. Plot each potential outlier with an asterisk
+![[Pasted image 20230920101230.png]]
