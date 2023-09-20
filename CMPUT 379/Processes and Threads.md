@@ -61,3 +61,6 @@ OS makes sure to take care of processes by:
 First one prints one parent pid twice.
 Second one prints Parent pid and then child pid.
 ==Code example on eClass==
+### Typical Use of fork()
+![[Pasted image 20230920122056.png]]
+`exec()` causes the currrent (often child) process to reqw
