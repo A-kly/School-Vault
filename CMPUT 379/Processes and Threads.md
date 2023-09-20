@@ -56,3 +56,8 @@ OS makes sure to take care of processes by:
 	- `if` evaluates to true
 - **Child process:** Fork() returns 0.
 	- `if` evaluates to false. `else` block runs, child executes `else` code.
+#### Example fork()
+![[Pasted image 20230920120707.png]]
+First one prints one parent pid twice.
+Second one prints Parent pid and then child pid.
+==Code example on eClass==
