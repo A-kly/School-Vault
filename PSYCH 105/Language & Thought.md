@@ -188,7 +188,6 @@ Problem B can solved more efficiently by using a different strategy.
 - Experience and emotions (intuition) used
 - Rely on emotional centers of the brain
 ### System 2
-• Slow
-• Logical thinking
-• Recruit higher order
-thinking areas of the brain
+- Slow
+- Logical thinking
+- Recruit higher order thinking areas of the brain
