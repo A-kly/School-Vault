@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1f70ec830a48d37",
+  "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
+    "CMPUT 379/Media/Pasted image 20230920120414.png",
+    "CMPUT 379/Media/Pasted image 20230920120351.png",
+    "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230920103337.png",
     "STAT 151/Media/Pasted image 20230920102632.png",
     "STAT 151/Media/Pasted image 20230920101809.png",
@@ -157,13 +159,10 @@
     "PSYCH 105/Media/Pasted image 20230919163300.png",
     "PSYCH 105/Media/Pasted image 20230919163112.png",
     "PSYCH 105/Media/Pasted image 20230919162815.png",
-    "PSYCH 105/Media/Pasted image 20230919162526.png",
-    "PSYCH 105/Media/Pasted image 20230919162512.png",
     "Markdown Cheat sheet.md",
     "PSYCH 105/PSYCH 105.md",
     "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Methods in Psychology.md",
-    "STAT 151/Data and Variables.md",
     "429 Ch1 Q4.md",
     "CMPUT 379/NO.md",
     "CMPUT 379/Operating Systems Introduction.md",

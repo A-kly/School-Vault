@@ -46,3 +46,13 @@ OS makes sure to take care of processes by:
 	- **Process control information**, such as scheduling priority, resources held, access privileges, memory allocated, and accounting.
 - Information in both groups are OS dependent.
 - This info is all kept in the **process control block (PCB)** or **process table**.
+
+## Process Scheduling #COMEBACKTOTHIS
+## Process Creation Mechanisms
+![[Pasted image 20230920120351.png]]
+### UNIX Example
+![[Pasted image 20230920120414.png]]
+- **Parent process:** Fork() returns name (pid) of child process.
+	- `if` evaluates to true
+- **Child process:** Fork() returns 0.
+	- `if` evaluates to false. `else` block runs, child executes `else` code.
