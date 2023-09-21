@@ -42,5 +42,17 @@
 - Intelligence test scores correlate with
 	- Academic performance
 	- Occupational status and job performance
-	- Income
+	- Income ![[Pasted image 20230921160909.png]]
 	- Health and longevity
+	- other things ![[Pasted image 20230921160939.png]]
+## The Nature of Intelligence
+### Factor Analysis
+- A statistical technique
+- Reduces a large number of measures to a smaller number of clusters, or factors,
+- Each cluster containing variables that correlate highly with one another but less highly with variables in other clusters
+- A factor allows us to infer the underlying characteristic that presumably accounts for the links among the variables in the cluster.
+
+
+- Charles Spearman (1863–1945)
+	- Is there a hierarchy of intellectual abilities?
+	- Looked for correlations between cognitive tasks and found a lot of them!
