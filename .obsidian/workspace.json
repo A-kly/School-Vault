@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "PSYCH 105/Methods in Psychology.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "PSYCH 105/Methods in Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230921134013.png",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230920124833.png",
@@ -153,13 +154,11 @@
     "CMPUT 379/Media/Pasted image 20230920120707.png",
     "CMPUT 379/Media/Pasted image 20230920120414.png",
     "CMPUT 379/Media/Pasted image 20230920120351.png",
-    "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230920103337.png",
     "STAT 151/Media/Pasted image 20230920102632.png",
     "STAT 151/Media/Pasted image 20230920101809.png",
     "STAT 151/Media/Pasted image 20230920101230.png",
     "PSYCH 105/Language & Thought.md",
-    "PSYCH 105/Media/Pasted image 20230919164700.png",
     "Markdown Cheat sheet.md",
     "PSYCH 105/PSYCH 105.md",
     "PSYCH 105/Methods in Psychology.md",
