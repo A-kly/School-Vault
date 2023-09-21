@@ -179,6 +179,7 @@ Example data = `{0,100,100,100}`
 	- Uses all values
 	- For example data, Mean = `(0 + 100 + 100 + 100) / 4 = 75`
 	- *Symetrical data*
+	- If there are two datasets with respective sample sizes and averages n1, x1 and n2, x2, then the average of the two combined datasets is given by:![[Pasted image 20230921134013.png]]
 - Median
 	- *Middle value* after sorting data in increasing order
 	- **If n is odd:** median is middle value
