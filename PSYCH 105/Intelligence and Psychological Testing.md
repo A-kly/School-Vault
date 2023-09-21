@@ -31,4 +31,16 @@
 	- **Stanford-Binet test**
 	- WW1 used:
 		- Army Alpha (verbal)
-		- Army Beta (non verbal
+		- Army Beta (non verbal)
+## Wechsler Scales
+- David Wechsler
+- Intelligence is set of *verbal* and *non-verbal* skills
+	- Wechsler Adult Intelligence Scale - WAIS
+	- Wechsler Intelligence Scale for Children - WISC
+	- Wechsler Preschool and Primary Scale of Intelligence - WPPSI
+## Using Intelligence Test Scores?
+- Intelligence test scores correlate with
+	- Academic performance
+	- Occupational status and job performance
+	- Income
+	- Health and longevity
