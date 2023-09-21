@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [[Class Info]]
+- [[Intelligence and Psychological Testing]]
 - [[Language & Thought]]
 - **Media**
 
