@@ -69,3 +69,6 @@ Second one prints Parent pid and then child pid.
 - Parent and child(ren) process(es) may need to coordinate with each other.
 	- `wait()` allows the parent to check the running status of the child, and/or wait until the child process completes.
 	- This is a form of synchronization, an important concept in concurrency (more later in the course).
+#### Example wait()
+![[Pasted image 20230920124833.png]]
+==Mode code on eClass==
