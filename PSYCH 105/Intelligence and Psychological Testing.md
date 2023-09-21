@@ -14,7 +14,8 @@
 ## Early History of Intelligence Testing
 - Sir Francis Galton (1822–1911)
 	- Influenced by Darwin’s theory of evolution
-	- Mental ability is inherited
+		- Mental ability is inherited
+	- *Pioneered eugenics. Very aristocracy. Lots of "no class line breaking".*
 - Alfred Binet (1857–1911) and Theodore Simon (1872–1961)
 	- Developed first intelligence test
 		- Designed to quantifying mental ability to identify children that needed alterative education
