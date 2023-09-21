@@ -46,6 +46,12 @@
 	- Health and longevity
 	- other things ![[Pasted image 20230921160939.png]]
 ## The Nature of Intelligence
+### The Flynn Effect
+- Intelligence quotients seem to increase over time
+- Most likely due to a combination of factors:
+	1. Overall improvement in nutrition and medical care
+	2. Improvements in education
+	3. Increased environmental complexity via technology
 ### Factor Analysis
 - A statistical technique
 - **Reduces a large number of measures to a smaller number of clusters, or factors**
@@ -63,7 +69,12 @@
 	• Aka Group factors
 • **Specific abilities (s)** at the bottom
 ### Louis Thurstone (1887–1955)
-• Saw clustering of mental abilities as evidence against
-g (general inteligence)
-• Argued for a few stable and independent primary
-mental abilities
+- Saw clustering of mental abilities as evidence against g (general intelligence)
+- Argued for a few stable and independent primary mental abilities
+#### Seven Primary Mental Abilities
+![[Pasted image 20230921162253.png]]
+### Combining everything
+- Spearman and Thurstone were both correct
+- Three-level hierarchy best describes correlations between scores on different mental ability tests
+- Like Spearman’s general factor (g) and specific factors (s) and Thurstone’s group factors (m)
+![[Pasted image 20230921162511.png]]
