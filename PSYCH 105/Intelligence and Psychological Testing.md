@@ -78,3 +78,13 @@
 - Three-level hierarchy best describes correlations between scores on different mental ability tests
 - Like Spearman’s general factor (g) and specific factors (s) and Thurstone’s group factors (m)
 ![[Pasted image 20230921162511.png]]
+### Middle-Level Abilities
+Two possible approaches:
+- **Data-based approach**
+	- Connect intelligence test scores to clusters (factor analysis)
+	- *"bottom up" approach*, start with the data
+- **Theory-based approach**
+	- Look at human abilities that we think relate to aspects of intelligence
+	- Figure out which intelligence tests measure those abilities or design new ones that can if they don’t exist
+	- *"top down" approach*, start with prior assumptions/
+![[Pasted image 20230921163220.png]]
