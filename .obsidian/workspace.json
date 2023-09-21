@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +146,7 @@
   },
   "active": "c664f6e01c788ddb",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230920124833.png",
     "CMPUT 379/Media/Pasted image 20230920122056.png",
     "CMPUT 379/Media/Pasted image 20230920120707.png",
@@ -158,10 +159,8 @@
     "STAT 151/Media/Pasted image 20230920101230.png",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Media/Pasted image 20230919164700.png",
-    "PSYCH 105/Media/Pasted image 20230919163909.png",
     "Markdown Cheat sheet.md",
     "PSYCH 105/PSYCH 105.md",
-    "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Methods in Psychology.md",
     "429 Ch1 Q4.md",
     "CMPUT 379/NO.md",
