@@ -48,11 +48,19 @@
 ## The Nature of Intelligence
 ### Factor Analysis
 - A statistical technique
-- Reduces a large number of measures to a smaller number of clusters, or factors,
+- **Reduces a large number of measures to a smaller number of clusters, or factors**
 - Each cluster containing variables that correlate highly with one another but less highly with variables in other clusters
-- A factor allows us to infer the underlying characteristic that presumably accounts for the links among the variables in the cluster.
+- A factor allows us to infer the **underlying characteristic that presumably accounts for the links among the variables in the cluster**.
+![[Pasted image 20230921161624.png]]
+- Colored areas show corrrelation clusters
 
-
+### Spearman’s Two-Factor Theory
 - Charles Spearman (1863–1945)
 	- Is there a hierarchy of intellectual abilities?
 	- Looked for correlations between cognitive tasks and found a lot of them!
+![[Pasted image 20230921161350.png]]
+- Results from many intelligence tests best explained with a three-level hierarchy
+• General intelligence (g) at the top
+• Middle-level abilities (m) in the middle
+• Aka Group factors
+• Specific abilities (s) at the bottom
