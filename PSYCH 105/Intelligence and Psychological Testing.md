@@ -45,20 +45,20 @@
 	- Income ![[Pasted image 20230921160909.png]]
 	- Health and longevity
 	- other things ![[Pasted image 20230921160939.png]]
-## The Nature of Intelligence
-### The Flynn Effect
+# The Nature of Intelligence
+## The Flynn Effect
 - Intelligence quotients seem to increase over time
 - Most likely due to a combination of factors:
 	1. Overall improvement in nutrition and medical care
 	2. Improvements in education
 	3. Increased environmental complexity via technology
-### Factor Analysis
+## Factor Analysis
 - A statistical technique
 - **Reduces a large number of measures to a smaller number of clusters, or factors**
 - Each cluster containing variables that correlate highly with one another but less highly with variables in other clusters
 - A factor allows us to infer the **underlying characteristic that presumably accounts for the links among the variables in the cluster**.
 
-### Spearman’s Two-Factor Theory
+## Spearman’s Two-Factor Theory
 - Charles Spearman (1863–1945)
 	- Is there a hierarchy of intellectual abilities?
 	- Looked for correlations between cognitive tasks and found a lot of them!
@@ -68,17 +68,17 @@
 • **Middle-level abilities (m)** in the middle
 	• Aka Group factors
 • **Specific abilities (s)** at the bottom
-### Louis Thurstone (1887–1955)
+## Louis Thurstone (1887–1955)
 - Saw clustering of mental abilities as evidence against g (general intelligence)
 - Argued for a few stable and independent primary mental abilities
-#### Seven Primary Mental Abilities
+### Seven Primary Mental Abilities
 ![[Pasted image 20230921162253.png]]
-### Combining everything
+## Combining everything
 - Spearman and Thurstone were both correct
 - Three-level hierarchy best describes correlations between scores on different mental ability tests
 - Like Spearman’s general factor (g) and specific factors (s) and Thurstone’s group factors (m)
 ![[Pasted image 20230921162511.png]]
-### Middle-Level Abilities
+## Middle-Level Abilities
 Two possible approaches:
 - **Data-based approach**
 	- Connect intelligence test scores to clusters (factor analysis)
@@ -88,7 +88,7 @@ Two possible approaches:
 	- Figure out which intelligence tests measure those abilities or design new ones that can if they don’t exist
 	- *"top down" approach*, start with prior assumptions/theories
 ![[Pasted image 20230921163220.png]]
-#### Data-Based Approach
+### Data-Based Approach
 ![[Pasted image 20230921163349.png]]
 - **Crystallized intelligence**
 	- Apply previously learned knowledge to current problems
@@ -96,7 +96,17 @@ Two possible approaches:
 	- Deal with novel situations without any previous knowledge
 	- See abstract relationships
 	- Draw logical inferences
-##### Raven’s Progressive Matrices Test
+#### Raven’s Progressive Matrices Test
 ![[Pasted image 20230921163745.png]]
 - Very good at avoiding cultural bias
+- All about novel solutions
 
+### Theory-Based Approach
+- Robert Sternberg (1949 - ) proposed the Triarchic Theory of Intelligence
+- **Analytic intelligence**
+	- Ability to problem-solve; traditional intelligence test tasks
+- **Creative (or synthetic) intelligence**
+	- Ability to generate novel solutions using existing skills and information
+- **Practical intelligence**
+	- Ability to adapt to everyday settings
+![[Pasted image 20230921164231.png]]
