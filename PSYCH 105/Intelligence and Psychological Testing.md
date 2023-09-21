@@ -86,5 +86,17 @@ Two possible approaches:
 - **Theory-based approach**
 	- Look at human abilities that we think relate to aspects of intelligence
 	- Figure out which intelligence tests measure those abilities or design new ones that can if they don’t exist
-	- *"top down" approach*, start with prior assumptions/
+	- *"top down" approach*, start with prior assumptions/theories
 ![[Pasted image 20230921163220.png]]
+#### Data-Based Approach
+![[Pasted image 20230921163349.png]]
+- **Crystallized intelligence**
+	- Apply previously learned knowledge to current problems
+- **Fluid intelligence**
+	- Deal with novel situations without any previous knowledge
+	- See abstract relationships
+	- Draw logical inferences
+##### Raven’s Progressive Matrices Test
+![[Pasted image 20230921163745.png]]
+- Very good at avoiding cultural bias
+
