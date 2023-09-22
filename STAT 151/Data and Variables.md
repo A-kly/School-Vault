@@ -280,3 +280,7 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 	- eg. X = midterm scores of stat 151, `X ~ N(70%, 9%)`
 		- Mean of midterm scores = 70%
 		- Standard deviation = 9%
+![[2880px-Standard_deviation_diagram_micro.svg.png]]
+`P(M-σ<X<M+σ) = 68.2%`
+`P(M-2σ<X<M+2σ) = 95%`
+`P(M-2σ<X<M+2σ) = 95%`
