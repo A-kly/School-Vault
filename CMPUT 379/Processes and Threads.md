@@ -71,4 +71,4 @@ Second one prints Parent pid and then child pid.
 	- This is a form of synchronization, an important concept in concurrency (more later in the course).
 #### Example wait()
 ![[Pasted image 20230920124833.png]]
-==Mode code on eClass==
+==More code on eClass==
