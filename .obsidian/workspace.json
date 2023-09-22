@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ac71f85cb5851c82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/CMPUT 379.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -146,8 +159,9 @@
   },
   "active": "474aa2dbf14d3a4b",
   "lastOpenFiles": [
-    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/CMPUT 379.md",
     "Markdown Cheat sheet.md",
+    "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230922103156.png",
     "STAT 151/Media/Pasted image 20230922103135.png",
@@ -169,7 +183,6 @@
     "CMPUT 379/NO.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Class info.md",
-    "CMPUT 379/CMPUT 379.md",
     "Untitled.canvas",
     "PSYCH 105/emergentist.md",
     "STAT 151/STAT 151.md",

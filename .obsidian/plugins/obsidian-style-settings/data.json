@@ -41,7 +41,7 @@
   "anuppuccin-theme-settings@@anp-table-toggle": true,
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
-  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-border-layout",
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
   "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
@@ -128,5 +128,12 @@
   "Editor@@h4-divider-on": true,
   "Editor@@h5-divider-on": true,
   "Editor@@h6-divider-on": true,
-  "Editor@@code-background-dark": "\"\""
+  "Editor@@code-background-dark": "\"\"",
+  "anuppuccin-theme-settings@@anp-toggle-metadata": false,
+  "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
+  "anuppuccin-theme-settings@@anp-status-bar-select": "none",
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
+  "anuppuccin-theme-settings@@anp-hide-borders": false
 }
