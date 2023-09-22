@@ -287,3 +287,4 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 ![[Pasted image 20230922102241.png]]
 ![[Pasted image 20230922103135.png]]
 ![[Pasted image 20230922103156.png]] This last image shows how the previous image would work for many different data sets. The formula $$Z = \frac {x-\mu} {\sigma}$$ Transforms data into a normal distribuition curve.
+==Look at online notes (Z table at the end of lecture 1)==
