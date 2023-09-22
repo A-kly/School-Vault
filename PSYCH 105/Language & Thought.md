@@ -76,13 +76,14 @@ Language is localized in the brain.
 - Mostly lower frontal lobe trauma
 	- Near motor cortex section for mouth, vocal chords, lips
 	- ![[Pasted image 20230914163854.png|400]]
-	- Involved in the production of sequencial patterns in voice and sign language.
+	- **Involved in the production of sequential patterns in vocal and sign language**.
 #### Wernicke's Area
 - Wernicke’s patient could produce speech, but it was nonsense
 	- Wernicke’s or fluent aphasia
 - Mostly temporal lobe trauma
 	- Wernicke’s area responsible for speech comprehension
 	- ![[Pasted image 20230914164046.png|400]]
+	- **Involved in language comprehension**.
 
 #### Important Findings
 1. There seemed to be an area of the brain controlling speech
