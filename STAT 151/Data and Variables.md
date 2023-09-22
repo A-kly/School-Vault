@@ -268,3 +268,12 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 	- How do we compare a given `x1` from `data1` with a given `x2` from `data2`?
 	- We use the Z-score do do it!
 	- eg. compare two students across two different midterms
+## Density curves
+![[Pasted image 20230922100831.png|300]]
+- Always above horizontal axis
+- Uses relative frequency as y axix
+- `P(a<x<b)` = Area under the curve between `a` and `b`.
+	- Percentage of observational data between `a` and `b`.
+### Normal curve (special type)
+![[php6pVJmc.png|300]]
+- `N(M,`
