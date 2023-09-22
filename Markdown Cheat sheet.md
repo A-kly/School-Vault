@@ -8,7 +8,6 @@ This is a property field: This is a property value
 **hello** OR __hello__
 *hello* OR _hello_
 ~~hello~~
-
 # hello
 ## hello
 ### hello

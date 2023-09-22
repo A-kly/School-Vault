@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "474aa2dbf14d3a4b",
+            "id": "12202a2b3a215449",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "PSYCH 105/Language & Thought.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat sheet.md"
+                "file": "PSYCH 105/Language & Thought.md"
               }
             }
           },
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat sheet.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,12 +143,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "474aa2dbf14d3a4b",
+  "active": "12202a2b3a215449",
   "lastOpenFiles": [
-    "Markdown Cheat sheet.md",
-    "Untitled.canvas",
-    "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
+    "Markdown Cheat Sheet.md",
+    "Untitled.canvas",
+    "Markdown Cheat sheet.md",
+    "PSYCH 105/Language & Thought.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/Media/Pasted image 20230922122646.png",
@@ -188,7 +187,6 @@
     "Year 2 Obsidian notes/Math 146/9.3 Qualitative methods for studying differential equations.md",
     "Year 2 Obsidian notes/Math 146/8.3 Introduction to differential equations.md",
     "Year 2 Obsidian notes/Math 146/6.1b Surface area of solids of revolution.md",
-    "Year 2 Obsidian notes/Math 146/6.2 Work and definite integration.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",
