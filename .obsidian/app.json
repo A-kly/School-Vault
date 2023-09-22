@@ -14,5 +14,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "vimMode": false
 }
