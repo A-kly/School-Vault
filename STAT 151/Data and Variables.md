@@ -276,4 +276,7 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 	- Percentage of observational data between `a` and `b`.
 ### Normal curve (special type)
 ![[php6pVJmc.png|300]]
-- `N(M,`
+- ` X ~ N(M,σ)` = The variable `X` has a Normal distribution (`N`) with mean  `M` and standard dev `σ`
+	- eg. X = midterm scores of stat 151, `X ~ N(70%, 9%)`
+		- Mean of midterm scores = 70%
+		- Standard deviation = 9%
