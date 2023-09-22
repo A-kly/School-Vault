@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#come",
+                "query": "tag:#Th",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,6 +148,7 @@
   },
   "active": "474aa2dbf14d3a4b",
   "lastOpenFiles": [
+    "CMPUT 379/Media/Pasted image 20230922122646.png",
     "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Language & Thought.md",

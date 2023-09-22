@@ -73,14 +73,19 @@ Second one prints Parent pid and then child pid.
 ![[Pasted image 20230920124833.png]]
 ==More code on eClass==
 ## Process examples
-- Top!
-	- Shows currently running processes!
-	- PID: process identification number
-COMMAND: user or system program
-%CPU: current CPU usage
-Time: total CPU usage
-#Th: number of threads
-MEM: amount of memory being used
-PPID: pid of the parent process
-STATE: process state
-UID: id of the user
+- Top - Shows currently running processes!
+	- `top -o cpu -O +rsize -s 5 -n 30`
+	- **PID:** process identification number
+	- **COMMAND:** user or system program
+	- **%CPU:** current CPU usage
+	- **Time:** total CPU usage
+	- **\#Th:** number of threads
+	- **MEM:** amount of memory being used
+	- **PPID:** pid of the parent process
+	- **STATE:** process state
+	- **UID:** id of the user
+- ps - similar to top, PPIDs
+	- `ps –efc`
+	- output:![[Pasted image 20230922122646.png]]
+	- **PID:** process identification number
+	- **PPID:** *Parent* process identification number

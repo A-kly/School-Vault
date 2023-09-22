@@ -136,5 +136,6 @@
   "anuppuccin-theme-settings@@anp-status-bar-select": "none",
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
   "anuppuccin-theme-settings@@anp-hide-borders": false,
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow",
+  "anuppuccin-theme-settings@@anp-toggle-preview": false
 }
