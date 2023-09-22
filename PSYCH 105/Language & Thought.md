@@ -163,6 +163,7 @@ Problem B can solved more efficiently by using a different strategy.
 	- "quick and dirty solution"
 - **Means-end heuristic:** Keep the end goal in mind (goal-state) and take whatever measures necessary to attain that goal
 - **Representative heuristic:** problem solver mentally comparing something to our stored prototype of an event, object, or person
+	- also called *Analogical* problem solving
 	- Assume something belongs to a category because it seems like the prototype
 	- Beneficial because it helps us intuitively solve problems quickly
 	- But can also lead to errors in problem solving
