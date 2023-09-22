@@ -89,3 +89,5 @@ Second one prints Parent pid and then child pid.
 	- output:![[Pasted image 20230922122646.png]]
 	- **PID:** process identification number
 	- **PPID:** *Parent* process identification number
+## UNIX System Initialization
+![[Pasted image 20230922123734.png]]

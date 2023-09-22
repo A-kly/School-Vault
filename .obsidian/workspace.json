@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Th",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,9 +148,10 @@
   },
   "active": "474aa2dbf14d3a4b",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/Media/Pasted image 20230922122646.png",
     "CMPUT 379/CMPUT 379.md",
-    "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "Markdown Cheat sheet.md",
@@ -165,8 +166,6 @@
     "STAT 151/Media/Pasted image 20230922100831.png",
     "PSYCH 105/Media/Pasted image 20230921164231.png",
     "PSYCH 105/Media/Pasted image 20230921163745.png",
-    "PSYCH 105/Media/Pasted image 20230921163349.png",
-    "PSYCH 105/Media/Pasted image 20230921163220.png",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/PSYCH 105.md",
     "429 Ch1 Q4.md",
