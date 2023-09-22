@@ -72,3 +72,15 @@ Second one prints Parent pid and then child pid.
 #### Example wait()
 ![[Pasted image 20230920124833.png]]
 ==More code on eClass==
+## Process examples
+- Top!
+	- Shows currently running processes!
+	- PID: process identification number
+COMMAND: user or system program
+%CPU: current CPU usage
+Time: total CPU usage
+#Th: number of threads
+MEM: amount of memory being used
+PPID: pid of the parent process
+STATE: process state
+UID: id of the user
