@@ -170,6 +170,7 @@ Problem B can solved more efficiently by using a different strategy.
 	- eg. Most people assume sharks kill more people than vending machines
 		- Due to media attention, awareness of when it happens, news, etc.
 	- eg. people assume divorces are as common globally as they are in your friend group
+- **Rational choice theory:** the classical view that we make decisions by determining how likely something is to happen, judging the value of the outcome, and then multiplying the two.
 ## Creativity
 1. Preparation - become familiar with a topic
 2. Incubation - taking a break from effortful problem solving
