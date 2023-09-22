@@ -135,5 +135,6 @@
   "anuppuccin-theme-settings@@anp-canvas-dark-bg": true,
   "anuppuccin-theme-settings@@anp-status-bar-select": "none",
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
-  "anuppuccin-theme-settings@@anp-hide-borders": false
+  "anuppuccin-theme-settings@@anp-hide-borders": false,
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow"
 }

@@ -9,8 +9,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
-    "Highlight",
     "canvas_arrows",
-    "canvas_BG"
+    "Highlight"
   ]
 }
