@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "Markdown Cheat sheet.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "Markdown Cheat sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,11 +146,11 @@
   },
   "active": "474aa2dbf14d3a4b",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230922103156.png",
     "STAT 151/Media/Pasted image 20230922103135.png",
     "STAT 151/Media/Pasted image 20230922102241.png",
     "Markdown Cheat sheet.md",
-    "STAT 151/Data and Variables.md",
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
     "STAT 151/Media/2880px-Standard_deviation_diagram_micro.svg.png",
@@ -161,7 +161,6 @@
     "PSYCH 105/Media/Pasted image 20230921163745.png",
     "PSYCH 105/Media/Pasted image 20230921163349.png",
     "PSYCH 105/Media/Pasted image 20230921163220.png",
-    "PSYCH 105/Media/Pasted image 20230921162511.png",
     "CMPUT 379/Processes and Threads.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
