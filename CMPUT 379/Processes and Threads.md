@@ -91,3 +91,13 @@ Second one prints Parent pid and then child pid.
 	- **PPID:** *Parent* process identification number
 ## UNIX System Initialization
 ![[Pasted image 20230922123734.png]]
+## Process Termination
+A process enters the exiting state for one of the following reasons:
+- Normal completion: A process executes a system call for termination (e.g., in UNIX exit() or abort() is called, either explicitly or implicitly by the user program).
+- Abnormal termination:
+	- Programming errors (e.g., divide by zero)
+	- Run time (e.g., out of memory)
+	- I/O (e.g., hardware errors)
+	- User intervention (e.g., kill the process)
+- You might even see a *zombie* process!
+	- 
