@@ -129,5 +129,5 @@
   "Editor@@h4-divider-on": true,
   "Editor@@h5-divider-on": true,
   "Editor@@h6-divider-on": true,
-  "Editor@@code-background-dark": "h"
+  "Editor@@code-background-dark": "\"\""
 }
