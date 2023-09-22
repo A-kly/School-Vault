@@ -122,7 +122,6 @@
   "Components@@CTA-BTN-enable": false,
   "Components@@new-tab-image-select": "new-tab-image-default",
   "Components@@immersive-canvas": false,
-  "Components@@scrollbar-space-occupation-off": false,
   "Components@@scrollbar-hide": false,
   "Components@@extra-anim-remove": false,
   "Editor@@h3-divider-on": true,

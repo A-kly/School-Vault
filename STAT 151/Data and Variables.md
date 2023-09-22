@@ -285,3 +285,5 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - `P(M-2σ<X<M+2σ) = 95.45%`
 - `P(M-3σ<X<M+3σ) = 99.73%`
 ![[Pasted image 20230922102241.png]]
+![[Pasted image 20230922103135.png]]
+![[Pasted image 20230922103156.png]] This last image shows how the previous image would work for many different data sets. The formula $$Z = \frac {x-\mu} {\sigma}$$ Transforms data into a normal distribuition curve.
