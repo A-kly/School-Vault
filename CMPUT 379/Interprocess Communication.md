@@ -51,3 +51,20 @@ signal(int sig, SIGARG func);
 - On return from `func()`, the process resumes its execution from where it was interrupted.
 
 #### Example
+```C
+#include <stdio.h>, <unistd.h>, <signal.h>
+int i;
+void interrupt(int code){ fprintf(stderr,
+	"\nInterrupt (code= %d, i= %d)\n", code, i );
+}
+int main( void ){
+	signal( SIGINT, interrupt );
+	for( i = 0; i < 100; i++ ){
+		putc( '.', stderr ); // IO issue?
+		sleep( 1 );
+	}
+}
+```
+- This code prints "." until an interrupt is generated. It then prints the code of the interrupt.
+- Output: ![[Pasted image 20230925122159.png|300]]
+- `SIGINT`
