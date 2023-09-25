@@ -3,7 +3,7 @@ Cooperating processes need to exchange information, as well as synchronize with 
 Methods for effective sharing of information among cooperating processes are collectively known as **inter-process communication (IPC)**.
 ## IPC mechanisms
 The following are IPC mechanisms can be used for IPC:
-- Shared Memory ([[Processes and Threads#Threads]])
+- Shared Memory ([[Processes and Threads#Threads|Threads]])
 - Files
 - Pipes
 - Signals
@@ -67,4 +67,5 @@ int main( void ){
 ```
 - This code prints "." until an interrupt is generated. It then prints the code of the interrupt.
 - Output: ![[Pasted image 20230925122159.png|300]]
-- `SIGINT`
+- `SIGINT` is defined as the kill signal (aka `Ctrl+C`).
+- 

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "Markdown Cheat Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,11 +170,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7705ad70689be25e",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
+    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Media/Pasted image 20230925122159.png",
     "CMPUT 379/Untitled.md",
-    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
@@ -195,7 +195,6 @@
     "Excalidraw",
     "STAT 151/Media/2880px-Standard_deviation_diagram_micro.svg.png",
     "STAT 151/Media/php6pVJmc.png",
-    "STAT 151/Media/Pasted image 20230922100831.png",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/PSYCH 105.md",
     "429 Ch1 Q4.md",
