@@ -46,7 +46,7 @@ grep “author” file | sort –u | wc
 ```C
 #include <stdio.h>
 FILE * p; // This is file P. It can be read by the OS for use in piping and output forwarding.
-p = popen( command, “r” ); // command = any command executed. The output is read ("r") 
+p = popen( command, “r” ); // command = any command executed. The output is read ("r") and stored in file p.
 rc = pclose( p );
 ```
 The output that gets produced by executing command is accessible as *file p*. Thus to the calling process, it looks exactly like standard I/O,
@@ -54,6 +54,18 @@ The output that gets produced by executing command is accessible as *file p*. Th
 printf( ”format”, <args>* ); // STDOUT is implicit
 fprintf( file, “format”, <args>* );
 sprintf( string, “format”, <args>* );
+```
+#### Example
+```C
+FILE * p; int c;
+if(( p=popen("cat pipe.c","r") ) == NULL){
+	perror( "Could not open pipe\n" );
+} else {
+	while(( c=fgetc(p) ) != EOF){
+		putchar( c );
+	}
+	pclose( p );
+}
 ```
 
 ## Signals
