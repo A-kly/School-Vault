@@ -23,4 +23,21 @@ The following are IPC mechanisms can be used for IPC:
 ### Sending a signal
 - `Ctrl+C` in the shell **Kills** the current process
 	- This is a signal
-- `Ctrl+Z` 
+	- `kill(int pid, int sig);` sends a signal sig to the process `pid`. Note that the name kill is a misnomer; the signal sent does not have to kill the process. Equivalent to `Ctrl+C`
+- `Ctrl+Z` in the shell **Stops or suspends** a process
+	- Also a signal, does not kill but stops temporarily.
+- `bg` brings process to background after it has been stopped
+- `fg` brings process to foreground after it has been stopped
+
+
+- Using the `signal()` system call, a process can:
+	- Ignore the signal—all except for two signals (SIGKILL and
+ IGSTOP) can be ignored.
+• Catch the signal—tell the kernel to call a function whenever the signal occurs.
+• Let the default action apply—depending on the signal, the default action can be:
+· T (terminate)—perform all activities as if the exit system
+call is requested.
+· TC (terminate and core dump)—first produce a core
+image on disk and then perform the exit activities.
+· S (stop)—suspend the process.
+· I (ignore)—disregard the signal.
