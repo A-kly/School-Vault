@@ -32,6 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3723a4230c85eaf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -159,8 +172,9 @@
   },
   "active": "7705ad70689be25e",
   "lastOpenFiles": [
-    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Untitled.md",
     "CMPUT 379/Interprocess Communication.md",
+    "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
@@ -201,7 +215,6 @@
     "Year 2 Obsidian notes/Math 146/IMPORTANT STUDY TOPICS.md",
     "Year 2 Obsidian notes/Math 146/9.3 Qualitative methods for studying differential equations.md",
     "Year 2 Obsidian notes/Math 146/8.3 Introduction to differential equations.md",
-    "Year 2 Obsidian notes/Math 146/6.1b Surface area of solids of revolution.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",

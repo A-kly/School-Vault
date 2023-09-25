@@ -29,15 +29,25 @@ The following are IPC mechanisms can be used for IPC:
 - `bg` brings process to background after it has been stopped
 - `fg` brings process to foreground after it has been stopped
 
+### Receiving a signal
 
 - Using the `signal()` system call, a process can:
-	- Ignore the signal—all except for two signals (SIGKILL and
- IGSTOP) can be ignored.
-• Catch the signal—tell the kernel to call a function whenever the signal occurs.
-• Let the default action apply—depending on the signal, the default action can be:
-· T (terminate)—perform all activities as if the exit system
-call is requested.
-· TC (terminate and core dump)—first produce a core
-image on disk and then perform the exit activities.
-· S (stop)—suspend the process.
-· I (ignore)—disregard the signal.
+	- **Ignore** the signal—all except for two signals (SIGKILL and SIGSTOP) can be ignored.
+	-  **Catch** the signal—tell the kernel to call a function whenever the signal occurs.
+	-  **Let the default action apply**—depending on the signal, the default action can be:
+		- T (terminate)—perform all activities as if the exit system call is requested.
+		- TC (terminate and core dump)—first produce a core image on disk and then perform the exit activities.
+		- S (stop)—suspend the process.
+		- I (ignore)—disregard the signal.
+
+A process can declare a function to service a particular
+signal as:
+```C
+#include <signal.h>
+signal(int sig, SIGARG func);
+```
+(or the more modern `sigaction()`).
+- Whenever the specified signal sig is received, the process is interrupted and `func()` is called immediately. This is a **catch**.
+- On return from `func()`, the process resumes its execution from where it was interrupted.
+
+#### Example
