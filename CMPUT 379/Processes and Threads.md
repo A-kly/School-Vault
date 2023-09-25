@@ -100,4 +100,3 @@ A process enters the exiting state for one of the following reasons:
 	- I/O (e.g., hardware errors)
 	- User intervention (e.g., kill the process)
 - You might even see a *zombie* process!
-	- 

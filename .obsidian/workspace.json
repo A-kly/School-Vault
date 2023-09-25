@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7705ad70689be25e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "CMPUT 379/Interprocess Communication.md"
               }
             }
           },
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +157,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "7705ad70689be25e",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Interprocess Communication.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
@@ -154,7 +170,6 @@
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/Media/Pasted image 20230922122646.png",
     "CMPUT 379/CMPUT 379.md",
