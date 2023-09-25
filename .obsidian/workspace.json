@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Language & Thought.md",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,11 +145,12 @@
   },
   "active": "12202a2b3a215449",
   "lastOpenFiles": [
+    "STAT 151/STAT 151.md",
+    "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "Markdown Cheat Sheet.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
-    "PSYCH 105/Language & Thought.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/Media/Pasted image 20230922122646.png",
@@ -172,7 +173,6 @@
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Class info.md",
     "PSYCH 105/emergentist.md",
-    "STAT 151/STAT 151.md",
     "STAT 151/Media",
     "PSYCH 105/Class Info.md",
     "Class info.md",
