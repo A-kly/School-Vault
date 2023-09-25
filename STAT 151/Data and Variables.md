@@ -275,6 +275,9 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - `P(a<x<b)` = Area under the curve between `a` and `b`.
 	- Percentage of observational data between `a` and `b`.
 
+> [!Warning]
+> **Normal distribution != Uniform distribution**
+> 
 ### Normal curve (special type)
 ![[php6pVJmc.png|300]]
 - ` X ~ N(M,σ)` = The variable `X` has a Normal distribution (`N`) with mean  `M` and standard dev `σ`

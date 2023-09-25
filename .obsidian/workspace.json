@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,11 +143,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12202a2b3a215449",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
-    "STAT 151/Data and Variables.md",
     "STAT 151/Media/2560px-Uniform_Distribution_PDF_SVG.svg.png",
     "STAT 151/Media/Pasted image 20230925103716.png",
     "PSYCH 105/Language & Thought.md",
