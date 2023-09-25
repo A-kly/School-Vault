@@ -13,41 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7705ad70689be25e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "3723a4230c85eaf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -172,16 +144,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7705ad70689be25e",
+  "active": "12202a2b3a215449",
   "lastOpenFiles": [
-    "STAT 151/Media/Pasted image 20230925160249.png",
+    "STAT 151/STAT 151.md",
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "Markdown Cheat Sheet.md",
-    "CMPUT 379/Media/Pasted image 20230925122159.png",
-    "CMPUT 379/Untitled.md",
-    "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
-    "STAT 151/STAT 151.md",
+    "CMPUT 379/Untitled.md",
+    "STAT 151/Media/Pasted image 20230925160249.png",
+    "CMPUT 379/Media/Pasted image 20230925122159.png",
     "STAT 151/Media/2560px-Uniform_Distribution_PDF_SVG.svg.png",
     "STAT 151/Media/Pasted image 20230925103716.png",
     "PSYCH 105/Language & Thought.md",
@@ -197,7 +169,6 @@
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
     "STAT 151/Media/2880px-Standard_deviation_diagram_micro.svg.png",
-    "STAT 151/Media/php6pVJmc.png",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/PSYCH 105.md",
     "429 Ch1 Q4.md",
