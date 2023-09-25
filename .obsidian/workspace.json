@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +174,9 @@
   },
   "active": "7705ad70689be25e",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
+    "STAT 151/Media/Pasted image 20230925160249.png",
     "CMPUT 379/Interprocess Communication.md",
+    "Markdown Cheat Sheet.md",
     "CMPUT 379/Media/Pasted image 20230925122159.png",
     "CMPUT 379/Untitled.md",
     "CMPUT 379/Processes and Threads.md",

@@ -301,3 +301,5 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - `Area from a to b (1) = b*h = (b-a)*h`
 	- `h = 1/(b-a)`
 	- this can be generalized to `(x2-x1)*h` for any `x1` and `x2` between `a` and `b` to find area between `x1` and `x2`
+## Z-curves
+![[Pasted image 20230925160249.png]]
