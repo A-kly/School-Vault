@@ -280,11 +280,12 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 	- eg. X = midterm scores of stat 151, `X ~ N(70%, 9%)`
 		- Mean of midterm scores = 70%
 		- Standard deviation = 9%
+- Normal distributed = symmetrical curve, has following properties: 
 ![[2880px-Standard_deviation_diagram_micro.svg.png]]
 - `P(M-σ<X<M+σ) = 68.2%`
 - `P(M-2σ<X<M+2σ) = 95.45%`
 - `P(M-3σ<X<M+3σ) = 99.73%`
 ![[Pasted image 20230922102241.png]]
 ![[Pasted image 20230922103135.png]]
-![[Pasted image 20230922103156.png]] This last image shows how the previous image would work for many different data sets. The formula $$Z = \frac {x-\mu} {\sigma}$$ Transforms data into a normal distribuition curve.
+![[Pasted image 20230922103156.png]] This last image shows how the previous image would work for many different data sets. The formula $$Z = \frac {x-\mu} {\sigma}$$ Transforms data into a normal distribution curve.
 ==Look at online notes (Z table at the end of lecture 1)==
