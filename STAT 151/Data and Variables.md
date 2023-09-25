@@ -289,3 +289,8 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 ![[Pasted image 20230922103135.png]]
 ![[Pasted image 20230922103156.png]] This last image shows how the previous image would work for many different data sets. The formula $$Z = \frac {x-\mu} {\sigma}$$ Transforms data into a normal distribution curve.
 ==Look at online notes (Z table at the end of lecture 1)==
+### Uniform Distribution
+- We say a continuous numerical variable has a uniform distribution if its values spread evenly over the range of possibilities
+- All data is evenly distributed ![[2560px-Uniform_Distribution_PDF_SVG.svg.png]]
+- ==Not normal distribution==
+- `Area under curve = 1`
