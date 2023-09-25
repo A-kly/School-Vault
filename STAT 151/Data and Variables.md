@@ -274,6 +274,7 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - Uses relative frequency as y axix
 - `P(a<x<b)` = Area under the curve between `a` and `b`.
 	- Percentage of observational data between `a` and `b`.
+
 ### Normal curve (special type)
 ![[php6pVJmc.png|300]]
 - ` X ~ N(M,σ)` = The variable `X` has a Normal distribution (`N`) with mean  `M` and standard dev `σ`
@@ -294,3 +295,6 @@ Researchers measured skinfold thickness, an indirect indicator of body fat, of s
 - All data is evenly distributed ![[2560px-Uniform_Distribution_PDF_SVG.svg.png]]
 - ==Not normal distribution==
 - `Area under curve = 1`
+- `Area from a to b (1) = b*h = (b-a)*h`
+	- `h = 1/(b-a)`
+	- this can be generalized to `(x2-x1)*h` for any `x1` and `x2` between `a` and `b` to find area between `x1` and `x2`
