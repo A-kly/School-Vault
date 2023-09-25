@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3a57086595a9d289",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "STAT 151/Media/Pasted image 20230925160249.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -86,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "STAT 151/Media/Pasted image 20230925160249.png"
               }
             }
           },
@@ -106,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "STAT 151/Media/Pasted image 20230925160249.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "STAT 151/Media/Pasted image 20230925160249.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,13 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12202a2b3a215449",
+  "active": "3a57086595a9d289",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "Markdown Cheat Sheet.md",
-    "STAT 151/Data and Variables.md",
     "CMPUT 379/Untitled.md",
     "STAT 151/Media/Pasted image 20230925160249.png",
     "CMPUT 379/Media/Pasted image 20230925122159.png",
