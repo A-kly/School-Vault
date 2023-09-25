@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Media/Pasted image 20230925160249.png"
+                "file": "STAT 151/Data and Variables.md"
               }
             }
           },
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Media/Pasted image 20230925160249.png",
+                "file": "STAT 151/Data and Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Media/Pasted image 20230925160249.png",
+                "file": "STAT 151/Data and Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a57086595a9d289",
+  "active": "12202a2b3a215449",
   "lastOpenFiles": [
+    "STAT 151/Media/Pasted image 20230925160249.png",
     "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "Markdown Cheat Sheet.md",
     "CMPUT 379/Untitled.md",
-    "STAT 151/Media/Pasted image 20230925160249.png",
     "CMPUT 379/Media/Pasted image 20230925122159.png",
     "STAT 151/Media/2560px-Uniform_Distribution_PDF_SVG.svg.png",
     "STAT 151/Media/Pasted image 20230925103716.png",
