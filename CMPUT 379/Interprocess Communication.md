@@ -68,4 +68,27 @@ int main( void ){
 - This code prints "." until an interrupt is generated. It then prints the code of the interrupt.
 - Output: ![[Pasted image 20230925122159.png|300]]
 - `SIGINT` is defined as the kill signal (aka `Ctrl+C`).
-- 
+### Signal Types 
+Numerous system-level and user-level signals. Here are some examples.
+Keyboard generated:
+	- SIGSTP `ctl-z` keyboard stop signal S
+	- SIGINT `ctl-c` interrupt T
+	- SIGQUIT `ctl-\` quit signal TC
+
+Hardware exceptions:
+- `SIGSEGV` segmentation fault TC
+- `SIGFPE` floating point exception TC
+- `SIGBUS` bus error TC
+Software conditions:
+- `SIGXCPU` cpu time limit exceeded T
+- `SIGCHLD` change in child status I
+- `SIGALARM` timer alarm T
+- `SIGHUP` hangup T
+
+Other signals to do with
+- File I/O
+- Timers/clock
+
+User exceptions:
+- SIGUSR1 user defined T
+- SIGUSR2 user defined T
