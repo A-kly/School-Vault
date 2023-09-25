@@ -13,6 +13,25 @@ The following are IPC mechanisms can be used for IPC:
 
 ## Files
 ## Pipes
+### Example
+Do You Want to Do This...
+```BASH
+grep “author” file >file1
+sort –u <file1 >file2
+wc <file2
+```
+(This code Uses files for intermediate storage.)
+... Or This?
+```BASH
+grep “author” file | sort –u | wc
+```
+==This one is better, "|" is pipe command==
+#### Implementation:
+- Fork three processes (grep, sort, wc)
+- Change input of `sort` to come from the output of `grep`
+- Change the input of wc to come from the output of sort
+- This implies that the data flowing between processes has to look like standard I/O
+
 ## Signals
 - Like an interrupt but *not in hardware*, they are **Software interrupts**.
 - A signal can be sent:
@@ -71,9 +90,9 @@ int main( void ){
 ### Signal Types 
 Numerous system-level and user-level signals. Here are some examples.
 Keyboard generated:
-	- SIGSTP `ctl-z` keyboard stop signal S
-	- SIGINT `ctl-c` interrupt T
-	- SIGQUIT `ctl-\` quit signal TC
+	- SIGSTP `ctl-z` keyboard stop signal (Type:S)
+	- SIGINT `ctl-c` interrupt (Type:T)
+	- SIGQUIT `ctl-\` quit signal (Type:TC)
 
 Hardware exceptions:
 - `SIGSEGV` segmentation fault TC
@@ -90,5 +109,5 @@ Other signals to do with
 - Timers/clock
 
 User exceptions:
-- SIGUSR1 user defined T
-- SIGUSR2 user defined T
+- `SIGUSR1` user defined T
+- `SIGUSR2` user defined T
