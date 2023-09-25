@@ -26,11 +26,35 @@ wc <file2
 grep “author” file | sort –u | wc
 ```
 ==This one is better, "|" is pipe command==
-#### Implementation:
-- Fork three processes (grep, sort, wc)
+#### Implementation (how does it work internally?)
+- Fork three processes (`grep, sort, wc`)
 - Change input of `sort` to come from the output of `grep`
-- Change the input of wc to come from the output of sort
-- This implies that the data flowing between processes has to look like standard I/O
+- Change the input of `wc` to come from the output of `sort`
+- *This implies that the data flowing between processes has to look like standard I/O*
+
+### UNIX Magic
+- `grep “author” file`
+	- Output to the screen
+- `grep “author” file >fileout`
+	- Output to a disk file
+- `grep “author” file >fileout`
+	- Output to a tape file
+- `grep “author” file | sort -u`
+	- Output to a program
+==With no change to the program!==
+### Pipe Communication
+```C
+#include <stdio.h>
+FILE * p; // This is file P. It can be read by the OS for use in piping and output forwarding.
+p = popen( command, “r” ); // command = any command executed. The output is read ("r") 
+rc = pclose( p );
+```
+The output that gets produced by executing command is accessible as *file p*. Thus to the calling process, it looks exactly like standard I/O,
+```C
+printf( ”format”, <args>* ); // STDOUT is implicit
+fprintf( file, “format”, <args>* );
+sprintf( string, “format”, <args>* );
+```
 
 ## Signals
 - Like an interrupt but *not in hardware*, they are **Software interrupts**.
