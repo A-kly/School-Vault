@@ -128,10 +128,27 @@ Two possible approaches:
 	- Judging emotional expressions in facial photographs
 	- The emotional tones conveyed by different landscapes and designs
 # Psychometric Standards
-- Methods for measuring individual differences
-related to some psychological concept
-- Achievement Tests
+- Methods for measuring individual differences related to some psychological concept
+- **Achievement Tests**
 	- Designed to discover how much someone knows
-- Aptitude Tests
-	- Measure potential for future learning and
-performance
+- **Aptitude Tests**
+	- Measure potential for future learning and performance
+# Nature or Nurture?
+- Intelligence comes from innate characteristics (genes) and unique experiences (environment)
+- ==It's both==
+## Heredity: Predisposition
+- **Natural selection:** those whose genes endow them with more adaptive traits are more likely to survive and reproduce
+- **Heritability:** percentage of the variation in a characteristic attributed to genetic factors
+### Example: Correlations Between Relatives
+![[Pasted image 20230926154419.png]]
+![[Pasted image 20230926154436.png]]
+## Non-Genetic Component?
+- **Shared environment:** Those environmental factors that all relevant members of a household experience
+- **Nonshared environment:** Those environmental factors that all relevant members of a household do not experience
+# Intelligence Across Cultures
+- Different cultures have different views
+• Different conceptualizations of intelligence
+• Differences in language
+• Differences in kinds of problems considered
+important
+• All value ability to solve survival-linked problems
