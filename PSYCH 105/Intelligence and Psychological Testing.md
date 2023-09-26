@@ -127,12 +127,7 @@ Two possible approaches:
 - Perceiving emotions is measured by people’s accuracy in:
 	- Judging emotional expressions in facial photographs
 	- The emotional tones conveyed by different landscapes and designs
-# Psychometric Standards
-- Methods for measuring individual differences related to some psychological concept
-- **Achievement Tests**
-	- Designed to discover how much someone knows
-- **Aptitude Tests**
-	- Measure potential for future learning and performance
+
 # Nature or Nurture?
 - Intelligence comes from innate characteristics (genes) and unique experiences (environment)
 - ==It's both==
@@ -147,8 +142,28 @@ Two possible approaches:
 - **Nonshared environment:** Those environmental factors that all relevant members of a household do not experience
 # Intelligence Across Cultures
 - Different cultures have different views
-• Different conceptualizations of intelligence
-• Differences in language
-• Differences in kinds of problems considered
-important
-• All value ability to solve survival-linked problems
+	- Different conceptualizations of intelligence
+	- Differences in language
+	- Differences in kinds of problems considered important
+- All value ability to solve survival-linked problems
+## Assessing Intelligence in Non-Western Cultures
+Two main approaches:
+1. Use *problems not tied to knowledge base of culture*
+	- Reflect ability to analyze stimulus patterns
+2. Create *measures tailored to kinds of knowledge valued in particular culture*
+
+# Psychometric Standards
+- Methods for measuring individual differences related to some psychological concept
+- **Achievement Tests**
+	- Designed to discover how much someone knows
+- **Aptitude Tests**
+	- Measure potential for future learning and performance
+## Standardization
+Two meanings:
+1. Development of norms
+	- Provide basis for interpreting individual score - give it meaning
+2. Controlled procedures
+	- Control for extraneous factors
+	- Explicit instructions & procedures
+### The Bell Curve of Intelligence
+![[Pasted image 20230926154921.png|500]]
