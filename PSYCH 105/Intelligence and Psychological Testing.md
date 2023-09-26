@@ -109,4 +109,9 @@ Two possible approaches:
 	- Ability to generate novel solutions using existing skills and information
 - **Practical intelligence**
 	- Ability to adapt to everyday settings
-![[Pasted image 20230921164231.png]]
+![[Pasted image 20230921164231.png|500]]
+#### Gardner Theory Of Multiple Intelligences
+- 8 relatively independent intelligences
+	- Maybe 9? (existencial intelligence)
+		- A philosophically oriented ability to ponder questions about the meaning of one’s existence, life, and death
+![[Pasted image 20230926153605.png]]

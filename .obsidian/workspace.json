@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
               }
             }
           },
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,11 +156,12 @@
   },
   "active": "12202a2b3a215449",
   "lastOpenFiles": [
+    "PSYCH 105/Media/Pasted image 20230926153605.png",
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/Media/Pasted image 20230925160249.png",
     "STAT 151/STAT 151.md",
-    "CMPUT 379/Processes and Threads.md",
     "Markdown Cheat Sheet.md",
     "CMPUT 379/Untitled.md",
     "CMPUT 379/Media/Pasted image 20230925122159.png",
