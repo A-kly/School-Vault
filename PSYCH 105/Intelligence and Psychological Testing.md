@@ -115,3 +115,23 @@ Two possible approaches:
 	- Maybe 9? (existencial intelligence)
 		- A philosophically oriented ability to ponder questions about the meaning of one’s existence, life, and death
 ![[Pasted image 20230926153605.png]]
+# Emotional Intelligence
+- Involves the abilities to
+	- Read others’ emotions accurately
+	- To respond to them appropriately
+	- To motivate oneself
+	- To be aware of one’s own emotions
+	- To regulate and control one’s own emotional responses
+## The Mayer-Salovey-Caruso Emotional Intelligence Test (MSCEIT)
+- Includes specific tasks to measure each branch
+- Perceiving emotions is measured by people’s accuracy in:
+	- Judging emotional expressions in facial photographs
+	- The emotional tones conveyed by different landscapes and designs
+# Psychometric Standards
+- Methods for measuring individual differences
+related to some psychological concept
+- Achievement Tests
+	- Designed to discover how much someone knows
+- Aptitude Tests
+	- Measure potential for future learning and
+performance
