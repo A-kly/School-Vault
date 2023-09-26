@@ -160,9 +160,9 @@ Two main approaches:
 	- Measure potential for future learning and performance
 ## Standardization
 Two meanings:
-1. Development of norms
+1. **Development of norms**
 	- Provide basis for interpreting individual score - give it meaning
-2. Controlled procedures
+2. **Controlled procedures**
 	- Control for extraneous factors
 	- Explicit instructions & procedures
 ### The Bell Curve of Intelligence
