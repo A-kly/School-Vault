@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "STAT 151/Data and Variables.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,22 +21,15 @@
             }
           },
           {
-            "id": "d516f29c52ed3e00",
+            "id": "4ae5a35448f8f796",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
-          },
-          {
-            "id": "3a57086595a9d289",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "STAT 151/Media/Pasted image 20230925160249.png"
+                "file": "STAT 151/Basics of probability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -107,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
+                "file": "STAT 151/Basics of probability.md"
               }
             }
           },
@@ -127,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "STAT 151/Basics of probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "STAT 151/Basics of probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,16 +158,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d516f29c52ed3e00",
+  "active": "4ae5a35448f8f796",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
+    "STAT 151/Basics of probability.md",
+    "PSYCH 105/Intelligence and Psychological Testing.md",
+    "STAT 151/Media/Pasted image 20230925160249.png",
     "PSYCH 105/Media/Pasted image 20230926154921.png",
     "PSYCH 105/Media/Pasted image 20230926154436.png",
     "PSYCH 105/Media/Pasted image 20230926154419.png",
     "PSYCH 105/Media/Pasted image 20230926153605.png",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
-    "STAT 151/Data and Variables.md",
-    "STAT 151/Media/Pasted image 20230925160249.png",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
     "CMPUT 379/Untitled.md",
@@ -182,13 +177,11 @@
     "STAT 151/Media/2560px-Uniform_Distribution_PDF_SVG.svg.png",
     "STAT 151/Media/Pasted image 20230925103716.png",
     "PSYCH 105/Language & Thought.md",
-    "PSYCH 105/Intelligence and Psychological Testing.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
     "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/Media/Pasted image 20230922122646.png",
     "CMPUT 379/CMPUT 379.md",
-    "STAT 151/Media/Pasted image 20230922103156.png",
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
     "PSYCH 105/Methods in Psychology.md",
