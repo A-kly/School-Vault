@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "d516f29c52ed3e00",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
             "id": "3a57086595a9d289",
             "type": "leaf",
             "state": {
@@ -30,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12202a2b3a215449",
+  "active": "d516f29c52ed3e00",
   "lastOpenFiles": [
     "PSYCH 105/Media/Pasted image 20230926154921.png",
     "PSYCH 105/Media/Pasted image 20230926154436.png",
