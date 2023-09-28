@@ -151,10 +151,21 @@ Two main approaches:
 1. Use *problems not tied to knowledge base of culture*
 	- Reflect ability to analyze stimulus patterns
 2. Create *measures tailored to kinds of knowledge valued in particular culture*
+# Sex Differences in Cognitive Abilities
+- **Females** better on tests of:
+	- Perceptual speed
+	- Verbal fluency
+	- Mathematical calculation
+	- Fine motor coordination
+- **Males** better on tests of:
+	- Spatial tasks
+	- Throwing, catching objects
+	- Mathematical reasoning
+![[Pasted image 20230928154615.png|600]]
+
 
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
-- Fluid inteligence drops over time. 
 # Psychometric Standards
 - Methods for measuring individual differences related to some psychological concept
 - **Achievement Tests**
