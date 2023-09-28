@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Basics of probability.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Basics of probability.md"
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Basics of probability.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Basics of probability.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,10 +160,10 @@
   },
   "active": "4ae5a35448f8f796",
   "lastOpenFiles": [
+    "STAT 151/Basics of probability.md",
     "STAT 151/Media/Pasted image 20230927102021.png",
     "STAT 151/Media/Pasted image 20230927101559.png",
     "STAT 151/Data and Variables.md",
-    "STAT 151/Basics of probability.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "STAT 151/Media/Pasted image 20230925160249.png",
     "PSYCH 105/Media/Pasted image 20230926154921.png",
@@ -181,7 +181,6 @@
     "PSYCH 105/Language & Thought.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
-    "CMPUT 379/Media/Pasted image 20230922123734.png",
     "CMPUT 379/CMPUT 379.md",
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
