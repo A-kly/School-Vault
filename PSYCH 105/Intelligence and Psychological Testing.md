@@ -166,9 +166,12 @@ Two main approaches:
 - Are the Tests Biased?
 - **Outcome bias**
 	- Refers to the extent that a test underestimates a person’s true intellectual ability
+	- *Does our test have bias that affects our ability to obtain an accurate IQ score?*
 - **Predictive bias**
 	- Occurs if the test successfully predicts criterion measures, such as school or job performance, for some groups but not for others
+	- *Does this test have the ability to predict outwards success for that we are trying to predict?*
 ![[Pasted image 20230928155245.png]]
+
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
 # Psychometric Standards
