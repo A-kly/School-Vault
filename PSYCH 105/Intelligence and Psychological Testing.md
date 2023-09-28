@@ -152,6 +152,9 @@ Two main approaches:
 	- Reflect ability to analyze stimulus patterns
 2. Create *measures tailored to kinds of knowledge valued in particular culture*
 
+# Intelligence Across Time
+![[Pasted image 20230928153519.png]]
+
 # Psychometric Standards
 - Methods for measuring individual differences related to some psychological concept
 - **Achievement Tests**
