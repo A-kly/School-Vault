@@ -154,7 +154,7 @@ Two main approaches:
 
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
-
+- Fluid inteligence drops over time. 
 # Psychometric Standards
 - Methods for measuring individual differences related to some psychological concept
 - **Achievement Tests**
