@@ -162,7 +162,12 @@ Two main approaches:
 	- Throwing, catching objects
 	- Mathematical reasoning
 ![[Pasted image 20230928154615.png|600]]
-
+# Group Differences in Intelligence
+- Are the Tests Biased?
+- **Outcome bias**
+	- Refers to the extent that a test underestimates a person’s true intellectual ability
+- **Predictive bias**
+	- Occurs if the test successfully predicts criterion measures, such as school or job performance, for some groups but not for others
 
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
