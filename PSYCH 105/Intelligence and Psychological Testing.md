@@ -168,7 +168,7 @@ Two main approaches:
 	- Refers to the extent that a test underestimates a person’s true intellectual ability
 - **Predictive bias**
 	- Occurs if the test successfully predicts criterion measures, such as school or job performance, for some groups but not for others
-
+![[Pasted image 20230928155245.png]]
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
 # Psychometric Standards
