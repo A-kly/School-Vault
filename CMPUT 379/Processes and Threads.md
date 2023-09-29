@@ -138,3 +138,5 @@ A process enters the exiting state for one of the following reasons:
 - Threads within a process **share resources** (including the same memory address space) **conveniently and efficiently compared to separate processes**.
 - Threads within a process are NOT independent and are NOT protected against each other.
 ![[Pasted image 20230929122026.png]]
+- Each thread in the second example has access to the exact same data, exact same heap, exact same program text but different stacks and they are running different parts of the code.
+![[Pasted image 20230929122608.png]]
