@@ -12,6 +12,7 @@ The following are IPC mechanisms can be used for IPC:
 - Sockets – later
 
 ## Files
+#COMEBACKTOTHIS 
 ## Pipes
 ### Example
 Do You Want to Do This...
@@ -147,3 +148,5 @@ Other signals to do with
 User exceptions:
 - `SIGUSR1` user defined T
 - `SIGUSR2` user defined T
+
+#COMEBACKTOTHIS CONTENT IS MISSING FROM HERE

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,6 +160,8 @@
   },
   "active": "4ae5a35448f8f796",
   "lastOpenFiles": [
+    "CMPUT 379/Interprocess Communication.md",
+    "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Pasted image 20230928155245.png",
     "PSYCH 105/Media/Pasted image 20230928154615.png",
     "PSYCH 105/Media/Pasted image 20230928153519.png",
@@ -167,18 +169,15 @@
     "STAT 151/Media/Pasted image 20230927102021.png",
     "STAT 151/Media/Pasted image 20230927101559.png",
     "STAT 151/Data and Variables.md",
-    "PSYCH 105/Intelligence and Psychological Testing.md",
     "STAT 151/Media/Pasted image 20230925160249.png",
     "PSYCH 105/Media/Pasted image 20230926154921.png",
     "PSYCH 105/Media/Pasted image 20230926154436.png",
     "PSYCH 105/Media/Pasted image 20230926154419.png",
     "PSYCH 105/Media/Pasted image 20230926153605.png",
     "CMPUT 379/Processes and Threads.md",
-    "CMPUT 379/Interprocess Communication.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
     "CMPUT 379/Untitled.md",
-    "CMPUT 379/Media/Pasted image 20230925122159.png",
     "PSYCH 105/Language & Thought.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
