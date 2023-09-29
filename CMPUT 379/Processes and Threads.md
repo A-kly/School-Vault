@@ -100,4 +100,15 @@ A process enters the exiting state for one of the following reasons:
 	- I/O (e.g., hardware errors)
 	- User intervention (e.g., kill the process)
 - You might even see a *zombie* process!
+## UNIX Process Context
+![[Pasted image 20230929120909.png]]
+- heap grows up memory
+	- Malloc, Calloc
+- stack grows down memory
+	- initialized variables in code
+- text
+	- Actual program code
+- Data
+- 
+
 # Threads
