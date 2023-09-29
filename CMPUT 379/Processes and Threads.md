@@ -140,3 +140,22 @@ A process enters the exiting state for one of the following reasons:
 ![[Pasted image 20230929122026.png]]
 - Each thread in the second example has access to the exact same data, exact same heap, exact same program text but different stacks and they are running different parts of the code.
 ![[Pasted image 20230929122608.png]]
+### Example
+```C
+#include <pthread.h> <stdio.h> <stdlib.h> <unistd.h> <string.h>
+#define NTHREADS 5
+void *threadvalue(void *arg){
+	printf("Parent ID: %d, thread ID: %d, arg: %d\n",
+	(int)getpid(), (int)pthread_self(), (int)arg);
+}
+int main(void){
+	int i; pthread_t ntid;
+	for(i=0;i<NTHREADS;++i) {
+		pthread_create(&ntid,NULL,threadvalue,(void *)i));
+		// Error check!
+		printf( "Create thread %d\n", (int)ntid);
+	}
+	pthread_exit(0);
+}
+```
+This process creates 5 threads.
