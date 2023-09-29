@@ -105,10 +105,27 @@ A process enters the exiting state for one of the following reasons:
 - heap grows up memory
 	- Malloc, Calloc
 - stack grows down memory
-	- initialized variables in code
+	- initialized variables in functions
 - text
 	- Actual program code
 - Data
-- 
+	- Constant and static variables
 
 # Threads
+- A thread is the abstraction of a unit of execution. It is also referred to as a *light-weight process* (LWP).
+- “Easy” way to make (components of) a process parallel and *take advantage of multiple cores* (if available).
+	- Unit of execution (unit of dispatching).
+	- Belongs to a process.
+	- Collection of local and shared resources.
+	- Basic unit of CPU utilization.
+	- Instruction pointer (PC).
+	- CPU register set.
+	- Stack.
+- **Thread looks like a process but is inexpensive operation that creates parallelism and concurrency without all of the overhead of a process**
+	- Take a process and make it **internally** parallel
+- **A thread shares its code and data, as well as system resources and other OS related information, with its peer group (other threads of the same process).**
+- One program with multiple threads can all execute multiple parts of the program at the same time.
+	- They have each their own program counter.
+	- Must have their own registers (maybe virtual registers????)
+	- They each have their own stack
+	- 
