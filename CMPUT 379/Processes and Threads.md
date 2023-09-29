@@ -128,4 +128,13 @@ A process enters the exiting state for one of the following reasons:
 	- They have each their own program counter.
 	- Must have their own registers (maybe virtual registers????)
 	- They each have their own stack
-	- 
+## Thread vs Process
+- A thread **operates in much the same way as a process**:
+	- Can be one of the several states;
+	- Executes sequentially (within a process and shares the CPU);
+	- Can issue system calls.
+- **Creating a thread is less expensive** (no need to spawn a process).
+- Switching to a thread within a process is cheaper than switching between threads of different processes.
+- Threads within a process **share resources** (including the same memory address space) **conveniently and efficiently compared to separate processes**.
+- Threads within a process are NOT independent and are NOT protected against each other.
+![[Pasted image 20230929122026.png]]
