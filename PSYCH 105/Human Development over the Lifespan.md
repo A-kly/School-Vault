@@ -7,10 +7,29 @@
 		- e.g., declines in cognitive functioning with age
 # Developmental Research Designs
 - **[[#Cross-sectional Research Designs|Cross-sectional]]:** compare individuals of different ages at the same point in time
-- **Longitudinal:** repeatedly test the same individuals as they grow older
+- **[[#Longitudinal Research Designs|Longitudinal]]:** repeatedly test the same individuals as they grow older
 	- **Cohort:** group of individuals who share some trait
-- **Sequential:** repeatedly test multiple age cohorts as they grow older
+- **[[#Sequential Research Designs|Sequential ]]:** repeatedly test multiple age cohorts as they grow older
 
 ## Cross-sectional Research Designs
+- Measure different ages at same time
+	- 2020: survey 10 year-olds, 20 year-olds, 30 year-olds
+- Issues:
+	- Different cohorts grew up in different time periods
+	- Different experiences, cultural changes, environmental changes
+		- Technology; growing up in depression; access to higher education
+- Benefits:
+	- Quick to do and gather lots of data
+![[Pasted image 20231003154346.png]] Measure all age groups at the same (current) time.
 ## Longitudinal Research Designs
-## Longitudinal Research Designs
+- Test same cohort at different times
+	- 2000: survey 10 year-olds
+	- 2010: 20 year-olds
+	- 2020: 30 year-olds
+- Issues:
+	- Time-consuming
+	- People drop out
+	- Changes generalizable to all people, just this group?
+![[Pasted image 20231003154556.png]] Same group is measured repeatedly over time.
+
+## Sequential Research Designs
