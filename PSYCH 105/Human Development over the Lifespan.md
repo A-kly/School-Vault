@@ -53,4 +53,6 @@
 	- Uses sucking frequency to measure preferences
 - **Habituation paradigms**
 	- Novelty versus familiarity preferences
+		- Familiar face is comforting and draws attention, stranger makes kid sad
+	- Getting used to object/stimuli and stop responding to it
 - **Violation of expectation paradigms**
