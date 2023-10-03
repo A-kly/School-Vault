@@ -62,3 +62,23 @@
 ![[Pasted image 20231003160250.png]]
 ## Another example: object permanence
 ![[Pasted image 20231003160619.png]]
+# Studying Voluntary Behaviors
+- **False belief paradigms**
+	- Theory of mind assessments
+	- *Do we understand that our thoughts, knowledge, mental processes are our own and ==NOT== shared with others?*
+![[Pasted image 20231003160818.png]] This example shows a lack of Theory of mind as the boy's perspective of what others may think changes based on his knowledge.
+- **Elicited imitation paradigm**
+	- Behavioral test of recall memory
+	- **
+# Questionnaire Data
+- Can be used alone or in conjunction with behavioral measures
+- Useful tools because parents commonly know infants best
+- Limited by fallible memories and possible bias
+# Ethical Considerations
+- Must work with Institutional Review Boards (IRBs) for study approval
+- Consent from parents and assent from some children as well
+- Some studies require debriefing afterwards
+# Practical Considerations
+-  Difficulties associated with finding participants
+- Homogenous samples
+- Generalizability of research findings
