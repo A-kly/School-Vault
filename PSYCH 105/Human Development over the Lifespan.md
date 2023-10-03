@@ -56,3 +56,9 @@
 		- Familiar face is comforting and draws attention, stranger makes kid sad
 	- Getting used to object/stimuli and stop responding to it
 - **Violation of expectation paradigms**
+# Visual Attention in Infants
+- Human infant visual fixation (Bashinski et al., 1985)
+- Over trials, infants fixated longer to complex rather than simple stimuli
+![[Pasted image 20231003160250.png]]
+## Another example: object permanence
+![[Pasted image 20231003160619.png]]
