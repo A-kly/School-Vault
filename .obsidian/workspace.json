@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "798e1321e9a588f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 105/Human Development over the Lifespan.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
+                "file": "PSYCH 105/Human Development over the Lifespan.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "PSYCH 105/Human Development over the Lifespan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
+                "file": "PSYCH 105/Human Development over the Lifespan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ae5a35448f8f796",
+  "active": "798e1321e9a588f8",
   "lastOpenFiles": [
+    "PSYCH 105/Intelligence and Psychological Testing.md",
+    "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Language & Thought.md",
-    "PSYCH 105/Intelligence and Psychological Testing.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20230929122608.png",
     "CMPUT 379/Media/Pasted image 20230929122026.png",
