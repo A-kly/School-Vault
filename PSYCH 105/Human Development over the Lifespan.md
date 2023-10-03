@@ -69,7 +69,7 @@
 ![[Pasted image 20231003160818.png]] This example shows a lack of Theory of mind as the boy's perspective of what others may think changes based on his knowledge.
 - **Elicited imitation paradigm**
 	- Behavioral test of recall memory
-	- **
+	- *Can we remember the actions that someone took if we have to imitate them?*
 # Questionnaire Data
 - Can be used alone or in conjunction with behavioral measures
 - Useful tools because parents commonly know infants best
@@ -82,3 +82,15 @@
 -  Difficulties associated with finding participants
 - Homogenous samples
 - Generalizability of research findings
+---
+# Prenatal Development
+1. Germinal Stage – The Zygote
+	- 0-2 weeks gestation
+	- Rapid cell division
+2. Embryonic Stage – The Embryo
+	- 2 - 2 months gestation
+	- Growth of major bodily structures
+3. Fetal Stage – The Fetus
+	- 2 months gestation to birth
+	- Refinements and finishing touches
+![[Pasted image 20231003161632.png]]
