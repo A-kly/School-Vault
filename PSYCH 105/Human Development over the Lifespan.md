@@ -9,8 +9,9 @@
 - **[[#Cross-sectional Research Designs|Cross-sectional]]:** compare individuals of different ages at the same point in time
 - **[[#Longitudinal Research Designs|Longitudinal]]:** repeatedly test the same individuals as they grow older
 	- **Cohort:** group of individuals who share some trait
+![[Pasted image 20231003155220.png]]
 - **[[#Sequential Research Designs|Sequential ]]:** repeatedly test multiple age cohorts as they grow older
-
+![[Pasted image 20231003155251.png]]
 ## Cross-sectional Research Designs
 - Measure different ages at same time
 	- 2020: survey 10 year-olds, 20 year-olds, 30 year-olds
@@ -44,3 +45,12 @@
 	- 2020: survey 10 year-olds, 20 year-olds, 30-year-olds
 - Helps avoid the issues of both cross-sectional and longitudinal designs
 ![[Pasted image 20231003155038.png]] Each group starts at a different age group. Measure each group over time. 
+# Common Developmental Paradigms
+- *Investigating abstract concepts*
+- Working with individuals who may not be able to verbalize their experience
+## Example: Studying Infant Reflexive Behavior
+- **High amplitude sucking paradigm**
+	- Uses sucking frequency to measure preferences
+- **Habituation paradigms**
+	- Novelty versus familiarity preferences
+- **Violation of expectation paradigms**
