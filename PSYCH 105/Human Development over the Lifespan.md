@@ -33,3 +33,14 @@
 ![[Pasted image 20231003154556.png]] Same group is measured repeatedly over time.
 
 ## Sequential Research Designs
+- Combination of cross-sectional and longitudinal designs
+- Repeatedly test several cohorts as they grow older
+	- Do they all follow similar patterns?
+- Most comprehensive, but most time-consuming
+
+- Test several cohorts as they age
+	- 2000: survey 10 year-olds, 20 year-olds, 30-year-olds
+	- 2010: survey 10 year-olds, 20 year-olds, 30-year-olds
+	- 2020: survey 10 year-olds, 20 year-olds, 30-year-olds
+- Helps avoid the issues of both cross-sectional and longitudinal designs
+![[Pasted image 20231003155038.png]] Each group starts at a different age group. Measure each group over time. 
