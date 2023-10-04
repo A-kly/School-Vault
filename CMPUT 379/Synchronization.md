@@ -41,21 +41,20 @@ Instructions of cooperating processes can be **interleaved arbitrarily**. The or
 | A = 1;     | B = 2;     | does not matter   |
 | A = B + 1; | B = B * 2; | important!        |
 A **race condition** is a situation where two or more processes access shared data concurrently and correctness depends on specific interleaving of operations (i.e. good luck).
+### Mutual Exclusion 
+- Mutual exclusion is a mechanism to ensure that *only one process (or person) is doing certain things at one time*, thus **avoid data inconsistency**. All *others should be prevented from modifying shared data* (i.e., the fridge or milk) until the current process finishes. 
+- E.g., only one person buys milk at a time.
 #### Example
-| time  | Person A | Person B |
-| 3:00  | Look in fridge. Out of milk. | Look in fridge. Out of milk. |
-| 3:05  | Leave for store. | Leave for store. |
-| 3:10  | Arrive at store. | Arrive at store. |
-| 3:15  | Buy milk. | Buy milk. |
-| 3:20  | Leave the store. | Leave the store. |
-| 3:25  | Arrive home, milk in fridge. | Arrive home. OOPS! |
-| 3:30 | 
-| 3:35 | 
-
-
-
-Leave for store.
-Arrive at store.
-Buy milk.
-Leave the store.
-Arrive home. OOPS!
+| time | Person A                     | Person B                     |
+| ---- | ---------------------------- | ---------------------------- |
+| 3:00 | Look in fridge. Out of milk. |                              |
+| 3:05 | Leave for store.             | Look in fridge. Out of milk. |
+| 3:10 | Arrive at store.             | Leave for store.             |
+| 3:15 | Buy milk.                    | Arrive at store.             |
+| 3:20 | Leave the store.             | Buy milk.                    |
+| 3:25 | Arrive home, milk in fridge. | Leave the store.             |
+| 3:30 |                              | Arrive home. OOPS!           |
+| 3:35 |                              |                              |
+- The ‘‘too-much-milk’’ example shows that when *cooperating processes are not synchronized, they may face unexpected ‘‘timing’’ errors*.
+- What does correct mean? 
+	- Someone goes to store to buy milk, but NOT everyone (too much milk!)
