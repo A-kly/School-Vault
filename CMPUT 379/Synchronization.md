@@ -33,4 +33,29 @@ We allow processes to cooperate with each other, because we want to:
 cat infile | tr ‘[A-Z]‘ ‘[a-z]‘ |
 sort | uniq –c | lpr
 ```
-```
+### Potential Problem
+Instructions of cooperating processes can be **interleaved arbitrarily**. The order of (some) instructions are irrelevant. However, **certain instruction combinations must be eliminated**. For example:
+
+| Process A  | Process B  | concurrent access |
+| ---------- | ---------- | ----------------- |
+| A = 1;     | B = 2;     | does not matter   |
+| A = B + 1; | B = B * 2; | important!        |
+A **race condition** is a situation where two or more processes access shared data concurrently and correctness depends on specific interleaving of operations (i.e. good luck).
+#### Example
+| time  | Person A | Person B |
+| 3:00  | Look in fridge. Out of milk. | Look in fridge. Out of milk. |
+| 3:05  | Leave for store. | Leave for store. |
+| 3:10  | Arrive at store. | Arrive at store. |
+| 3:15  | Buy milk. | Buy milk. |
+| 3:20  | Leave the store. | Leave the store. |
+| 3:25  | Arrive home, milk in fridge. | Arrive home. OOPS! |
+| 3:30 | 
+| 3:35 | 
+
+
+
+Leave for store.
+Arrive at store.
+Buy milk.
+Leave the store.
+Arrive home. OOPS!
