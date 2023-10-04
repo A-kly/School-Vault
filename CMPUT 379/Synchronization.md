@@ -72,13 +72,15 @@ A **race condition** is a situation where two or more processes access shared da
 #### Solution 2
 - Second attempt: Use two notes: ![[Pasted image 20231004123104.png]]
 - A leaves note, B leaves note, A sees B’s note, but does not yet remove A’s note, B sees A’s note, does not buy milk, A removes note and does not buy milk. B removes note and does not buy milk.
+- ==Also bad, chance of no progress==
 #### Solution 3
 - Third attempt: In case of tie, B will buy milk: ![[Pasted image 20231004123307.png]]
 - This ‘‘asymmetric’’ solution works. *But is much too complicated*. The problem is that the mutual exclusion idea is simple-minded. Moreover, the code is asymmetric (and complex) and *process B is consuming CPU cycles while waiting*. In any case, the solution would be more complicated if extended to many processes (try to modify the code for four processes).
 ### Fundamental Requirements
 Concurrent processes should meet the following requirements in order to cooperate correctly and efficiently using shared data:
-1. Mutual exclusion—no two processes will simultaneously be inside the same critical section (CS).
-2. Progress—a process wishing to enter its CS will eventually do so in finite time.
-3. Fault tolerance—processes failing outside their CS should not interfere with others accessing the CS.
-4. No assumptions—should be made about relative speeds or the number of processors. Must handle all possible interleavings.
-5. Efficiency—a process will remain inside its CS for a short time only, without blocking.
+1. **Mutual exclusion** - no two processes will simultaneously be inside the same [[#Critical Section]] *(CS)*.
+2. **Progress** - a process wishing to enter its *CS* will eventually do so in finite time.
+3. **Fault tolerance** - processes failing outside their *CS* should not interfere with others accessing the *CS*.
+4. **No assumptions** - should be made about relative speeds or the number of processors. Must handle all possible interleavings.
+5. **Efficiency** - a process will remain inside its *CS* for a short time only, without blocking.
+- Also, a process in one *CS* should not block others entering a different *CS*.
