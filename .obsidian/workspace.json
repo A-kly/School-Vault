@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 105/Human Development over the Lifespan.md",
+                "file": "STAT 151/Basics of probability.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Human Development over the Lifespan.md"
+                "file": "STAT 151/Basics of probability.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Human Development over the Lifespan.md",
+                "file": "STAT 151/Basics of probability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Human Development over the Lifespan.md",
+                "file": "STAT 151/Basics of probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,6 +173,7 @@
   },
   "active": "798e1321e9a588f8",
   "lastOpenFiles": [
+    "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Media/Pasted image 20231003161915.png",
     "PSYCH 105/Media/Pasted image 20231003161720.png",
     "PSYCH 105/Media/Pasted image 20231003161632.png",
@@ -183,9 +184,7 @@
     "PSYCH 105/Media/Pasted image 20231003155220.png",
     "PSYCH 105/Media/Pasted image 20231003155038.png",
     "PSYCH 105/Media/Pasted image 20231003154556.png",
-    "PSYCH 105/Media/Pasted image 20231003154346.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
-    "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Language & Thought.md",
     "CMPUT 379/Processes and Threads.md",
