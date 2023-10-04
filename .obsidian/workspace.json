@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/LAB1.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/LAB1.md"
+                "file": "PSYCH 105/Language & Thought.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/LAB1.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/LAB1.md",
+                "file": "PSYCH 105/Language & Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,11 +186,12 @@
   },
   "active": "562000ed605ec1d6",
   "lastOpenFiles": [
+    "PSYCH 105/Methods in Psychology.md",
+    "STAT 151/LAB1.md",
     "STAT 151/Media/Pasted image 20231004110333.png",
     "STAT 151/Media/Pasted image 20231004104752.png",
     "STAT 151/Media/Pasted image 20231004104527.png",
     "STAT 151/Basics of probability.md",
-    "STAT 151/LAB1.md",
     "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Media/Pasted image 20231003161915.png",
     "PSYCH 105/Media/Pasted image 20231003161720.png",
@@ -199,9 +200,7 @@
     "PSYCH 105/Media/Pasted image 20231003160619.png",
     "PSYCH 105/Media/Pasted image 20231003160250.png",
     "PSYCH 105/Media/Pasted image 20231003155251.png",
-    "PSYCH 105/Media/Pasted image 20231003155220.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
-    "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Language & Thought.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
