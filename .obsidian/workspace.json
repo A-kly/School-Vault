@@ -181,13 +181,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d571fcf3bcae0905",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,12 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80f7f25d57d97b6",
+  "active": "d571fcf3bcae0905",
   "lastOpenFiles": [
+    "429 Ch1 Q4.md",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Media/Pasted image 20231004120557.png",
     "CMPUT 379/Media/Pasted image 20231004120533.png",
     "CMPUT 379/Interprocess Communication.md",
-    "CMPUT 379/Synchronization.md",
     "STAT 151/Basics of probability.md",
     "STAT 151/LAB1.md",
     "PSYCH 105/Language & Thought.md",
@@ -216,7 +225,6 @@
     "PSYCH 105/Media/Pasted image 20231003161632.png",
     "PSYCH 105/Media/Pasted image 20231003160818.png",
     "PSYCH 105/Media/Pasted image 20231003160619.png",
-    "PSYCH 105/Media/Pasted image 20231003160250.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
@@ -228,7 +236,6 @@
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
     "PSYCH 105/PSYCH 105.md",
-    "429 Ch1 Q4.md",
     "CMPUT 379/NO.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Class info.md",

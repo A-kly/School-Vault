@@ -45,16 +45,22 @@ A **race condition** is a situation where two or more processes access shared da
 - Mutual exclusion is a mechanism to ensure that *only one process (or person) is doing certain things at one time*, thus **avoid data inconsistency**. All *others should be prevented from modifying shared data* (i.e., the fridge or milk) until the current process finishes. 
 - E.g., only one person buys milk at a time.
 #### Example
-| time | Person A                     | Person B                     |
-| ---- | ---------------------------- | ---------------------------- |
-| 3:00 | Look in fridge. Out of milk. |                              |
-| 3:05 | Leave for store.             | Look in fridge. Out of milk. |
-| 3:10 | Arrive at store.             | Leave for store.             |
-| 3:15 | Buy milk.                    | Arrive at store.             |
-| 3:20 | Leave the store.             | Buy milk.                    |
-| 3:25 | Arrive home, milk in fridge. | Leave the store.             |
-| 3:30 |                              | Arrive home. OOPS!           |
-| 3:35 |                              |                              |
+| time | Person A | Person B |
+| ---- | -------- | -------- |
+| 3:00 | Look in fridge. Out of milk. |                             |
+| 3:05 | Leave for store.             |                             |
+| 3:10 | Arrive at store.             | Look in fridge. Out of milk.|
+| 3:15 | Buy milk.                    | Leave for store.|
+| 3:20 | Leave the store.             | Arrive at store.|
+| 3:25 | Arrive home, milk in fridge. | Buy milk.|
+| 3:30 |                              | Leave the store.|
+| 3:35 |                              | Arrive home. OOPS!|
 - The ‘‘too-much-milk’’ example shows that when *cooperating processes are not synchronized, they may face unexpected ‘‘timing’’ errors*.
 - What does correct mean? 
 	- Someone goes to store to buy milk, but NOT everyone (too much milk!)
+### Critical Section
+- A **critical section** is a *section of code*, or a collection of operations, in *which only one process may be executing at a given time* and which we want to make ‘‘sort of’’ atomic. **Atomic** means *either an operation happens in its entirety or NOT at all*; i.e., it cannot be interrupted in the middle.
+- E.g., buying milk.
+Atomic operations are used to ensure that cooperating processes execute correctly.
+Mutual exclusion mechanisms are used to solve the
+critical section problem.
