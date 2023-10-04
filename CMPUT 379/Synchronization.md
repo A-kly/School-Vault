@@ -41,10 +41,10 @@ Instructions of cooperating processes can be **interleaved arbitrarily**. The or
 | A = 1;     | B = 2;     | does not matter   |
 | A = B + 1; | B = B * 2; | important!        |
 A **race condition** is a situation where two or more processes access shared data concurrently and correctness depends on specific interleaving of operations (i.e. good luck).
-### Mutual Exclusion 
+#### Mutual Exclusion 
 - Mutual exclusion is a mechanism to ensure that *only one process (or person) is doing certain things at one time*, thus **avoid data inconsistency**. All *others should be prevented from modifying shared data* (i.e., the fridge or milk) until the current process finishes. 
 - E.g., only one person buys milk at a time.
-#### Example
+##### Example
 | time | Person A | Person B |
 | ---- | -------- | -------- |
 | 3:00 | Look in fridge. Out of milk. |                             |
@@ -58,9 +58,16 @@ A **race condition** is a situation where two or more processes access shared da
 - The ‘‘too-much-milk’’ example shows that when *cooperating processes are not synchronized, they may face unexpected ‘‘timing’’ errors*.
 - What does correct mean? 
 	- Someone goes to store to buy milk, but NOT everyone (too much milk!)
-### Critical Section
+#### Critical Section
 - A **critical section** is a *section of code*, or a collection of operations, in *which only one process may be executing at a given time* and which we want to make ‘‘sort of’’ atomic. **Atomic** means *either an operation happens in its entirety or NOT at all*; i.e., it cannot be interrupted in the middle.
 - E.g., buying milk.
-Atomic operations are used to ensure that cooperating processes execute correctly.
-Mutual exclusion mechanisms are used to solve the
-critical section problem.
+- Atomic operations are used to ensure that cooperating processes execute correctly.
+- [[#Mutual Exclusion]] mechanisms are used to solve the critical section problem.
+![[Pasted image 20231004122730.png]]
+#### Solution 1
+- First attempt at computerized milk buying: leave a note:![[Pasted image 20231004122851.png|300]]
+- This works for people because the first three lines are performed atomically; *but does not work otherwise*.
+- ==This system is bad==
+#### Solution 2
+- Second attempt: Use two notes: ![[Pasted image 20231004123104.png]]
+- A leaves note, B leaves note, A sees B’s note, but does not yet remove A’s note, B sees A’s note, does not buy milk, A removes note and does not buy milk. B removes note and does not buy milk.
