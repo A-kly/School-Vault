@@ -94,3 +94,22 @@
 	- 2 months gestation to birth
 	- Refinements and finishing touches
 ![[Pasted image 20231003161632.png]]
+## Fertilization
+- Sperm + ovum (egg cell) → zygote (fertilized egg)
+- Zygote attaches to uterine wall 10 – 14 days after conception
+![[Pasted image 20231003161720.png]]
+## Germinal Stage
+- Begins once fertilization occurs
+- Characterized by rapid cell division
+- **Blastocyst:** hollow ball of cells
+	- Implants in uterine wall
+### Twinning in the Germinal Stage
+- Dizygotic or fraternal twins
+	- Two eggs released in ovulation
+	- Two different sperm
+	- Can be different sexes
+- Monozygotic or identical twins
+	- One egg released in ovulation
+	- One sperm
+	- Same sex
+![[Pasted image 20231003161915.png]]
