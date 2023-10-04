@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "STAT 151/LAB1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Synchronization.md"
+                "file": "STAT 151/LAB1.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "STAT 151/LAB1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "STAT 151/LAB1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,12 +207,12 @@
   },
   "active": "a80f7f25d57d97b6",
   "lastOpenFiles": [
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Media/Pasted image 20231004123307.png",
     "CMPUT 379/Media/Pasted image 20231004123104.png",
     "CMPUT 379/Media/Pasted image 20231004122851.png",
     "CMPUT 379/Media/Pasted image 20231004122730.png",
     "429 Ch1 Q4.md",
-    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Media/Pasted image 20231004120557.png",
     "CMPUT 379/Media/Pasted image 20231004120533.png",
     "CMPUT 379/Interprocess Communication.md",
@@ -225,7 +225,6 @@
     "STAT 151/Media/Pasted image 20231004104527.png",
     "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Media/Pasted image 20231003161915.png",
-    "PSYCH 105/Media/Pasted image 20231003161720.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "CMPUT 379/Processes and Threads.md",
     "STAT 151/Data and Variables.md",
