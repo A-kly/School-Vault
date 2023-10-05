@@ -1,6 +1,3 @@
-==Carbon Copy of 104 intro==
-[Slides](https://eclass.srv.ualberta.ca/pluginfile.php/10312762/mod_resource/content/0/Chapter%202%20-%20Slides%20-%20Students.pdf)
-#flashcards
 # Experience and Intuition V.S. Science
 ## Pitfalls of Everyday Approaches
 To understand behaviour we rely on:
@@ -34,8 +31,6 @@ To understand behaviour we rely on:
 - Science is a public affair
 	- Research is published in peer-reviewed journals
 # Basics of Psychological Research
-
-
 ## Goals of Psychological Research
 1. Measurement and description
 2. Understanding and prediction
