@@ -34,6 +34,7 @@ To understand behaviour we rely on:
 - Science is a public affair
 	- Research is published in peer-reviewed journals
 # Basics of Psychological Research
+<!--SR:!2023-10-08,3,252!2023-10-08,3,252!2023-10-09,4,272-->
 
 ## Goals of Psychological Research
 1. Measurement and description
@@ -161,16 +162,18 @@ To understand behaviour we rely on:
 	- Emphasis on our own manipulation
 - Detects **Cause-effect relationships**
 - Tests Theories, Hypotheses
-<!--SR:!2023-10-09,4,272!2023-10-09,4,272!2023-10-08,3,252!2023-10-06,1,232!2023-10-08,3,252!2023-10-08,3,252-->
+<!--SR:!2023-10-09,4,272!2023-10-09,4,272!2023-10-08,3,252!2023-10-06,1,232!2023-10-08,3,252!2023-10-08,3,252!2023-10-06,1,232!2023-10-08,3,252-->
 
 - **Type I error:** a false positive
 	- Conclusion says there is a causal relationship when there actually is not
 - **Type II error:** a miss
 	- Inverse of type I, Conclusion says no causal relationship but there is
+<!--SR:!2023-10-08,3,252-->
 
 Other considerations:
 - **Power:** Would we be able to actually find a relationship if it exists?
 - **Reliability:** How consistent is our science (manipulation and measurement)?
+<!--SR:!2023-10-09,4,272-->
 
 ### Important Variables In Experiments
 - **Independent variable (IV):** variable manipulated
@@ -179,6 +182,7 @@ Other considerations:
 	- X = independent variable, Y = dependent variable
 - **Extraneous Variables:** uncontrolled events that can affect our DV
 	- Aka confounding variables
+<!--SR:!2023-10-09,4,272-->
 
 ### Populations and Samples
 - **Population:** All individuals we want to draw a conclusion about
@@ -196,6 +200,7 @@ the population
 3. Non-random sample
 	- Due to study constraints, not equal chances
 	- eg. Convenience sample
+<!--SR:!2023-10-09,4,272!2023-10-09,4,272-->
 
 - Sometimes it's not possible to randomly sample.
 	- We sometimes have to design research with a lack of representative sample in mind
@@ -240,6 +245,7 @@ Example:
 - **Repeated measures** (or within subjects) design ^8ae0ad
 	- Each participant is exposed to all possible *IV* conditions
 	- ![[Pasted image 20230912160044.png]]
+<!--SR:!2023-10-09,4,272!2023-10-08,3,252!2023-10-08,3,252-->
 
 
 ### Statistics
@@ -269,7 +275,7 @@ How people should be educated, treated, and respected when participating in any 
 - The Little Albert Experiment
 - The Bobo Doll Experiment
 - The Robbers Cave Experiment
-<!--SR:!2023-10-06,1,232!2023-10-09,4,272-->
+<!--SR:!2023-10-06,1,232!2023-10-09,4,272!2023-10-09,4,272-->
 
 ## The Belmont Report
 - Commission of physicians, ethicists, philosophers, scientists, and citizens in 1976
@@ -288,6 +294,7 @@ How people should be educated, treated, and respected when participating in any 
 3. **The principle of justice** *(Benefit to participant and society)*
 	- There must be a fair balance between those who participate in the research and those who benefit from it
 	- Researchers need to ensure that participants are representative of the group that will benefit
+<!--SR:!2023-10-06,1,232-->
 
 ![[Pasted image 20230914153242.png]]
 ## Ethical Standards for Research
@@ -341,4 +348,4 @@ How people should be educated, treated, and respected when participating in any 
 - **Results:** describes the statistical tests used and the quantitative or qualitative results of the study
 - **Discussion:** summarizes the study and discusses the study’s significant contributions and perhaps alternative explanations for their results
 - **References:** full bibliographic listing of all the sources the authors cited in the article
-<!--SR:!2023-10-09,4,270!2023-10-06,1,232-->
+<!--SR:!2023-10-09,4,270!2023-10-06,1,232!2023-10-09,4,272-->

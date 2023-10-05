@@ -31,7 +31,7 @@
 	- Different rules for different languages
 	- Order of words in sentence
 ![[Pasted image 20230914161022.png]]
-<!--SR:!2023-10-08,3,250-->
+<!--SR:!2023-10-08,3,250!2023-10-09,4,270-->
 
 - **Grammar:** the systematic rules of a language
 	- Includes words, tenses, and syntax
@@ -86,6 +86,7 @@ Language is localized in the brain.
 	- Wernicke’s area responsible for speech comprehension
 	- ![[Pasted image 20230914164046.png|400]]
 	- **Involved in language comprehension**.
+<!--SR:!2023-10-09,4,270-->
 
 #### Important Findings
 1. There seemed to be an area of the brain controlling speech
@@ -159,7 +160,7 @@ Problem B can solved more efficiently by using a different strategy.
 	- No real order/process
 	- eg. trying birthdays, important dates, etc. on a safe
 - Logic problem:![[Pasted image 20230919163300.png]]
-<!--SR:!2023-10-06,1,230-->
+<!--SR:!2023-10-06,1,230!2023-10-08,3,250!2023-10-06,1,230!2023-10-09,4,270-->
 
 ### Heuristics
 - Shortcuts that we can apply to solve a problem.
