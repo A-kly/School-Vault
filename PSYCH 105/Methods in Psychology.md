@@ -227,7 +227,7 @@ Example:
 		- This study for example measures both rate of learning **and** performance accuracy
 - Expose a single group to two different conditions
 	- Reduces extraneous variables
-	- [[#^8ae0ad|Repeated Measures study]] 
+	- [[#^8ae0ad|Repeated Measures study]]
 	- Measuring the same people over and over again
 - Manipulate more than one *independent variable*
 	- Allows for study of interactions between variables
