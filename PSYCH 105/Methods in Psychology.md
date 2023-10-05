@@ -1,5 +1,6 @@
 ==Carbon Copy of 104 intro==
 [Slides](https://eclass.srv.ualberta.ca/pluginfile.php/10312762/mod_resource/content/0/Chapter%202%20-%20Slides%20-%20Students.pdf)
+#flashcards
 # Experience and Intuition V.S. Science
 ## Pitfalls of Everyday Approaches
 To understand behaviour we rely on:
@@ -338,3 +339,4 @@ How people should be educated, treated, and respected when participating in any 
 - **Results:** describes the statistical tests used and the quantitative or qualitative results of the study
 - **Discussion:** summarizes the study and discusses the study’s significant contributions and perhaps alternative explanations for their results
 - **References:** full bibliographic listing of all the sources the authors cited in the article
+<!--SR:!2023-10-09,4,270-->
