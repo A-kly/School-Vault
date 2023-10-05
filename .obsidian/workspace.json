@@ -165,7 +165,7 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "marp-slides:Show Slide Preview": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "d6d3a05604ba0286",
