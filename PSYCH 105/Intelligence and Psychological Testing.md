@@ -26,7 +26,7 @@
 	- Developed the concept of “mental age”
 	- **Ratio IQ:** divide a person’s mental age by their physical age then multiplying by 100
 	- **Deviation IQ:** divide a person’s test score by the average test score of people in the same age group × 100
-<!--SR:!2023-10-09,4,270!2023-10-06,1,230-->
+
 
 ## Binet’s Legacy
 - Lewis Terman revised Binet’s tests
@@ -59,7 +59,7 @@
 - **Reduces a large number of measures to a smaller number of clusters, or factors**
 - Each cluster containing variables that correlate highly with one another but less highly with variables in other clusters
 - A factor allows us to infer the **underlying characteristic that presumably accounts for the links among the variables in the cluster**.
-<!--SR:!2023-10-06,1,230-->
+
 
 ## Spearman’s Two-Factor Theory
 - Charles Spearman (1863–1945)
@@ -103,7 +103,7 @@ Two possible approaches:
 ![[Pasted image 20230921163745.png]]
 - Very good at avoiding cultural bias
 - All about novel solutions
-<!--SR:!2023-10-08,3,250-->
+
 
 ### Theory-Based Approach
 - Robert Sternberg (1949 - ) proposed the Triarchic Theory of Intelligence
@@ -175,7 +175,7 @@ Two main approaches:
 	- Occurs if the test successfully predicts criterion measures, such as school or job performance, for some groups but not for others
 	- *Does this test have the ability to predict outwards success for that we are trying to predict?*
 ![[Pasted image 20230928155245.png]]
-<!--SR:!2023-10-09,4,270!2023-10-09,4,270!2023-10-08,3,250-->
+
 
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]
@@ -194,4 +194,4 @@ Two meanings:
 	- Explicit instructions & procedures
 ### The Bell Curve of Intelligence
 ![[Pasted image 20230926154921.png|500]]
-<!--SR:!2023-10-06,1,230-->
+
