@@ -1,3 +1,4 @@
+#flashcards 
 # What is Intelligence?
 - Originally defined as the ability to discern true or important information from false or unimportant information
 - Current definition: **Intelligence:** ability to solve novel problems and learn from experience
@@ -25,6 +26,7 @@
 	- Developed the concept of “mental age”
 	- **Ratio IQ:** divide a person’s mental age by their physical age then multiplying by 100
 	- **Deviation IQ:** divide a person’s test score by the average test score of people in the same age group × 100
+<!--SR:!2023-10-09,4,270-->
 
 ## Binet’s Legacy
 - Lewis Terman revised Binet’s tests
@@ -171,6 +173,7 @@ Two main approaches:
 	- Occurs if the test successfully predicts criterion measures, such as school or job performance, for some groups but not for others
 	- *Does this test have the ability to predict outwards success for that we are trying to predict?*
 ![[Pasted image 20230928155245.png]]
+<!--SR:!2023-10-09,4,270-->
 
 # Intelligence Across Time
 ![[Pasted image 20230928153519.png]]

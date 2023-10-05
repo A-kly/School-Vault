@@ -1,3 +1,4 @@
+#flashcards 
 # What is language?
 - **Language:** grouping of spoken, written, or gestured symbols to convey info
 - Case study
@@ -30,6 +31,7 @@
 	- Different rules for different languages
 	- Order of words in sentence
 ![[Pasted image 20230914161022.png]]
+<!--SR:!2023-10-08,3,250-->
 
 - **Grammar:** the systematic rules of a language
 	- Includes words, tenses, and syntax
@@ -157,6 +159,7 @@ Problem B can solved more efficiently by using a different strategy.
 	- No real order/process
 	- eg. trying birthdays, important dates, etc. on a safe
 - Logic problem:![[Pasted image 20230919163300.png]]
+<!--SR:!2023-10-06,1,230-->
 
 ### Heuristics
 - Shortcuts that we can apply to solve a problem.
@@ -177,6 +180,7 @@ Problem B can solved more efficiently by using a different strategy.
 2. Incubation - taking a break from effortful problem solving
 3. Illumination - insight or suddenly realizing solution to problem
 4. Evaluation - decide how good your solution is
+<!--SR:!2023-10-06,1,230-->
 
 ## Bias in Decision Making
 - **Confirmation Bias:** Only pay attention to evidence that supports our original position

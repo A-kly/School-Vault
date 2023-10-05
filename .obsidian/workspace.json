@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "34b3c7a862df7476",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "82e6b69d1deb42ad",
             "type": "leaf",
             "state": {
@@ -54,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,7 +189,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d1f70ec830a48d37",
+  "active": "82e6b69d1deb42ad",
   "lastOpenFiles": [
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Language & Thought.md",

@@ -161,6 +161,7 @@ To understand behaviour we rely on:
 	- Emphasis on our own manipulation
 - Detects **Cause-effect relationships**
 - Tests Theories, Hypotheses
+<!--SR:!2023-10-09,4,272!2023-10-09,4,272!2023-10-08,3,252!2023-10-06,1,232!2023-10-08,3,252!2023-10-08,3,252-->
 
 - **Type I error:** a false positive
 	- Conclusion says there is a causal relationship when there actually is not
@@ -268,6 +269,7 @@ How people should be educated, treated, and respected when participating in any 
 - The Little Albert Experiment
 - The Bobo Doll Experiment
 - The Robbers Cave Experiment
+<!--SR:!2023-10-06,1,232!2023-10-09,4,272-->
 
 ## The Belmont Report
 - Commission of physicians, ethicists, philosophers, scientists, and citizens in 1976
@@ -339,4 +341,4 @@ How people should be educated, treated, and respected when participating in any 
 - **Results:** describes the statistical tests used and the quantitative or qualitative results of the study
 - **Discussion:** summarizes the study and discusses the study’s significant contributions and perhaps alternative explanations for their results
 - **References:** full bibliographic listing of all the sources the authors cited in the article
-<!--SR:!2023-10-09,4,270-->
+<!--SR:!2023-10-09,4,270!2023-10-06,1,232-->
