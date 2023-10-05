@@ -152,7 +152,7 @@ To understand behaviour we rely on:
 ## Experimental Research
 - At least one manipulated variable
 - Not like [[#Descriptive Research]], Not just describing one measured variable
-- Not like [[#Correlational Research]]], Not passively observing
+- Not like [[#Correlational Research]], Not passively observing
 - Experimental research involves **manipulating** one variable under controlled conditions to observe another variable change
 	- Emphasis on our own manipulation
 - Detects **Cause-effect relationships**

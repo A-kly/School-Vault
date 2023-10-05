@@ -165,11 +165,12 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "d6d3a05604ba0286",
   "lastOpenFiles": [
+    "PSYCH 105/Media/Recording 20231005121726.webm",
     "PSYCH 105/Experience and Intuition V.S. Science.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
@@ -213,7 +214,6 @@
     "Year 2 Obsidian notes/Math 146/Media",
     "Year 2 Obsidian notes/Math 146/9.1 Separation of variables.md",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff",
-    "Year 2 Obsidian notes/Math 146/Math 146.md",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
     "Year 2 Obsidian notes/CMPUT 204-B1/Media",
