@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 105/Methods in Psychology.md"
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
+                "file": "PSYCH 105/Intelligence and Psychological Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,12 +169,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d6d3a05604ba0286",
+  "active": "67474402f2cfcedb",
   "lastOpenFiles": [
+    "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
     "PSYCH 105/Experience and Intuition V.S. Science.md",
     "PSYCH 105/Language & Thought.md",
-    "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.002.png",
@@ -216,7 +217,6 @@
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff",
     "Year 2 Obsidian notes/English 103-B20/Media",
     "Year 2 Obsidian notes/CMPUT 291-B1/Media",
-    "Year 2 Obsidian notes/CMPUT 204-B1/Media",
     "The game/Map.canvas"
   ]
 }
