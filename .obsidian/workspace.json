@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "CMPUT 379/Interprocess Communication.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,14 +199,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a80f7f25d57d97b6",
+  "active": "562000ed605ec1d6",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/Basics of probability.md",
     "STAT 151/LAB1.md",
     "CMPUT 379/Synchronization.md",
@@ -227,7 +229,6 @@
     "PSYCH 105/Media/Pasted image 20231003161915.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "CMPUT 379/Processes and Threads.md",
-    "STAT 151/Data and Variables.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
     "Untitled.canvas",
