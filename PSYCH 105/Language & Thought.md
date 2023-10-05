@@ -1,4 +1,4 @@
-#flashcards 
+ 
 # What is language? 
 - **Language:** grouping of spoken, written, or gestured symbols to convey info
 - Case study

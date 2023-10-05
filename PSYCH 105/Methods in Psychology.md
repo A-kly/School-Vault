@@ -1,35 +1,4 @@
-# Experience and Intuition V.S. Science
-## Pitfalls of Everyday Approaches
-To understand behaviour we rely on:
-- Personal Experience
-- Our own intuition
-### Problems with experience
-- No Comparison group (only our **own** experience)
-- Experience can have **confounding** variables
-	- experience is not controlled enough to make clear assumptions
-	- eg: try a new medication and you feel better!
-		- Is it the medication? Your expectations? Nicer weather?
-### Problems with Intuition
--  Bias
-	- Being swayed by a good story
-	- Being persuaded by what easily comes to mind
-	- Failing to think about what we cannot see
-	- Focusing on the evidence we like best
-	- Being biased about being biased
-## Science: Rationalism vs Empiricism
-- **Rationalism:** the idea that knowledge can be obtained through reasoning
-- **Empiricism:** the idea that knowledge can be obtained through observation and experience
-### How is Science Different?
-- Science is probabilistic
-	- More than one person being considered
-- Comparison groups
-	- E.g., before vs after, no treatment vs treatment
-- Systematic methods to avoid confounds
-	- Control for variables or measure to include them
-- Techniques to avoid biases 
-	- E.g., single- and double-blind designs
-- Science is a public affair
-	- Research is published in peer-reviewed journals
+[[Experience and Intuition V.S. Science]]
 # Basics of Psychological Research
 ## Goals of Psychological Research
 1. Measurement and description
