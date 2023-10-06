@@ -94,7 +94,7 @@ Concurrent processes should meet the following requirements in order to cooperat
 The global variables `pAinside` and `pBinside` are initialized to `FALSE`.
 ![[Pasted image 20231006120711.png]]
 - **Problem:** violates #1 (interleaved instructions). Both A & B can be in the critical section.
-	- 
+	- Once we pass the While loop in Process A (before , an interrupt can happen and once we return from the interrupt, We can restart in either process A or B. If wee restart in process B, we 
 ## Attempt 3
 The global variables `pAinside` and `pBinside` are renamed as `pAtrying` and `pBtrying`, respectively.
 ![[Pasted image 20231006120822.png]]
