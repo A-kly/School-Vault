@@ -122,3 +122,9 @@ Leslie Lamport envisioned a bakery with a numbering machine at its entrance so e
 ![[Pasted image 20231006123602.png]]
 ![[Pasted image 20231006123614.png]]
 # What’s Missing?
+![[Pasted image 20231006124047.png]]
+## A Simple-Minded Alternative
+Let’s start by using hardware instructions to mask interrupts. If we don’t let the CPU interrupt (i.e., take away the control from) the current process, the solution for N processes would be as simple as:
+![[Pasted image 20231006124119.png|400]]
+Unfortunately, there is only one system-wide critical section active at a time. Besides, no OS allows user access to privileged instructions!
+## Hardware Support
