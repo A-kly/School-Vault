@@ -128,3 +128,14 @@ Let’s start by using hardware instructions to mask interrupts. If we don’t l
 ![[Pasted image 20231006124119.png|400]]
 Unfortunately, there is only one system-wide critical section active at a time. Besides, no OS allows user access to privileged instructions!
 ## Hardware Support
+Many CPUs today provide **hardware instructions to read, modify, and store a word atomically**. Most common instructions with this capability are:
+- TAS – test-and-set (Motorola 68K)
+- CAS – compare-and-swap (IBM 370 and Motorola 68K)
+- XCHG – exchange (x86)
+- LL/SC – load-linked/store-conditional (MIPS, PowerPC)
+The basic idea is to be able to *read out the contents of a variable (memory location), and set it to something else **all in one execution cycle***. Hence not interruptible. The use of these special instructions makes life easier!
+## Yet Another Alternative!
+![[Pasted image 20231006124333.png]]
+- [p] Only one global guard variable is associated with each critical section (i.e., there can be many critical sections).
+- [p] N processes; processes are unaware of N.
+- [c] Busy waiting!
