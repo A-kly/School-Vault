@@ -84,7 +84,7 @@ Concurrent processes should meet the following requirements in order to cooperat
 4. **No assumptions** - should be made about relative speeds or the number of processors. Must handle all possible interleavings.
 5. **Efficiency** - a process will remain inside its *CS* for a short time only, without blocking.
 - Also, a process in one *CS* should not block others entering a different *CS*.
-# Mutual Exclusion
+# Mutual Exclusion Algorithms
 ## Attempt 1
 `proc` is a global variable and initialized to A (or B). Both processes *start execution concurrently*.
 ![[Pasted image 20231006120605.png]]
@@ -106,4 +106,19 @@ If two processes attempt to enter a critical section at the same time, the algor
 ![[Pasted image 20231006123019.png]]
 - One more global variable, turn, initialized to A or B.
 ## Peterson’s Algorithm 
+If A is in its critical section, then `pAtrying` is true. In addition, either `pBtrying` is false (meaning B has left its critical section), or `Turn` is A (meaning B is just now trying to enter the critical section, but graciously waiting), or B is trying to enter its critical section, after setting `pBtrying` to true but before setting `turn` to A and busy-waiting. So if both processes are in their critical sections then we conclude that the state must satisfy `pAtrying` and `pBtrying` being true, and `turn = A` and `turn = B`. No state can satisfy both `turn = A` and `turn = B`. 
+![[Pasted image 20231006123243.png]]
+Same global variables, but turn need not be initialized
+(Note: the above relies on a race condition to resolve access rights, but it is not harmful).
 
+## Both Dekker’s and Peterson’s algorithms are correct BUT
+they only work for two processes. Similar to the last solution of the ‘‘too-much-milk’’ problem, these algorithms can be generalized for N processes, but:
+- N must be fixed (known a priori), which is too much to expect.
+- The algorithms become much too complicated and expensive.
+==Implementing a mutual exclusion mechanism is difficult!==
+
+## Bakery Algorithm 
+Leslie Lamport envisioned a bakery with a numbering machine at its entrance so each customer is given a unique number. Numbers increase by one as customers enter the store. A global counter displays the number of the customer that is currently being served. All other customers must wait in a queue until the baker finishes serving the current customer and the next number is displayed. When the customer is done shopping and has disposed of his or her number, the clerk increments the number, allowing the next customer to be served. That customer must draw another number from the numbering machine in order to shop again. According to the analogy, the "customers" are threads, identified by the letter i, obtained from a global variable. Due to the limitations of computer architecture, some parts of Lamport’s analogy need slight modification. It is possible that more than one thread will get the same number n when they request it; this cannot be avoided. Therefore, it is assumed that the thread identifier i is also a priority. A lower value of i means a higher priority and threads with higher priority will enter the critical section first. 
+![[Pasted image 20231006123602.png]]
+![[Pasted image 20231006123614.png]]
+# What’s Missing?
