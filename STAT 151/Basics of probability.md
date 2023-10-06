@@ -64,3 +64,5 @@ Events A and B are **disjoint** (or mutually exclusive) if they *cannot occur at
 ![[Pasted image 20231006102048.png]]
 ![[Pasted image 20231006102058.png]]
 ![[Pasted image 20231006102107.png]]
+## Linear combinations
+![[Pasted image 20231006104232.png]]
