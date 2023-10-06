@@ -42,4 +42,18 @@ Events A and B are **disjoint** (or mutually exclusive) if they *cannot occur at
 - A student can not fail and pass a course.
 - A single card drawn from a deck cannot be an ace and a queen.
 
+==MISSED 3 LECTURES beacuse of moving and stuff== #COMEBACKTOTHIS 
 
+# Random Variables
+- A **random variable** is a variable (denoted by X or Y ) that has a single numerical value, determined by chance, for each outcome of a procedure.
+	- A **discrete random variable** has either a finite number of values or a countable number of values.
+		- eg. Rolling a pair of dice,
+	- A **continuous random variable** has infinitely many values, and those values can be associated with measurements on a continuous scale without gaps or interruptions.
+		- e. flashlight battery life remaining
+- **Notation:** The probability of a random variable assuming value x is denoted by P (x) or P (X = x).
+- A **probability distribution** is a description that gives the probability for each value of the random variable.
+	- It is often expressed in the format of a *graph, table, or formula*. i.e. A listing of the values of X and the probabilities P (X = x) or *A graph where x on the horizontal axis and P (x) on the vertical axis*.
+	- Example: let X denote the number of siblings of a randomly selected student in professor Weiss’ Introductory Stat class in a previous example. The following is the probability distribution of X.![[Pasted image 20231006100114.png|300]]
+## Criteria for Probability Distribution
+- A **probability histogram** is very similar to the relative frequency histogram but the vertical scale shows probabilities instead of relative frequencies. ![[Pasted image 20231006100302.png|300]]
+- 
