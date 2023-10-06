@@ -94,8 +94,16 @@ Concurrent processes should meet the following requirements in order to cooperat
 The global variables `pAinside` and `pBinside` are initialized to `FALSE`.
 ![[Pasted image 20231006120711.png]]
 - **Problem:** violates #1 (interleaved instructions). Both A & B can be in the critical section.
-	- Once we pass the While loop in Process A (before , an interrupt can happen and once we return from the interrupt, We can restart in either process A or B. If wee restart in process B, we 
+	- Once we pass the While loop in Process A (before `pAinside=TRUE;`), an interrupt can happen and once we return from the interrupt, We can restart in either process A or B. If we restart in process B, we Enter the while loop without problem and then both programs are in the critical section. 
 ## Attempt 3
 The global variables `pAinside` and `pBinside` are renamed as `pAtrying` and `pBtrying`, respectively.
 ![[Pasted image 20231006120822.png]]
 - **Problem:** violates rule #2 (progress).
+
+## Dekker’s Algorithm 
+If two processes attempt to enter a critical section at the same time, the algorithm will allow only one process in, based on whose turn it is. If one process is already in the critical section, the other process will busy-wait for the first process to exit. This is done by the use of two flags, `pAtrying` and `pBtrying`, which indicate an intention to enter the critical section on the part of processes A and B, respectively, and a variable turn that indicates who has priority between the two processes.
+(Same as attempt 2 but with a check for the single bad case, kind of combines attempt 2 and 3)
+![[Pasted image 20231006123019.png]]
+- One more global variable, turn, initialized to A or B.
+## Peterson’s Algorithm 
+
