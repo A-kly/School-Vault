@@ -61,3 +61,6 @@ Events A and B are **disjoint** (or mutually exclusive) if they *cannot occur at
 ## Probability Histogram
 - A **probability histogram** is very similar to the relative frequency histogram but the vertical scale shows probabilities instead of relative frequencies. ![[Pasted image 20231006100302.png|300]]
 ## Mean, Variance, and Standard Deviation
+![[Pasted image 20231006102048.png]]
+![[Pasted image 20231006102058.png]]
+![[Pasted image 20231006102107.png]]
