@@ -86,11 +86,15 @@ Concurrent processes should meet the following requirements in order to cooperat
 - Also, a process in one *CS* should not block others entering a different *CS*.
 # Mutual Exclusion
 ## Attempt 1
-`proc` is a global variable and initialized to A (or B). Both processes start execution concurrently.
+`proc` is a global variable and initialized to A (or B). Both processes *start execution concurrently*.
 ![[Pasted image 20231006120605.png]]
-- Problem: violates rule 2 (strict alternation).
+- **Problem:** violates rule 2 (strict alternation).
+	- Forces a "flip flop" between A and B, If A has to use critical section 20 times and B needs it only once, we are stuck waiting for B repeatedly.
 ## Attempt 2
 The global variables `pAinside` and `pBinside` are initialized to `FALSE`.
 ![[Pasted image 20231006120711.png]]
-- Problem: violates #1 (interleaved instructions).
-Both A & B can be in the critical section.
+- **Problem:** violates #1 (interleaved instructions). Both A & B can be in the critical section.
+## Attempt 3
+The global variables `pAinside` and `pBinside` are renamed as `pAtrying` and `pBtrying`, respectively.
+![[Pasted image 20231006120822.png]]
+- **Problem:** violates rule #2 (progress).
