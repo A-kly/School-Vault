@@ -55,5 +55,9 @@ Events A and B are **disjoint** (or mutually exclusive) if they *cannot occur at
 	- It is often expressed in the format of a *graph, table, or formula*. i.e. A listing of the values of X and the probabilities P (X = x) or *A graph where x on the horizontal axis and P (x) on the vertical axis*.
 	- Example: let X denote the number of siblings of a randomly selected student in professor Weiss’ Introductory Stat class in a previous example. The following is the probability distribution of X.![[Pasted image 20231006100114.png|300]]
 ## Criteria for Probability Distribution
+- A probability distribution must satisfy the following two criteria:
+1. ∑ P (x) = 1 where x assumes all possible values. (That is, the sum of all probabilities must be 1.)
+2. 0 ≤ P (x) ≤ 1 for every individual value of x. (That is, each probability value must be between 0 and 1 inclusive.)
+## Probability Histogram
 - A **probability histogram** is very similar to the relative frequency histogram but the vertical scale shows probabilities instead of relative frequencies. ![[Pasted image 20231006100302.png|300]]
-- 
+## Mean, Variance, and Standard Deviation
