@@ -47,7 +47,18 @@ OS makes sure to take care of processes by:
 - Information in both groups are OS dependent.
 - This info is all kept in the **process control block (PCB)** or **process table**.
 
-## Process Scheduling #COMEBACKTOTHIS
+## Process Scheduling 
+The objective of multiprogramming is to have some user process running at all times. The OS keeps the CPU busy with productive work by dynamically selecting (scheduling) the next user process to become active. The (re-)scheduling is performed by a module, called the dispatcher. A dispatcher usually only executes the following primitive pseudo-code:
+```pseudo
+loop forever {
+	run a process for a while.
+	stop process and save its state.
+	load state of another process.
+}
+```
+### Dispatcher at Work
+![[Pasted image 20231010111814.png]]
+#COMEBACKTOTHIS
 ## Process Creation Mechanisms
 ![[Pasted image 20230920120351.png]]
 ### UNIX Example

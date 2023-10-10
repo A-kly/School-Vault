@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6d3a05604ba0286",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 105/Methods in Psychology.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "807557ccbb4c93a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 105/Language & Thought.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "67474402f2cfcedb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Synchronization.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -141,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,6 +165,12 @@
   },
   "active": "67474402f2cfcedb",
   "lastOpenFiles": [
+    "CMPUT 379/Media/Pasted image 20231010111814.png",
+    "PSYCH 105/Language & Thought.md",
+    "PSYCH 105/Methods in Psychology.md",
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Media/Pasted image 20231006124333.png",
     "CMPUT 379/Media/Pasted image 20231006124119.png",
     "CMPUT 379/Media/Pasted image 20231006124047.png",
@@ -203,10 +182,7 @@
     "CMPUT 379/Media/Pasted image 20231006120711.png",
     "CMPUT 379/Media/Pasted image 20231006120605.png",
     "STAT 151/Basics of probability.md",
-    "STAT 151/Media/Pasted image 20231006104232.png",
     "PSYCH 105/Intelligence and Psychological Testing.md",
-    "PSYCH 105/Language & Thought.md",
-    "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
     "PSYCH 105/Experience and Intuition V.S. Science.md",
     "PSYCH 105/Human Development over the Lifespan.md",
@@ -214,9 +190,7 @@
     "CMPUT 379/Interprocess Communication.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/LAB1.md",
-    "CMPUT 379/Synchronization.md",
     "429 Ch1 Q4.md",
-    "CMPUT 379/Processes and Threads.md",
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
     "Untitled.canvas",
@@ -226,7 +200,6 @@
     "Excalidraw",
     "PSYCH 105/PSYCH 105.md",
     "CMPUT 379/NO.md",
-    "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Class info.md",
     "PSYCH 105/emergentist.md",
     "STAT 151/Media",
