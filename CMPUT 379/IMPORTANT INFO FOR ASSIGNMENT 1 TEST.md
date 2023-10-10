@@ -22,6 +22,8 @@ pid_t wait(int *status);
 -  0 or -1 - error */
 ```
 
+# Exec()
+https://www.geeksforgeeks.org/exec-family-of-functions-in-c/
 # Open()
 ```c
 #include <sys/stat.h>
