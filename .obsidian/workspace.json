@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "072f0c0fa0cf32bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "01d7611934fb29b5",
             "type": "leaf",
             "state": {
@@ -28,7 +41,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md"
               }
             }
           },
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,12 +177,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "67474402f2cfcedb",
+  "active": "072f0c0fa0cf32bb",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
     "CMPUT 379/Media/Pasted image 20231010111814.png",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Media/Pasted image 20231006124333.png",
@@ -180,7 +195,6 @@
     "CMPUT 379/Media/Pasted image 20231006123019.png",
     "CMPUT 379/Media/Pasted image 20231006120822.png",
     "CMPUT 379/Media/Pasted image 20231006120711.png",
-    "CMPUT 379/Media/Pasted image 20231006120605.png",
     "STAT 151/Basics of probability.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
