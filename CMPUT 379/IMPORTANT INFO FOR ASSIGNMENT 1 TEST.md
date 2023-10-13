@@ -1,4 +1,4 @@
-# fork()
+ fork()
 ```c
 #include <sys/types.h>
 #include <unistd.h>
@@ -23,7 +23,8 @@ pid_t wait(int *status);
 ```
 
 # Exec()
-https://www.geeksforgeeks.org/exec-family-of-functions-in-c/
+https://www.baeldung.com/linux/exec-functions
+
 # Open()
 ```c
 #include <sys/stat.h>
