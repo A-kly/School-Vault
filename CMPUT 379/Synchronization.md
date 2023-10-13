@@ -182,3 +182,11 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 - **Multiprocessor solution:** harder! Possibilities:
 	- Turn off access of all other processors (not practical!).
 	- Use hardware support for atomic operations.
+### Binary Semaphore – Busy-Wait
+![[Pasted image 20231013123444.png]]
+- Spinlock:
+	- The process ‘‘spins’’ while waiting for the ‘‘lock’’.
+	- Potential indefinite postponement.
+	- Low efficiency (busy waiting).
+- 
+### Semaphore: Non-Busy Wait
