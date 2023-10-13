@@ -171,3 +171,14 @@ However, they are unstructured and do not support data abstraction (see monitors
 	- Initialize the semaphore to zero.
 - **Managing multiple instances of a resource**.
 	- Initialize the semaphore to the number of instances.
+## Type of Semaphores
+Semaphores are usually available in two flavors:
+- **Binary** – integer value of 0 and 1.
+- **Counting** – an integer value ranging between 0 and an arbitrarily large number. Its initial value might represent the number of units of the critical resources that are available. This form is also known as a **general semaphore**.
+Note: this above definitions are correct for busy-wait semaphores. We will generalize this concept shortly.
+## Implementation of Semaphores
+No existing hardware implements P/Wait and V/Free operations directly. So, semaphores must be built up in software using some other elementary synchronization primitive(s) provided by hardware.
+- **Uniprocessor solution:** can disable interrupts or use hardware support.
+- **Multiprocessor solution:** harder! Possibilities:
+	- Turn off access of all other processors (not practical!).
+	- Use hardware support for atomic operations.
