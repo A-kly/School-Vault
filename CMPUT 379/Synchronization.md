@@ -143,4 +143,7 @@ The basic idea is to be able to *read out the contents of a variable (memory loc
 A semaphore is a synchronization variable (guard) that takes on non-negative integer values with only **two atomic operations**:
 ![[Pasted image 20231013120500.png]]
 Semaphores are simple, yet elegant, and allow the solution of many interesting problems. They are useful for more than just mutual exclusion.
-
+- P causes program to wait until we can enter a critical section.
+	- We wait until the semaphore is not zero (when it has been freed). We then allow access to critical section and then set it back to 0.
+- V says "I'm done with the critical section"
+- 
