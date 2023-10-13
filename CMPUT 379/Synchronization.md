@@ -188,5 +188,7 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 	- The process ‘‘spins’’ while waiting for the ‘‘lock’’.
 	- Potential indefinite postponement.
 	- Low efficiency (busy waiting).
-- 
+- "Traps" a process in the waiting block loop until it is able to exit.
 ### Semaphore: Non-Busy Wait
+![[Pasted image 20231013124058.png]]
+- We create a queue so that we don't have a process that is "stuck" in a loop. We create
