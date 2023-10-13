@@ -146,4 +146,10 @@ Semaphores are simple, yet elegant, and allow the solution of many interesting p
 - P causes program to wait until we can enter a critical section.
 	- We wait until the semaphore is not zero (when it has been freed). We then allow access to critical section and then set it back to 0.
 - V says "I'm done with the critical section"
-- 
+
+### Semaphore Solution
+Here is a solution of ‘‘too-much-milk’’ problem with semaphores:
+![[Pasted image 20231013121330.png]]
+Note: Semaphore `OKToBuyMilk` must initially be set to 1. Why?
+- We have to actually enter the CS at the start
+### Properties of Semaphores
