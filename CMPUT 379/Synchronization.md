@@ -139,3 +139,8 @@ The basic idea is to be able to *read out the contents of a variable (memory loc
 - [p] Only one global guard variable is associated with each critical section (i.e., there can be many critical sections).
 - [p] N processes; processes are unaware of N.
 - [c] Busy waiting!
+## Semaphores
+A semaphore is a synchronization variable (guard) that takes on non-negative integer values with only **two atomic operations**:
+![[Pasted image 20231013120500.png]]
+Semaphores are simple, yet elegant, and allow the solution of many interesting problems. They are useful for more than just mutual exclusion.
+
