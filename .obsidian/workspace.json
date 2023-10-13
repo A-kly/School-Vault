@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "072f0c0fa0cf32bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
+                "file": "CMPUT 379/Synchronization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,8 +28,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md"
+                "file": "CMPUT 379/Synchronization.md"
               }
             }
           },
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
+                "file": "CMPUT 379/Synchronization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
+                "file": "CMPUT 379/Synchronization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +162,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "072f0c0fa0cf32bb",
+  "active": "67474402f2cfcedb",
   "lastOpenFiles": [
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20231010111814.png",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
