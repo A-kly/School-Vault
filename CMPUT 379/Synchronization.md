@@ -139,7 +139,8 @@ The basic idea is to be able to *read out the contents of a variable (memory loc
 - [p] Only one global guard variable is associated with each critical section (i.e., there can be many critical sections).
 - [p] N processes; processes are unaware of N.
 - [c] Busy waiting!
-## Semaphores
+
+# Semaphores
 A semaphore is a synchronization variable (guard) that takes on non-negative integer values with only **two atomic operations**:
 ![[Pasted image 20231013120500.png]]
 Semaphores are simple, yet elegant, and allow the solution of many interesting problems. They are useful for more than just mutual exclusion.
@@ -147,9 +148,26 @@ Semaphores are simple, yet elegant, and allow the solution of many interesting p
 	- We wait until the semaphore is not zero (when it has been freed). We then allow access to critical section and then set it back to 0.
 - V says "I'm done with the critical section"
 
-### Semaphore Solution
+## Semaphore Solution
 Here is a solution of ‘‘too-much-milk’’ problem with semaphores:
 ![[Pasted image 20231013121330.png]]
 Note: Semaphore `OKToBuyMilk` must initially be set to 1. Why?
 - We have to actually enter the CS at the start
-### Properties of Semaphores
+
+## Properties of Semaphores
+Semaphores have several attractive properties:
+- **Simple**.
+- **Work with many processes** – single resource serialization.
+- **Can have many different critical sections with different semaphores**.
+- **Each critical section has unique access semaphore**.
+- **Can permit multiple processes into the critical section at once, if desirable**—multiple (identical) resources.
+	- If semaphore value is set to **more than 1** at the start, we can have more than one process in the critical section. (Think of multiple tellers at a store, we can have many people "checking out" at the same time and people in line waiting.)
+
+However, they are unstructured and do not support data abstraction (see monitors). Unstructured => is a convention that relies on correct programming.
+## Possible Uses of Semaphores
+- **Mutual exclusion**.
+	- Initialize the semaphore to one.
+- **Synchronization of cooperating processes (signaling)**.
+	- Initialize the semaphore to zero.
+- **Managing multiple instances of a resource**.
+	- Initialize the semaphore to the number of instances.
