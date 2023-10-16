@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "25c0497bd4c56056",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
             "id": "01d7611934fb29b5",
             "type": "leaf",
             "state": {
@@ -28,7 +38,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "67474402f2cfcedb",
+  "active": "25c0497bd4c56056",
   "lastOpenFiles": [
     "CMPUT 379/Media/Pasted image 20231013124058.png",
     "CMPUT 379/Media/Pasted image 20231013123444.png",
