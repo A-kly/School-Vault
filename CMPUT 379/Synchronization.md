@@ -199,3 +199,8 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 	- **For example**: Airline database. We do not want the customers to be able to read the flight times as they are being written because then they will be wrong or jumbled. 
 - Initialize semaphores to…?
 ![[Pasted image 20231016120746.png]]
+- We need to know how many people are reading
+	- hence `readcount`
+	- This is because we want to use a semaphore to stop the writer from writing (this is the `if` block)
+	- *While any processes are reading. We cause the w*
+- 
