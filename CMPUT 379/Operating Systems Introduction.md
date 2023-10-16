@@ -66,8 +66,8 @@ Hardware: CPU, memory, storage, I/O etc.
 - "Pure" Multiprogramming
 	- I/O and Cpu use is Interweaved, more efficient and less component downtime
 	- ![[Pasted image 20230911121611.png]]
-### Memory partitionning
-- Divide system memory into chunks that programs can use seperately
+### Memory partitioning
+- Divide system memory into chunks that programs can use separately
 - ![[Pasted image 20230911121707.png|300]]
 # Hardware considerations
 ## Interrupts 
