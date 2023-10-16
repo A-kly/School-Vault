@@ -201,6 +201,8 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 ![[Pasted image 20231016120746.png]]
 - We need to know how many people are reading
 	- hence `readcount`
-	- This is because we want to use a semaphore to stop the writer from writing (this is the `if` block)
-	- *While any processes are reading. We cause the writer to wait. Once there is no readers happening, We free the writer and alow it to write.*
-- `mutex`
+	- This is because we want to use a semaphore to stop the writer from writing (this is the `if` line)
+	- *While any processes are reading. We cause the writer to wait. Once there is no readers happening, We free the writer and allow it to write.*
+- `mutex` semaphore is needed to prevent locking processes out of reading
+	- *Without it, `readcount = readcount + 1;` can be executed by a process, that process can be kicked out of the cpu, another reader process can come in, execute the same line which makes `readcount = 2` and then neither process will be able to enter the critical section*.
+### Primitives revisited!
