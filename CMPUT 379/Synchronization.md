@@ -203,4 +203,4 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 	- hence `readcount`
 	- This is because we want to use a semaphore to stop the writer from writing (this is the `if` block)
 	- *While any processes are reading. We cause the writer to wait. Once there is no readers happening, We free the writer and alow it to write.*
-- 
+- `mutex`
