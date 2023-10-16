@@ -194,3 +194,8 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 - We create a queue so that we don't have a process that is "stuck" in a loop (wasting cycles). The queue is based on "arrival time" of the processes (like first come first serve).
 - We shut the process down when it is in the `P` block if the CS is not available, the `V` block wakes up the next available proecess. 
 - The Pseudo code does not work because
+### Semaphores: Readers & Writers
+- Allow one writer at a time, or many readers.
+	- **For example**: Airline database. We do not want the customers to be able to read the flight times as they are being written because then they will be wrong or jumbled. 
+- Initialize semaphores to…?
+![[Pasted image 20231016120746.png]]
