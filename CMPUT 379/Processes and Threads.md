@@ -58,6 +58,9 @@ loop forever {
 ```
 ### Dispatcher at Work
 ![[Pasted image 20231010111814.png]]
+![[Pasted image 20231016111040.png]]
+### Control of the CPU
+
 #COMEBACKTOTHIS
 ## Process Creation Mechanisms
 ![[Pasted image 20230920120351.png]]
