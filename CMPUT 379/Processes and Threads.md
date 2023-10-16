@@ -60,7 +60,21 @@ loop forever {
 ![[Pasted image 20231010111814.png]]
 ![[Pasted image 20231016111040.png]]
 ### Control of the CPU
+- The CPU can only do one thing at a time.
+- While a user process is running, the dispatcher cannot run, thus the operating system may lose control.
+- How does the dispatcher regain control (of the CPU)?
+	- Trust the process to wake up the dispatcher when done *(sleeping beauty approach)*.
+	- Provide a mechanism to wake up the dispatcher *(alarm clock)*.
+- The problem with the first approach is that sometimes processes loop indefinitely. Therefore, the alarm clock interrupt approach is better.
 
+### Context Switch
+- When an event occurs, the operating system saves the state of the active process and restores the state of the interrupt service routine (ISR). This mechanism is called a context switch. 
+- What must get saved? Everything that the next process could or will damage. For example:
+	- Program counter (PC)
+	- Program status word (PSW)
+	- File access pointer(s)
+	- Memory (?)
+- While saving the state, the operating system should mask (disable) all interrupts. Why?
 #COMEBACKTOTHIS
 ## Process Creation Mechanisms
 ![[Pasted image 20230920120351.png]]
