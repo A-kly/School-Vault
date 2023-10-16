@@ -21,7 +21,11 @@ The following are IPC mechanisms can be used for IPC:
 	- handles buffer allocation in optimized I/O chunks
 	- `setbuf(), fflush(), fopen(), fclose(), getc(), gets(), etc`.
 ### File Communication
-
+Have a shared file:
+- Test the presence/absence of the file
+- Test the contents of the file Beware of…
+- Hidden subtleties of the file system (buffering!)
+- Multiple processes accessing the same file (producer-consumer applications)
 #COMEBACKTOTHIS 
 ## Pipes
 ### Example
