@@ -241,3 +241,18 @@ There are several other proposed programming primitives for synchronization. The
 - Path expressions
 - Serializers
 These primitives are semantically equivalent. Moreover, any one can be built using the others. They are essentially provided by the systems software (OS kernel or language compilers) as programming tools.
+## Transactions ==NOT ON EXAM==
+Consider ‘‘large’’ atomic operations, as one might see in accessing a shared database.
+
+Transaction terminated by either a **commit (successful termination)** or an **abort (unsuccessful termination)** operation.
+
+Since an aborted transaction may already have modified the various data it has accessed, *the state of the data may not be the same as it would be after a successful (committed) transaction*.
+
+In this case, a transaction has to be ‘‘**rolled back**’’ (i.e., restored the modified data back to its state before the transaction started).
+### Atomic Transactions 
+![[Pasted image 20231016124053.png]]
+- Changes should not be committed before the end of the transaction. An “all or nothing” property.
+- n the event of a crash, recovery is possible:
+	- Log-based recovery (keep track of all changes to a record).
+	- Checkpoints (snapshot of the state).
+- Concurrency introduces new challenges
