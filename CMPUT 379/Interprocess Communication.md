@@ -26,7 +26,6 @@ Have a shared file:
 - Test the contents of the file Beware of…
 - Hidden subtleties of the file system (buffering!)
 - Multiple processes accessing the same file (producer-consumer applications)
-#COMEBACKTOTHIS 
 ## Pipes
 ### Example
 Do You Want to Do This...
@@ -162,5 +161,6 @@ Other signals to do with
 User exceptions:
 - `SIGUSR1` user defined T
 - `SIGUSR2` user defined T
+### Signals: Recovery
 
 #COMEBACKTOTHIS CONTENT IS MISSING FROM HERE
