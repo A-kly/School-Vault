@@ -162,5 +162,18 @@ User exceptions:
 - `SIGUSR1` user defined T
 - `SIGUSR2` user defined T
 ### Signals: Recovery
+Just returning from a signal is limiting. What if you want to flag an error and handle it? But the signal could happen at any time during execution.
+- Do you sprinkle your code with error handling?
+```c
+…
+if( erroroccurred ) {…} else {…}
+…
+if( erroroccurred ) {…} else {…}
+…
+```
+- What if where you want to return to is in another function?
+### Long Jumps
+![[Pasted image 20231016113806.png]]
+
 
 #COMEBACKTOTHIS CONTENT IS MISSING FROM HERE
