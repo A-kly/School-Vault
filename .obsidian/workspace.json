@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "CMPUT 379/Interprocess Communication.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +156,7 @@
   },
   "active": "67474402f2cfcedb",
   "lastOpenFiles": [
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20231016112103.png",
     "CMPUT 379/Media/Pasted image 20231016111935.png",
     "CMPUT 379/Media/Pasted image 20231016111040.png",
@@ -166,14 +167,12 @@
     "CMPUT 379/Media/Pasted image 20231013121330.png",
     "CMPUT 379/Media/Pasted image 20231013120500.png",
     "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20231010111814.png",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Media/Pasted image 20231006124333.png",
     "CMPUT 379/Media/Pasted image 20231006124119.png",
-    "CMPUT 379/Media/Pasted image 20231006124047.png",
     "STAT 151/Basics of probability.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",

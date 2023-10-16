@@ -12,6 +12,16 @@ The following are IPC mechanisms can be used for IPC:
 - Sockets – later
 
 ## Files
+- A cumbersome and expensive way of communicating between process is by reading/writing from a shared file.
+- **Low Level I/O** (aka unbuffered I/O)
+	- each read or write invokes a system call to the kernel
+	- `open(), creat(), close(), lseek(), read(), write(), etc`.
+	- performance is sensitive to buffer size
+- **High Level Stream I/O** (the Standard I/O Library)
+	- handles buffer allocation in optimized I/O chunks
+	- `setbuf(), fflush(), fopen(), fclose(), getc(), gets(), etc`.
+### File Communication
+
 #COMEBACKTOTHIS 
 ## Pipes
 ### Example

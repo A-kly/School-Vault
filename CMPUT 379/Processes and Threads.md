@@ -92,9 +92,8 @@ Possibilities:
 	- This is the approach taken by old, old PCs and Macs.
 - Isolate (protect) memory from next process.
 	- This is *memory management*, to be covered later
-
-#COMEBACKTOTHIS
-## Creating a New proces
+## Creating a New process
+![[Pasted image 20231016112103.png]]
 ### Process Creation Mechanisms
 ![[Pasted image 20230920120351.png]]
 ### UNIX Example
