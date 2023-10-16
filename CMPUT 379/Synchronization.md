@@ -205,4 +205,39 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 	- *While any processes are reading. We cause the writer to wait. Once there is no readers happening, We free the writer and allow it to write.*
 - `mutex` semaphore is needed to prevent locking processes out of reading
 	- *Without it, `readcount = readcount + 1;` can be executed by a process, that process can be kicked out of the cpu, another reader process can come in, execute the same line which makes `readcount = 2` and then neither process will be able to enter the critical section*.
-### Primitives revisited!
+# More abstractions
+## Primitives revisited!
+The synchronization primitives discussed so far allow us to access shared data as follows:
+```pseudo
+entry protocol
+< access shared data >
+exit protocol
+```
+Semaphores give us some abstraction: the protocol access to shared data is transparent to the user (hidden in the implementation).
+Now we are ready for even **more abstraction**...
+## Monitors
+A monitor is a high-level (programming language) abstraction that combines (and hides) the following:
+- shared data
+- operations on the data
+- synchronization with condition variables
+Mutual exclusion is not sufficient for concurrent programming. An additional way to block processes (e.g., when resource busy or buffer full) is also needed. Monitors use *condition variables* (cf. binary semaphores) to provide user-tailored synchronization and manage each with a separate condition queue. The only operations available on these variables are `wait() and signal()`.
+### Monitor Abstraction
+![[Pasted image 20231016123355.png]]
+### Monitor Semantics
+- **Access to the data exclusively through a set of procedures** (methods).
+- **Only one process executes in the monitor at any point in time**.
+- Processes **wait at the procedure entry points** or through specific synchronization calls (related to condition variables).
+- For a condition variable x the following are defined:
+	- x.wait()
+	- x.signal()
+	- (Many condition variables can be defined in a monitor.)
+## Other High-Level Primitives
+There are several other proposed programming primitives for synchronization. The following are some common mechanisms:
+- Critical regions
+- Barriers
+- Conditional critical regions
+- Event counts
+- Sequencers
+- Path expressions
+- Serializers
+These primitives are semantically equivalent. Moreover, any one can be built using the others. They are essentially provided by the systems software (OS kernel or language compilers) as programming tools.
