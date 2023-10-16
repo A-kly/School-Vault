@@ -75,8 +75,27 @@ loop forever {
 	- File access pointer(s)
 	- Memory (?)
 - While saving the state, the operating system should mask (disable) all interrupts. Why?
+#### Context Switch Implementation
+- The mechanism of context switching is the most important part of an operating system, and needs special care during the implementation, because:
+	- It is tricky. 
+		- Saving the state of a user process is problematic because the operating system must execute code to save the state without changing the process’ current state!
+	- Machine dependent.
+		- Thanks to technology; each CPU provides some special support to ease the implementation.
+	- It needs to be fast. Require the OS to have as little overhead as possible.
+### PCB Information
+![[Pasted image 20231016111935.png]]
+### Saving Memory?
+Possibilities:
+- Save all memory onto disk.
+	- Could be very time-consuming
+- Don't save memory; trust next process.
+	- This is the approach taken by old, old PCs and Macs.
+- Isolate (protect) memory from next process.
+	- This is *memory management*, to be covered later
+
 #COMEBACKTOTHIS
-## Process Creation Mechanisms
+## Creating a New proces
+### Process Creation Mechanisms
 ![[Pasted image 20230920120351.png]]
 ### UNIX Example
 ![[Pasted image 20230920120414.png]]
