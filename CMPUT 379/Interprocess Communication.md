@@ -174,6 +174,6 @@ if( erroroccurred ) {…} else {…}
 - What if where you want to return to is in another function?
 ### Long Jumps
 ![[Pasted image 20231016113806.png]]
-
-
-#COMEBACKTOTHIS CONTENT IS MISSING FROM HERE
+![[Pasted image 20231016134507.png]]
+![[Pasted image 20231016134517.png]]
+![[Pasted image 20231016134526.png]]
