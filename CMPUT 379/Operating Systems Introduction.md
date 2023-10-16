@@ -68,9 +68,9 @@ Hardware: CPU, memory, storage, I/O etc.
 	- ![[Pasted image 20230911121611.png]]
 ### Memory partitioning
 - Divide system memory into chunks that programs can use separately
-- ![[Pasted image 20230911121707.png|300]]
+![[Pasted image 20230911121707.png|300]]
 # Hardware considerations
-## Interrupts 
+## Interrupts
 **External from program execution**
 External or internal event (or an exception) interrupts the CPU for it to deal with. Notification of an external event that occurs asynchronously from current processor activity. Time of interrupt is not known or predictable.
 ### External Events
