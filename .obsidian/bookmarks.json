@@ -53,6 +53,12 @@
         "scale": 2.457031534082499,
         "close": true
       }
+    },
+    {
+      "type": "file",
+      "ctime": 1697576067459,
+      "path": "CMPUT 379/Processes and Threads.md",
+      "subpath": "#Control of the CPU"
     }
   ]
 }
