@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +155,8 @@
   },
   "active": "67474402f2cfcedb",
   "lastOpenFiles": [
+    "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Media/Pasted image 20231016134526.png",
@@ -164,14 +166,12 @@
     "CMPUT 379/Media/Pasted image 20231016123355.png",
     "CMPUT 379/Media/Pasted image 20231016120746.png",
     "CMPUT 379/Media/Pasted image 20231016113806.png",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20231016112103.png",
     "CMPUT 379/Media/Pasted image 20231016111935.png",
     "CMPUT 379/Media/Pasted image 20231016111040.png",
     "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
-    "CMPUT 379/Operating Systems Introduction.md",
     "STAT 151/Basics of probability.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
