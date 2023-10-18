@@ -1,3 +1,12 @@
+- No coding whatsoever
+- ==read paper on eclass==
+- Lab lecture slides are important
+	- Not this week's lab
+- ==not based on implementing specific concepts==
+- mostly multiple choice
+- some fill in the blank
+
+
 1. [[Processes and Threads#Process States]]
 2. [[Processes and Threads#PCB Information]]
 3. [[Processes and Threads#Process Creation Mechanisms]]
