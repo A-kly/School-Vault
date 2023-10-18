@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md"
+                "file": "CMPUT 379/Operating Systems Introduction.md"
               }
             }
           },
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Operating Systems Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +168,9 @@
   },
   "active": "67474402f2cfcedb",
   "lastOpenFiles": [
-    "CMPUT 379/Synchronization.md",
+    "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Operating Systems Introduction.md",
@@ -199,7 +200,6 @@
     "Markdown Cheat Sheet.md",
     "Untitled.canvas",
     "Markdown Cheat sheet.md",
-    "CMPUT 379/CMPUT 379.md",
     "Excalidraw/Drawing 2023-09-22 10.16.05.excalidraw.md",
     "Excalidraw",
     "PSYCH 105/PSYCH 105.md",
