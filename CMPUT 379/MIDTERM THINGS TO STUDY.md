@@ -6,4 +6,9 @@
 4. [[Processes and Threads#Thread vs Process]]
 	1. Differences btw thread and process
 	2. How thread creation works specifically
-5. 
+5. [[Interprocess Communication#Files]]
+6. ==[[Interprocess Communication#Pipes]]==
+	1. Specific code implementations
+7. ==[[Interprocess Communication#Signals]]==
+	1. Specific code implementations
+8. 

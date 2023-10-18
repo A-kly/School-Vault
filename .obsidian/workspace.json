@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Synchronization.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -182,11 +182,11 @@
   },
   "active": "d0a79f6e3408e026",
   "lastOpenFiles": [
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Operating Systems Introduction.md",
-    "CMPUT 379/Synchronization.md",
-    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Media/Pasted image 20231016134526.png",
     "CMPUT 379/Media/Pasted image 20231016134517.png",
     "CMPUT 379/Media/Pasted image 20231016134507.png",
