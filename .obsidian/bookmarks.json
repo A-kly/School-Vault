@@ -56,9 +56,9 @@
     },
     {
       "type": "file",
-      "ctime": 1697576067459,
+      "ctime": 1697648470066,
       "path": "CMPUT 379/Processes and Threads.md",
-      "subpath": "#Control of the CPU"
+      "subpath": "#Creating a New process"
     }
   ]
 }
