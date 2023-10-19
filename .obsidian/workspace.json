@@ -8,12 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67474402f2cfcedb",
+            "id": "d0319967fcb3102d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35c5d08224967c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f1873583ace7acc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9024f1fef84db306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "293f892f67fa5c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90646d1c41ba22c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Processes and Threads.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b0832303d1f10cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Processes and Threads.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,9 +110,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b11eee93c1cf63d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Processes and Threads.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -155,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +261,12 @@
   },
   "active": "e8f968bb32d802ec",
   "lastOpenFiles": [
-    "CMPUT 379/Synchronization.md",
-    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
-    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Media/Pasted image 20231016134526.png",
     "CMPUT 379/Media/Pasted image 20231016134517.png",
     "CMPUT 379/Media/Pasted image 20231016134507.png",
