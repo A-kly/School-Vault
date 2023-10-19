@@ -188,7 +188,7 @@ No existing hardware implements P/Wait and V/Free operations directly. So, semap
 ### Semaphore: Non-Busy Wait
 ![[Pasted image 20231013124058.png]]
 - We create a queue so that we don't have a process that is "stuck" in a loop (wasting cycles). The queue is based on "arrival time" of the processes (like first come first serve).
-- We shut the process down when it is in the `P` block if the CS is not available, the `V` block wakes up the next available proecess. 
+- We shut the process down when it is in the `P` block if the CS is not available, the `V` block wakes up the next available process. 
 - The Pseudo code does not work because
 ### Semaphores: Readers & Writers
 - Allow one writer at a time, or many readers.
