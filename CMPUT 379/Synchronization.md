@@ -97,7 +97,6 @@ The global variables `pAinside` and `pBinside` are initialized to `FALSE`.
 The global variables `pAinside` and `pBinside` are renamed as `pAtrying` and `pBtrying`, respectively.
 ![[Pasted image 20231006120822.png]]
 - **Problem:** violates rule #2 (progress).
-
 ## Dekker’s Algorithm 
 If two processes attempt to enter a critical section at the same time, the algorithm will allow only one process in, based on whose turn it is. If one process is already in the critical section, the other process will busy-wait for the first process to exit. This is done by the use of two flags, `pAtrying` and `pBtrying`, which indicate an intention to enter the critical section on the part of processes A and B, respectively, and a variable turn that indicates who has priority between the two processes.
 (Same as attempt 2 but with a check for the single bad case, kind of combines attempt 2 and 3)
@@ -114,7 +113,6 @@ they only work for two processes. Similar to the last solution of the ‘‘too-
 - N must be fixed (known a priori), which is too much to expect.
 - The algorithms become much too complicated and expensive.
 ==Implementing a mutual exclusion mechanism is difficult!==
-
 ## Bakery Algorithm 
 Leslie Lamport envisioned a bakery with a numbering machine at its entrance so each customer is given a unique number. Numbers increase by one as customers enter the store. A global counter displays the number of the customer that is currently being served. All other customers must wait in a queue until the baker finishes serving the current customer and the next number is displayed. When the customer is done shopping and has disposed of his or her number, the clerk increments the number, allowing the next customer to be served. That customer must draw another number from the numbering machine in order to shop again. According to the analogy, the "customers" are threads, identified by the letter i, obtained from a global variable. Due to the limitations of computer architecture, some parts of Lamport’s analogy need slight modification. It is possible that more than one thread will get the same number n when they request it; this cannot be avoided. Therefore, it is assumed that the thread identifier i is also a priority. A lower value of i means a higher priority and threads with higher priority will enter the critical section first. 
 ![[Pasted image 20231006123602.png]]
