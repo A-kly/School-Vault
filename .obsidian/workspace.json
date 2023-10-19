@@ -21,19 +21,20 @@
             }
           },
           {
-            "id": "717b1350b65779f0",
+            "id": "e8f968bb32d802ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Synchronization.md"
+                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md"
               }
             }
           },
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Synchronization.md",
+                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,12 +167,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "67474402f2cfcedb",
+  "active": "e8f968bb32d802ec",
   "lastOpenFiles": [
+    "CMPUT 379/Synchronization.md",
+    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
-    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
-    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Media/Pasted image 20231016134526.png",
