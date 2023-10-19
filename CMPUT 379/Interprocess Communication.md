@@ -95,7 +95,6 @@ if(( p=popen("cat pipe.c","r") ) == NULL){
 	- Also a signal, does not kill but stops temporarily.
 - `bg` brings process to background after it has been stopped
 - `fg` brings process to foreground after it has been stopped
-
 ### Receiving a signal
 
 - Using the `signal()` system call, a process can:
@@ -107,8 +106,7 @@ if(( p=popen("cat pipe.c","r") ) == NULL){
 		- S (stop)—suspend the process.
 		- I (ignore)—disregard the signal.
 
-A process can declare a function to service a particular
-signal as:
+A process can declare a function to service a particular signal as:
 ```C
 #include <signal.h>
 signal(int sig, SIGARG func);
@@ -116,7 +114,6 @@ signal(int sig, SIGARG func);
 (or the more modern `sigaction()`).
 - Whenever the specified signal sig is received, the process is interrupted and `func()` is called immediately. This is a **catch**.
 - On return from `func()`, the process resumes its execution from where it was interrupted.
-
 #### Example
 ```C
 #include <stdio.h>, <unistd.h>, <signal.h>
