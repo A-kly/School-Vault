@@ -10,7 +10,6 @@ The following are IPC mechanisms can be used for IPC:
 - Shared Memory (processes) – later
 - Message Passing – later
 - Sockets – later
-
 ## Files
 - A cumbersome and expensive way of communicating between process is by reading/writing from a shared file.
 - **Low Level I/O** (aka unbuffered I/O)
@@ -81,7 +80,6 @@ if(( p=popen("cat pipe.c","r") ) == NULL){
 	pclose( p );
 }
 ```
-
 ## Signals
 - Like an interrupt but *not in hardware*, they are **Software interrupts**.
 - A signal can be sent:
@@ -102,8 +100,8 @@ if(( p=popen("cat pipe.c","r") ) == NULL){
 
 - Using the `signal()` system call, a process can:
 	- **Ignore** the signal—all except for two signals (SIGKILL and SIGSTOP) can be ignored.
-	-  **Catch** the signal—tell the kernel to call a function whenever the signal occurs.
-	-  **Let the default action apply**—depending on the signal, the default action can be:
+	- **Catch** the signal—tell the kernel to call a function whenever the signal occurs.
+	- **Let the default action apply**—depending on the signal, the default action can be:
 		- T (terminate)—perform all activities as if the exit system call is requested.
 		- TC (terminate and core dump)—first produce a core image on disk and then perform the exit activities.
 		- S (stop)—suspend the process.

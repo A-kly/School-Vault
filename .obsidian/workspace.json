@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md"
+                "file": "CMPUT 379/Interprocess Communication.md"
               }
             }
           },
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,10 +247,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b11eee93c1cf63d5",
+  "active": "d71c2091476d5c1a",
   "lastOpenFiles": [
-    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Operating Systems Introduction.md",
