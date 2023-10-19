@@ -21,33 +21,7 @@
             }
           },
           {
-            "id": "0f5eafe0cbc5f47c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Processes and Threads.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35c5d08224967c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Interprocess Communication.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f1873583ace7acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -112,6 +86,19 @@
             }
           },
           {
+            "id": "d71c2091476d5c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Interprocess Communication.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b11eee93c1cf63d5",
             "type": "leaf",
             "state": {
@@ -124,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md"
+                "file": "CMPUT 379/Processes and Threads.md"
               }
             }
           },
@@ -210,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+                "file": "CMPUT 379/Processes and Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -258,11 +246,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d0319967fcb3102d",
+  "active": "e8f968bb32d802ec",
   "lastOpenFiles": [
+    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
-    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
