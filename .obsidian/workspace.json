@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -246,11 +247,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e8f968bb32d802ec",
+  "active": "b11eee93c1cf63d5",
   "lastOpenFiles": [
-    "CMPUT 379/Interprocess Communication.md",
-    "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
+    "CMPUT 379/Processes and Threads.md",
+    "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",

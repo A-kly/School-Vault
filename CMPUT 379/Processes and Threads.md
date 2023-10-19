@@ -66,7 +66,6 @@ loop forever {
 	- Trust the process to wake up the dispatcher when done *(sleeping beauty approach)*.
 	- Provide a mechanism to wake up the dispatcher *(alarm clock)*.
 - The problem with the first approach is that sometimes processes loop indefinitely. Therefore, the alarm clock interrupt approach is better.
-
 ### Context Switch
 - When an event occurs, the operating system saves the state of the active process and restores the state of the interrupt service routine (ISR). This mechanism is called a context switch. 
 - What must get saved? Everything that the next process could or will damage. For example:
