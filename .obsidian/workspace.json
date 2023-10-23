@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Untitled.md"
+                "file": "CMPUT 379/DeadLock.md"
               }
             }
           },
@@ -224,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +275,7 @@
   "active": "9800b491dc0eb043",
   "lastOpenFiles": [
     "CMPUT 379/Synchronization.md",
-    "CMPUT 379/Untitled.md",
+    "CMPUT 379/DeadLock.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
