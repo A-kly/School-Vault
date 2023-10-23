@@ -42,3 +42,5 @@ If any one of the necessary conditions is prevented a deadlock need not occur. F
 # Resource Allocation Graphs
 ![[Pasted image 20231023124642.png]]
 
+## Cycle Is Necessary, But ...
+![[Pasted image 20231023125149.png]]

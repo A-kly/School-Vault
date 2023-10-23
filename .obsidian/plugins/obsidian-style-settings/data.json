@@ -111,5 +111,6 @@
   "Editor@@h2-color-select": "h2-color-designated",
   "Appearance-dark@@accent-dark": "#16A4FF",
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
-  "anuppuccin-theme-settings@@anp-print": false
+  "anuppuccin-theme-settings@@anp-print": true,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false
 }

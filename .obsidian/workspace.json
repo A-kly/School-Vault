@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/DeadLock.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/DeadLock.md"
+                "file": "CMPUT 379/Interprocess Communication.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/DeadLock.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/DeadLock.md",
+                "file": "CMPUT 379/Interprocess Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +156,10 @@
   },
   "active": "9800b491dc0eb043",
   "lastOpenFiles": [
+    "CMPUT 379/DeadLock.md",
+    "CMPUT 379/Media/Pasted image 20231023125149.png",
     "CMPUT 379/Media/Pasted image 20231023124642.png",
     "CMPUT 379/Synchronization.md",
-    "CMPUT 379/DeadLock.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/MIDTERM THINGS TO STUDY.md",
@@ -172,8 +173,6 @@
     "CMPUT 379/Media/Pasted image 20231016124053.png",
     "CMPUT 379/Media/Pasted image 20231016123355.png",
     "CMPUT 379/Media/Pasted image 20231016120746.png",
-    "CMPUT 379/Media/Pasted image 20231016113806.png",
-    "CMPUT 379/Media/Pasted image 20231016112103.png",
     "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
