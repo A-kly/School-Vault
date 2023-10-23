@@ -27,3 +27,16 @@ Four conditions that must hold for a deadlock to occur:
 ## My Example
 ![[Pasted image 20231023123158.png]]
 # Discussion
+If any one of the necessary conditions is prevented a deadlock need not occur. For example:
+- Systems with only simultaneously shared resources cannot deadlock.
+	- *Negates mutual exclusion*.
+- Systems that abort processes which request a resource that is in use.
+	- *Negates hold and wait*.
+- Preemptions may be possible if a process does not use its resources until it has acquired all it needs.
+	- *Negates no preemption*.
+- Transaction processing systems provide checkpoints so that processes may back out of a transaction.
+	- *Negates irreversible process*.
+- Systems that prevent, detect, or avoid cycles.
+	- *Negates circular wait. Often, the preferred solution*.
+
+
