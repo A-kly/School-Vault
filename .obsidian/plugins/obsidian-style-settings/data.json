@@ -95,13 +95,19 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
   "Appearance-dark@@card-layout-open-dark": true,
   "Appearance-dark@@accent-color-override-dark": true,
-  "Appearance-dark@@card-highlight-dark": true,
+  "Appearance-dark@@card-highlight-dark": false,
   "Editor@@h1-divider-on": true,
-  "Editor@@h1-color-select": "h1-color-default",
+  "Editor@@h1-color-select": "h1-color-designated",
   "Editor@@h2-divider-on": true,
   "Editor@@h3-divider-on": true,
   "Editor@@h4-divider-on": true,
   "Editor@@h5-divider-on": true,
   "Editor@@h6-divider-on": true,
-  "Editor@@zoom-off": true
+  "Editor@@zoom-off": true,
+  "Editor@@h6-color-select": "h6-color-designated",
+  "Editor@@h5-color-select": "h5-color-designated",
+  "Editor@@h4-color-select": "h4-color-designated",
+  "Editor@@h3-color-select": "h3-color-designated",
+  "Editor@@h2-color-select": "h2-color-designated",
+  "Appearance-dark@@accent-dark": "#16A4FF"
 }

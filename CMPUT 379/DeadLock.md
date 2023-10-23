@@ -26,3 +26,4 @@ Four conditions that must hold for a deadlock to occur:
 ![[Pasted image 20231023123111.png]]
 ## My Example
 ![[Pasted image 20231023123158.png]]
+# Discussion
