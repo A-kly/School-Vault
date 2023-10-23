@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0319967fcb3102d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/MIDTERM THINGS TO STUDY.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35c5d08224967c0d",
             "type": "leaf",
             "state": {
@@ -138,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -274,11 +261,13 @@
   },
   "active": "9800b491dc0eb043",
   "lastOpenFiles": [
-    "CMPUT 379/Synchronization.md",
+    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "CMPUT 379/DeadLock.md",
+    "CMPUT 379/Media/Pasted image 20231023123158.png",
+    "CMPUT 379/Media/Pasted image 20231023123111.png",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
-    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/CMPUT 379.md",
     "CMPUT 379/Media/Pasted image 20231016134526.png",
@@ -289,8 +278,6 @@
     "CMPUT 379/Media/Pasted image 20231016120746.png",
     "CMPUT 379/Media/Pasted image 20231016113806.png",
     "CMPUT 379/Media/Pasted image 20231016112103.png",
-    "CMPUT 379/Media/Pasted image 20231016111935.png",
-    "CMPUT 379/Media/Pasted image 20231016111040.png",
     "CMPUT 379/IMPORTANT INFO FOR ASSIGNMENT 1 TEST.md",
     "PSYCH 105/Language & Thought.md",
     "PSYCH 105/Methods in Psychology.md",
@@ -314,7 +301,6 @@
     "CMPUT 379/Class info.md",
     "PSYCH 105/emergentist.md",
     "STAT 151/Media",
-    "PSYCH 105/Class Info.md",
     "CMPUT 379/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",

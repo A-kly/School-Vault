@@ -86,5 +86,22 @@
   "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
   "anuppuccin-theme-settings@@anp-hide-borders": false,
   "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-yellow",
-  "anuppuccin-theme-settings@@anp-toggle-preview": false
+  "anuppuccin-theme-settings@@anp-toggle-preview": false,
+  "Components@@file-names-untrim": true,
+  "Components@@folder-font-bold": true,
+  "Components@@vault-name-display-select": "vault-name-default",
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true,
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-darker",
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@accent-color-override-dark": true,
+  "Appearance-dark@@card-highlight-dark": true,
+  "Editor@@h1-divider-on": true,
+  "Editor@@h1-color-select": "h1-color-default",
+  "Editor@@h2-divider-on": true,
+  "Editor@@h3-divider-on": true,
+  "Editor@@h4-divider-on": true,
+  "Editor@@h5-divider-on": true,
+  "Editor@@h6-divider-on": true,
+  "Editor@@zoom-off": true
 }

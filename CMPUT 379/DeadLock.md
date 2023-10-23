@@ -17,3 +17,12 @@ Another taxonomy dimension again identifies two types of resources:
 
 ==Deadlocks occur when sharing reusable and non-preemptable resources.==
 # Conditions for Deadlock
+Four conditions that must hold for a deadlock to occur:
+1. **Mutual exclusion:** processes require exclusive control of its resources (not sharing).
+2. **Hold and wait:** process may wait for a resource while holding others.
+3. **No preemption:** process will not give up a resource until it is finished with it.
+4. **Circular wait:** each process in the chain holds a resource requested by another.
+# Real-World Example
+![[Pasted image 20231023123111.png]]
+## My Example
+![[Pasted image 20231023123158.png]]
