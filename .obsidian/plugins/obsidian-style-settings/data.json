@@ -8,7 +8,7 @@
   "encore-settings@@encore-fancy-headers": false,
   "encore-settings@@colors": "encore-colors-colorful",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sky",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
@@ -109,5 +109,7 @@
   "Editor@@h4-color-select": "h4-color-designated",
   "Editor@@h3-color-select": "h3-color-designated",
   "Editor@@h2-color-select": "h2-color-designated",
-  "Appearance-dark@@accent-dark": "#16A4FF"
+  "Appearance-dark@@accent-dark": "#16A4FF",
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-print": false
 }

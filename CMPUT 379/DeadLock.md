@@ -39,4 +39,6 @@ If any one of the necessary conditions is prevented a deadlock need not occur. F
 - Systems that prevent, detect, or avoid cycles.
 	- *Negates circular wait. Often, the preferred solution*.
 
+# Resource Allocation Graphs
+![[Pasted image 20231023124642.png]]
 
