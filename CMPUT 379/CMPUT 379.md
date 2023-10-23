@@ -7,5 +7,6 @@
 - [[Operating Systems Introduction]]
 - [[Processes and Threads]]
 - [[Synchronization]]
+- [[DeadLock]]
 
 %% End Waypoint %%
