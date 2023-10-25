@@ -85,4 +85,13 @@ Deadlock avoidance, allows the necessary conditions but makes judicious choices 
 - Ways to avoid deadlock by careful resource allocation:
 - Resource trajectories.
 - Safe/unsafe states.
-- [[#Dijkstra’s Banker's]] algorithm.
+- [[#Dijkstra’s Banker's algorithm]].
+## Dijkstra’s Banker's algorithm
+### Definitions
+![[Pasted image 20231025121608.png]]
+### Resource request
+![[Pasted image 20231025121629.png]]
+### isSafe
+![[Pasted image 20231025121644.png]]
+### what is safe?
+![[Pasted image 20231025121700.png]]
