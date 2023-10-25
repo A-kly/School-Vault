@@ -55,7 +55,6 @@ A **knot** must exist—**a cycle with no non-cycle outgoing path from any invol
 # Strategies for deadlocks
 In general, four strategies are used for dealing with deadlocks:
 - **Ignore:** stick your head in the sand and *pretend there is no problem at all*.
-	- This is what windows does. This is why it freezes sometimes.
 - **Prevent:** *design a system in such a way that the possibility of deadlock is excluded* a priori (e.g., compile-time/statically, by design)
 - **Avoid:** *make a decision dynamically* checking whether the request will, if granted, potentially lead to a deadlock or not (e.g., run-time/dynamically, before it happens)
 - **Detect:** let the deadlock occur and detect when it happens, and *take some action to recover after the fact* (e.g., run-time/dynamically, after it happens)
