@@ -63,5 +63,26 @@ In general, four strategies are used for dealing with deadlocks:
 Different people react to this strategy in different ways:
 - **Mathematicians:** find deadlock totally unacceptable, and say that it *must be prevented at all costs*.
 - **Engineers:** ask *how serious it is*, and do not want to pay a penalty in performance and convenience.
-The UNIX approach is just to ignore the problem on the assumption that most users would prefer an occasional deadlock, to a rule restricting user access to only one resource at a time. 
-The problem is that the prevention price is high, mostly in terms of putting inconvenient restrictions on processes.
+The *UNIX approach is just to ignore the problem* on the assumption that most users would prefer an occasional deadlock, to a rule restricting user access to only one resource at a time. 
+The problem is that the ==prevention price is high==, mostly in terms of putting inconvenient restrictions on processes.
+# Deadlock Prevention
+The strategy of deadlock prevention is to design a system in such a way that the *possibility of deadlock is excluded a priori*. Methods for preventing deadlock are of two classes:
+- **indirect methods** prevent the occurrence of one of the necessary *conditions listed earlier* -> [[#Conditions for Deadlock]].
+- **direct methods** prevent the occurrence of a *circular wait condition*.
+Deadlock prevention strategies are very conservative; they solve the problem of deadlock by limiting access to resources and by imposing restrictions on processes.
+## More on Deadlock Prevention
+- **Mutual exclusion**
+	- In general, this condition ==cannot== be disallowed.
+- **Hold-and-wait**
+	- The hold and-wait condition can be prevented by *requiring that a process request all its required resources at one time, and blocking the process until all requests can be granted simultaneously*.
+- **No preemption**
+	- One solution is that *if a process holding certain resources is denied a further request, that process must release its unused resources and request them again*, together with the additional resource.
+- **Circular Wait**
+	- The circular wait condition can be prevented by *defining a linear ordering of resource types (e.g. Directed Acyclic Graph). If a process has been allocated resources of type R, then it may subsequently request only those resources of types following R in the ordering*.
+
+# Deadlock Avoidance
+Deadlock avoidance, allows the necessary conditions but makes judicious choices to ensure that a deadlock-free system remains free from deadlock. With deadlock avoidance, *a decision is made dynamically* whether the current resource allocation request will, if granted, potentially lead to a deadlock. Deadlock avoidance thus requires knowledge of future requests for process resources.
+- Ways to avoid deadlock by careful resource allocation:
+- Resource trajectories.
+- Safe/unsafe states.
+- [[#Dijkstra’s Banker's]] algorithm.
