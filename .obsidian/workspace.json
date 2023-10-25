@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT 151/Data and Variables.md"
+                "file": "CMPUT 379/DeadLock.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT 151/Data and Variables.md",
+                "file": "CMPUT 379/DeadLock.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,6 +156,7 @@
   },
   "active": "9800b491dc0eb043",
   "lastOpenFiles": [
+    "STAT 151/Data and Variables.md",
     "STAT 151/Basics of probability.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
@@ -182,7 +183,6 @@
     "PSYCH 105/Experience and Intuition V.S. Science.md",
     "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.html",
-    "STAT 151/Data and Variables.md",
     "STAT 151/LAB1.md",
     "429 Ch1 Q4.md",
     "STAT 151/STAT 151.md",

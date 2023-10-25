@@ -44,3 +44,5 @@ If any one of the necessary conditions is prevented a deadlock need not occur. F
 
 ## Cycle Is Necessary, But ...
 ![[Pasted image 20231023125149.png]]
+## … A Knot Is Required
+Cycle is a *necessary condition* for a deadlock. But when dealing with multiple unit resources, **not sufficient**.
