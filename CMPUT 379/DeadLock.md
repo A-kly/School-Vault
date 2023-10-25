@@ -46,3 +46,22 @@ If any one of the necessary conditions is prevented a deadlock need not occur. F
 ![[Pasted image 20231023125149.png]]
 ## … A Knot Is Required
 Cycle is a *necessary condition* for a deadlock. But when dealing with multiple unit resources, **not sufficient**.
+A **knot** must exist—**a cycle with no non-cycle outgoing path from any involved node**.
+- At the moment assume that:
+	- A process halts as soon as it waits for one resource, and
+	- Processes can wait for only one resource at a time.
+## Further Requests
+![[Pasted image 20231025120628.png]]
+# Strategies for deadlocks
+In general, four strategies are used for dealing with deadlocks:
+- **Ignore:** stick your head in the sand and *pretend there is no problem at all*.
+	- This is what windows does. This is why it freezes sometimes.
+- **Prevent:** *design a system in such a way that the possibility of deadlock is excluded* a priori (e.g., compile-time/statically, by design)
+- **Avoid:** *make a decision dynamically* checking whether the request will, if granted, potentially lead to a deadlock or not (e.g., run-time/dynamically, before it happens)
+- **Detect:** let the deadlock occur and detect when it happens, and *take some action to recover after the fact* (e.g., run-time/dynamically, after it happens)
+# Theory Versus Practice
+Different people react to this strategy in different ways:
+- **Mathematicians:** find deadlock totally unacceptable, and say that it *must be prevented at all costs*.
+- **Engineers:** ask *how serious it is*, and do not want to pay a penalty in performance and convenience.
+The UNIX approach is just to ignore the problem on the assumption that most users would prefer an occasional deadlock, to a rule restricting user access to only one resource at a time. 
+The problem is that the prevention price is high, mostly in terms of putting inconvenient restrictions on processes.
