@@ -60,6 +60,14 @@ The goal of short-term scheduling is to optimize the system performance (e.g., h
 # Scheduler Design
 A typical scheduler is designed to *select one or more primary performance criteria and rank them in order of importance*. One problem in selecting a set of performance criteria is that *they often conflict with each other*. For example, increased processor utilization is usually achieved by increasing the number of active processes, but then response time deteriorates. So, the design of a scheduler usually involves a careful balance of all requirements and constraints (i.e., trade-offs).
 # Scheduler Performance Metrics
-**Turnaround time:** process entering the system to the time it completes execution (lower is better).
-**Waiting time:** total amount of time a process spends in the READY state (lower is better).
-**Throughput:** number of completed jobs per time period (higher is better).
+- **Turnaround time:** process entering the system to the time it completes execution (lower is better).
+- **Waiting time:** total amount of time a process spends in the READY state (lower is better).
+- **Throughput:** number of completed jobs per time period (higher is better).
+==Getting the best performance for a scheduler does not necessarily mean getting the best result(s) for these metric(s).==
+
+When do the above metrics give misleading results?
+# Scheduling Policies
+In general, scheduling policies may be **preemptive** or **non-preemptive**.
+In a **non-preemptive** pure multiprogramming system, *the short-term scheduler lets the current process run until it blocks, waiting for an event or a resource, or it terminates*.
+**Preemptive** policies, on the other hand, *force the currently active process to release the CPU on certain events, such as a clock interrupt, some 1/0 interrupts, or a system call*.
+
