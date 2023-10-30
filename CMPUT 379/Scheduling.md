@@ -28,7 +28,24 @@ Processes alternate between consuming CPU cycles **(CPU-burst)** and performing 
 - The system may try to guess…
 	- A process can change its performance characteristics over time.
 	- Extrapolate the duration of the next CPU burst from the past history.
-	- Use a Simple Moving Average (MVA), the average over a time period
-	- Use an Exponential Moving Average (EMA), a dynamic average by decaying the value of older data points.
-## SMA/EMA Example
+	- Use a *Simple Moving Average (MVA)*, the average over a time period
+	- Use an *Exponential Moving Average (EMA)*, a dynamic average by decaying the value of older data points.
+### SMA/EMA Example
 ![[Pasted image 20231030120644.png]]
+# Types of Scheduling
+In general, (job) scheduling is performed in three stages: short-, medium-, and long-term. The activity frequency of these stages are implied by their names.
+**Long-term** (job) scheduling is done when *a new process is created*. The OS initiates processes and so controls the degree of multi-programming (number of processes in memory).
+**Medium-term** scheduling involves *suspending or resuming processes by swapping* (defined later) them out of or into memory.
+**Short-term** (process or CPU) scheduling *occurs most frequently and decides which process to execute next*.
+## Life Cycle of a Typical Process
+![[Pasted image 20231030121346.png]]
+## Long- & Medium-Term Scheduling
+Acting as the primary resource allocator, *the long-term scheduler admits more jobs when the resource utilization is low or blocks the incoming (batch) jobs from entering the ready queue otherwise*. 
+When the main memory becomes over-committed, the *medium-term scheduler releases the memory of a suspended (blocked or stopped) process by swapping (rolling) it out*. 
+In summary, ==both schedulers control the level of multiprogramming and avoid (as much as possible) overloading the system== by having many processes and causing "thrashing" (more on this later).
+## Short-Term Scheduling
+Short-term scheduler, also known as the process or CPU
+scheduler, controls the CPU sharing among the ‘‘ready’’
+processes. The selection of a process to execute next is
+done by the short-term scheduler. Usually, a new
+process is selected under the following circumstances:
