@@ -20,7 +20,8 @@ Multiprogramming is the (efficient) scheduling of the CPU. The basic idea is to 
 Processes alternate between consuming CPU cycles **(CPU-burst)** and performing I/O **(I/O-burst)**.
 # Classification
 ![[Pasted image 20231030120412.png]]
-- **CPU bound**
+- **CPU bound** = Mostly computing, low I/O
+- **I/O bound** = mostly I/O, low CPU
 **CPU bursts** are the “customers” (think of a person in line for checkout at a grocery store). We care about the *turnaround time of CPU bursts*. Should processes with short CPU bursts (i.e., I/O bound processes) be given priority in acquiring the CPU?
 ## How Do You Classify?
 - Force the user to provide such information.
@@ -29,3 +30,5 @@ Processes alternate between consuming CPU cycles **(CPU-burst)** and performing 
 	- Extrapolate the duration of the next CPU burst from the past history.
 	- Use a Simple Moving Average (MVA), the average over a time period
 	- Use an Exponential Moving Average (EMA), a dynamic average by decaying the value of older data points.
+## SMA/EMA Example
+![[Pasted image 20231030120644.png]]
