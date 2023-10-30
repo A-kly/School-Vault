@@ -6,6 +6,7 @@
 
 - [[Operating Systems Introduction]]
 - [[Processes and Threads]]
+- [[Scheduling]]
 - [[Synchronization]]
 
 %% End Waypoint %%
