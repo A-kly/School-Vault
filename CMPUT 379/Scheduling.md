@@ -81,5 +81,5 @@ The following are some common scheduling algorithms:
 | Good for "background" batch jobs. | Good for "foreground" interactive jobs. |
 
 ## First-Come-First-Served (FCFS)
-
+	
 
