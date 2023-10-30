@@ -71,3 +71,15 @@ In general, scheduling policies may be **preemptive** or **non-preemptive**.
 In a **non-preemptive** pure multiprogramming system, *the short-term scheduler lets the current process run until it blocks, waiting for an event or a resource, or it terminates*.
 **Preemptive** policies, on the other hand, *force the currently active process to release the CPU on certain events, such as a clock interrupt, some 1/0 interrupts, or a system call*.
 
+# Scheduling Algorithms
+The following are some common scheduling algorithms:
+
+| Non-preemptive                    | Preemptive                              |
+| --------------------------------- | --------------------------------------- |
+| First-Come-First-Served (FCFS)    | Round-Robin (RR)                        |
+| Shortest Job First (SJF)          |                                         |
+| Good for "background" batch jobs. | Good for "foreground" interactive jobs. |
+
+## First-Come-First-Served (FCFS)
+
+
