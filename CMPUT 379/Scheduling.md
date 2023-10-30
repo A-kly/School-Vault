@@ -44,8 +44,22 @@ Acting as the primary resource allocator, *the long-term scheduler admits more j
 When the main memory becomes over-committed, the *medium-term scheduler releases the memory of a suspended (blocked or stopped) process by swapping (rolling) it out*. 
 In summary, ==both schedulers control the level of multiprogramming and avoid (as much as possible) overloading the system== by having many processes and causing "thrashing" (more on this later).
 ## Short-Term Scheduling
-Short-term scheduler, also known as the process or CPU
-scheduler, controls the CPU sharing among the ‘‘ready’’
-processes. The selection of a process to execute next is
-done by the short-term scheduler. Usually, a new
-process is selected under the following circumstances:
+Short-term scheduler, also known as the process or CPU scheduler, *controls the CPU sharing among the ‘‘ready’’ processes*. The selection of a process to execute next is done by the short-term scheduler. Usually, a new process is selected under the following circumstances:
+- When a process must wait for an event.
+- When an event occurs (e.g., I/O completed, quantum expired).
+- When a process terminates.
+==The short-term scheduler must be fast==!
+### Short-Term Scheduling Criteria
+The goal of short-term scheduling is to optimize the system performance (e.g., high throughput), and yet provide responsive service (e.g., low latency). To achieve this goal, the following criteria are used:
+- CPU utilization
+- I/O device throughput
+- Total service time (e.g., turnaround time)
+- Responsiveness (e.g., for keystrokes)
+- Fairness
+- Deadlines (e.g., for real-time systems)
+# Scheduler Design
+A typical scheduler is designed to *select one or more primary performance criteria and rank them in order of importance*. One problem in selecting a set of performance criteria is that *they often conflict with each other*. For example, increased processor utilization is usually achieved by increasing the number of active processes, but then response time deteriorates. So, the design of a scheduler usually involves a careful balance of all requirements and constraints (i.e., trade-offs).
+# Scheduler Performance Metrics
+**Turnaround time:** process entering the system to the time it completes execution (lower is better).
+**Waiting time:** total amount of time a process spends in the READY state (lower is better).
+**Throughput:** number of completed jobs per time period (higher is better).
