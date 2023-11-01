@@ -81,5 +81,7 @@ The following are some common scheduling algorithms:
 | Good for "background" batch jobs. | Good for "foreground" interactive jobs. |
 
 ## First-Come-First-Served (FCFS)
-	
+#COMEBACKTOTHIS ==Laptop is almost dead, may have to rewrite==
+FCFS, also known as First-in-First-out (FIFO), *is the simplest scheduling policy*. *Arriving jobs are inserted at the tail (rear) of the ready queue and the process to be executed next is removed from the head (front) of the queue*.
+FCFS performs *better for long jobs*. Relative importance of jobs measured only by arrival time (poor choice). A long CPU-bound job may hog the CPU and may force shorter (or 1/0-bound) jobs to wait prolonged periods. *This in turn may lead to a lengthy queue of ready jobs, the "convo effect"*.
 
