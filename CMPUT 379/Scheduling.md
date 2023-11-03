@@ -86,3 +86,17 @@ FCFS, also known as First-in-First-out (FIFO), *is the simplest scheduling polic
 FCFS performs *better for long jobs*. Relative importance of jobs measured only by arrival time (poor choice). A long CPU-bound job may hog the CPU and may force shorter (or 1/0-bound) jobs to wait prolonged periods. *This in turn may lead to a lengthy queue of ready jobs, the "convo effect"*.
 
 ## Priority-Based
+Each process is assigned a priority (e.g., a number). *The ready list contains an entry for each process ordered by its priority*. *The process at the beginning of the list (highest priority) is picked first*.
+
+A variation of this scheme allows preemption of the current process when a higher priority process arrives.
+
+*Another variation of the policy adds an aging scheme where the priority of a process increases as it remains in the ready queue; hence, will eventually execute to completion*.
+![[Pasted image 20231103120454.png]]
+# Scheduling Policy Comparison
+Unfortunately, the performance of scheduling policies *vary substantially depending on the characteristics of the jobs entering the system (job mix)*, thus it is not practical to make definitive comparisons. **The results depend on the specific workload**. 
+
+For example, *FCFS performs better for "long" processes and tends to favor CPU-bound jobs*. In contrast SJF is *risky as long processes may suffer from CPU starvation*. Furthermore, *FCFS is not suitable for "interactive" jobs, and similarly, RR is not suitable for long CPU-bound jobs*. 
+
+The (processing) overhead of FCFS is negligible, but it is moderate in RR and can be high(er) for SJF.
+
+# Starvation
