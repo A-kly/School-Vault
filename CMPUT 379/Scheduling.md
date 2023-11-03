@@ -117,3 +117,19 @@ The exact ordering of those processes (their actual priority) doesn't really mat
 As discussed earlier, the previous policies alone cannot efficiently handle a mixed collection of jobs (e.g., batch, interactive, and CPU-bound). So, other schemes were developed:
 - Multi-level queue scheduling
 - Multi-level feedback queue scheduling
+
+Ken Thompson (co-inventor of UNIX) says:
+“A good interactive system is the best compromise.”
+Why?
+## Multi-Level Queue
+Multi-Level Queue (MLQ) scheme solves the mix job problem by **maintaining separate "ready" queues for each type of job class and apply different scheduling algorithms to each**.
+![[Pasted image 20231103121804.png]]
+## Multi-Level Feedback Queue
+This is a variation of MLQ where *processes (jobs) are not permanently assigned to a queue when they enter the system. In this approach, if a process exhausts its time quantum (i.e., it is CPU-bound), it is moved to another queue with a longer time quantum and a lower priority. The last level usually uses FCFS algorithm in this scheme*.
+![[Pasted image 20231103121906.png]]
+# Real-Time Computing
+The typical ==Unix system is a “best effort” system, not real time==.
+A real-time (R-T) system *controls or monitors external events that have their own timing requirements, thus a R-T operating system should be tailored to respond to these activities*. Examples of R-T applications include **control of laboratory experiments, process control, robotics, video games, and telecommunications**.
+An OS designed to *support batch and interactive (the two extremes) is different from that for a R-T. One basic difference is the way external events are handled*.
+## Real-Time Tasks
+
