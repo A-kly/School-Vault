@@ -100,3 +100,7 @@ For example, *FCFS performs better for "long" processes and tends to favor CPU-b
 The (processing) overhead of FCFS is negligible, but it is moderate in RR and can be high(er) for SJF.
 
 # Starvation
+A scheduling policy may be starvation prone, i.e., a constant availability of high-priority jobs may result in a *starvation of low-priority jobs*. SJF (preemptive or not) may starve long-running jobs. 
+
+The standard way to eliminate starvation is to *add a time component to the priority (the age factor)*.
+# Kernel Processes
