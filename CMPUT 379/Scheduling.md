@@ -132,4 +132,28 @@ The typical ==Unix system is a “best effort” system, not real time==.
 A real-time (R-T) system *controls or monitors external events that have their own timing requirements, thus a R-T operating system should be tailored to respond to these activities*. Examples of R-T applications include **control of laboratory experiments, process control, robotics, video games, and telecommunications**.
 An OS designed to *support batch and interactive (the two extremes) is different from that for a R-T. One basic difference is the way external events are handled*.
 ## Real-Time Tasks
+A process (usually referred to as a task in R-T systems) that controls or reacts to an event in a R-T system is associated with a deadline specifying either a start time or a completion time. Depending on its deadline, a process can be classified as one of the following:
+- Hard real-time
+	- must meet the deadlines (time-critical).
+	- often, an external factor determines the deadlines.
+- Soft real-time
+	- meeting a deadline is desirable (better performance).
 
+Compare real-time tasks vs. scheduling an entire workload.
+## Real-Time Operating Systems
+- ***Standard System***
+	- **Capacity:** high throughput, statistically good utilization of all equipment, low overhead.
+	- **Responsiveness:** low average turnaround time, low average response time.
+	- **Overload:** fair performance degradation.
+- ***Real-Time System***
+	- **Capacity:** “scheduleability,” number of context switches per second, number of interrupts per second.
+	- **Responsiveness:** worst-case delay, low variance, predictable behavior.
+	- **Overload:** stability, unaffected performance for critical tasks.
+# Multiprocessor Scheduling
+- Load sharing/balancing
+• Dedicated processor assignment
+• Gang scheduling (schedules related threads or processes to
+run simultaneously on different processors).
+• Dynamic scheduling (data flow)
+• Thread placement/scheduling
+• Cache affinity scheduling
