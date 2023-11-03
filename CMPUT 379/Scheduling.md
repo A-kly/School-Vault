@@ -151,9 +151,8 @@ Compare real-time tasks vs. scheduling an entire workload.
 	- **Overload:** stability, unaffected performance for critical tasks.
 # Multiprocessor Scheduling
 - Load sharing/balancing
-• Dedicated processor assignment
-• Gang scheduling (schedules related threads or processes to
-run simultaneously on different processors).
-• Dynamic scheduling (data flow)
-• Thread placement/scheduling
-• Cache affinity scheduling
+- Dedicated processor assignment
+- Gang scheduling (schedules related threads or processes to run simultaneously on different processors).
+- Dynamic scheduling (data flow)
+- Thread placement/scheduling
+- Cache affinity scheduling
