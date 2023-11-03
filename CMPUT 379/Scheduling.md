@@ -104,3 +104,16 @@ A scheduling policy may be starvation prone, i.e., a constant availability of hi
 
 The standard way to eliminate starvation is to *add a time component to the priority (the age factor)*.
 # Kernel Processes
+What is the best scheduling policy for high priority, I/O bound processes?
+
+**We know for a fact what these processes are, what they do, and the resources they consume**.
+
+*The CPU bursts are always short. There is no need to guess or estimate*.
+
+Common scheme is ==fixed-priority preemptive scheduling==.
+
+The exact ordering of those processes (their actual priority) doesn't really matter, *as long as they are ahead of everything else*.
+# Other Policies
+As discussed earlier, the previous policies alone cannot efficiently handle a mixed collection of jobs (e.g., batch, interactive, and CPU-bound). So, other schemes were developed:
+- Multi-level queue scheduling
+- Multi-level feedback queue scheduling
