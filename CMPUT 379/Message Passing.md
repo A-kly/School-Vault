@@ -52,4 +52,23 @@ Its role has been characterized as follows: “A name indicates what we seek. An
 - ==GOTCHA: information must be sent in a machine-architecture independent way!==
 	- htons/htonl – convert values between host byte order and network byte order
 # Behind the Scenes
-- TCP/IP: Transmission Control Protocol/Internet Protocol.
+- **TCP/IP:** Transmission Control Protocol/Internet Protocol.
+	- Standardized rules that allow computers to communicate on a network such as the internet.
+	- ![[Pasted image 20231106121656.png]]
+## Connections
+- **Transmission Control Protocol (TCP)**
+	- Reliable, ordered, and error-checked delivery.
+	- WWW, email, file transfers require TCP.
+	- SOCK_STREAM
+- **User Datagram Protocol (UDP)**
+	- No guarantee of delivery, ordering, or duplicate protection.
+	- Least overhead, hence fastest.
+	- DNS, video/audio streaming.
+	- SOCK_DGRAM
+## Common Usage
+Client-server architecture
+![[Pasted image 20231106121856.png]]
+## Overview
+![[Pasted image 20231106122002.png]]
+THIS diagram is equivalent to:
+![[Pasted image 20231106122026.png]]
