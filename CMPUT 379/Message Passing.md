@@ -51,6 +51,7 @@ Its role has been characterized as follows: “A name indicates what we seek. An
 	• “loop-back address”
 - ==GOTCHA: information must be sent in a machine-architecture independent way!==
 	- htons/htonl – convert values between host byte order and network byte order
+	- hton = host to network (this is a conversion routine so that the endianness is the same)
 # Behind the Scenes
 - **TCP/IP:** Transmission Control Protocol/Internet Protocol.
 	- Standardized rules that allow computers to communicate on a network such as the internet.
