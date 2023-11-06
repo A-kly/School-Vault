@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f707030b9737a23b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Message Passing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Scheduling.md"
+                "file": "CMPUT 379/Message Passing.md"
               }
             }
           },
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Scheduling.md",
+                "file": "CMPUT 379/Message Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Scheduling.md",
+                "file": "CMPUT 379/Message Passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,8 +181,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "615804dd0a8ba883",
+  "active": "f707030b9737a23b",
   "lastOpenFiles": [
+    "CMPUT 379/Media/Pasted image 20231106121047.png",
+    "CMPUT 379/Media/Pasted image 20231106121020.png",
+    "CMPUT 379/Scheduling.md",
+    "CMPUT 379/Message Passing.md",
     "CMPUT 379/Media/Pasted image 20231103121906.png",
     "CMPUT 379/Media/Pasted image 20231103121804.png",
     "CMPUT 379/Media/Pasted image 20231103120454.png",
@@ -179,10 +196,7 @@
     "CMPUT 379/Media/Pasted image 20231030120200.png",
     "CMPUT 379/Media/Pasted image 20231030120140.png",
     "CMPUT 379/DeadLock.md",
-    "CMPUT 379/Scheduling.md",
     "CMPUT 379/Media/Pasted image 20231025121700.png",
-    "CMPUT 379/Media/Pasted image 20231025121644.png",
-    "CMPUT 379/Media/Pasted image 20231025121629.png",
     "STAT 151/Data and Variables.md",
     "STAT 151/Basics of probability.md",
     "CMPUT 379/Processes and Threads.md",
@@ -209,7 +223,6 @@
     "Excalidraw",
     "PSYCH 105/PSYCH 105.md",
     "CMPUT 379/NO.md",
-    "CMPUT 379/Class info.md",
     "STAT 151/Media",
     "CMPUT 379/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",

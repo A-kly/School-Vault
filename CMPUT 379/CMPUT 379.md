@@ -4,6 +4,7 @@
 - [[Interprocess Communication]]
 - **Media**
 
+- [[Message Passing]]
 - [[Operating Systems Introduction]]
 - [[Processes and Threads]]
 - [[Scheduling]]
