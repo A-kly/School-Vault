@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1b7a88559a0c37ed",
+        "id": "18785320e85fa9de",
         "type": "tabs",
         "children": [
           {
-            "id": "9800b491dc0eb043",
+            "id": "c5289b924aee18fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/DeadLock.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "615804dd0a8ba883",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Scheduling.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f707030b9737a23b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 379/Message Passing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CMPUT 379/Message Passing.md"
-              }
+              "state": {}
             }
           },
           {
@@ -133,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Message Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Message Passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +145,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f707030b9737a23b",
+  "active": "c5289b924aee18fb",
   "lastOpenFiles": [
+    "CMPUT 379/Message Passing.md",
+    "CMPUT 379/Scheduling.md",
+    "CMPUT 379/DeadLock.md",
     "CMPUT 379/Media/Pasted image 20231106122026.png",
     "CMPUT 379/Media/Pasted image 20231106122002.png",
     "CMPUT 379/Media/Pasted image 20231106121856.png",
@@ -191,12 +158,8 @@
     "CMPUT 379/Media/Pasted image 20231106121321.png",
     "CMPUT 379/Media/Pasted image 20231106121047.png",
     "CMPUT 379/Media/Pasted image 20231106121020.png",
-    "CMPUT 379/Scheduling.md",
-    "CMPUT 379/Message Passing.md",
     "CMPUT 379/Media/Pasted image 20231103121906.png",
     "CMPUT 379/Media/Pasted image 20231103121804.png",
-    "CMPUT 379/Media/Pasted image 20231103120454.png",
-    "CMPUT 379/DeadLock.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/Basics of probability.md",
     "CMPUT 379/Processes and Threads.md",
