@@ -165,3 +165,11 @@ read()/write() //can be either or both in any order, many times
 close()/shutdown() // must close the connection
 ```
 This is how a client would connect to a server in order to receive messages. 
+# Communication Protocol
+The client and the server have to agree on a protocol for sharing information.
+- If client sends a message of length 1000 bytes and the server is expecting a message of length 2000 bytes, **the server will become blocked waiting for the rest of the data**!
+*Define what a message looks like, and make sure the client and server use the same definition. Message formats can be different for different clients/servers/functions/etc*.
+- A message from client to server could be a few bytes asking for information. The response from server to client could be a long string of data. No problem, as long as both understand the format of the messages.
+# Demo
+![[Pasted image 20231108124224.png]]
+==Demo code is online==
