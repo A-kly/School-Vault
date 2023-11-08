@@ -110,7 +110,8 @@ if( listen(listenfd, 10) < 0 )
 	{ perror( "listen" ); exit( -1 ); }
 ```
 If a connection request arrives with the queue full, the client may *receive an error with an indication of ECONNREFUSED*. Alternatively, if the underlying protocol supports retransmission, the request may be ignored so that retries may succeed.
-*Like listen*
+**listen(listenfd, n)** n is the max number of ip's that can be waiting to pass a message.
+*Like waiting for a phone call.*
 ## Accept()
 ```c
 // wait for a message and accept it
@@ -119,6 +120,7 @@ if((connfd=accept(listenfd, &clnt_addr, &clnt_len))< 0)
 ```
 Can receive a message from anyone.
 Connfd is “file” descriptor for the connection, and clnt is who made the connection.
+**connfd** is the IP address that has been accepted and is now ready to send a message. (The phone has been picked up, we know the number on the other line.)
 ## Read()/Write()
 **Note that socket i/o is just like file i/o!**
 ```c
@@ -129,6 +131,7 @@ if(read(connfd, &msg, sizeof(msg))!=sizeof(msg))
 if(write(connfd, &msg, sizeof(msg))!=sizeof(msg))
 	{ perror( ”write" ); exit( -1 ); }
 ```
+****
 ## Sockets == Files
 Can convert a socket into a file descriptor:
 ```c
