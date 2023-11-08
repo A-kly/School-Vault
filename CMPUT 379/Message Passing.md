@@ -84,3 +84,72 @@ if((listenfd=socket(AF_INET, SOCK_STREAM, 0))<0)
 ## Ports
 *IP address provides the address to send the message to*.
 *The port number is the mailbox at that address*.
+![[Pasted image 20231108120438.png]]
+## Bind() (also inet_pton)
+```c
+struct sockaddr_in serv_addr;
+serv_addr.sin_family = AF_INET;
+serv_addr.sin_addr.s_addr = htonl(INADDR_ANY);
+serv_addr.sin_port = htons(8888); // Change?
+// tie the socket to the address
+if(bind(listenfd, (struct sockaddr*)&serv_addr, sizeof(serv_addr))< 0)
+	{ perror( "bind" ); exit( -1 ); }
+```
+## Listen()
+Agree to accept incoming connections (listen) and give a queue limit for incoming connections.
+```c
+// accept a backlog of up to 10 connections
+if( listen(listenfd, 10) < 0 )
+	{ perror( "listen" ); exit( -1 ); }
+```
+If a connection request arrives with the queue full, the client may *receive an error with an indication of ECONNREFUSED*. Alternatively, if the underlying protocol supports retransmission, the request may be ignored so that retries may succeed.
+## Accept()
+```c
+// wait for a message and accept it
+if((connfd=accept(listenfd, &clnt_addr, &clnt_len))< 0)
+	{ perror( "accept" ); exit( -1 ); }
+```
+Can receive a message from anyone.
+Connfd is “file” descriptor for the connection, and clnt is who made the connection.
+## Read()/Write()
+**Note that socket i/o is just like file i/o!**
+```c
+// Read the message
+if(read(connfd, &msg, sizeof(msg))!=sizeof(msg))
+	{ perror( "read" ); exit( -1 ); }
+// Write a message
+if(write(connfd, &msg, sizeof(msg))!=sizeof(msg))
+	{ perror( ”write" ); exit( -1 ); }
+```
+## Sockets == Files
+Can convert a socket into a file descriptor:
+```c
+FILE *fin, *fout;
+fin = fdopen(socket, “r”);
+fout = fdopen(socket, “w”);
+```
+Now can use:
+```c
+fscanf(fin, “%30s%d”, &name, &age);
+fprintf(fout, ”Hello to %s age %d\n”, name, age);
+```
+## Close()
+**Note that socket closing is just like file closing!**
+```c
+close(connfd);
+// “how” used to disallow sending any more messages,
+// disallow receiving any more messages, or both
+shutdown(connfd, how);
+```
+## Client
+```c
+connfd = socket(AF_INET,SOCK_STREAM,0);
+// Change an IP address as a string into a network address
+serv_addr.sin_addr.s_addr = inet_addr(”127.0.0.1”);
+serv_addr.sin_family = AF_INET;
+serv_addr.sin_port = htons(8888);
+if(connect(connfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr))<0)
+	{ perror("Connect"); return 1; }
+read()/write()
+close()/shutdown()
+```
