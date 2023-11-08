@@ -84,6 +84,7 @@ if((listenfd=socket(AF_INET, SOCK_STREAM, 0))<0)
 ==AF_INET – use the address family for the Internet (i.e., IP protocol addresses).==
 **SOCK_DGRAM** for UDP.
 **SOCK_STREAM** for TCP/IP.
+*Like aquiring a phone*
 ## Ports
 *IP address provides the address to send the message to*.
 *The port number is the mailbox at that address*.
@@ -98,6 +99,9 @@ serv_addr.sin_port = htons(8888); // Change?
 if(bind(listenfd, (struct sockaddr*)&serv_addr, sizeof(serv_addr))< 0)
 	{ perror( "bind" ); exit( -1 ); }
 ```
+**INADDR_ANY** means that any IP address can call us
+**serv_addr.sin_port** is the port that we are opening up for other IP's to contact
+*Like publishing a phone number for others to call.*
 ## Listen()
 Agree to accept incoming connections (listen) and give a queue limit for incoming connections.
 ```c
@@ -106,6 +110,7 @@ if( listen(listenfd, 10) < 0 )
 	{ perror( "listen" ); exit( -1 ); }
 ```
 If a connection request arrives with the queue full, the client may *receive an error with an indication of ECONNREFUSED*. Alternatively, if the underlying protocol supports retransmission, the request may be ignored so that retries may succeed.
+*Like listen*
 ## Accept()
 ```c
 // wait for a message and accept it
