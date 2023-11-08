@@ -82,6 +82,8 @@ if((listenfd=socket(AF_INET, SOCK_STREAM, 0))<0)
 	{ perror( "socket" ); exit( -1 ); }
 ```
 ==AF_INET – use the address family for the Internet (i.e., IP protocol addresses).==
+**SOCK_DGRAM** for UDP.
+**SOCK_STREAM** for TCP/IP.
 ## Ports
 *IP address provides the address to send the message to*.
 *The port number is the mailbox at that address*.
