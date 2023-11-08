@@ -69,7 +69,8 @@ Its role has been characterized as follows: “A name indicates what we seek. An
 ## Common Usage
 Client-server architecture
 ![[Pasted image 20231106121856.png]]
-## Overview
+# Overview
+**The following is an overview of how all of the important functions work and their general use.**
 ![[Pasted image 20231106122002.png]]
 THIS diagram is equivalent to:
 ![[Pasted image 20231106122026.png]]
