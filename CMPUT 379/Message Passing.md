@@ -150,6 +150,6 @@ serv_addr.sin_family = AF_INET;
 serv_addr.sin_port = htons(8888);
 if(connect(connfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr))<0)
 	{ perror("Connect"); return 1; }
-read()/write()
-close()/shutdown()
+read()/write() //can be either or both in any order, many times
+close()/shutdown() // must close the connection
 ```
