@@ -172,4 +172,18 @@ The client and the server have to agree on a protocol for sharing information.
 - A message from client to server could be a few bytes asking for information. The response from server to client could be a long string of data. No problem, as long as both understand the format of the messages.
 # Demo
 ![[Pasted image 20231108124224.png]]
-==Demo code is online==
+==Demo code is online, time and date between server and client. very cool.==
+# Parallel Pitfalls
+Mutual exclusion problems?
+- Separate processes running on separate machines, so no shared memory (unless on a special architecture).
+- May have issues if there is a shared resource, such as a file.
+Deadlock
+- Message passing can create a deadlock.
+- A sends to B and then waits for a response; B sends to C and then waits for a response; C sends to A and waits for a response.
+# MPI – Message Passing Interface
+Make life simpler… use high-level tools for creating sockets and sending messages.
+**Startup:** MPI_Init, MPI_Comm, …
+**Basic types:** MPI_INT, MPI_FLOAT…
+**Basic communication:** MPI_Send, MPI_Recv, …
+**Closing:** MPI_Finalize
+**Machines to be used specified in a host_file**.
