@@ -131,8 +131,7 @@ if(read(connfd, &msg, sizeof(msg))!=sizeof(msg))
 if(write(connfd, &msg, sizeof(msg))!=sizeof(msg))
 	{ perror( ”write" ); exit( -1 ); }
 ```
-****
-## Sockets == Files
+### Sockets == Files
 Can convert a socket into a file descriptor:
 ```c
 FILE *fin, *fout;
@@ -144,6 +143,7 @@ Now can use:
 fscanf(fin, “%30s%d”, &name, &age);
 fprintf(fout, ”Hello to %s age %d\n”, name, age);
 ```
+A socket is just a number, we can convert it to a file descriptor with **fdopen**. This allows us to use buffer I/O. Otherwise we can use file I/O.
 ## Close()
 **Note that socket closing is just like file closing!**
 ```c
@@ -164,3 +164,4 @@ if(connect(connfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr))<0)
 read()/write() //can be either or both in any order, many times
 close()/shutdown() // must close the connection
 ```
+This is how a client would connect to a server in order to receive messages. 
