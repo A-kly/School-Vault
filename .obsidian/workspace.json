@@ -11,8 +11,13 @@
             "id": "c5289b924aee18fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Message Passing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMPUT 379/Message Passing.md"
+              }
             }
           },
           {
@@ -99,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMPUT 379/Message Passing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMPUT 379/Message Passing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -73,3 +73,14 @@ Client-server architecture
 ![[Pasted image 20231106122002.png]]
 THIS diagram is equivalent to:
 ![[Pasted image 20231106122026.png]]
+## Socket()
+```c
+int listenfd;
+// create socket
+if((listenfd=socket(AF_INET, SOCK_STREAM, 0))<0)
+	{ perror( "socket" ); exit( -1 ); }
+```
+==AF_INET – use the address family for the Internet (i.e., IP protocol addresses).==
+## Ports
+*IP address provides the address to send the message to*.
+*The port number is the mailbox at that address*.
