@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Message Passing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "297d4114b662c366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 379/Untitled.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md"
+                "file": "CMPUT 379/Untitled.md"
               }
             }
           },
@@ -106,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Operating Systems Introduction.md",
+                "file": "CMPUT 379/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,11 +168,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c5289b924aee18fb",
+  "active": "297d4114b662c366",
   "lastOpenFiles": [
-    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Message Passing.md",
+    "CMPUT 379/Untitled.md",
     "CMPUT 379/Operating Systems Introduction.md",
+    "CMPUT 379/Synchronization.md",
     "CMPUT 379/Processes and Threads.md",
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Media/Pasted image 20231108124224.png",
