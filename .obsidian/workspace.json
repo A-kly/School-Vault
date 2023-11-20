@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/Memory Management.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 379/Untitled.md"
+                "file": "CMPUT 379/Memory Management.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 379/Untitled.md",
+                "file": "CMPUT 379/Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
   "active": "297d4114b662c366",
   "lastOpenFiles": [
     "CMPUT 379/Message Passing.md",
-    "CMPUT 379/Untitled.md",
+    "CMPUT 379/Memory Management.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Synchronization.md",
     "CMPUT 379/Processes and Threads.md",
