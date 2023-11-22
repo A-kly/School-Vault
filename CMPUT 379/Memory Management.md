@@ -18,3 +18,4 @@
 ![[Pasted image 20231122123601.png]]
 ![[Pasted image 20231122123609.png]]
 ![[Pasted image 20231122123618.png]]
+![[Pasted image 20231122124556.png]]
