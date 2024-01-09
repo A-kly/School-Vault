@@ -28,4 +28,17 @@ We want to answer a question where we don't know or are unsure of the answer. An
 	- Gmail returns links to emails (doc = email)
 	- Yelp returns business profiles that it keeps (doc = business profiles)
 	- Library returns book records (doc = book records)
-When making 
+When making search engine, you decide what documents are
+## Queries
+- Input to search engine
+- Search interface can have multiple fields (beartracks), or single box (google)
+- query is an **expression of the info needed by user**
+- Types:
+	- Keyword (self explanitory)
+	- Phrase (uses "" in google)
+	- Wildcard (uses * , regular expressions)
+## Tokens
+- *internal representation* of words appearing in documents and queries
+- **tokenization** is the process of converting words in queries/documents to tokens.
+### Terms
+- Terms are *unique tokens* among indexed documents
