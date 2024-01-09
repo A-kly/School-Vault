@@ -51,4 +51,13 @@ When making search engine, you decide what documents are
 - help users find documents that have words that are slightly different from words in documents
 - removes inconsistencies across documents
 - examples:
-	- 
+	- case folding (Edmonton -> edmonton)
+	- removing punctuation (U.S.A -> USA)
+	- Acronym expansion (AFN -> Assembly of First Nations)
+# Architecture of a Search Engine
+## At the highest level
+- Documents added to an *index* and ordanized based on *terms*.
+- documents can be deleted
+- Users send queries and receive results through search interface
+- engine matches *tokens* in *query* to *terms* in index to get documents with most of *query tokens*
+- 
