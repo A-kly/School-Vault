@@ -40,5 +40,15 @@ When making search engine, you decide what documents are
 ## Tokens
 - *internal representation* of words appearing in documents and queries
 - **tokenization** is the process of converting words in queries/documents to tokens.
+	- eg, converts all of: "Hello", "hello", "hellO" to "hello"
+	- "hello" is token
 ### Terms
-- Terms are *unique tokens* among indexed documents
+- Terms are *unique tokens* among indexed documents.
+- All terms are the **vocabulary of the system**.
+- A query token that does appear in any document is called **out-of-vocabulary** (OOV)
+	- system just discards that word
+### Why tokenize?
+- help users find documents that have words that are slightly different from words in documents
+- removes inconsistencies across documents
+- examples:
+	- 
