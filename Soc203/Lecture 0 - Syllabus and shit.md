@@ -6,4 +6,6 @@
 - teaching strategy is to combined instruction to mentoring (?)
 	- motivate students to succeed
 
- 
+ - Took like 45 minutes to go over the syllabus
+ - I'm trying to be optimistic
+ - 
