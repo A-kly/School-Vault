@@ -17,6 +17,16 @@ Background:
 - good understanding of algorithms and data structures (cmput 204)
 - need to be able to adapt memory based data structures to disk
 
-# Learning objectives
-By the end, be able to:
-- explain main components of search engine, crawler, indes
+# Evaluation
+## Weights
+- 20% -- Weekly quizzes (best 10 out of 13).
+- 30% -- 2 Midterm exams (in person).
+- 30% -- Final exam (in person).
+- 20% -- 4 Programming assignments (5% each).
+
+## Grading
+≥ 95% A+      ≥ 90% A      ≥ 85% A-
+≥ 80% B+      ≥ 75% B      ≥ 70% B-
+≥ 65% C+      ≥ 60% C      ≥ 55% C-
+≥ 50% D+      < 50% F
+
