@@ -21,3 +21,11 @@ We want to answer a question where we don't know or are unsure of the answer. An
 - Enterprise search (within an organization only)
 - Vertical search (Across the web but about specific topics, eg. yelp)
 # Documents, queries, tokens & terms
+## Documents
+- Storage and retrieval unit of a search system
+	- system always returns documents or links to documents
+- Examples:
+	- Gmail returns links to emails (doc = email)
+	- Yelp returns business profiles that it keeps (doc = business profiles)
+	- Library returns book records (doc = book records)
+When making 
