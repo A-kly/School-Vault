@@ -98,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cmput361/Lecture 01 - Foundations.md"
+              }
             }
           },
           {
@@ -119,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +172,8 @@
   "active": "c9cc90065b0af6de",
   "lastOpenFiles": [
     "Cmput361/Lecture 01 - Foundations.md",
+    "Cmput361/Media/Pasted image 20240109134542.png",
+    "Cmput361/Media",
     "Cmput301/What is Software Engineering about.md",
     "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput361",
@@ -182,7 +188,6 @@
     "CMPUT 379/Media/Pasted image 20231122124556.png",
     "CMPUT 379/Media/Pasted image 20231122123618.png",
     "CMPUT 379/Media/Pasted image 20231122123609.png",
-    "CMPUT 379/Media/Pasted image 20231122123601.png",
     "CMPUT 379/Message Passing.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Synchronization.md",
@@ -207,13 +212,11 @@
     "STAT 151/STAT 151.md",
     "Markdown Cheat Sheet.md",
     "Untitled.canvas",
-    "Markdown Cheat sheet.md",
     "Excalidraw",
     "STAT 151/Media",
     "CMPUT 379/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",
-    "Year 2 Obsidian notes/Math 146/Math 144 review stuff",
     "The game/Map.canvas"
   ]
 }

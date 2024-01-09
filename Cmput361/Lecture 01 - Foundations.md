@@ -60,4 +60,15 @@ When making search engine, you decide what documents are
 - documents can be deleted
 - Users send queries and receive results through search interface
 - engine matches *tokens* in *query* to *terms* in index to get documents with most of *query tokens*
-- 
+![[Pasted image 20240109134542.png|600]]
+## What will be covered in 361?
+- How to tokenize documents and queries.
+- How to represent documents.
+- Different kinds of indexes, for different kinds of queries.
+- Suitable data structures for representing indexes.
+- Different methods for matching documents and queries.
+## What about Web Search Engines?
+- Main difference is that documents are found by *web crawlers* that continuously crawl
+- engine has no control over quality of documents so it must be careful to avoid attacks and exploitation
+- There is a separate index for terms -> advertisements
+# Representing documents
