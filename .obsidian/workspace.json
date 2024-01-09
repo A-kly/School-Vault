@@ -11,8 +11,13 @@
             "id": "c5289b924aee18fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cmput361/Lecture 00.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -31,15 +36,16 @@
           {
             "id": "c9cc90065b0af6de",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.5.3"
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput301/What is Software Engineering about.md"
+                "file": "Cmput361/Lecture 00.md"
               }
             }
           },
@@ -127,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput301/What is Software Engineering about.md",
+                "file": "Cmput361/Lecture 00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput301/What is Software Engineering about.md",
+                "file": "Cmput361/Lecture 00.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,10 +181,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "c5289b924aee18fb",
   "lastOpenFiles": [
-    "Untitled",
     "Cmput301/What is Software Engineering about.md",
+    "Cmput361/Lecture 00.md",
+    "Cmput361",
     "Cmput301",
     "CMPUT 379/Memory Management.md",
     "CMPUT 379/Media/Pasted image 20231124121857.png",
@@ -223,7 +230,6 @@
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Year 2 Obsidian notes/Math 146/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff",
-    "Year 2 Obsidian notes/English 103-B20/Media",
     "The game/Map.canvas"
   ]
 }
