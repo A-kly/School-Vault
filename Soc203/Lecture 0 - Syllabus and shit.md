@@ -6,6 +6,9 @@
 - teaching strategy is to combined instruction to mentoring (?)
 	- motivate students to succeed
 
- - Took like 45 minutes to go over the syllabus
+ - Took like 49 minutes to go over the syllabus
  - I'm trying to be optimistic
+ - A dude is fucking shit up by asking useless questions aaaaaahhhhh
+ - pain is real
+ - rambles a LOT
  - 

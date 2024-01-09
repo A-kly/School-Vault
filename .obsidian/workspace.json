@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3e9c0afe487b706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soc203/Lecture 1 - hopefully it gets good.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soc203/Lecture 0 - Syllabus and shit.md"
+                "file": "Soc203/Lecture 1 - hopefully it gets good.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soc203/Lecture 0 - Syllabus and shit.md",
+                "file": "Soc203/Lecture 1 - hopefully it gets good.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soc203/Lecture 0 - Syllabus and shit.md",
+                "file": "Soc203/Lecture 1 - hopefully it gets good.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,9 +170,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8ad5fa4041e820a4",
+  "active": "e3e9c0afe487b706",
   "lastOpenFiles": [
     "Soc203/Lecture 0 - Syllabus and shit.md",
+    "Soc203/Lecture 1 - hopefully it gets good.md",
     "Soc203",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Media/Pasted image 20240109134542.png",
@@ -199,7 +214,6 @@
     "STAT 151/LAB1.md",
     "429 Ch1 Q4.md",
     "STAT 151/STAT 151.md",
-    "Markdown Cheat Sheet.md",
     "Untitled.canvas",
     "Excalidraw",
     "STAT 151/Media",
