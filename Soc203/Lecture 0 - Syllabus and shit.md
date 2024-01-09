@@ -5,4 +5,5 @@
 
 - teaching strategy is to combined instruction to mentoring (?)
 	- motivate students to succeed
-- 
+
+ 
