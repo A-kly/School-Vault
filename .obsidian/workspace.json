@@ -32,7 +32,8 @@
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +165,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "c9cc90065b0af6de",
   "lastOpenFiles": [
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput301/What is Software Engineering about.md",
