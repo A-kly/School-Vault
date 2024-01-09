@@ -4,36 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "18785320e85fa9de",
+        "id": "c6c04e91612b41c2",
         "type": "tabs",
         "children": [
           {
-            "id": "ece3deafc29620eb",
+            "id": "8ad5fa4041e820a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Soc203/Lecture 0 - Syllabus and shit.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "c9cc90065b0af6de",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              },
-              "pinned": true
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md"
+                "file": "Soc203/Lecture 0 - Syllabus and shit.md"
               }
             }
           },
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Soc203/Lecture 0 - Syllabus and shit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Soc203/Lecture 0 - Syllabus and shit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +156,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c9cc90065b0af6de",
+  "active": "8ad5fa4041e820a4",
   "lastOpenFiles": [
+    "Soc203/Lecture 0 - Syllabus and shit.md",
+    "Soc203",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Media/Pasted image 20240109134542.png",
     "Cmput361/Media",
@@ -216,7 +205,6 @@
     "STAT 151/Media",
     "CMPUT 379/Media",
     "Year 2 Obsidian notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
-    "Year 2 Obsidian notes/Math 146/Media",
     "The game/Map.canvas"
   ]
 }
