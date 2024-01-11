@@ -17,4 +17,7 @@
 		- the accounts people give for these acts/situations
 		- personal beliefs, tastes, reality
 		- social consequences of people's actions
-	- 
+# Social problems and the sociological imagination
+**sociological imagination:** ability to see connections between our own life (micro events) and the social world that we live in (macro events)
+- **Micro-level analysis:** focus on interactions between individuals in small groups
+- **Macro-level analysis:** focus on societal level -
