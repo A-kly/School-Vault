@@ -84,3 +84,13 @@ When making search engine, you decide what documents are
 		- Boolean: just tells if the term appears in the document.
 		- Counts: frequency of `ti` in `Dj`.
 		- tf-idf: balances frequency and rarity  of terms (later!).
+## Documents as vectors
+- Documents are n-dimensional vectors where `n = |V|` is the size of the **vocabulary of all documents** stored in the system.
+- ![[Pasted image 20240111130644.png]]
+- Document vectors do not keep word order (discussed later).
+# Query answering (Boolean vs Ranking)
+## Boolean queries
+- term is boolean predicate
+	- True if in doc
+	- False otherwise
+- Queries are boolean expressions using `AND` `OR` `NOT`
