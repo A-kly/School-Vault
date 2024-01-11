@@ -116,4 +116,20 @@ When making search engine, you decide what documents are
 	2. Rank documents based on score
 	3. return the top `K` documents sorted by decreasing score
 - Properties of scoring function:
-	- More query terms, higher score
+	- More query terms in doc, higher score
+	- More repeats of query terms, higher score
+	- more important/rare terms, higher score
+### Scoring with vectors
+- Docs are vectors
+- queries can also be vectors with dimension of *system vocabulary*
+	- ![[Pasted image 20240111132551.png]]
+- if token *OOV*, ignore and do not add to vector
+- The score of document can be computed using its vector and the query vector.
+### Dot product
+- How about the dot product as a scoring function?
+	- ![[Pasted image 20240111132721.png]]
+- It satisfies all desired properties when the term-document incidence matrix has counts as weights. (It also works with other weights, including tf-idf).
+	- The more query terms in the query, the higher the score.
+	- The more a term appears in a document, the more it should contribute to the score.
+	- More important terms should contribute more to the score.
+![[Pasted image 20240111132835.png]]
