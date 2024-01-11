@@ -94,3 +94,19 @@ When making search engine, you decide what documents are
 	- True if in doc
 	- False otherwise
 - Queries are boolean expressions using `AND` `OR` `NOT`
+- easy
+### Pros
+- [p] Easy to understand.
+- [p] Explainable.
+- [p] Easy to implement.
+- [p] Suitable for expert users.
+### Cons
+- [c] Hard to write (add an OR in the wrong place and you get too many documents!).
+- [c] Treat all documents and all terms the same.
+- [c] Documents are either "in" or "out".
+	- No notion of a document being a "partial answers".
+## Not all terms are the same
+- Some are more useful than others
+- eg: `tropical` and `aquarium` may be very common but `goldfish` and `bowl` are rare
+- **Rare terms are more useful**
+- if a user writes rare terms into the query, we should prioritize the documents that contain said rare query
