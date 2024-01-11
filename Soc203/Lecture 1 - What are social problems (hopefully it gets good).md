@@ -12,4 +12,9 @@
 		- cause-effect can be studies without making moral judgement (serious vs trivial)
 		- count and measure incidence with science
 		- can make and test theories about change
-	- **Sub**
+	- **Subjective:** evaluation of conditions by members of society, they each have an opinion on whether it is an important problem worth considering 
+		- moral labels are applied to a particular act or situation ("wrong", "immoral", etc.)
+		- the accounts people give for these acts/situations
+		- personal beliefs, tastes, reality
+		- social consequences of people's actions
+	- 
