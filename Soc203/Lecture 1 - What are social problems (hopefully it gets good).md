@@ -20,4 +20,8 @@
 # Social problems and the sociological imagination
 **sociological imagination:** ability to see connections between our own life (micro events) and the social world that we live in (macro events)
 - **Micro-level analysis:** focus on interactions between individuals in small groups
-- **Macro-level analysis:** focus on societal level -
+- **Macro-level analysis:** focus on societal level - social trends in institutions
+
+- relationship btw social problems and sociology is *paradoxical* (?????)
+# Personal troubles to social structures
+![[Pasted image 20240111142354.png]]
