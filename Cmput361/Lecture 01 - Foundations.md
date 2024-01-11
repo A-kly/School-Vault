@@ -141,4 +141,18 @@ When making search engine, you decide what documents are
 	- Advertisers, Max exposure
 	- ==End users==, *good answer*
 ## Evaluating the quality of answers
-- build a benchmark with queries and answers (found by hum)
+- build a benchmark with queries and answers (found by humans).
+- doc is **relevant** for query if human thinks it should be
+- **precision** of system is fraction of returned docs that are relevant
+- **recall** is fraction of relevant docs returned
+- ![[Pasted image 20240111133504.png|300]]
+### Precision and recall are kinda opposites
+- perfect recall = all docs returned
+	- precision goes down
+- when do we prioritize precision?
+	- when giving a bad answer can have bad consequences 
+	- e.g., giving the wrong cake recipe or returning a document with irrelevant information
+- when do we prioritize recall?
+	- when missing good answer can have bad consequences
+	- e.g., missing a legal case that is very similar to the one you are building a defense for
+# Machine learning on text
