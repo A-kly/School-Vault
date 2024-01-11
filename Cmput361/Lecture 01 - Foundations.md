@@ -71,4 +71,10 @@ When making search engine, you decide what documents are
 - Main difference is that documents are found by *web crawlers* that continuously crawl
 - engine has no control over quality of documents so it must be careful to avoid attacks and exploitation
 - There is a separate index for terms -> advertisements
+![[Pasted image 20240111125422.png|600]]
 # Representing documents
+## Term-Document incidence matrix
+![[Pasted image 20240111125505.png|600]]
+- We match terms to documents using a term-document incidence matrix
+- This provides mapping of terms to documents
+- the matrix keeps weights (`wij`) indicating the importance of 
