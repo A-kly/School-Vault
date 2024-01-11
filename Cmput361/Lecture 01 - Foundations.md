@@ -111,3 +111,9 @@ When making search engine, you decide what documents are
 - **Rare terms are more useful**
 - *if a user writes rare terms into the query, we should prioritize the documents that contain said rare query*
 ## Query by ranking
+- Main idea:
+	1. Define a scoring function to determine document relevance
+	2. Rank documents based on score
+	3. return the top `K` documents sorted by decreasing score
+- Properties of scoring function:
+	- More query terms, higher score
