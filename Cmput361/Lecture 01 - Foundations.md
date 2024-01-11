@@ -133,3 +133,12 @@ When making search engine, you decide what documents are
 	- The more a term appears in a document, the more it should contribute to the score.
 	- More important terms should contribute more to the score.
 ![[Pasted image 20240111132835.png]]
+# Evaluation of Search Engines
+- Different eval criteria for different users:
+	- for CEO, max profit
+	- for CTO, max uptime and efficiency
+	- Search engineers, minimize bad content
+	- Advertisers, Max exposure
+	- ==End users==, *good answer*
+## Evaluating the quality of answers
+- build a benchmark with queries and answers (found by hum)
