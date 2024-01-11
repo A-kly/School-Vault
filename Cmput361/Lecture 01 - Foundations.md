@@ -156,3 +156,17 @@ When making search engine, you decide what documents are
 	- when missing good answer can have bad consequences
 	- e.g., missing a legal case that is very similar to the one you are building a defense for
 # Machine learning on text
+## What and when do we use it?
+Machine Learning (ML) is a branch of Artificial Intelligence concerned with developing solutions that rely on real data for decision-making, instead of on rules coded into the program by the developers.
+ML can be of great help for tasks where it is easier to give examples of what we want instead of writing code that covers "all corner cases" about what we want.
+- Examples
+	- Detecting SPAM.
+	- Detecting if there is an animal in a picture.
+	- Deciding if a user liked a product based on the review they wrote.
+	- Predicting how much snow will fall tomorrow. 
+## Uses of machine learning in Information Retrieval
+Search Engines use machine learning all of the time.
+- Web crawlers must detect if a document that they just found contains harmful or illegal content that should not be added to the index.
+- Personalization engines must determine user preferences to show more relevant (and, presumably, less annoying advertisements).
+- The user interface must group documents based on meaning for ambiguous query terms (e.g., jaguar can mean a car brand or an animal, among other things).
+We will cover classic machine learning algorithms that have applications to Search Engines in CMPUT361.
