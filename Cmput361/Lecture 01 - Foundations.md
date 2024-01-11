@@ -77,4 +77,10 @@ When making search engine, you decide what documents are
 ![[Pasted image 20240111125505.png|600]]
 - We match terms to documents using a term-document incidence matrix
 - This provides mapping of terms to documents
-- the matrix keeps weights (`wij`) indicating the importance of 
+- the matrix keeps weights (`wij`) indicating the importance of term `ti` for document `Dj`
+	- The higher the weight, the more important the term is for the document
+	- ![[Pasted image 20240111125937.png|500]]
+	- Common choices for `wij`:
+		- Boolean: just tells if the term appears in the document.
+		- Counts: frequency of `ti` in `Dj`.
+		- tf-idf: balances frequency and rarity  of terms (later!).
