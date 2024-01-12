@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
+                "file": "Cmput301/What is Software Engineering about.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78ad0038ab388d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md"
+                "file": "Cmput301/Objects, UML, and Java.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +170,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "8ad5fa4041e820a4",
+  "active": "78ad0038ab388d50",
   "lastOpenFiles": [
+    "Cmput301/Media/Pasted image 20240112100013.png",
+    "Cmput301/Media",
+    "Cmput301/What is Software Engineering about.md",
+    "Cmput301/Objects, UML, and Java.md",
+    "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
     "Soc203/Media/Pasted image 20240111142354.png",
     "Soc203/Media",
     "Cmput361/Lecture 01 - Foundations.md",
@@ -170,16 +189,13 @@
     "Cmput361/Media/Pasted image 20240111125505.png",
     "Cmput361/Media/Pasted image 20240111125422.png",
     "Soc203/Lecture 0 - Syllabus and shit.md",
-    "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
     "Soc203",
     "Cmput361/Media/Pasted image 20240109134542.png",
     "Cmput361/Media",
-    "Cmput301/What is Software Engineering about.md",
     "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput361",
     "Cmput301",
     "CMPUT 379/Memory Management.md",
-    "CMPUT 379/Media/Pasted image 20231124121857.png",
     "CMPUT 379/Message Passing.md",
     "CMPUT 379/Operating Systems Introduction.md",
     "CMPUT 379/Synchronization.md",
@@ -200,11 +216,9 @@
     "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.html",
     "STAT 151/LAB1.md",
-    "429 Ch1 Q4.md",
     "Untitled.canvas",
     "Excalidraw",
     "STAT 151/Media",
-    "CMPUT 379/Media",
     "The game/Map.canvas"
   ]
 }
