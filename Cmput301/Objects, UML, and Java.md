@@ -34,7 +34,7 @@ Purpose:
 - Class (factory and structure of objects):
 	- associated type of an object
 	- defines attributes and methods
-## Java and UML Class
+### Java and UML Class
 ![[Pasted image 20240112102336.png]]
 ==*Class* is represented by a Box, any important *attributes* should be put in second box section (not used often), *methods* should be put in third box section.==
 
@@ -45,7 +45,7 @@ Purpose:
 	- access is not the same as visibility 
 	- “design by contract” *(public, private, protected)*
 		- *public interface represents a contract between the developer who implements the class and the developer who uses the class*
-## Example:
+### Example:
 ![[Pasted image 20240112102955.png]]
 ![[Pasted image 20240112103003.png]]
 ![[Pasted image 20240112103015.png]]
@@ -53,5 +53,13 @@ Purpose:
 - Notice how we use `name:type` notation in UML instead of `type name` notation.
 - Attribute and method name order should be logical
 - Constructor has same name as class
-- Name
-- 
+
+## Decomposition
+Association relationship:
+- “some” relationship between classes
+	- e.g., between Book and Patron
+### UML Association
+![[Pasted image 20240112103632.png]]
+- *Looks like database diagrams*
+- related
+- NOT ownership
