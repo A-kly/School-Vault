@@ -27,3 +27,18 @@ Purpose:
 - communicate, evaluate, and reuse designs
 - make design intent more explicit
 - can think about design, before coding
+## Abstraction
+- Object:
+	- an entity with specific attribute values (state), behavior, and identity
+	- typically instantiated from a class
+- Class:
+	- associated type of an object
+	- defines attributes and methods
+## Java and UML Class
+![[Pasted image 20240112102336.png]]
+## Encapsulation
+- Class:
+	- access control for attributes and methods
+● e.g., public or private
+access is not the same as visibility
+“design by contract”
