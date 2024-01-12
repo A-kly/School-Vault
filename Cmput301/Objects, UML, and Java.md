@@ -14,8 +14,8 @@ Language goals:
 	- Lisp - garbage collection, reflection (ask object info about itself)
 	- Simula-67, C++ - classes
 	- Algol-68 - overloading (same method name can take multiple kinds of parameters (multiple constructors))
-	- Pascal, Modula-2 - strong type checking (ensuring types are compatible and cannot call floats integers for example 
-	- C - syntax
+	- Pascal, Modula-2 - strong type checking (ensuring types are compatible and checking it in the compiler (cannot call floats integers for example)) 
+	- C - syntax (kinda)
 	- Ada-  exceptions
-	- Objective C, Eiffel - interfaces
+	- Objective C, Eiffel - interfaces (take objects that are unrelated and treat them as if they are the same, *they can be thought of as **contracts** for classes saying "yes my object does this thing"*)
 	- Modula-3 - threads
