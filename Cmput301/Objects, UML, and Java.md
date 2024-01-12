@@ -46,8 +46,8 @@ Purpose:
 	- “design by contract” *(public, private, protected)*
 		- *public interface represents a contract between the developer who implements the class and the developer who uses the class*
 ### Example:
-![[Pasted image 20240112102955.png]]
-![[Pasted image 20240112103003.png]]
+![[Pasted image 20240112102955.png|500]]
+![[Pasted image 20240112103003.png|500]]
 ![[Pasted image 20240112103015.png]]
 - This is the previous code in UML
 - Notice how we use `name:type` notation in UML instead of `type name` notation.
@@ -63,3 +63,13 @@ Association relationship:
 - *Looks like database diagrams*
 - related
 - NOT ownership
+## More decomposition
+Aggregation relationship:
+- weak “has-a” relationship
+- whole “has-a” part
+	- eg. hands has a fingers
+- a part may belong to (be shared with) other wholes
+- e.g., a Section and a Student
+### Java and UML Aggregation
+![[Pasted image 20240112104220.png|400]]
+- section *has a* student
