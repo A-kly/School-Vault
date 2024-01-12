@@ -31,14 +31,18 @@ Purpose:
 - Object:
 	- an entity with specific attribute values (state), behavior, and identity
 	- typically instantiated from a class
-- Class:
+- Class (factory and structure of objects):
 	- associated type of an object
 	- defines attributes and methods
 ## Java and UML Class
 ![[Pasted image 20240112102336.png]]
+==*Class* is represented by a Box, any important *attributes* should be put in second box section (not used often), *methods* should be put in third box section.==
+
 ## Encapsulation
 - Class:
-	- access control for attributes and methods
-● e.g., public or private
-access is not the same as visibility
-“design by contract”
+	- access control for attributes and methods *(Getters or setters used instead)*
+		- e.g., public or private
+	- access is not the same as visibility 
+	- “design by contract” *(public, private, protected)*
+		- *public interface represents a contract between the developer who implements the class and the developer who uses the class*
+
