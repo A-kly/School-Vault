@@ -45,4 +45,13 @@ Purpose:
 	- access is not the same as visibility 
 	- “design by contract” *(public, private, protected)*
 		- *public interface represents a contract between the developer who implements the class and the developer who uses the class*
-
+## Example:
+![[Pasted image 20240112102955.png]]
+![[Pasted image 20240112103003.png]]
+![[Pasted image 20240112103015.png]]
+- This is the previous code in UML
+- Notice how we use `name:type` notation in UML instead of `type name` notation.
+- Attribute and method name order should be logical
+- Constructor has same name as class
+- Name
+- 
