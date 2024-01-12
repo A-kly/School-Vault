@@ -19,3 +19,11 @@ Language goals:
 	- Ada-  exceptions
 	- Objective C, Eiffel - interfaces (take objects that are unrelated and treat them as if they are the same, *they can be thought of as **contracts** for classes saying "yes my object does this thing"*)
 	- Modula-3 - threads
+# UML (Unified Modeling Language)
+Principal inventors: Grady Booch, Ivar Jacobson, James Rumbaugh
+Purpose:
+- express object-oriented designs visually
+- programming language independent
+- communicate, evaluate, and reuse designs
+- make design intent more explicit
+- can think about design, before coding
