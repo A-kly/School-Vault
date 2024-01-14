@@ -73,3 +73,17 @@ Aggregation relationship:
 ### Java and UML Aggregation
 ![[Pasted image 20240112104220.png|400]]
 - section *has a* student
+	- BUT *student can be shared with other classes*
+- "DIAMOND GOES TO THE JEWLERY BOX"
+	- aka, UML diamond goes to container or "holder" in the relationship
+- **weak relationship = hollow diamond = students and sections can exist separately**
+![[Pasted image 20240112104727.png]]
+- one Locations can be held by several frames (cursor, etc. )
+- one size can be held by many frames (Fullscreen, etc.)
+## More MORE Decomposition
+Composition relationship:
+strong “has-a” relationship
+exclusive containment of parts
+related object life times
+the whole cannot exist without having the parts; if the whole is destroyed, the parts should also be destroyed
+often access the parts through the whole
