@@ -73,3 +73,19 @@ the text of paragraph is actually contained.</w:t>
 	- It depends on the application! 
 
 ### File format nightmare -- PDF
+> "Each PDF (Portable Document Format) file encapsulates a complete description of a fixed-layout flat document, including the text, fonts, vector graphics, raster images and other information needed to display it." (from https://en.wikipedia.org/wiki/PDF)
+
+> Text in PDF is represented by text elements in page content streams. A text element specifies that characters should be drawn at certain positions. The characters are specified using the encoding of a selected font resource.
+
+- It is possible to have a separate text element for each character in the document! “Spaces” are not explicitly represented; we can’t tell where words start or end!
+
+## Take home message
+- Digital files are just **long strings of bytes**.
+- The encoding system allows us to **map groups of bytes into characters**.
+	- Some encodings using up to four bytes for a single character.
+- **High-quality web servers provide the encoding used for each file**.
+- Search engines need to **guess the encoding** when it is not provided.
+- The **file format specifies how the characters and words are displayed**.
+	- Sometimes we care about that, but other times we do not.
+	- It depends on the application.
+# Words, Tokens, and Terms
