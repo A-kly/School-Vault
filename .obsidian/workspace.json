@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "eaead5396d2b3161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9b0c6ce50880f43f",
             "type": "leaf",
             "state": {
@@ -33,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md"
+                "file": "Cmput361/Lecture 02 - Tokenization.md"
               }
             }
           },
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Cmput361/Lecture 02 - Tokenization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Cmput361/Lecture 02 - Tokenization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,11 +183,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "eaead5396d2b3161",
   "lastOpenFiles": [
-    "Lecture 02 - Tokenization",
-    "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 01 - Foundations.md",
+    "Cmput361/Lecture 02 - Tokenization.md",
+    "Cmput361/Lecture 02 - Tokenization",
+    "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Soc203/Lecture 0 - Syllabus and shit.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
@@ -216,7 +231,6 @@
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
-    "PSYCH 105/Methods in Psychology.html",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
