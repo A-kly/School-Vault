@@ -89,9 +89,22 @@ the text of paragraph is actually contained.</w:t>
 	- Sometimes we care about that, but other times we do not.
 	- It depends on the application.
 # Words, Tokens, and Terms
-- A word is a delimited string of characters as it appears in the content of the document (or the user query).
+- A **word** is a *delimited string of characters* as it appears in the content of the document (or the user query).
 - A term is a unique **normalized** word (case, morphology, spelling, etc).
 	- Different words can be normalized into the same term: a term defines an *equivalence class of words*.
 	- The **tokenizer** is a tool that defines how words are normalized into terms.
 - A token is an instance of a term in the document (or query). 
 ![[Pasted image 20240116130712.png]]
+## Finding words
+- word = delimited sequence of characters
+	- English: blank spaces and punctuation are delimiters
+- **Compound words**?
+	- *open* - seperated by spaces ("search engine")
+	- *closed* - no spaces ("airport")
+	- *Hyphenated* - Using hyphens ("one-of-a-kind")
+	- Compound words are more than just words put together!
+		- They have their own meaning
+### Example: Finding words in Chinese
+- We can write in Chinese without whitespaces
+	- This can cause problems with meaning
+- Some Chinese words can have multiple meaning depens
