@@ -127,7 +127,8 @@ Eg.
 > Recall that in some languages, like German, some phrases are spelled by concatenating words into a single, and potentially very long, compound word. Explain the benefits and the drawbacks of a tokenizer that splits a long compound word into the constituent words and then normalizes each of them.
 - Benefits:
 - [p] More results for partial query match
-- 
+- Drawbacks:
+- [c] more tokens will have to be parsed in the query
 ## Bidirectionality
 - Arabic is read "right-to-left", except when we run into Arabic numerals!
 - ![[Pasted image 20240116131606.png]]
@@ -142,4 +143,11 @@ Eg.
 	- Modern encoding has codes for all of them, keep them in docs and queries
 - Option #2 -- remove them!
 	- simple, 
-- **Overall: do what we expect users to do when writing queries!**!
+- **Overall: do what we expect users to do when writing queries!**
+	- ![[Pasted image 20240116132320.png]]
+## Normalization
+### What is it?
+- Transforming text into **canonical** form.
+	- The only, "true" form of a word
+- multiple transformations often used
+- same trqansformations used for docukments and queries
