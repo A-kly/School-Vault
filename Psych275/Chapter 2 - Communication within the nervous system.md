@@ -49,6 +49,7 @@
 - Local potential is a **graded potential**
 	- Varies in magnitude with the strength of the stimulus that produced it
 - If *local potential* **exceeds the threshold** for activating electrically gated channels, then an *action potential occurs*
+	- ==Threshold is usually only 10mV more positive==
 - **Action potential:** *abrupt depolarization* of membrane that allows neuron to communicate
 	- ![[Pasted image 20240116095737.png]]
 	- Action potential is **ungraded**
@@ -57,3 +58,9 @@
 	- Action potential is **nondecremental**
 		- Travels down the axon *without any decrease in size*
 		- *Propagated at each successive point along the way*
+### Refractory Periods
+- **Absolute refractory period:** sodium ion channels are *unresponsive* to further stimulation
+	- A new action potential *cannot* occur
+- **Relative refractory period:** sodium ion channels *could support another action potential*, but *potassium channels are still open*
+	- A new action potential *can* occur, if the *stimulation is sufficiently strong enough* to overcome the charge
+- **Rate Law**: axon encodes stimulus intensity not in the size of its action potential but in its *firing rate*
