@@ -91,7 +91,7 @@ the text of paragraph is actually contained.</w:t>
 # Words, Tokens, and Terms
 - A **word** is a *delimited string of characters* as it appears in the content of the document (or the user query).
 - A term is a unique **normalized** word (case, morphology, spelling, etc).
-	- Different words can be normalized into the same term: a term defines an *equivalence class of words*.
+	- Different words can be normalized into the same term: a term defines an ==equivalence class of words==.
 	- The **tokenizer** is a tool that defines how words are normalized into terms.
 - A token is an instance of a term in the document (or query). 
 ![[Pasted image 20240116130712.png]]
@@ -171,3 +171,8 @@ Eg.
 - We also tokenize and **normalize numbers, dates, emojis, hashtags, slang, acronyms**, ...
 - There is no right or wrong, really. We do what the users find useful.
 # Lemmatization and Stemming (Normalization based on Linguistic principles.)
+## Lemmas and Stems
+- Previous normalizations were based on heuristics. 
+- Lemmatization and Stemming are based on **Linguistics**.
+
+- **Lemma** is a word that stands at the head of a definition in a dictiona 
