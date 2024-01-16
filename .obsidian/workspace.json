@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b0c6ce50880f43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md"
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
               }
             }
           },
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 01 - Foundations.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,8 +183,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "78ad0038ab388d50",
+  "active": "9b0c6ce50880f43f",
   "lastOpenFiles": [
+    "Cmput361/Lecture 01 - Foundations.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Psych275",
     "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput301/Media/Pasted image 20240112104727.png",
@@ -188,7 +204,6 @@
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
     "Soc203/Media/Pasted image 20240111142354.png",
     "Soc203/Media",
-    "Cmput361/Lecture 01 - Foundations.md",
     "Soc203/Lecture 0 - Syllabus and shit.md",
     "Soc203",
     "Cmput361/Media",
@@ -217,7 +232,6 @@
     "STAT 151/LAB1.md",
     "Untitled.canvas",
     "Excalidraw",
-    "STAT 151/Media",
     "The game/Map.canvas"
   ]
 }
