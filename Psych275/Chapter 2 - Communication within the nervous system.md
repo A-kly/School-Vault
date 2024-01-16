@@ -50,6 +50,7 @@
 	- Varies in magnitude with the strength of the stimulus that produced it
 - If *local potential* **exceeds the threshold** for activating electrically gated channels, then an *action potential occurs*
 	- ==Threshold is usually only 10mV more positive==
+
 - **Action potential:** *abrupt depolarization* of membrane that allows neuron to communicate
 	- ![[Pasted image 20240116095737.png]]
 	- Action potential is **ungraded**
@@ -58,9 +59,21 @@
 	- Action potential is **nondecremental**
 		- Travels down the axon *without any decrease in size*
 		- *Propagated at each successive point along the way*
+	- **Process**:
+		- Opens electrically gated Na+ channels
+		- Na+ enters cell
+		- Charge increases in cell (More positive, up to +30mV)
+		- Na+ channels Close
+		- Electrically gated K- channels open
+		- K- Leaves cell
+		- Charge decreases in cell (More negative, down to BELOW -70mV (-90 ish), **Hyperpolarzation**)
+		- K- channels close
+![[Pasted image 20240116100753.png]]
+
 ### Refractory Periods
 - **Absolute refractory period:** sodium ion channels are *unresponsive* to further stimulation
 	- A new action potential *cannot* occur
 - **Relative refractory period:** sodium ion channels *could support another action potential*, but *potassium channels are still open*
 	- A new action potential *can* occur, if the *stimulation is sufficiently strong enough* to overcome the charge
 - **Rate Law**: axon encodes stimulus intensity not in the size of its action potential but in its *firing rate*
+
