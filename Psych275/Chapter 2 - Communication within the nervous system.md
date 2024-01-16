@@ -74,8 +74,11 @@
 ### Refractory Periods
 - **Absolute refractory period:** sodium ion channels are *unresponsive* to further stimulation
 	- A new action potential *cannot* occur
+	- ensures signal *only goes one direction*
+	- 1-2 ms
 - **Relative refractory period:** sodium ion channels *could support another action potential*, but *potassium channels are still open*
 	- A new action potential *can* occur, if the *stimulation is sufficiently strong enough* to overcome the charge
+	- 3-4 ms
 - **Rate Law**: axon encodes stimulus intensity not in the size of its action potential but in its *firing rate*
 # Glial Cells
 - **Nonneural** cells that provide a number of supporting functions to neurons
@@ -94,3 +97,13 @@
 - **Oligodendrocytes:** Glial cells which produce myelin in the brain and spinal cord
 	- Almost *75%* of glial cells in the brain are oligodendrocytes
 - **Schwann cells:** Glial cells which produce myelin in the rest of the nervous system
+![[Pasted image 20240116101809.png]]
+## Other Glial Functions
+- **Radial glia:** during fetal development they form “scaffolds” that guide new neurons to their destinations
+- **Microglia:** provide energy to neurons and respond to injury and disease by removing cellular debris
+- **Astrocytes:** trigger the formation of seven times as many connections in neurons
+# How Neurons Communicate
+- Synapse: the connection between two neurons
+- Synaptic cleft: the small gap which separates neurons so they are not in direct physical contact at the synapse
+- Presynaptic: transmitting neuron
+- Postsynaptic: receiving neuron
