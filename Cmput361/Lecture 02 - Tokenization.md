@@ -185,4 +185,7 @@ Eg.
 		- producing
 		- etc.
 ## Lemmatization
-- 
+- **Lemmatization**: Do a proper reduction of the word to headword form, reserving *inflections* done to word
+- **Inflections:** change word because of grammar, (tense, plural, voice)
+- Examples of *lemmatization*:
+	- ![[Pasted image 20240116134933.png|300]]
