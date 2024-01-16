@@ -175,4 +175,14 @@ Eg.
 - Previous normalizations were based on heuristics. 
 - Lemmatization and Stemming are based on **Linguistics**.
 
-- **Lemma** is a word that stands at the head of a definition in a dictiona 
+- **Lemma** is a word that stands at the *head of a definition in a dictionary*.
+	- Least marked form of a word
+	- For **Nouns**: Singular form (mouse instead of mice)
+	- For **Verbs**: infinitive form (go instead of went)
+- A **Stem** is the part of the word that never changes even when *Morphologically inflected*.
+	- example: the stem of "produced" is "procuc" because:
+		- Produces
+		- producing
+		- etc.
+## Lemmatization
+- 
