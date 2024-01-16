@@ -17,3 +17,10 @@
 > Unipolar neuron has dendrites and axon coming out of the same spot and then a split (some sensory neurons)
 # Cell membrane
 ![[Pasted image 20240116093552.png]]
+## Energy and the Cell Membrane
+- **Polarization:** When there is a difference in electrical charge between the inside and outside of a neuron
+- **Voltage:** measure of difference in electrical charge between two points
+- **Resting potential:** difference of charge (*Voltage*) between inside and outside of membrane at neuron rest
+- **Ions:** atoms that have lost or gained electrons
+	- Positive: Na+, K+
+	- Negative: Cl-, A-
