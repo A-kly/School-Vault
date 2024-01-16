@@ -149,5 +149,14 @@ Eg.
 ### What is it?
 - Transforming text into **canonical** form.
 	- The only, "true" form of a word
-- multiple transformations often used
-- same trqansformations used for docukments and queries
+- **multiple transformations often used**
+- **same transformations used for documents and queries**
+### Why?
+- Used to find matches when user writes word with different spelling
+	- Ex: query mentions fish bowl and document mentions Fish Bowls (different capitalization and use of plural).
+### Typical normalization steps
+![[Pasted image 20240116133008.png]]
+![[Pasted image 20240116133025.png]]
+### Normalizing dates and numbers
+- **Dates:** 3 ways (in the Gregorian calendar): `3/20/91`, `20/3/91` , `Mar 20, 1991`
+- **Phone numbers:** `7804922285` or (780) 492-2285 ?

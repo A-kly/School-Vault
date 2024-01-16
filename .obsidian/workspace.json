@@ -152,6 +152,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e4b2af0768f0f8e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -172,6 +183,8 @@
   },
   "active": "eaead5396d2b3161",
   "lastOpenFiles": [
+    "Cmput361/Media/Pasted image 20240116133025.png",
+    "Cmput361/Media/Pasted image 20240116133008.png",
     "Cmput361/Media/Pasted image 20240116132320.png",
     "Cmput361/Media/Pasted image 20240116131606.png",
     "Cmput361/Media/Pasted image 20240116130712.png",
@@ -191,8 +204,6 @@
     "Soc203",
     "Cmput301/What is Software Engineering about.md",
     "Psych275/Media/Pasted image 20240116101809.png",
-    "Psych275/Media/Pasted image 20240116100753.png",
-    "Psych275/Media/Pasted image 20240116095737.png",
     "Psych275/().md",
     "Psych275/Media",
     "Psych275",
