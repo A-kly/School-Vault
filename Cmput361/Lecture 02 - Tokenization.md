@@ -118,10 +118,16 @@ Eg.
 	- gesellschaft (company)
 	- angestellter (employee)
 - **Should we break that down into four tokens?**
-	- Similar examples in many other languages: Dutch, Swedish, Turkish, Nunavut Inuktitut...
-### Typical CMPUT361 exam question
+	- Keep full phrase and index it?
+	- also break it down and index it?
+	- do both?
+	- show the best results! (long word is more rare, rank those results higher)
+- Similar examples in many other languages: Dutch, Swedish, Turkish, Nunavut Inuktitut...
+### Typical CMPUT361 exam question (SIMILLAR TO ON EXAM)
 > Recall that in some languages, like German, some phrases are spelled by concatenating words into a single, and potentially very long, compound word. Explain the benefits and the drawbacks of a tokenizer that splits a long compound word into the constituent words and then normalizes each of them.
-
+- Benefits:
+- [p] More results for partial query match
+- 
 ## Bidirectionality
 - Arabic is read "right-to-left", except when we run into Arabic numerals!
 - ![[Pasted image 20240116131606.png]]
@@ -129,4 +135,11 @@ Eg.
 
 ## Diacritics
 - A **Diacritic** is a *glyph added to a base letter* (or to another glyph).
-- acute, grave,and circumflex accents
+- Eg. *acute*, *grave*, and *circumflex accents*
+- Some languages have dozens of diacritics
+### What do we do with them?
+- Option #1 -- keep them!
+	- Modern encoding has codes for all of them, keep them in docs and queries
+- Option #2 -- remove them!
+	- simple, 
+- **Overall: do what we expect users to do when writing queries!**!
