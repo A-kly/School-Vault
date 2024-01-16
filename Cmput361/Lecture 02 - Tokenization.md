@@ -107,4 +107,26 @@ the text of paragraph is actually contained.</w:t>
 ### Example: Finding words in Chinese
 - We can write in Chinese without whitespaces
 	- This can cause problems with meaning
-- Some Chinese words can have multiple meaning depens
+- Some Chinese words can have multiple meaning depending on context
+	- This ALSO causes problems
+- Japanese also has these conserns
+### Long compound words
+Eg. 
+- Compound noun in German: Lebensversicherungsgesellschaftsangestellter
+	- leben (life)
+	- versicherung (insurance)
+	- gesellschaft (company)
+	- angestellter (employee)
+- **Should we break that down into four tokens?**
+	- Similar examples in many other languages: Dutch, Swedish, Turkish, Nunavut Inuktitut...
+### Typical CMPUT361 exam question
+> Recall that in some languages, like German, some phrases are spelled by concatenating words into a single, and potentially very long, compound word. Explain the benefits and the drawbacks of a tokenizer that splits a long compound word into the constituent words and then normalizes each of them.
+
+## Bidirectionality
+- Arabic is read "right-to-left", except when we run into Arabic numerals!
+- ![[Pasted image 20240116131606.png]]
+- The UTF encoding system resolves this issue.
+
+## Diacritics
+- A **Diacritic** is a *glyph added to a base letter* (or to another glyph).
+- acute, grave,and circumflex accents
