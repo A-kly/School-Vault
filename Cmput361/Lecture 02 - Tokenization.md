@@ -48,5 +48,28 @@ bytes in a file or on a web server. The first step of processing is to convertth
 - **IT DEPENDS**
 ![[Pasted image 20240116124915.png]]
 #### why do we care?
-- If doc 1 has token in <\title>, then it is more likely to be a good result than doc 2 where it is only in body
-	- doc 1 may be more specu=
+- Scoring
+	- If doc 1 has token in <\title>, then it is more likely to be a good result than doc 2 where it is only in body
+	- doc 1 may be more specific on topic
+- Metadata search
+	- Sometimes we are interested in the author of a document or the date when the document was written, instead of the words inside that document. HTML meta tags can be useful in such cases.
+### DOCX format
+![[Pasted image 20240116125305.png|600]]
+#### A paragraph inside a DOCX file
+```xml
+<w:p>
+<w:pPr>
+<w:pStyle> w:val#"MyStyle"/>
+<w:spacing w:before#"120" w:after#"120"/>
+</w:pPr>
+<w:r>
+<w:t xml"space#"preserve">A paragraph is main container in a
+document that further consists of a one or more runs where
+the text of paragraph is actually contained.</w:t>
+</w:r>
+</w:p>
+```
+- Do we keep the `<w:p>` , `<w:pPr>` tags in our IR system or not?
+	- It depends on the application! 
+
+### File format nightmare -- PDF
