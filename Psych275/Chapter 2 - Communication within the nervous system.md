@@ -68,6 +68,7 @@
 		- K- Leaves cell
 		- Charge decreases in cell (More negative, down to BELOW -70mV (-90 ish), **Hyperpolarzation**)
 		- K- channels close
+		- Cell returns to resting potential with previously discussed techniques.
 ![[Pasted image 20240116100753.png]]
 
 ### Refractory Periods
@@ -76,4 +77,20 @@
 - **Relative refractory period:** sodium ion channels *could support another action potential*, but *potassium channels are still open*
 	- A new action potential *can* occur, if the *stimulation is sufficiently strong enough* to overcome the charge
 - **Rate Law**: axon encodes stimulus intensity not in the size of its action potential but in its *firing rate*
+# Glial Cells
+- **Nonneural** cells that provide a number of supporting functions to neurons
+## Myelination and Conduction Speed
+- **Myelin:** fatty tissue that wraps around axon to insulate it
+	- Keeps cell separate from extracellular fluid and other neurons
+- **Nodes of Ranvier:** Gaps in the myelin sheath
+- **Saltatory conduction:** A form of transmission in which action potentials appear to jump from node to node
 
+- What are the benefits of the myelin sheath?
+	- **Reduces capacitance**
+		- Electrical effect of the membrane, slows movement of ions down the axon
+	- **Signal regeneration at nodes of Ranvier**
+	- **Use less energy**
+## Myelin-Producing Glial Cells
+- **Oligodendrocytes:** Glial cells which produce myelin in the brain and spinal cord
+	- Almost *75%* of glial cells in the brain are oligodendrocytes
+- **Schwann cells:** Glial cells which produce myelin in the rest of the nervous system
