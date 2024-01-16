@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md"
+                "file": "Cmput301/Objects, UML, and Java.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,7 @@
   },
   "active": "eaead5396d2b3161",
   "lastOpenFiles": [
+    "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Media/Pasted image 20240116134933.png",
     "Cmput361/Media/Pasted image 20240116133025.png",
     "Cmput361/Media/Pasted image 20240116133008.png",
@@ -191,7 +192,6 @@
     "Cmput361/Media/Pasted image 20240116130712.png",
     "Cmput361/Lecture 01 - Foundations.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
-    "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Media/Pasted image 20240116125305.png",
     "Cmput361/Media/Pasted image 20240116124915.png",
     "Cmput361/Media/Pasted image 20240116124732.png",
@@ -200,7 +200,6 @@
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Soc203/Lecture 0 - Syllabus and shit.md",
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
-    "Soc203/Media/Pasted image 20240111142354.png",
     "Soc203/Media",
     "Soc203",
     "Cmput301/What is Software Engineering about.md",
