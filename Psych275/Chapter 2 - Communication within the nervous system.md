@@ -20,7 +20,7 @@
 ## Energy and the Cell Membrane
 - **Polarization:** When there is a difference in electrical charge between the inside and outside of a neuron
 - **Voltage:** measure of difference in electrical charge between two points
-- **Resting potential:** difference of charge (*Voltage*) between inside and outside of membrane at neuron rest
+- **Resting potential:** difference of charge (*Voltage*) between inside and outside of membrane at neuron rest ==On average -70mV==
 - **Ions:** atoms that have lost or gained electrons
 	- Positive: Na+, K+
 	- Negative: Cl-, A- 
@@ -38,11 +38,22 @@
 	- In previous image
 	- *3 `Na+` out to 2 `K-` in* 
 #### Ion channels
-- **Ion channels:** gated pores in the membrane formed by proteins; limit the flow of ions into and out of the cell
+- **Ion channels:** gated pores in the membrane formed by proteins; limit the flow of ions into and out of the cell (different gates for different ions)
 - Can be **chemically gated** or **electrically gated**
 	- **Chemically:** neurotransmitters or hormones
 	- **Electrically:** change in electrical potential of the membrane
+
 ## Depolarization
-- **Local potential:** partial depolarization
+- **Local potential:** *partial depolarization*
 	- Polarity in an area shifts toward zero when disturbed
-- 
+- Local potential is a **graded potential**
+	- Varies in magnitude with the strength of the stimulus that produced it
+- If *local potential* **exceeds the threshold** for activating electrically gated channels, then an *action potential occurs*
+- **Action potential:** *abrupt depolarization* of membrane that allows neuron to communicate
+	- ![[Pasted image 20240116095737.png]]
+	- Action potential is **ungraded**
+		- **All-or-none law:** occurs at full strength or it does not occur at all
+		- (Like an atomic transaction)
+	- Action potential is **nondecremental**
+		- Travels down the axon *without any decrease in size*
+		- *Propagated at each successive point along the way*
