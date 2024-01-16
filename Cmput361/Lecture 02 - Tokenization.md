@@ -14,4 +14,24 @@
 	- Number of words can affect scoring of document
 	- terms rare in whole book may be common on certain page of book
 - Reason #2 -- showing results to users
-- 
+	- size of doc matters to user
+	- page of book or whole book?
+
+## How are documents encoded?
+- Documents are digital files... the IR system must be able to read them.
+	- Ex: this is what a digital (hexadecimal) "file" looks like:
+```
+4469676974616C20646F63756D656E74732074686174206172652074686520696E70757420746F20616E20696E646578696E672070726F6365737320617265207479706963616C6C7920627974657320696E20612066696C65206F72206F6E206120776562207365727665722E205468652066697273742073746570206F662070726F63657373696E6720697320746F20636F6E76657274207468697320627974652073657175656E636520696E746F2061206C696E6561722073657175656E6365206F6620636861726163746572732E20466F72207468652063617365206F6620706C61696E20456E676C697368207465787420696E20415343494920656E636F64696E672C2074686973206973207472697669616C2E20427574206F6674656E207468696E677320676574206D756368206D6F726520636F6D706C65782E
+```
+- What words are in it?
+- What language is it in?
+- IR systems need to know that! 
+	- Assuming that the previous "file" was encoded in UTF-8, its content would be:
+```
+Digital documents that are the input to an indexing process are typically
+bytes in a file or on a web server. The first step of processing is to convertthis byte sequence into a linear sequence of characters. For the case of plainEnglish text in ASCII encoding, this is trivial. But often things getmuch more complex.
+```
+- What if the system did not know that the encoding was UTF-8?
+	- we guess encoding
+		- try several, look for valid/real words
+## Metadata
