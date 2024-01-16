@@ -159,4 +159,15 @@ Eg.
 ![[Pasted image 20240116133025.png]]
 ### Normalizing dates and numbers
 - **Dates:** 3 ways (in the Gregorian calendar): `3/20/91`, `20/3/91` , `Mar 20, 1991`
-- **Phone numbers:** `7804922285` or (780) 492-2285 ?
+- **Phone numbers:** `7804922285` or `(780) 492-2285` ?
+- **Numbers:** some countries use `.` as decimal separator while others use `,` !
+- **Money:** is `$1M` the same as `$1,000,000` ?
+- A good system will normalize all of these to one canonical structure
+## Take home message
+- **Tokenization** is the process of *finding words, breaking them down into tokens* (e.g. think about compound words) and normalizing the tokens.
+- Recall that before tokenization we need to *deal with the file format* (e.g., decide if we keep or remove HTML tags, or decode PDF content streams).
+- Finding words and breaking them into tokens is *highly language dependent*.
+- English is an easy language to deal with compared to most.
+- We also tokenize and **normalize numbers, dates, emojis, hashtags, slang, acronyms**, ...
+- There is no right or wrong, really. We do what the users find useful.
+# Lemmatization and Stemming (Normalization based on Linguistic principles.)
