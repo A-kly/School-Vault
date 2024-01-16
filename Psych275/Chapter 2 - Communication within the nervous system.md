@@ -93,12 +93,16 @@
 	- **Reduces capacitance**
 		- Electrical effect of the membrane, slows movement of ions down the axon
 	- **Signal regeneration at nodes of Ranvier**
+		- Na+, K- pumps only need to be used in gaps
 	- **Use less energy**
+	- Equivalent to increasing the diameter of the axon 100x
 ## Myelin-Producing Glial Cells
-- **Oligodendrocytes:** Glial cells which produce myelin in the brain and spinal cord
+- **Oligodendrocytes:** Glial cells which produce myelin in the brain and spinal cord *(CNS)*
 	- Almost *75%* of glial cells in the brain are oligodendrocytes
-- **Schwann cells:** Glial cells which produce myelin in the rest of the nervous system
+- **Schwann cells:** Glial cells which produce myelin in the rest of the nervous system *(PNS)*
 ![[Pasted image 20240116101809.png]]
+> Oligodendrocytes use four "arms" to coat axons
+> Schwann cells wrap around once lik
 ## Other Glial Functions
 - **Radial glia:** during fetal development they form “scaffolds” that guide new neurons to their destinations
 - **Microglia:** provide energy to neurons and respond to injury and disease by removing cellular debris

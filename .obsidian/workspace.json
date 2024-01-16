@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ad5fa4041e820a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cmput301/What is Software Engineering about.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "78ad0038ab388d50",
             "type": "leaf",
             "state": {
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,27 +172,26 @@
   },
   "active": "9b0c6ce50880f43f",
   "lastOpenFiles": [
+    "Cmput361/Lecture 01 - Foundations.md",
+    "Cmput301/What is Software Engineering about.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Media/Pasted image 20240116101809.png",
     "Psych275/Media/Pasted image 20240116100753.png",
     "Psych275/Media/Pasted image 20240116095737.png",
     "Psych275/Media/Pasted image 20240116094853.png",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/().md",
     "Psych275/Media/Pasted image 20240116093552.png",
     "Psych275/Media/Pasted image 20240116093527.png",
     "Psych275/Media/Pasted image 20240116093504.png",
     "Psych275/Media/Pasted image 20240116093253.png",
     "Psych275/Media",
-    "Cmput361/Lecture 01 - Foundations.md",
     "Psych275",
     "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput301/Media/Pasted image 20240112104727.png",
     "Cmput301/Media/Pasted image 20240112104220.png",
-    "Cmput301/Media/Pasted image 20240112103632.png",
     "Cmput301/Media",
-    "Cmput301/What is Software Engineering about.md",
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
     "Soc203/Media",
     "Soc203/Lecture 0 - Syllabus and shit.md",
