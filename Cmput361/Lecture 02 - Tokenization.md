@@ -35,3 +35,18 @@ bytes in a file or on a web server. The first step of processing is to convertth
 	- we guess encoding
 		- try several, look for valid/real words
 ## Metadata
+- Files come with metadata
+- It tells us the language and encoding of the document
+- Well built websites using good tools will provide this info to crawlers
+- not always the case
+- Http header example:
+	- ![[Pasted image 20240116124732.png]]
+## File formats
+- formats can have more info that the text we see
+### Example: Html tags
+- Keep? remove? do we care about boldness or format of text in results? 
+- **IT DEPENDS**
+![[Pasted image 20240116124915.png]]
+#### why do we care?
+- If doc 1 has token in <\title>, then it is more likely to be a good result than doc 2 where it is only in body
+	- doc 1 may be more specu=
