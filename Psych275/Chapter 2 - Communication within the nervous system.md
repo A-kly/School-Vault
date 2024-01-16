@@ -23,4 +23,12 @@
 - **Resting potential:** difference of charge (*Voltage*) between inside and outside of membrane at neuron rest
 - **Ions:** atoms that have lost or gained electrons
 	- Positive: Na+, K+
-	- Negative: Cl-, A-
+	- Negative: Cl-, A- 
+		- *A* = "organic anions"
+	- at rest:
+		- ![[Pasted image 20240116094853.png|500]]
+		- Inside of cell is negative due to excess Anions
+		- Outside is positive due to excess of Na+
+## What Moves the Ions?
+- **Force of diffusion:** tendency of ions to move through membrane to less concentrated side
+- **Electrostatic pressure:** force where ions are repelled from similarly charged, attracted to oppositely charged

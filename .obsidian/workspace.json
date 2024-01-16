@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5a7f506c8b553804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 1 - What is behavioural Neuroscience.md"
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
               }
             }
           },
@@ -148,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,10 +183,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5a7f506c8b553804",
+  "active": "9b0c6ce50880f43f",
   "lastOpenFiles": [
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Psych275/Media/Pasted image 20240116094853.png",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Psych275/().md",
     "Psych275/Media/Pasted image 20240116093552.png",
     "Psych275/Media/Pasted image 20240116093527.png",
     "Psych275/Media/Pasted image 20240116093504.png",
@@ -241,8 +230,6 @@
     "PSYCH 105/Methods in Psychology.md",
     "PSYCH 105/Intelligence and Psychological Testing.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
-    "PSYCH 105/Experience and Intuition V.S. Science.md",
-    "PSYCH 105/Human Development over the Lifespan.md",
     "PSYCH 105/Methods in Psychology.html",
     "Untitled.canvas",
     "The game/Map.canvas"
