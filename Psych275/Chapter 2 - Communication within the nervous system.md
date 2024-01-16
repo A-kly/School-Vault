@@ -101,12 +101,16 @@
 	- Almost *75%* of glial cells in the brain are oligodendrocytes
 - **Schwann cells:** Glial cells which produce myelin in the rest of the nervous system *(PNS)*
 ![[Pasted image 20240116101809.png]]
-> Oligodendrocytes use four "arms" to coat axons
-> Schwann cells wrap around once lik
+> Oligodendrocytes use "arms" to coat axons
+> Schwann cells wrap around once like a burito
 ## Other Glial Functions
 - **Radial glia:** during fetal development they form “scaffolds” that guide new neurons to their destinations
 - **Microglia:** provide energy to neurons and respond to injury and disease by removing cellular debris
 - **Astrocytes:** trigger the formation of seven times as many connections in neurons
+	- Do kinda everything
+		- learning
+		- blood brain barrier
+		- recycling of neurotransmitter
 # How Neurons Communicate
 - **Synapse:** the connection between two neurons
 - **Synaptic cleft:** the *small gap* which separates neurons so they are not in direct physical contact at the synapse

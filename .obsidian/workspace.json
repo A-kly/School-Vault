@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time ",
+                "query": "chapter",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
+                "file": "Cmput361/Lecture 01 - Foundations.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput361/Lecture 01 - Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,16 +169,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9b0c6ce50880f43f",
+  "active": "78ad0038ab388d50",
   "lastOpenFiles": [
-    "Cmput361/Lecture 01 - Foundations.md",
-    "Cmput301/What is Software Engineering about.md",
+    "Soc203/Lecture 0 - Syllabus and shit.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Cmput361/Lecture 01 - Foundations.md",
+    "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+    "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
+    "Soc203/Media/Pasted image 20240111142354.png",
+    "Soc203/Media",
+    "Soc203",
+    "Cmput301/What is Software Engineering about.md",
     "Psych275/Media/Pasted image 20240116101809.png",
     "Psych275/Media/Pasted image 20240116100753.png",
     "Psych275/Media/Pasted image 20240116095737.png",
     "Psych275/Media/Pasted image 20240116094853.png",
-    "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Psych275/().md",
     "Psych275/Media/Pasted image 20240116093552.png",
     "Psych275/Media/Pasted image 20240116093527.png",
@@ -190,12 +194,7 @@
     "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput301/Media/Pasted image 20240112104727.png",
-    "Cmput301/Media/Pasted image 20240112104220.png",
     "Cmput301/Media",
-    "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
-    "Soc203/Media",
-    "Soc203/Lecture 0 - Syllabus and shit.md",
-    "Soc203",
     "Cmput361/Media",
     "Cmput361",
     "Cmput301",
