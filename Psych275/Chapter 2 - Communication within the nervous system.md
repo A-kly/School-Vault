@@ -82,6 +82,7 @@
 - **Rate Law**: axon encodes stimulus intensity not in the size of its action potential but in its *firing rate*
 # Glial Cells
 - **Nonneural** cells that provide a number of supporting functions to neurons
+	- Still considered a neuron
 ## Myelination and Conduction Speed
 - **Myelin:** fatty tissue that wraps around axon to insulate it
 	- Keeps cell separate from extracellular fluid and other neurons
@@ -103,7 +104,8 @@
 - **Microglia:** provide energy to neurons and respond to injury and disease by removing cellular debris
 - **Astrocytes:** trigger the formation of seven times as many connections in neurons
 # How Neurons Communicate
-- Synapse: the connection between two neurons
-- Synaptic cleft: the small gap which separates neurons so they are not in direct physical contact at the synapse
-- Presynaptic: transmitting neuron
-- Postsynaptic: receiving neuron
+- **Synapse:** the connection between two neurons
+- **Synaptic cleft:** the *small gap* which separates neurons so they are not in direct physical contact at the synapse
+- **Presynaptic:** transmitting neuron
+- **Postsynaptic:** receiving neuron
+
