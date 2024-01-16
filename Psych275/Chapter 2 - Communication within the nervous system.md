@@ -29,6 +29,20 @@
 		- ![[Pasted image 20240116094853.png|500]]
 		- Inside of cell is negative due to excess Anions
 		- Outside is positive due to excess of Na+
-## What Moves the Ions?
-- **Force of diffusion:** tendency of ions to move through membrane to less concentrated side
+### What Moves the Ions?
+- **Force of diffusion:** tendency of ions to move through membrane to less concentrated side\
+	- Normal diffusion
 - **Electrostatic pressure:** force where ions are repelled from similarly charged, attracted to oppositely charged
+	- opposites attract, like magnets
+- **Sodium potassium pump:** large protein molecules that move sodium ions through cell membrane to outside, potassium ions back inside
+	- In previous image
+	- *3 `Na+` out to 2 `K-` in* 
+#### Ion channels
+- **Ion channels:** gated pores in the membrane formed by proteins; limit the flow of ions into and out of the cell
+- Can be **chemically gated** or **electrically gated**
+	- **Chemically:** neurotransmitters or hormones
+	- **Electrically:** change in electrical potential of the membrane
+## Depolarization
+- **Local potential:** partial depolarization
+	- Polarity in an area shifts toward zero when disturbed
+- 
