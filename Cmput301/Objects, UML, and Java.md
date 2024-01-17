@@ -145,5 +145,27 @@ public class Square extends Shape { // subclass
 	- **if "is-a" test passes:** *may or may not* be appropriate
 - **Liskov substitution principle:**
 	- an instance of a subclass should always be able to be substituted anywhere a reference to a superclass object is used
-	- aka: **
+	- aka: *we should be able to treat all subclasses at their superclass always in any scenario*
+```java
+Shape s;
+s = new Circle(); // instance of subclass
+…
+Location l = s.getLocation(); // superclass method
+```
+## Inheritance Example
+Suppose:
+- class Dog
+	- provides bark(), fetch()
+- class Cat extends Dog
+	- “hides” bark(), “hides” fetch(), and adds purr()
+- Is Cat a Dog??
+	- **Absolutely not, we cannot call bark or fetch on them, Liskov substitution principle is not followed**
+## Inheritance Example 2
+Suppose:
+- class Window
+	- provides show(), move(), resize()
+- class FixedSizeWindow extends Window
+	- “hides” resize()
+- FixedSizeWindow “is a” Window?
+	- ****
 
