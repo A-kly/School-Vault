@@ -160,7 +160,7 @@ Suppose:
 	- “hides” bark(), “hides” fetch(), and adds purr()
 - Is Cat a Dog??
 	- **Absolutely not, we cannot call bark or fetch on them, Liskov substitution principle is not followed**
-- 
+	- We should separate these two classes
 ## Inheritance Example 2
 Suppose:
 - class Window
@@ -168,5 +168,6 @@ Suppose:
 - class FixedSizeWindow extends Window
 	- “hides” resize()
 - FixedSizeWindow “is a” Window?
-	- ****
+	- **Maybe?? If we wanna use FixedSizeWindow as a Window, then it will cause problems. Liskov's principle is violated.**
+	- We should separate these classes. `resize()` could be separated to another place. We could make two classes with no inheritance (FixedSizeWindow and ResizableWindow). 
 
