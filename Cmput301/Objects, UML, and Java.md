@@ -160,6 +160,7 @@ Suppose:
 	- “hides” bark(), “hides” fetch(), and adds purr()
 - Is Cat a Dog??
 	- **Absolutely not, we cannot call bark or fetch on them, Liskov substitution principle is not followed**
+- 
 ## Inheritance Example 2
 Suppose:
 - class Window
