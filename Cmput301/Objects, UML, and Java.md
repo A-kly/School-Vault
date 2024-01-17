@@ -131,3 +131,16 @@ public class Square extends Shape { // subclass
 	- diameter for circle
 	- side for square
 ## UML Inheritance
+- Implementation inheritance relationship:
+	- *“is-a*” relationship between classes
+	- subclass “is-a” kind of superclass
+	- subclass “*extends*” superclass
+	- eg. **Circle “is-a” kind of Shape**
+![[Pasted image 20240117101010.png|400]]
+- We don't need to add "multiplicity" (aka, a certain number of circles are shapes, aka, quantity)
+## Generalization Principles
+**Inappropriate inheritance**:
+- subclass inherits from superclass but "is-a" relationship does not exist
+- **if "is-a" test fails:** No inheritance is appropriate
+- 
+
