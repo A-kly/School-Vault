@@ -170,4 +170,40 @@ Suppose:
 - FixedSizeWindow “is a” Window?
 	- **Maybe?? If we wanna use FixedSizeWindow as a Window, then it will cause problems. Liskov's principle is violated.**
 	- We should separate these classes. `resize()` could be separated to another place. We could make two classes with no inheritance (FixedSizeWindow and ResizableWindow). 
+## Inheritance Example 3
+Suppose:
+- class ArrayList
+	- provides add(), get(), remove(), …
+- class ProjectTeam extends ArrayList
+- ProjectTeam “is a” ArrayList?
+	- **Maybe? Arraylist does more things than what ProjectTeam does. ProjectTeam is not supposed to be an ordered collection of objects. Arraylist is doing too much.**
+	- ProjectTeam shouldn't **BE** an ArrayList, it might wanna just **HAVE** an ArrayList as an attribute.
 
+## Inheritance Issue
+- Problem:
+	- superclass method is inherited, but it is not appropriate what to do?
+```java
+public class Rectangle {
+	public Rectangle( Size s ) { … }
+	public void setLocation( Location p ) { … }
+	public void setSize( Size s ) { … }
+	public void draw() { … }
+	public void clear() { … }
+	public void rotate() { … }
+	}
+	
+public class Square extends Rectangle {
+	// inherits setSize(), but want to “hide” it
+	}
+	// Square ‘is a’ Rectangle?
+	// Square specializes Rectangle?
+```
+What can we do??
+### Override the Method Approach
+```java
+public class Square extends Rectangle {
+	public void setSize( Size s ) {
+	// should not implement
+		}
+	}
+```
