@@ -139,8 +139,11 @@ public class Square extends Shape { // subclass
 ![[Pasted image 20240117101010.png|400]]
 - We don't need to add "multiplicity" (aka, a certain number of circles are shapes, aka, quantity)
 ## Generalization Principles
-**Inappropriate inheritance**:
-- subclass inherits from superclass but "is-a" relationship does not exist
-- **if "is-a" test fails:** No inheritance is appropriate
-- 
+- **Inappropriate inheritance**:
+	- subclass inherits from superclass but "is-a" relationship does not exist
+	- **if "is-a" test fails:** *No inheritance* is appropriate
+	- **if "is-a" test passes:** *may or may not* be appropriate
+- **Liskov substitution principle:**
+	- an instance of a subclass should always be able to be substituted anywhere a reference to a superclass object is used
+	- aka: **
 
