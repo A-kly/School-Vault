@@ -89,3 +89,12 @@ the whole cannot exist without having the parts; if the whole is destroyed, the 
 often access the parts through the whole
 
 ==MISSED CLASS DUE TO PASSPORT APPOINTMENT==
+# Generalization
+- Look for commonalities:
+	- Common attributes
+		- eg. all vehicles have...?
+	- common methods (behaviour)
+		- eg. all vehicles have...?
+- **Generalize:** find what is common and factor it out into a more general "base" abstraction
+
+
