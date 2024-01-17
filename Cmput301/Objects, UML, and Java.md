@@ -88,7 +88,7 @@ related object life times
 the whole cannot exist without having the parts; if the whole is destroyed, the parts should also be destroyed
 often access the parts through the whole
 
-==MISSED CLASS DUE TO PASSPORT APPOINTMENT==
+==MISSED CLASS DUE TO PASSPORT APPOINTMENT, missed UML stuff==
 # Generalization
 - Look for commonalities:
 	- Common attributes
@@ -97,4 +97,37 @@ often access the parts through the whole
 		- eg. all vehicles have...?
 - **Generalize:** find what is common and factor it out into a more general "base" abstraction
 
+- **Implementation inheritance:** generalize about method signatures, method implementations, and/or attributes
+- **General part:** Superclass/ base class defines attributes and methods to be shared
+- **Specific part:** extends superclass, is a derived class (subclass) which can overide methods, add methods and add attributes
+## Java Implementation Inheritance
+```java
+public class Shape { // superclass
+	protected Location myLocation;
+	public Shape() { … }
+	public void setLocation( Location p ) { … }
+	public Location getLocation() { … }
+	}
+	
 
+public class Circle extends Shape { // subclass
+	private int diameter;
+	public Circle() { … }
+	public void setDiameter( int d ) { … }
+	…
+	}
+	
+public class Square extends Shape { // subclass
+	private int side;
+	public Square() { … }
+	public void setSide( int s ) { … }
+	}
+```
+- Both circle and square extend shape
+- a circle is not a square
+- a square is not a circle
+- a shape is a shape
+- circle and square have added attributes
+	- diameter for circle
+	- side for square
+## UML Inheritance
