@@ -87,3 +87,5 @@ exclusive containment of parts
 related object life times
 the whole cannot exist without having the parts; if the whole is destroyed, the parts should also be destroyed
 often access the parts through the whole
+
+==MISSED CLASS DUE TO PASSPORT APPOINTMENT==
