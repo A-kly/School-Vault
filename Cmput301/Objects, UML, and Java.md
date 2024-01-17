@@ -207,3 +207,54 @@ public class Square extends Rectangle {
 		}
 	}
 ```
+- This *violates Liskov's substitution principle.*
+### Aggregation Approach
+```java
+public class Square {
+	private Rectangle rect;
+	// Square ‘has a’ Rectangle,
+	// not ‘is a’ Rectangle
+	public Square( int side ) {
+		rect = new Rectangle(
+		new Size( side, side ) );
+	}
+…
+public void setSide( int newSide ) {
+	rect.setSize(
+		new Size( newSide, newSide ) );
+	}
+	
+public void draw() {
+	rect.draw();
+	}
+…
+}
+```
+- In this case, *Square is not considered a rectangle by java*
+### Restructuring Approach
+```java
+public class Quadrilateral {
+	…
+	public Quadrilateral() { … }
+	public void setLocation( Location p ) { … }
+	public void draw() { … }
+	public void clear() { … }
+	public void rotate() { … }
+	}
+	
+public class Rectangle extends Quadrilateral {
+	public Rectangle( Size s ) { … }
+	public void setSize( Size s ) { … }
+	}
+	
+public class Square extends Quadrilateral {
+	public Square( int side ) { … }
+	public void setSide( int side ) { … }
+	}
+```
+- We make a larger superclass to encompass all required behaviours
+- In this case, *Square is not considered a rectangle by java, it **is** considered a quadrilateral*
+## Inheritance But more
+- Java abstract class:
+- *declares one or more abstract methods*
+- cannot be instantiated; must be subclassed and have abstract methods overridden
