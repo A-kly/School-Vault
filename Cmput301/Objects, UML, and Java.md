@@ -219,13 +219,13 @@ public class Square {
 		new Size( side, side ) );
 	}
 …
-public void setSide( int newSide ) {
-	rect.setSize(
-		new Size( newSide, newSide ) );
+	public void setSide( int newSide ) {
+		rect.setSize(
+			new Size( newSide, newSide ) );
 	}
-	
-public void draw() {
-	rect.draw();
+		
+	public void draw() {
+		rect.draw();
 	}
 …
 }
@@ -240,21 +240,77 @@ public class Quadrilateral {
 	public void draw() { … }
 	public void clear() { … }
 	public void rotate() { … }
-	}
+}
 	
 public class Rectangle extends Quadrilateral {
 	public Rectangle( Size s ) { … }
 	public void setSize( Size s ) { … }
-	}
+}
 	
 public class Square extends Quadrilateral {
 	public Square( int side ) { … }
 	public void setSide( int side ) { … }
-	}
+}
 ```
 - We make a larger superclass to encompass all required behaviours
 - In this case, *Square is not considered a rectangle by java, it **is** considered a quadrilateral*
 ## Inheritance But more
 - Java abstract class:
-- *declares one or more abstract methods*
-- cannot be instantiated; must be subclassed and have abstract methods overridden
+	- *declares one or more abstract methods*
+	- **cannot be instantiated**; must be subclassed and have abstract methods overridden
+```java
+public abstract class Shape {
+	public abstract double area();
+	public abstract double perimeter();
+	// there may be other instance data and methods
+}
+class Circle extends Shape {
+	public double area() { … }
+	public double perimeter() { … }
+}
+```
+## Interface Inheritance
+- Java interface:
+	- **declares method signatures**
+	- classes implement the interface by providing all the method bodies
+	- **a “contract”, specifying a capability that an implementing classes must provide**
+	- cannot be instantiated 
+	-  may extend other (sub)interfaces
+```java
+public interface Bordered {
+	public double area();
+	public double perimeter();
+}
+class Circle implements Bordered {
+	public double area() { … }
+	public double perimeter() { … }
+}
+```
+
+```java
+public interface Transformable extends Scalable, Translatable, Rotatable {
+	…
+}
+```
+This is an example of 3 interfaces
+### Java Interface example
+```java
+public interface Cloneable {
+	public Cloneable clone();
+}
+
+public class Color implements Cloneable {
+	private int red;
+	private int green;
+	private int blue;
+	
+	public Color( int r, int g, int b ) { … }
+	
+	public Cloneable clone() {
+		return new Color( red, green, blue );
+	}
+}
+Color red = new Color( 255, 0, 0 );
+Color redClone = (Color) red.clone();
+```
+### UML Interface
