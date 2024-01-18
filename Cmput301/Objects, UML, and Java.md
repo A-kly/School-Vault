@@ -314,3 +314,4 @@ Color red = new Color( 255, 0, 0 );
 Color redClone = (Color) red.clone();
 ```
 ### UML Interface
+![[Pasted image 20240117104921.png]]
