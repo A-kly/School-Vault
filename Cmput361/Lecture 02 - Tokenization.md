@@ -189,3 +189,10 @@ Eg.
 - **Inflections:** change word because of grammar, (tense, plural, voice)
 - Examples of *lemmatization*:
 	- ![[Pasted image 20240116134933.png|300]]
+### Derivation and inflection are different things
+- **Derivation:** create new words from other ones
+	- Changes part of speach of the word we start with
+	- ![[Pasted image 20240118123459.png|400]]
+#### How is that different from inflection?
+- **Derivation** creates a *new lemma*! **Inflection** creates a *word with the same lemma*.
+- 
