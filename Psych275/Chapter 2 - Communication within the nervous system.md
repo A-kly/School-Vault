@@ -132,7 +132,18 @@
 
 - **Excitatory postsynaptic potential (EPSP):** when *receptors open sodium channels* to produce a *partial depolarization* of the dendrites and cell body
 - **Inhibitory postsynaptic potential (IPSP):** when *receptors open potassium channels, chloride channels, or both* to produce a *hyperpolarization* of the dendrites and cell body
-## Postsynaptic Integration (EPSP only)
+## Postsynaptic Integration (happens with both EPSPs and IPSPs)
 - **Spatial summation:** combines potentials occurring simultaneously at different locations on the dendrites and cell body
-	- add all input that arrive at same time, once thresho
+	- add all input across all dendrites that arrive at same time, once threshold is met, action potential
 - **Temporal summation:** combines potentials arriving a short time apart, from either the same or separate inputs
+	- add all input that arrives over a short period of time, once threshold is met, action potential
+![[Pasted image 20240118094644.png]]
+- 
+## Removing Neurotransmitters
+- **Reuptake:** transmitters taken back into the terminals by transporter proteins, where they are repackaged into vesicles for reuse
+## Regulating Synaptic Activity
+- **Presynaptic excitation:** *increases the presynaptic neuron’s release of neurotransmitter* onto the postsynaptic neuron
+- **Presynaptic inhibition:** *decreases the presynaptic neuron’s release of neurotransmitter* onto the postsynaptic neuron
+- **Autoreceptors:** *receptors on presynaptic terminals which sense amount of transmitter in cleft*
+![[Pasted image 20240118094937.png|400]]
+## Neurotransmitters
