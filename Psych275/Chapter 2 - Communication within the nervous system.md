@@ -145,6 +145,7 @@
 - **Presynaptic excitation:** *increases the presynaptic neuron’s release of neurotransmitter* onto the postsynaptic neuron
 - **Presynaptic inhibition:** *decreases the presynaptic neuron’s release of neurotransmitter* onto the postsynaptic neuron
 - **Autoreceptors:** *receptors on presynaptic terminals which sense amount of transmitter in cleft*
+	- Where *Presynaptic excitation* and *Inhibition* happens
 ![[Pasted image 20240118094937.png|400]]
 ## Neurotransmitters
 - **Dale’s principle:** *erroneous belief* that a neuron was capable of releasing only a single transmitter
