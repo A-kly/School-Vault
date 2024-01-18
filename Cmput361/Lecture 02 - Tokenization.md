@@ -242,5 +242,9 @@ You are encouraged to try that -- and with other algorithms too!
 # Different kinds of words and how to deal with them
 Some words are more useful for search than others.
 ## Content words and Function words
-- **Content words**: possess semantic content and contribute to the meaning of the sentence in which they occur
-	- 
+- **Content words**: *possess semantic content* and contribute to the meaning of the sentence in which they occur
+	- nouns, lexical verbs, adjectives, adverbs
+- **Function words**: which have very little substantive meaning and primarily *denote grammatical relationships* between content words
+	- prepositions (in, out, under etc.), pronouns (I, you, he, who etc.) and conjunctions (and, but, till, as etc.).
+## Content or function?
+![[Pasted image 20240118132542.png]]
