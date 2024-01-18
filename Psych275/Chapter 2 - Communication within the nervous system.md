@@ -116,4 +116,16 @@
 - **Synaptic cleft:** the *small gap* which separates neurons so they are not in direct physical contact at the synapse
 - **Presynaptic:** transmitting neuron
 - **Postsynaptic:** receiving neuron
-
+![[Pasted image 20240118093619.png|400]]
+- Chemical Transmission at the Synapse
+	- First shown by Otto Loewi in the early 1900s
+		- Neurons release at least two different chemicals that have opposite effects
+## Chemical Transmission at the Synapse
+- **Vesicles:** membrane-enclose bubbles at axon terminals which store neurotransmitters
+- **Ionotropic receptors:** receptors which form the ion channel and open quickly to produce the immediate reactions
+	- Lock and key, bind and channel opens
+- **Metabotropic receptors:** receptors which open channels indirectly through a second messenger
+	- Tell keyholder to open door, two step process, a little slower
+## Excitation and Inhibition
+- **Partial depolarization:** depolarization which is *excitatory and facilitates the occurrence of an action potential*
+- Hyperpolarization: increased polarization which is inhibitory and makes an action potential less likely to occur
