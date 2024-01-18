@@ -147,3 +147,12 @@
 - **Autoreceptors:** *receptors on presynaptic terminals which sense amount of transmitter in cleft*
 ![[Pasted image 20240118094937.png|400]]
 ## Neurotransmitters
+- **Dale’s principle:** *erroneous belief* that a neuron was capable of releasing only a single transmitter
+	- aka ==This is wrong==
+- Neurotransmitter release:
+	- **Corelease**
+		- Vesicles contain and release more than one neurotransmitter
+	- **Cotransmission**
+		- Vesicles store and release only one type of neurotransmitters each
+	- **Release of different transmitters from various terminals**
+![[Pasted image 20240118095118.png]]
