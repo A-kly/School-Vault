@@ -225,4 +225,9 @@ Eg.
 	- Is fast, and does not require look-up on dictionaries or other resources.
 	- Is crude and does not distinguish inflection from derivation.
 - **Both are known to increase recall**.
-# Derivation vs inflection
+# Code
+You are encouraged to use NLTK (https://www.nltk.org/) for lemmatization and stemming.
+	Stemming: https://www.nltk.org/howto/stem.html
+	Lemmatization: https://www.nltk.org/api/nltk.stem.wordnet.html#module-nltk.stem.wordnet
+NLTK is a well-supported and established toolkit for Natural Language Processing in Python.
+You may also use Spacy (https://spacy.io/). It is more modern and has more methodsnased baded on machine learning.
