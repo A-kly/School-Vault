@@ -128,4 +128,11 @@
 	- Tell keyholder to open door, two step process, a little slower
 ## Excitation and Inhibition
 - **Partial depolarization:** depolarization which is *excitatory and facilitates the occurrence of an action potential*
-- Hyperpolarization: increased polarization which is inhibitory and makes an action potential less likely to occur
+- **Hyperpolarization:** increased polarization which is *inhibitory and makes an action potential less likely to occur*
+
+- **Excitatory postsynaptic potential (EPSP):** when *receptors open sodium channels* to produce a *partial depolarization* of the dendrites and cell body
+- **Inhibitory postsynaptic potential (IPSP):** when *receptors open potassium channels, chloride channels, or both* to produce a *hyperpolarization* of the dendrites and cell body
+## Postsynaptic Integration (EPSP only)
+- **Spatial summation:** combines potentials occurring simultaneously at different locations on the dendrites and cell body
+	- add all input that arrive at same time, once thresho
+- **Temporal summation:** combines potentials arriving a short time apart, from either the same or separate inputs
