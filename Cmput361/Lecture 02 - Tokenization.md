@@ -195,4 +195,7 @@ Eg.
 	- ![[Pasted image 20240118123459.png|400]]
 #### How is that different from inflection?
 - **Derivation** creates a *new lemma*! **Inflection** creates a *word with the same lemma*.
+## Stemming
+- **Stemming:** "crude heuristic" that *removes the suffixes* in the hope of achieving similar effects of lemmatization
+	- In principle, we could also remove prefixes -- but most stemmers do not do that.
 - 
