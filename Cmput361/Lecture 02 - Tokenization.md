@@ -225,9 +225,22 @@ Eg.
 	- Is fast, and does not require look-up on dictionaries or other resources.
 	- Is crude and does not distinguish inflection from derivation.
 - **Both are known to increase recall**.
-# Code
+## Code
 You are encouraged to use NLTK (https://www.nltk.org/) for lemmatization and stemming.
 	Stemming: https://www.nltk.org/howto/stem.html
 	Lemmatization: https://www.nltk.org/api/nltk.stem.wordnet.html#module-nltk.stem.wordnet
 NLTK is a well-supported and established toolkit for Natural Language Processing in Python.
-You may also use Spacy (https://spacy.io/). It is more modern and has more methodsnased baded on machine learning.
+
+You may also use Spacy (https://spacy.io/). It is more modern and has more methods nased baded on machine learning.
+### ChatGPT's version of the Porter stemmer
+ChatGPT produced working Python code that seems to implement the Porter stemmer.
+- There is code for the five steps.
+- The code is very readable.
+- Some stemming does happen.
+However, the results are not as expected. Some outputs are wrong and many are different than what NLTK produces.
+You are encouraged to try that -- and with other algorithms too!
+# Different kinds of words and how to deal with them
+Some words are more useful for search than others.
+## Content words and Function words
+- **Content words**: possess semantic content and contribute to the meaning of the sentence in which they occur
+	- 
