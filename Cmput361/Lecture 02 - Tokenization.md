@@ -207,4 +207,8 @@ Eg.
 - Most well known and most used stemmer
 - 5 steps, each with several rules:
 - **deals with plurals and the -ed suffix**
-- 
+	- ![[Pasted image 20240118125908.png]]
+#### Guarded rules
+- Only apply under some conditions
+- Don't wanna destroy the word too much, leading to meaningless content.
+![[Pasted image 20240118130310.png]]
