@@ -167,8 +167,8 @@
 - **Neural codes:** Varied intervals between spikes in nerve signals
 	- Like morse codes for neurons to understand
 - **Neural networks:** groups of neurons that function together
-	- 
 - **Human Connectome Project:** large-scale, multi-university effort to map brain’s circuits
 ## In Perspective
 - It’s impossible to understand the brain (or behavior it produces) without understanding capabilities and limitations of the neuron.
 - Modern tools and cooperative efforts are the key to moving forward in biological-psychology research.
+
