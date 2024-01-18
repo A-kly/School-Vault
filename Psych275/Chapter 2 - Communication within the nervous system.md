@@ -156,9 +156,17 @@
 		- one fast acting
 		- one slow acting
 	- **Corelease**
-		- Vesicles contain and release more than one neurotransmitter
+		- Vesicles contain and release *more than one neurotransmitter*
+		- can control release so that only the small neurotransmitter get released (see diagram)
 	- **Cotransmission**
-		- Vesicles store and release only one type of neurotransmitters each
+		- Vesicles store and release *only one type of neurotransmitters* each
 	- **Release of different transmitters from various terminals**
-		- Different vessicles 
+		- Different vesicles for each axon terminal
 ![[Pasted image 20240118095118.png]]
+## Neural Codes and Neural Networks
+- **Neural codes:** Varied intervals between spikes in nerve signals
+- **Neural networks:** groups of neurons that function together
+- **Human Connectome Project:** large-scale, multi-university effort to map brain’s circuits
+## In Perspective
+- It’s impossible to understand the brain (or behavior it produces) without understanding capabilities and limitations of the neuron.
+- Modern tools and cooperative efforts are the key to moving forward in biological-psychology research.
