@@ -203,6 +203,8 @@ Eg.
 	- Situation where it *works:* cats → cat
 	- Situation where it *doesn't:* access → acces
 - **The problem with heuristics is that there are always many corner cases to address.**
+![[Pasted image 20240118131327.png]]
+
 ### The Porter stemmer
 - Most well known and most used stemmer
 - 5 steps, each with several rules:
@@ -214,12 +216,13 @@ Eg.
 ![[Pasted image 20240118130310.png]]
 ![[Pasted image 20240118130613.png]]
 ## Lemmatization vs stemming
-Lemmatization:
+- **Lemmatization**:
 	- "Reverses inflection".
 	- Always produces a word (that can be found in the dictionary).
 	- Requires deep linguistic knowledge.
 	- Preserves the concepts in the user query.
-Stemming:
-Is fast, and does not require look-up on dictionaries or other resources.
-Is crude and does not distinguish inflection from derivation.
-Both are known to increase recall.
+- **Stemming**:
+	- Is fast, and does not require look-up on dictionaries or other resources.
+	- Is crude and does not distinguish inflection from derivation.
+- **Both are known to increase recall**.
+# Derivation vs inflection
