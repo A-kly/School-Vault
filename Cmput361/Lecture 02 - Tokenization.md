@@ -212,3 +212,14 @@ Eg.
 - Only apply under some conditions
 - Don't wanna destroy the word too much, leading to meaningless content.
 ![[Pasted image 20240118130310.png]]
+![[Pasted image 20240118130613.png]]
+## Lemmatization vs stemming
+Lemmatization:
+	- "Reverses inflection".
+	- Always produces a word (that can be found in the dictionary).
+	- Requires deep linguistic knowledge.
+	- Preserves the concepts in the user query.
+Stemming:
+Is fast, and does not require look-up on dictionaries or other resources.
+Is crude and does not distinguish inflection from derivation.
+Both are known to increase recall.
