@@ -198,4 +198,13 @@ Eg.
 ## Stemming
 - **Stemming:** "crude heuristic" that *removes the suffixes* in the hope of achieving similar effects of lemmatization
 	- In principle, we could also remove prefixes -- but most stemmers do not do that.
+- Simple example:
+	- If a word ends in s , remove it. The intent here is to revert words from plural to singular.
+	- Situation where it *works:* cats → cat
+	- Situation where it *doesn't:* access → acces
+- **The problem with heuristics is that there are always many corner cases to address.**
+### The Porter stemmer
+- Most well known and most used stemmer
+- 5 steps, each with several rules:
+- **deals with plurals and the -ed suffix**
 - 
