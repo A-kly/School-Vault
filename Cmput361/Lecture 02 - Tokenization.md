@@ -248,3 +248,4 @@ Some words are more useful for search than others.
 	- prepositions (in, out, under etc.), pronouns (I, you, he, who etc.) and conjunctions (and, but, till, as etc.).
 ## Content or function?
 ![[Pasted image 20240118132542.png]]
+	
