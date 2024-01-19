@@ -331,12 +331,14 @@ public class Sender {
 		Info argRef = new Info();
 		r.receive( argRef ); //This line sends argRef to the receive() function
 		argRef.doSomeMore(); //argRef can still be accesed here due to Call-by-Value
-	}   // argRef is not going to be changed at all by what happens in receive()
+	}   // argRef IS GOING TO BE CHANGED by what happens in receive()
 }
 public class Receiver {
 	public void receive( Info infoRef ) {
-		infoRef.doSomething();
+		infoRef.doSomething(); //infoRef IS CHANGED becuase we apply .doSomething() to the object id
 		infoRef = null; //We set infoRef to null HERE, NOT IN THE SENDER FUNCTION
 	}
 }
 ```
+- Every object variable in Java is essencially the object's ID
+- We can manipulate the object from anywhere that we pass the object id because Java finds the object associated with the ID, does something
