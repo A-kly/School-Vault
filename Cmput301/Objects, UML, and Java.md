@@ -350,14 +350,21 @@ public class Receiver {
 ## Java Constructors
 ```java
 public class Base {
-protected int value;
-public Base() {
-value = -1;
+	protected int value;
+		public Base() {
+		//There is an invisible (implicit) super() call here
+		value = -1;
+	}
 }
-}
+
 public class Derived extends Base {
-public Derived() {
+	public Derived() {
+	//There is an invisible (implicit) super() call here
+	}
 }
-}
+
 Derived d = new Derived();
+d.value; //What does this return?????
+         //THERE IS AN INVISIBLE super() call in Derived()
 ```
+- `super()` is a call to the object's superclass constructor
