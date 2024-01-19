@@ -315,3 +315,28 @@ Color redClone = (Color) red.clone();
 ```
 ### UML Interface
 ![[Pasted image 20240117104921.png]]
+## Abstract Class versus Interface
+- Differences:
+- an abstract class may provide a partial implementation
+- a class may implement any number of interfaces, but only extend one superclass
+
+- adding a method to an interface will “break” any class that previously implemented it
+# Java Subtleties
+## Java Call-by-Value
+==The VALUE of each argument is **copied**==
+```java
+public class Sender {
+	public void send() {
+		Receiver r = new Receiver();
+		Info argRef = new Info();
+		r.receive( argRef ); //This line sen
+		argRef.doSomeMore();
+	}
+}
+public class Receiver {
+	public void receive( Info infoRef ) {
+		infoRef.doSomething();
+		infoRef = null;
+	}
+}
+```
