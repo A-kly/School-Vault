@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md"
+                "file": "Cmput301/Objects, UML, and Java.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput361/Lecture 02 - Tokenization.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +169,7 @@
   },
   "active": "78ad0038ab388d50",
   "lastOpenFiles": [
+    "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Media/Pasted image 20240118132542.png",
     "Cmput361/Media/Pasted image 20240118132535.png",
     "Cmput361/Media/Pasted image 20240118131327.png",
@@ -177,12 +178,10 @@
     "Cmput361/Media/Pasted image 20240118125908.png",
     "Cmput361/Media/Pasted image 20240118123459.png",
     "Cmput361/Untitled.md",
-    "Cmput361/Lecture 02 - Tokenization.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Media/Pasted image 20240118095118.png",
     "Psych275/Media/Pasted image 20240118094937.png",
     "Psych275/Media/Pasted image 20240118094644.png",
-    "Psych275/Media/Pasted image 20240118093619.png",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput361/Lecture 01 - Foundations.md",
