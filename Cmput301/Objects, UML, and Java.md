@@ -329,14 +329,14 @@ public class Sender {
 	public void send() {
 		Receiver r = new Receiver();
 		Info argRef = new Info();
-		r.receive( argRef ); //This line sen
-		argRef.doSomeMore();
-	}
+		r.receive( argRef ); //This line sends argRef to the receive() function
+		argRef.doSomeMore(); //argRef can still be accesed here due to Call-by-Value
+	}   // argRef is not going to be changed at all by what happens in receive()
 }
 public class Receiver {
 	public void receive( Info infoRef ) {
 		infoRef.doSomething();
-		infoRef = null;
+		infoRef = null; //We set infoRef to null HERE, NOT IN THE SENDER FUNCTION
 	}
 }
 ```
