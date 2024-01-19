@@ -341,4 +341,23 @@ public class Receiver {
 }
 ```
 - Every object variable in Java is essencially the object's ID
-- We can manipulate the object from anywhere that we pass the object id because Java finds the object associated with the ID, does something
+- We can manipulate the object from anywhere that we pass the object id because Java finds the object associated with the ID, does something with it and then returns
+- Line 12 works and DOESN'T affect the object reference in line 6
+- THIS ENTIRE THING IS PRETTY MUCH LIKE POINTERS, **References do not have a constant memory location**, Java does not have actual pointers at all.
+- `.` operator is incredibly powerful
+	- on method, if object does exist, ask class of object if it has the corresponding method, change `this` in the class methods to the value of object before `.`
+		- if method doesn't exist in class, ask superclass
+## Java Constructors
+```java
+public class Base {
+protected int value;
+public Base() {
+value = -1;
+}
+}
+public class Derived extends Base {
+public Derived() {
+}
+}
+Derived d = new Derived();
+```
