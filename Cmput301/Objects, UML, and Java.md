@@ -394,3 +394,5 @@ Derived d = new Derived();
 ```
 ![[Pasted image 20240119104940.png]]
 **BAD**
+- This is basically, every class has it's own attributes, its superclass can also have the same attributes and so it ends up being confusing and bad!
+- 
