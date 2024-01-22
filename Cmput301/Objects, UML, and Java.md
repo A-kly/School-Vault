@@ -395,4 +395,28 @@ Derived d = new Derived();
 ![[Pasted image 20240119104940.png]]
 **BAD**
 - This is basically, every class has it's own attributes, its superclass can also have the same attributes and so it ends up being confusing and bad!
-- 
+## Dynamic binding
+```java
+public class Base {
+	// default implementation
+	public void op() { … }
+}
+
+public class Derived1 extends Base {
+	// does not override op()
+}
+
+public class Derived2 extends Base {
+	// override ...
+	public void op() { … }
+}
+
+
+Base base;
+base = new Derived1(); // implicit upcast
+base.op(); // calls op() in Base
+base = new Derived2(); // implicit upcast
+base.op(); // calls op() in Derived2
+```
+- selection of method to be run is made at run time, depending on type of receiving object
+	- receiving object does the “right thing”, even if the calling code does not show its actual type
