@@ -420,3 +420,5 @@ base.op(); // calls op() in Derived2
 ```
 - selection of method to be run is made at run time, depending on type of receiving object
 	- receiving object does the “right thing”, even if the calling code does not show its actual type
+- **The method call we use goes to the most recently overwritten method definition, if it has not been overwritten, go to base class.**
+- This is ok and good to use
