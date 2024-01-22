@@ -89,6 +89,13 @@ the whole cannot exist without having the parts; if the whole is destroyed, the 
 often access the parts through the whole
 
 ==MISSED CLASS DUE TO PASSPORT APPOINTMENT, missed UML stuff==
+
+## UML Composition
+- Contained objects are exclusive to the container
+	- a Circle object has a Point object that is exclusive to it (however, other objects may contain Point objects, just not this one)
+	- ![[Pasted image 20240122153435.png|300]]
+![[Pasted image 20240122153455.png|400]]
+
 # Generalization
 - Look for commonalities:
 	- Common attributes
