@@ -368,3 +368,29 @@ d.value; //What does this return?????
          //THERE IS AN INVISIBLE super() call in Derived()
 ```
 - `super()` is a call to the object's superclass constructor
+	- It is automatically injected if it is left out
+
+```java
+public class Base {
+	protected int value;
+	public Base( int initValue ) {
+		// implicitly inserted call to super()
+		value = initValue;
+	}
+	public Base() {
+		this( -1 );
+		// this( … ) if used, must come first
+	}
+}
+public class Derived extends Base {
+	public Derived( int initValue ) {
+		super( initValue );
+	}
+	public Derived() {
+		// implicitly inserted call to super()
+	}
+}
+Derived d = new Derived();
+```
+![[Pasted image 20240119104940.png]]
+**BAD**
