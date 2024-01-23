@@ -12,3 +12,5 @@ query = term |
 ## Computing answers with bit vector operators
 - each row is a term doc incidence matrix
 - bitwise operators on each vector
+
+==Notes are not yet avaliable online, watched and listened without taking notes==
