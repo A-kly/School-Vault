@@ -62,6 +62,7 @@
 - **Medial:** toward the middle
 ![[Pasted image 20240123095425.png|600]]
 ## Brain Structures
-![[Pasted image 20240123095524.png]]
-- Frontal lobe 
+![[Pasted image 20240123095524.png]]![[Pasted image 20240123100144.png]]
+- Motor cortex / precentral gyrus is found in the next image in the red circles 
 ![[Pasted image 20240123095548.png]]
+- We need to know **All** of these parts!
