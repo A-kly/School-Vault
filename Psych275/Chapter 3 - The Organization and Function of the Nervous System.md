@@ -66,17 +66,22 @@
 - Motor cortex / precentral gyrus is found in the next image in the red circles 
 ![[Pasted image 20240123095548.png]]
 - We need to know **All** of these parts!
-	- Motor cortex
-	- Broca's area
-		- Speech formation
-	- Prefrontal Cortex (largest region of brain, 29% of cortex)
-		- Planning, organizing of behaviours
-		- decision making
-		- goals
-		- adjusting behaviour because of consequences
-	- Wernicke's area
-		- Speech meaning
-# Psychosurgery
+	- Frontal lobe
+		- Precentral gyrus (Motor cortex)
+		- Broca's area
+			- Speech formation
+		- Prefrontal Cortex (largest region of brain, 29% of cortex)
+			- Planning, organizing of behaviours
+			- decision making
+			- goals
+			- adjusting behaviour because of consequences
+	- Parietal lobe
+		- Postcentral gyrus (somatosensory cortex)
+			- Receives all sensory info to be processed
+			- Organized in the same way that the motor cortex
+		- 
+
+### Psychosurgery
 - **Psychosurgery:** use of surgical intervention to treat cognitive and emotional disorders
 	- **Lobotomy:** involves severing connections in the brain's prefrontal cortex
 		- REALLY BAD
