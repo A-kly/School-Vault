@@ -61,15 +61,16 @@
 	- **Lateral:** toward the side
 	- **Medial:** toward the middle
 ![[Pasted image 20240123095425.png|600]]
-## Brain Structures
+## Forebrain Structures
 ![[Pasted image 20240123100144.png|300]]
-- Motor cortex / precentral gyrus is found in the next image in the red circles 
-![[Pasted image 20240123095548.png|600]]
+- Motor cortex / precentral gyrus is found in the next image.
+![[Pasted image 20240123102550.png]]
 - We need to know **All** of these parts!
 ### Frontal lobe
 - Precentral gyrus (Motor cortex)
 - Broca's area
 	- Speech formation
+	- *Only on left hemisphere*
 - Prefrontal Cortex (largest region of brain, 29% of cortex)
 	- Planning, organizing of behaviours
 	- decision making
@@ -85,7 +86,7 @@
 - Postcentral gyrus (somatosensory cortex)
 	- Receives all sensory info to be processed
 	- Organized in the same way that the motor cortex
--  Association Areas
+-  has **Association Areas**
 	- **Association areas:** Areas which carry out further processing beyond what the primary area does, often combining information from other senses
 #### Neglect
 - **Neglect:** A disorder in which the person *ignores objects, people, and activity on the side opposite the damage*
@@ -94,3 +95,12 @@
 ### Temporal Lobes
 - **Temporal lobes:** Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory*
 - **Inferior temporal cortex:** plays major role in visual identification of objects
+- **Wernicke's area:** Responsible for speech understanding, take audio and processes it into meaning
+	- *Only on left hemisphere*
+-  also has **Association Areas**
+	- **Association areas:** Areas which carry out further processing beyond what the primary area does, often combining information from other senses
+### The Rest of The Forebrain
+- Thalamus: receives information from all sensory systems except olfaction (smell)
+- Hypothalamus: plays major role in controlling emotion and motivated behaviors
+- Pineal gland: secretes melatonin, a hormone that induces sleep
+- Corpus callosum: band of fibers that carry information between brain hemispheres
