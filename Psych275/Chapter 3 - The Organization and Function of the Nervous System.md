@@ -79,7 +79,5 @@
 # Psychosurgery
 - **Psychosurgery:** use of surgical intervention to treat cognitive and emotional disorders
 	- **Lobotomy:** involves severing connections in the brain's prefrontal cortex
-		- REEEEALLY BADD
-		- 10s of 1000s of lobotomies in 
+		- REALLY BAD
 	- **Corpus callosotomy:** involves cutting corpus callosum to limit spread of epileptic activity between hemispheres
-- 
