@@ -22,5 +22,14 @@
 - **Gyrus:** each ridge in surface of the brain
 - **Sulcus:** groove or space between two gyri
 - **Fissure:** large groove or space between two gyri
+	- Extra big *Sulcus*, deeper
 - **Cortex:** outer surface of brain; literally, “bark”
 	- Mostly made up of the cell bodies of neurons
+	- ==more surface area because of m==
+### The Cortex
+- 1.4 to 4.0 mm thick
+- Important for higher level cognition, high level thinking
+- Convolutions provide 3x surface area
+	- Also allow more access to cell bodies
+![[Pasted image 20240123094447.png]]
+![[Pasted image 20240123094252.png]]
