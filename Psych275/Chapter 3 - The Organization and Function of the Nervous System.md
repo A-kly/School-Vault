@@ -94,13 +94,25 @@
 
 ### Temporal Lobes
 - **Temporal lobes:** Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory*
-- **Inferior temporal cortex:** plays major role in visual identification of objects
-- **Wernicke's area:** Responsible for speech understanding, take audio and processes it into meaning
+- **Inferior temporal cortex:** plays major role in *visual identification of objects*
+	- Damage can lead to face blindless
+- **Wernicke's area:** Responsible for speech understanding, take audio and processes it into meaning, and vice versa. 
+	- Deals with auditory, written and reading language
 	- *Only on left hemisphere*
 -  also has **Association Areas**
 	- **Association areas:** Areas which carry out further processing beyond what the primary area does, often combining information from other senses
+### Occipital lobe
+- **Visual cortex:** process vision
+	- Most posterior part is the **primary visual cortex**
+	- everything else is **secondary visual cortex**
 ### The Rest of The Forebrain
-- Thalamus: receives information from all sensory systems except olfaction (smell)
-- Hypothalamus: plays major role in controlling emotion and motivated behaviors
-- Pineal gland: secretes melatonin, a hormone that induces sleep
-- Corpus callosum: band of fibers that carry information between brain hemispheres
+- **Thalamus:** receives information from all sensory systems except olfaction (smell)
+	- Receives info before cortex
+	- information switchboard
+- **Hypothalamus:** plays major role in controlling emotion and motivated behaviors
+	- produces hormones to regulate emotions
+- **Pineal gland:** secretes melatonin, a hormone that induces sleep
+	- sleeby
+- **Corpus callosum:** band of fibers that carry information between brain hemispheres
+
+
