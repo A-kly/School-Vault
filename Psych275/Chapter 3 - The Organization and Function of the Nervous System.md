@@ -25,11 +25,21 @@
 	- Extra big *Sulcus*, deeper
 - **Cortex:** outer surface of brain; literally, “bark”
 	- Mostly made up of the cell bodies of neurons
-	- ==more surface area because of m==
+	- ==more surface area because of more gyri and sulci = more cortex = more high level thinking==
+		- Smooth brain = less cortex
 ### The Cortex
 - 1.4 to 4.0 mm thick
 - Important for higher level cognition, high level thinking
 - Convolutions provide 3x surface area
+	- **Convolutions:** Gyri and Sulci
 	- Also allow more access to cell bodies
-![[Pasted image 20240123094447.png]]
 ![[Pasted image 20240123094252.png]]
+![[Pasted image 20240123094447.png]]
+
+#### Layers of the Cortex
+(look at previous image)
+- Layer I is inhibitory.
+- Layers II and III are associational.
+- Layer IV is sensory.
+- Layers V and VI have motor functions.
+# Brain Size and Intelligence
