@@ -62,7 +62,24 @@
 - **Medial:** toward the middle
 ![[Pasted image 20240123095425.png|600]]
 ## Brain Structures
-![[Pasted image 20240123095524.png]]![[Pasted image 20240123100144.png]]
+![[Pasted image 20240123100144.png]]
 - Motor cortex / precentral gyrus is found in the next image in the red circles 
 ![[Pasted image 20240123095548.png]]
 - We need to know **All** of these parts!
+	- Motor cortex
+	- Broca's area
+		- Speech formation
+	- Prefrontal Cortex (largest region of brain, 29% of cortex)
+		- Planning, organizing of behaviours
+		- decision making
+		- goals
+		- adjusting behaviour because of consequences
+	- Wernicke's area
+		- Speech meaning
+# Psychosurgery
+- **Psychosurgery:** use of surgical intervention to treat cognitive and emotional disorders
+	- **Lobotomy:** involves severing connections in the brain's prefrontal cortex
+		- REEEEALLY BADD
+		- 10s of 1000s of lobotomies in 
+	- **Corpus callosotomy:** involves cutting corpus callosum to limit spread of epileptic activity between hemispheres
+- 
