@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6c04e91612b41c2",
+        "id": "cd25d626e113d324",
         "type": "tabs",
         "children": [
           {
-            "id": "78ad0038ab388d50",
+            "id": "50c3e78673c4cd0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69225d3593bf49a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
-              }
+              "state": {}
             }
           },
           {
@@ -122,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +158,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "69225d3593bf49a2",
+  "active": "50c3e78673c4cd0e",
   "lastOpenFiles": [
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Psych275/Media/Pasted image 20240123103552.png",
     "Psych275/Media/Pasted image 20240123102550.png",
     "Psych275/Media/Pasted image 20240123101630.png",
     "Psych275/Media/Pasted image 20240123100145.png",
@@ -191,12 +171,8 @@
     "Psych275/Media/Pasted image 20240123095524.png",
     "Psych275/Media/Pasted image 20240123095425.png",
     "Cmput361/Lecture 01 - Foundations.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Media/Pasted image 20240123094447.png",
     "Psych275/Media/Pasted image 20240123094252.png",
-    "Psych275/Media/Pasted image 20240123093918.png",
-    "Psych275/Media/Pasted image 20240123093531.png",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput361/Lecture 02 - Tokenization.md",

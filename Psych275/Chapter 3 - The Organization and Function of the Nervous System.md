@@ -114,5 +114,7 @@
 - **Pineal gland:** secretes melatonin, a hormone that induces sleep
 	- sleeby
 - **Corpus callosum:** band of fibers that carry information between brain hemispheres
+![[Pasted image 20240123103552.png|600]]
+
 
 
