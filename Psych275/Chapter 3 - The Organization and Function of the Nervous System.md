@@ -35,11 +35,26 @@
 	- Also allow more access to cell bodies
 ![[Pasted image 20240123094252.png]]
 ![[Pasted image 20240123094447.png]]
-
+- In image b) each column can be 80-100 cells wide.
+- Each column can be thought of controlling one thing, grouped by function in a certain area
 #### Layers of the Cortex
-(look at previous image)
+(look at image a) above)
 - Layer I is inhibitory.
 - Layers II and III are associational.
 - Layer IV is sensory.
 - Layers V and VI have motor functions.
+
+- Sometimes layers just like aren't there if we don't need them
 # Brain Size and Intelligence
+- Brain size is more related to body size than intelligence
+- **Complexity determines intellectual power**
+# Directional Terms
+- **Dorsal:** toward the back
+- **Ventral:** toward the stomach
+- **Anterior:** toward the front
+- **Posterior:** toward the rear
+- **Superior:** above another structure
+- **Inferior:** below another structure
+- **Lateral:** toward the side
+- **Medial:** toward the middle
+![[Pasted image 20240123095425.png|600]]
