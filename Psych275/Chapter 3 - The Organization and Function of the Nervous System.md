@@ -1,6 +1,6 @@
 # Central Nervous System
 - **Central nervous system (CNS):** includes the brain and spinal cord
-## Important Terminology
+## Important Terminology (on exam)
 - **NOTE:** Nerve =/= Neuron
 	- **Neuron:** single cell
 	- **Nerve:** bundle of axons running together
@@ -48,7 +48,10 @@
 # Brain Size and Intelligence
 - Brain size is more related to body size than intelligence
 - **Complexity determines intellectual power**
-# Directional Terms
+
+# Brain structure
+## Directional Terms (on exam)
+(All of these assume we are looking straight up, OR we are on our hands and knees)
 - **Dorsal:** toward the back
 - **Ventral:** toward the stomach
 - **Anterior:** toward the front
@@ -58,3 +61,7 @@
 - **Lateral:** toward the side
 - **Medial:** toward the middle
 ![[Pasted image 20240123095425.png|600]]
+## Brain Structures
+![[Pasted image 20240123095524.png]]
+- Frontal lobe 
+![[Pasted image 20240123095548.png]]
