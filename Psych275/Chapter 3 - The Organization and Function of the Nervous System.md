@@ -50,39 +50,47 @@
 - **Complexity determines intellectual power**
 
 # Brain structure
-## Directional Terms (on exam)
-(All of these assume we are looking straight up, OR we are on our hands and knees)
-- **Dorsal:** toward the back
-- **Ventral:** toward the stomach
-- **Anterior:** toward the front
-- **Posterior:** toward the rear
-- **Superior:** above another structure
-- **Inferior:** below another structure
-- **Lateral:** toward the side
-- **Medial:** toward the middle
+-  Directional Terms (on exam)
+	- (All of these assume we are looking straight up, OR we are on our hands and knees)
+	- **Dorsal:** toward the back
+	- **Ventral:** toward the stomach
+	- **Anterior:** toward the front
+	- **Posterior:** toward the rear
+	- **Superior:** above another structure
+	- **Inferior:** below another structure
+	- **Lateral:** toward the side
+	- **Medial:** toward the middle
 ![[Pasted image 20240123095425.png|600]]
 ## Brain Structures
-![[Pasted image 20240123100144.png]]
+![[Pasted image 20240123100144.png|300]]
 - Motor cortex / precentral gyrus is found in the next image in the red circles 
-![[Pasted image 20240123095548.png]]
+![[Pasted image 20240123095548.png|600]]
 - We need to know **All** of these parts!
-	- Frontal lobe
-		- Precentral gyrus (Motor cortex)
-		- Broca's area
-			- Speech formation
-		- Prefrontal Cortex (largest region of brain, 29% of cortex)
-			- Planning, organizing of behaviours
-			- decision making
-			- goals
-			- adjusting behaviour because of consequences
-	- Parietal lobe
-		- Postcentral gyrus (somatosensory cortex)
-			- Receives all sensory info to be processed
-			- Organized in the same way that the motor cortex
-		- 
-
-### Psychosurgery
+### Frontal lobe
+- Precentral gyrus (Motor cortex)
+- Broca's area
+	- Speech formation
+- Prefrontal Cortex (largest region of brain, 29% of cortex)
+	- Planning, organizing of behaviours
+	- decision making
+	- goals
+	- adjusting behaviour because of consequences
+#### Psychosurgery
 - **Psychosurgery:** use of surgical intervention to treat cognitive and emotional disorders
 	- **Lobotomy:** involves severing connections in the brain's prefrontal cortex
 		- REALLY BAD
 	- **Corpus callosotomy:** involves cutting corpus callosum to limit spread of epileptic activity between hemispheres
+
+### Parietal lobe
+- Postcentral gyrus (somatosensory cortex)
+	- Receives all sensory info to be processed
+	- Organized in the same way that the motor cortex
+-  Association Areas
+	- **Association areas:** Areas which carry out further processing beyond what the primary area does, often combining information from other senses
+#### Neglect
+- **Neglect:** A disorder in which the person *ignores objects, people, and activity on the side opposite the damage*
+	- Neglect occurs most often when the *posterior parietal cortex is damaged, particularly if the damage occurs in the right parietal lobe*
+
+### Temporal Lobes
+- **Temporal lobes:** Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory*
+- **Inferior temporal cortex:** plays major role in visual identification of objects
