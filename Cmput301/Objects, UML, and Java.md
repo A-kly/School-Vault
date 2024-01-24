@@ -441,9 +441,22 @@ base.op(); // calls op() in Derived2
 ```
 - **Downcast**:
 	- “narrowing” cast *must be explicit*
+> [!danger]
 ```java
 Base base = new Derived2(); // implicit upcast
 Derived2 derived = (Derived2)base; // downcast
 derived.op(); // calls op() in Derived2
-// we force base to be identified as a 
+// we force base to be identified as a Derived2 class
+// dot operator now acts on ".op" in Derived2 class
 ```
+# Object Oriented Analysis and Design
+## UML and OOA&D
+- Analysis:
+	- requirements specification activity
+		- create UML use cases and class diagrams
+- Design:
+	- architectural design activity
+		- refine UML class diagrams
+	- detailed design activity
+		- refine UML class diagrams
+		- create UML sequence and state diagrams
