@@ -429,3 +429,21 @@ base.op(); // calls op() in Derived2
 	- receiving object does the “right thing”, even if the calling code does not show its actual type
 - **The method call we use goes to the most recently overwritten method definition, if it has not been overwritten, go to base class.**
 - This is ok and good to use
+
+
+- **Upcast**:
+	- “widening” cast is *safe due to the principle of substitutability*
+```java
+Base base = new Derived2(); // implicit upcast
+base.op(); // calls op() in Derived2
+// dot operator ask base, "hey, what is your actual class?"
+// dot operator acts on ".op" in Derived2 class
+```
+- **Downcast**:
+	- “narrowing” cast *must be explicit*
+```java
+Base base = new Derived2(); // implicit upcast
+Derived2 derived = (Derived2)base; // downcast
+derived.op(); // calls op() in Derived2
+// we force base to be identified as a 
+```
