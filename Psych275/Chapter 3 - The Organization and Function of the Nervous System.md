@@ -214,10 +214,23 @@
 	- Radial glial cells guide migrating neurons.
 	- *Cells migrate through ventricles*
 - **Circuit formation:** the axons of developing neurons grow toward their target cells and form functional connections
+	- *Growth cone* helps axon "sniff out" where to go correctly.
 - **Circuit pruning:** the elimination of excess neurons and synapses
 	- **Plasticity:** ability of synapses to be modified
+		- Happens throughout entire life
 	- **Reorganization:** shift in connection that changes function of an area of the brain
+		- eg, After amputation, brain takes part of brain that used to control amputated thing and reuses it for something else!
 ## Damage and Recovery in the CNS
 - **Stroke:** condition caused by loss of blood flow to the brain
-	- Ischemic or hemorrhagic
-- **Traumatic brain injury (TBI): condition caused by external mechanical force, sudden acceleration or deceleration, or penetration
+	- Ischemic
+		- Caused by blockage of an artery by a blood clothemorrhagic
+- **Traumatic brain injury (TBI):** condition caused by external mechanical force, sudden acceleration or deceleration, or penetration
+## Limitations on Recovery
+- **Regeneration:** growth of severed axons
+- **Neurogenesis:** birth of new neurons
+## Compensation and Reorganization
+- **Compensation:** uninjured tissue takes over function of lost neurons
+- **Stem cells:** undifferentiated cells that can develop into specialized cells, such as neurons, muscle, or blood cells
+# In Perspective
+- While we know a great deal about the brain and its functions, we haven’t scratched the surface
+	- A solid foundation now exists
