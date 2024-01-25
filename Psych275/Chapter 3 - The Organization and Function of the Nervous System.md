@@ -198,3 +198,8 @@
 	- ![[Pasted image 20240125101837.png|400]]
 		- Not required to be memorized, good to know tho
 	- **Spinal nerves:** Nerves which connect to the sides of the spinal cord at each vertebra
+- **Somatic nervous system** – voluntary muscles and sensory receptors
+- **Autonomic nervous system** (ANS) – controls automatic, involuntary functions
+	- **Sympathetic** – Go (fight-or-flight)
+	- **Parasympathetic** – Stop
+![[Pasted image 20240125102235.png]]
