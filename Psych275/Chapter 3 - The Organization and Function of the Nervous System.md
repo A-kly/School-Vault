@@ -166,3 +166,10 @@
 - **Reflex:** simple, automatic movement in response to sensory stimulus
 ![[Pasted image 20240125095333.png]]
 - Sensory and motor info cross to other side inside of the spinal cord
+- Interneuron activates reflex based on the strength of the signal
+# Protecting the Central Nervous System
+- **Meninges:** protective three-layered membrane
+	- Surrounds entire CNS
+	- Outer layer: Dura
+		- Thick, tough, (tougher than skin)
+	- Middle layer: Arac
