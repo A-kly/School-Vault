@@ -451,12 +451,29 @@ derived.op(); // calls op() in Derived2
 ```
 # Object Oriented Analysis and Design
 ## UML and OOA&D
-- Analysis:
+- Analysis: (look at what we have to model in the world)
 	- requirements specification activity
 		- create UML use cases and class diagrams
-- Design:
-	- architectural design activity
+- Design: (make code to model it)
+	- *architectural* design activity
 		- refine UML class diagrams
 	- detailed design activity
 		- refine UML class diagrams
 		- create UML sequence and state diagrams
+## Object-Oriented Analysis
+- Steps:
+	- discover objects from problem domain
+		- nouns may lead to classes and attributes
+		- verbs may lead to relationships and methods
+	- use CRC cards to note the analysis
+	- evaluate
+### Problem Description
+> [!problem]
+> The library has books and magazines. Books may be borrowed by any patron for four weeks while magazines may only be borrowed for two days. Up to 6 items at a time may be borrowed. The system tracks when books and magazines are borrowed …
+
+>[!Nouns]
+>The **library** has **books** and **magazines**. Books may be borrowed by any **patron** for four **weeks** while magazines may only be borrowed for two **days**. Up to 6 **items** at a time may be borrowed. The **system** tracks when books and magazines are borrowed …
+
+> [!Verbs]
+> The library **has** books and magazines. Books may be **borrowed** by any patron for four weeks while magazines may only be borrowed for two days. Up to 6 items at a time may be borrowed. The system **tracks** when books and magazines are borrowed …
+
