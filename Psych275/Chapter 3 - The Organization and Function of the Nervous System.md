@@ -145,7 +145,15 @@
 		- *Lower part of hindbrain, First 1-2cm of spinal cord*
 		- Lots of nuclei
 		- Essential for controlling life processes, breathing, heartbeat
-	- Cerebellum
+	- Cerebellum (contains 70% of the brain's neurons, most of them "we have no clue what the fuck they do")
 		- Mini brain, small role in every function in the entire brain
-		- Modifying/refining movement movement
+		- Modifying/refining movement and balance
 ==The Brain Stem: Midbrain+hindbrain== (ON EXAM)
+# The Spinal Cord
+- **Spinal cord:** finger-sized cable of neurons that carries commands from brain to muscles and organs, and sensory information into the brain
+	- **Dorsal root:** A region of each spinal nerve where sensory neurons enter the spinal cord
+	- **Ventral root:** The region in which axons of motor neurons pass out of the spinal cord
+![[Pasted image 20240125095306.png]]
+## Reflexes
+- **Reflex:** simple, automatic movement in response to sensory stimulus
+![[Pasted image 20240125095333.png]]
