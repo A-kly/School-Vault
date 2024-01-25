@@ -115,7 +115,11 @@
 	- sleeby
 - **Corpus callosum:** band of fibers that carry information between brain hemispheres
 ![[Pasted image 20240123103552.png|600]]
-
-
-
-	
+![[Pasted image 20240125093432.png|500]]
+#### The Ventricles
+![[Pasted image 20240125093527.png]]
+- **Ventricles:** cavities in brain which develop from the hollow interior of the nervous system
+- **Cerebrospinal fluid:** carries material from blood vessels to the CNS and transports waste materials in the other direction
+## Midbrain Structures
+- Midbrain also includes:
+	- Substantia nigra
