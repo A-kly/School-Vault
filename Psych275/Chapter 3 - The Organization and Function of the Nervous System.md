@@ -154,6 +154,15 @@
 	- **Dorsal root:** A region of each spinal nerve where sensory neurons enter the spinal cord
 	- **Ventral root:** The region in which axons of motor neurons pass out of the spinal cord
 ![[Pasted image 20240125095306.png]]
+- Thoracic:
+	- Arms, internal organs
+- Lumbar
+	- Intestines, legs and feet
+- Sacral
+	- Assssss
+- Coccygeal
+	- Rectum
 ## Reflexes
 - **Reflex:** simple, automatic movement in response to sensory stimulus
 ![[Pasted image 20240125095333.png]]
+- Sensory and motor info cross to other side inside of the spinal cord
