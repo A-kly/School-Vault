@@ -167,7 +167,7 @@
 ![[Pasted image 20240125095333.png]]
 - Sensory and motor info cross to other side inside of the spinal cord
 - Interneuron activates reflex based on the strength of the signal
-# Protecting the Central Nervous System
+## Protecting the Central Nervous System
 - ==Blood kills neurons, we have to separate the two==
 - **Meninges:** protective three-layered membrane, protect from tauma
 	- Surrounds entire CNS
@@ -183,5 +183,18 @@
 		- Keeps brain as one solid unit
 - **Blood-brain barrier:** limits passage between bloodstream and the brain, provides constant protection from toxic substances and from neurotransmitters circulating in the blood
 	- Blood vessel, surrounded by *Astrocytes*, creating a solid wall around blood vessels.
-	- Blood vessel sends nutrients to astrocytes which send it to the brain
-	- 
+	- Blood vessel sends nutrients to *astrocytes* which send it to the brain
+	- *Astrocytes* send waste from brain to blood vessels
+	- Things that can't pass:
+		- drugs
+		- cold viruses
+		- anything water soluble
+		- neurotransmitters
+# The Peripheral Nervous System
+- **Afferent** = nerves going toward the CNS
+- **Efferent** = nerves going away from the CNS
+- **Peripheral nervous system** – nerves that lie outside the central nervous system
+	- **Cranial nerves:** Nerves which enter and leave the underside of the brain
+	- ![[Pasted image 20240125101837.png|400]]
+		- Not required to be memorized, good to know tho
+	- **Spinal nerves:** Nerves which connect to the sides of the spinal cord at each vertebra
