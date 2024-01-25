@@ -221,13 +221,22 @@
 	- **Reorganization:** shift in connection that changes function of an area of the brain
 		- eg, After amputation, brain takes part of brain that used to control amputated thing and reuses it for something else!
 ## Damage and Recovery in the CNS
-- **Stroke:** condition caused by loss of blood flow to the brain
+- **Stroke:** condition caused by loss of blood flow to the brain (neurons die)
 	- Ischemic
-		- Caused by blockage of an artery by a blood clothemorrhagic
+		- Caused by blockage of an artery by a blood clot, causing suffocation of brain
+	- hemorrhagic
+		- When an artery in the brain ruptures, and the blood kills brain cells
 - **Traumatic brain injury (TBI):** condition caused by external mechanical force, sudden acceleration or deceleration, or penetration
 ## Limitations on Recovery
 - **Regeneration:** growth of severed axons
+	- Axons can grow back sometimes
+	- Happens in PNS as long as there is the skeleton of the old myelin sheath
+	- not the best in PNS
+	- better in CNS but only by a bit
 - **Neurogenesis:** birth of new neurons
+	- As you age, less neurogenesis occurs
+	- happens a lot in hippocampus
+	- not much in other parts of the brain
 ## Compensation and Reorganization
 - **Compensation:** uninjured tissue takes over function of lost neurons
 - **Stem cells:** undifferentiated cells that can develop into specialized cells, such as neurons, muscle, or blood cells
