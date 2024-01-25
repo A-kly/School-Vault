@@ -135,10 +135,17 @@
 ![[Pasted image 20240125093933.png|300]]
 - Hindbrain:
 	- Pons
-		- 
+		- Regulates sleep and arousal
+		- Helps reticular formation
 	- Reticular formation
-		- *In between Pons*
+		- *In between Pons, also extends into midbrain*
+		- Regulates sleep and arousal
+		- Plays a role in attention
 	- Medulla
-		- 
+		- *Lower part of hindbrain, First 1-2cm of spinal cord*
+		- Lots of nuclei
+		- Essential for controlling life processes, breathing, heartbeat
 	- Cerebellum
-		- 
+		- Mini brain, small role in every function in the entire brain
+		- Modifying/refining movement movement
+==The Brain Stem: Midbrain+hindbrain== (ON EXAM)
