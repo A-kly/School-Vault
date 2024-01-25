@@ -168,8 +168,20 @@
 - Sensory and motor info cross to other side inside of the spinal cord
 - Interneuron activates reflex based on the strength of the signal
 # Protecting the Central Nervous System
-- **Meninges:** protective three-layered membrane
+- ==Blood kills neurons, we have to separate the two==
+- **Meninges:** protective three-layered membrane, protect from tauma
 	- Surrounds entire CNS
-	- Outer layer: Dura
+	- **Outer layer: Dura**
 		- Thick, tough, (tougher than skin)
-	- Middle layer: Arac
+	- **Middle layer: Arachnoid Layer**
+		- Looks like a spider web
+		- Separates blood and Cerebrospinal fluid
+		- lots of little tubes
+	- **Inner layer: Pia Mater Layer**
+		- Super thin
+		- Helps protect the brain from trauma
+		- Keeps brain as one solid unit
+- **Blood-brain barrier:** limits passage between bloodstream and the brain, provides constant protection from toxic substances and from neurotransmitters circulating in the blood
+	- Blood vessel, surrounded by *Astrocytes*, creating a solid wall around blood vessels.
+	- Blood vessel sends nutrients to astrocytes which send it to the brain
+	- 
