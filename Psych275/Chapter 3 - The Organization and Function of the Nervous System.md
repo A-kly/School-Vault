@@ -121,5 +121,24 @@
 - **Ventricles:** cavities in brain which develop from the hollow interior of the nervous system
 - **Cerebrospinal fluid:** carries material from blood vessels to the CNS and transports waste materials in the other direction
 ## Midbrain Structures
+![[Pasted image 20240125093933.png|300]]
+- **Midbrain:** structures have secondary roles in vision, hearing, and movement
+- **Superior colliculi**
+	- help guide eye movements and fixation of gaze
+- **Inferior colliculi**
+	- help locate the direction of sounds
 - Midbrain also includes:
-	- Substantia nigra
+	- **Substantia nigra**
+		- *Blue area, not bumps*
+		- Involved in movement
+## Hindbrain Structures
+![[Pasted image 20240125093933.png|300]]
+- Hindbrain:
+	- Pons
+		- 
+	- Reticular formation
+		- *In between Pons*
+	- Medulla
+		- 
+	- Cerebellum
+		- 
