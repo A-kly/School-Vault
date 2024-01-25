@@ -196,10 +196,13 @@
 - **Peripheral nervous system** – nerves that lie outside the central nervous system
 	- **Cranial nerves:** Nerves which enter and leave the underside of the brain
 	- ![[Pasted image 20240125101837.png|400]]
-		- Not required to be memorized, good to know tho
+		- Names are important, functions are not necessarily
 	- **Spinal nerves:** Nerves which connect to the sides of the spinal cord at each vertebra
 - **Somatic nervous system** – voluntary muscles and sensory receptors
 - **Autonomic nervous system** (ANS) – controls automatic, involuntary functions
 	- **Sympathetic** – Go (fight-or-flight)
 	- **Parasympathetic** – Stop
 ![[Pasted image 20240125102235.png]]
+# Development and Change in the Nervous System
+## The Stages of Development
+![[Pasted image 20240125102936.png]]
