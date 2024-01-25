@@ -206,3 +206,18 @@
 # Development and Change in the Nervous System
 ## The Stages of Development
 ![[Pasted image 20240125102936.png]]
+- This is a Neural Tube (NOT A DICK)
+- Hole in middle of tube becomes ventricles
+
+- **Proliferation:** the cells that will become neurons divide and multiply rapidly
+- **Migration:** newly formed neurons move from the ventricular zone to their final location 
+	- Radial glial cells guide migrating neurons.
+	- *Cells migrate through ventricles*
+- **Circuit formation:** the axons of developing neurons grow toward their target cells and form functional connections
+- **Circuit pruning:** the elimination of excess neurons and synapses
+	- **Plasticity:** ability of synapses to be modified
+	- **Reorganization:** shift in connection that changes function of an area of the brain
+## Damage and Recovery in the CNS
+- **Stroke:** condition caused by loss of blood flow to the brain
+	- Ischemic or hemorrhagic
+- **Traumatic brain injury (TBI): condition caused by external mechanical force, sudden acceleration or deceleration, or penetration
