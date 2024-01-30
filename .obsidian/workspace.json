@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput361/Lecture 03 -.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4f8d76843d30809",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,11 +181,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "50c3e78673c4cd0e",
+  "active": "b4f8d76843d30809",
   "lastOpenFiles": [
+    "Cmput361/Media/Pasted image 20240130125405.png",
+    "Cmput361/Lecture 03 -.md",
+    "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Media/Pasted image 20240125102936.png",
     "Psych275/Media/Pasted image 20240125102235.png",
     "Psych275/Media/Pasted image 20240125101837.png",
@@ -183,7 +200,6 @@
     "Psych275/Media/Pasted image 20240125093432.png",
     "Cmput301/Objects, UML, and Java.md",
     "Markdown Cheat Sheet.md",
-    "Cmput361/Lecture 03 -.md",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Psych275/Media/Pasted image 20240123103552.png",
     "Psych275/Media/Pasted image 20240123102550.png",
@@ -212,7 +228,6 @@
     "CMPUT 379/DeadLock.md",
     "STAT 151/Data and Variables.md",
     "STAT 151/Basics of probability.md",
-    "CMPUT 379/MIDTERM THINGS TO STUDY.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
     "Untitled.canvas",
     "The game/Map.canvas"
