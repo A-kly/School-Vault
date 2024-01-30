@@ -17,3 +17,5 @@ Cons:
 # Not all terms are equally important
 ## Rare terms/phrases are more important
 ![[Pasted image 20240130130402.png]]
+# Ranked Retrieval
+![[Pasted image 20240130130839.png]]
