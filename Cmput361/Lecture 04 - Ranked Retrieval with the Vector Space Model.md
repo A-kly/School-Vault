@@ -19,3 +19,5 @@ Cons:
 ![[Pasted image 20240130130402.png]]
 # Ranked Retrieval
 ![[Pasted image 20240130130839.png]]
+## Desirable properties of a good scoring function
+![[Pasted image 20240130131323.png]]
