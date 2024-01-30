@@ -13,3 +13,4 @@ Cons:
 
 ## The feast or famine nature of Boolean queries
 ![[Pasted image 20240130125405.png]]
+![[Pasted image 20240130130014.png]]
