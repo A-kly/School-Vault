@@ -219,6 +219,7 @@
 	- **Plasticity:** ability of synapses to be modified
 		- Happens throughout entire life
 	- **Reorganization:** shift in connection that changes function of an area of the brain
+		- *damaged brain, functional limb*
 		- eg, After amputation, brain takes part of brain that used to control amputated thing and reuses it for something else!
 ## Damage and Recovery in the CNS
 - **Stroke:** condition caused by loss of blood flow to the brain (neurons die)
@@ -239,7 +240,12 @@
 	- not much in other parts of the brain
 ## Compensation and Reorganization
 - **Compensation:** uninjured tissue takes over function of lost neurons
+	- We lose brain tissue that controls something, areas around this tissue take over to compensate
+	- *damaged brain, functional limb*
 - **Stem cells:** undifferentiated cells that can develop into specialized cells, such as neurons, muscle, or blood cells
+	- Throwing stem cells at a problem doesn't work really
+	- naturally produced stem cells are fine tho
+	- precursor to neurogenesis
 # In Perspective
 - While we know a great deal about the brain and its functions, we haven’t scratched the surface
 	- A solid foundation now exists
