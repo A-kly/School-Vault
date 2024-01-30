@@ -25,3 +25,10 @@ Cons:
 ![[Pasted image 20240130132304.png]]
 ### How well does the Jaccard coefficient meet our criteria?
 ![[Pasted image 20240130132323.png]]
+# Documents as vectors and scoring with dot products
+## RECAP: The term-document incidence matrix
+![[Pasted image 20240130132609.png]]
+![[Pasted image 20240130132741.png]]
+## The bag-of-words model
+![[Pasted image 20240130132751.png]]
+![[Pasted image 20240130132822.png]]
