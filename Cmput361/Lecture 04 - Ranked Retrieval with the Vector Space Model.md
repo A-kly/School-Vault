@@ -14,3 +14,6 @@ Cons:
 ## The feast or famine nature of Boolean queries
 ![[Pasted image 20240130125405.png]]
 ![[Pasted image 20240130130014.png]]
+# Not all terms are equally important
+## Rare terms/phrases are more important
+![[Pasted image 20240130130402.png]]
