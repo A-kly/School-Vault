@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +170,7 @@
   "active": "50c3e78673c4cd0e",
   "lastOpenFiles": [
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Media/Pasted image 20240125102936.png",
     "Psych275/Media/Pasted image 20240125102235.png",
@@ -184,7 +185,6 @@
     "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 03 -.md",
     "Cmput361/Lecture 02 - Tokenization.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Media/Pasted image 20240123103552.png",
     "Psych275/Media/Pasted image 20240123102550.png",
     "Cmput361/Lecture 01 - Foundations.md",
