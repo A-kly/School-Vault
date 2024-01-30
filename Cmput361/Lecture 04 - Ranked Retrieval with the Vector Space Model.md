@@ -21,3 +21,7 @@ Cons:
 ![[Pasted image 20240130130839.png]]
 ## Desirable properties of a good scoring function
 ![[Pasted image 20240130131323.png]]
+![[Pasted image 20240130132256.png]]
+![[Pasted image 20240130132304.png]]
+### How well does the Jaccard coefficient meet our criteria?
+![[Pasted image 20240130132323.png]]
