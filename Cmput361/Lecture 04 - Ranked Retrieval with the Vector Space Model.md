@@ -34,3 +34,4 @@ Cons:
 ![[Pasted image 20240130132822.png]]
 ![[Pasted image 20240130132939.png]]
 # The tf-idf family of weights
+==Having a hard time opaying attention today :(==
