@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50c3e78673c4cd0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cmput361/Lecture 03 -.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b4f8d76843d30809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,22 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5624dfc63450895e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Flashcards.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,11 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5624dfc63450895e",
+  "active": "55207eb1832d726e",
   "lastOpenFiles": [
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
-    "Psych275/Flashcards.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Flashcards.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
@@ -229,7 +203,6 @@
     "Cmput361/Media/Pasted image 20240130132304.png",
     "Cmput361/Media/Pasted image 20240130132256.png",
     "Cmput361/Media/Pasted image 20240130131323.png",
-    "Cmput361/Lecture 03 -.md",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Lecture 02 - Tokenization",
