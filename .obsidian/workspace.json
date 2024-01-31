@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3c41c72cadf7f2c3",
+        "type": "tabs",
+        "children": [
           {
             "id": "55207eb1832d726e",
             "type": "leaf",
@@ -31,14 +37,6 @@
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "716a9fc58107c9aa",
-            "type": "leaf",
-            "state": {
-              "type": "aosr-review-view",
-              "state": {}
             }
           }
         ]
@@ -78,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AOSR/toc0v/s/24vp",
+                "query": "tag:#/Q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
+                "file": "Psych275/Flashcards.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,10 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b4f8d76843d30809",
+  "active": "55207eb1832d726e",
   "lastOpenFiles": [
-    "Psych275/Flashcards.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Flashcards.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
