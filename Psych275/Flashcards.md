@@ -68,10 +68,10 @@ outer surface of brain; literally, “bark”
 - more surface area because of more gyri and sulci = more cortex = more high level thinking
 #/Q
 
-#Q 
-Precentral gyrus :: (Motor cortex), Frontal lobe
+#Q  #AOSR/n2c6i
+Precentral gyrus :: (Motor cortex), Frontal lobe #AOSR/n2c6i/s/24j8
 ***
-Broca's area :: Speech formation, *Only on left hemisphere of frontal lobe*
+Broca's area :: Speech formation, *Only on left hemisphere of frontal lobe* #AOSR/n2c6i/s/4jr2
 ***
 Prefrontal Cortex:: Planning, organizing of behaviours, decision making, goals, adjusting behaviour because of consequences, *frontal lobe, largest region of brain*
 ***
