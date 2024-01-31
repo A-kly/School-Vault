@@ -67,11 +67,11 @@
 ![[Pasted image 20240123102550.png]]
 - We need to know **All** of these parts!
 ### Frontal lobe
-- Precentral gyrus (Motor cortex)
-- Broca's area
+- **Precentral gyrus** (Motor cortex)
+- **Broca's area**
 	- Speech formation
 	- *Only on left hemisphere*
-- Prefrontal Cortex (largest region of brain, 29% of cortex)
+- **Prefrontal Cortex** (largest region of brain, 29% of cortex)
 	- Planning, organizing of behaviours
 	- decision making
 	- goals
@@ -83,7 +83,7 @@
 	- **Corpus callosotomy:** involves cutting corpus callosum to limit spread of epileptic activity between hemispheres
 
 ### Parietal lobe
-- Postcentral gyrus (somatosensory cortex)
+- **Postcentral gyrus** (somatosensory cortex)
 	- Receives all sensory info to be processed
 	- Organized in the same way that the motor cortex
 -  has **Association Areas**
