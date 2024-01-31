@@ -33,24 +33,36 @@ Lateral:: toward the side #AOSR/qqs08/s/4gbo
 ***
 Medial:: toward the middle #AOSR/qqs08/s/6prq
 ***
-Oligodendrocytes:: Glial cells which produce myelin in the brain and spinal cord *(CNS)*
+Oligodendrocytes:: Glial cells which produce myelin in the brain and spinal cord *(CNS)* #AOSR/qqs08/s/576p
 ***
-Schwann cells:: Glial cells which produce myelin in the rest of the nervous system *(PNS)*
+Schwann cells:: Glial cells which produce myelin in the rest of the nervous system *(PNS)* #AOSR/qqs08/s/2j8k
 ***
-Radial glia:: during fetal development they form “scaffolds” that guide new neurons to their destinations
+Radial glia:: during fetal development they form “scaffolds” that guide new neurons to their destinations #AOSR/qqs08/s/6h2b
 ***
-Microglia:: provide energy to neurons and respond to injury and disease by removing cellular debris
+Microglia:: provide energy to neurons and respond to injury and disease by removing cellular debris #AOSR/qqs08/s/5vps
 ***
-Astrocytes:: trigger the formation of seven times as many connections in neurons
+Astrocytes:: trigger the formation of seven times as many connections in neurons #AOSR/qqs08/s/3lt8
 ***
-Dale’s principle:: *erroneous belief* that a neuron was capable of releasing only a single transmitter
+Dale’s principle:: *erroneous belief* that a neuron was capable of releasing only a single transmitter #AOSR/qqs08/s/25s8
 ***
-Nucleus:: group of cell bodies in *CNS*
+Nucleus:: group of cell bodies in *CNS* #AOSR/qqs08/s/9b68
 ***
-Ganglion:: group of cell bodies in *PNS*
+Ganglion:: group of cell bodies in *PNS* #AOSR/qqs08/s/40qo
 ***
-Nerve:: bundle of axons running together in *PNS*
+Nerve:: bundle of axons running together in *PNS* #AOSR/qqs08/s/z288
 ***
-Tract:: a bundle of axons running together in the *CNS*
+Tract:: a bundle of axons running together in the *CNS* #AOSR/qqs08/s/5ii7
 ***
 Longitudinal fissure:: division running length of the brain separating cerebral hemispheres
+***
+Gyrus:: each ridge in surface of the brain #AOSR/qqs08/s/2eeh
+***
+Sulcus:: groove or space between two gyri #AOSR/qqs08/s/3msi
+***
+Fissure:: large groove or space between two gyri
+
+#Q
+Cortex:: outer surface of brain; literally, “bark” #AOSR/qqs08/s/72so 
+- more surface area because of more gyri and sulci = more cortex = more high level thinking
+- #/Q
+***
