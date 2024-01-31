@@ -5,7 +5,7 @@
 			"all": [{
 				"fact": "card",
 				"operator": "regexMatch",
-				"value": "Psych275",
+				"value": "Cmput301",
 				"path": "$.path"
 			}]
 		},
@@ -73,58 +73,58 @@ Precentral gyrus :: (Motor cortex), Frontal lobe #AOSR/n2c6i/s/24j8
 ***
 Broca's area :: Speech formation, *Only on left hemisphere of frontal lobe* #AOSR/n2c6i/s/4jr2
 ***
-Prefrontal Cortex:: Planning, organizing of behaviours, decision making, goals, adjusting behaviour because of consequences, *frontal lobe, largest region of brain*
+Prefrontal Cortex:: Planning, organizing of behaviours, decision making, goals, adjusting behaviour because of consequences, *frontal lobe, largest region of brain* #AOSR/n2c6i/s/4pev
 ***
-Postcentral gyrus:: (somatosensory cortex), Parietal lobe
+Postcentral gyrus:: (somatosensory cortex), Parietal lobe #AOSR/n2c6i/s/7aro
 ***
 Association areas exist in the =Parietal lobe= and the =Temporal Lobes= #multiclause
 ***
-Temporal lobes:: Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory*
+Temporal lobes:: Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory* #AOSR/n2c6i/s/7m39
 ***
-Inferior temporal cortex:: plays major role in visual identification of objects, *In temporal lobe*
+Inferior temporal cortex:: plays major role in visual identification of objects, *In temporal lobe* #AOSR/n2c6i/s/2mae
 *** 
-Wernicke's area:: Responsible for speech understanding, take audio and processes it into meaning, and vice versa. *Temporal lobe*
+Wernicke's area:: Responsible for speech understanding, take audio and processes it into meaning, and vice versa. *Temporal lobe* #AOSR/n2c6i/s/5obf
 ***
-Visual cortex:: process vision, *occipital lobe* Most posterior part is the *primary visual cortex* everything else is *secondary visual cortex*
+Visual cortex:: process vision, *occipital lobe* Most posterior part is the *primary visual cortex* everything else is *secondary visual cortex* #AOSR/n2c6i/s/33ev
 ***
-Thalamus:: receives information from all sensory systems except olfaction (smell), *forebrain*
+Thalamus:: receives information from all sensory systems except olfaction (smell), *forebrain* #AOSR/n2c6i/s/3t1m
 ***
 Hypothalamus: plays major role in controlling emotion and motivated behaviors, *forebrain*
 ***
-Pineal gland:: secretes melatonin, a hormone that induces sleep, *forebrain*
+Pineal gland:: secretes melatonin, a hormone that induces sleep, *forebrain* #AOSR/n2c6i/s/1ana
 ***
-Corpus callosum::band of fibers that carry information between brain hemispheres, *forebrain*
+Corpus callosum::band of fibers that carry information between brain hemispheres, *forebrain* #AOSR/n2c6i/s/z241
 ***
-Ventricles:: cavities in brain which develop from the hollow interior of the nervous system
+Ventricles:: cavities in brain which develop from the hollow interior of the nervous system #AOSR/n2c6i/s/54m1
 ***
-Cerebrospinal fluid:: carries material from blood vessels to the CNS and transports waste materials in the other direction, *Inside ventricles and spinal cord*
+Cerebrospinal fluid:: carries material from blood vessels to the CNS and transports waste materials in the other direction, *Inside ventricles and spinal cord* #AOSR/n2c6i/s/4olu
 ***
-Midbrain role:: structures have secondary roles in vision, hearing, and movement
+Midbrain role:: structures have secondary roles in vision, hearing, and movement #AOSR/n2c6i/s/75k8
 ***
-Superior colliculi::help guide eye movements and fixation of gaze, *midbrain*
+Superior colliculi::help guide eye movements and fixation of gaze, *midbrain* #AOSR/n2c6i/s/uu2r
 ***
-Inferior colliculi:: help locate the direction of sounds, *midbrain*
+Inferior colliculi:: help locate the direction of sounds, *midbrain* #AOSR/n2c6i/s/20ot
 ***
-Substantia nigra:: involved in movement, *midbrain*
+Substantia nigra:: involved in movement, *midbrain* #AOSR/n2c6i/s/4cit
 ***
-Pons::Regulates sleep and arousal, Helps reticular formation, *hindbrain*
+Pons::Regulates sleep and arousal, Helps reticular formation, *hindbrain* #AOSR/n2c6i/s/6cje
 ***
-Reticular formation:: Regulates sleep and arousal, Plays a role in attention, *hindbrain, In between Pons, also extends into midbrain*
+Reticular formation:: Regulates sleep and arousal, Plays a role in attention, *hindbrain, In between Pons, also extends into midbrain* #AOSR/n2c6i/s/1idm
 ***
-Medulla::Lots of nuclei, Essential for controlling life processes, breathing, heartbeat, *Lower part of hindbrain, First 1-2cm of spinal cord*
+Medulla::Lots of nuclei, Essential for controlling life processes, breathing, heartbeat, *Lower part of hindbrain, First 1-2cm of spinal cord* #AOSR/n2c6i/s/7mqv
 ***
-Cerebellum:: Mini brain, small role in every function in the entire brain, Modifying/refining movement and balance (*contains 70% of the brain's neurons, most of them "we have no clue what the fuck they do*"), *hindbrain*
+Cerebellum:: Mini brain, small role in every function in the entire brain, Modifying/refining movement and balance (*contains 70% of the brain's neurons, most of them "we have no clue what the fuck they do*"), *hindbrain* #AOSR/n2c6i/s/1nc5
 ***
-Meninges:: protective three-layered membrane, protect from trauma, surrounds entire CNS
+Meninges:: protective three-layered membrane, protect from trauma, surrounds entire CNS #AOSR/n2c6i/s/6blj
 ***
-Meninges layer **Dura**:: *Outer Layer*, Thick, tough, (tougher than skin)
+Meninges layer **Dura**:: *Outer Layer*, Thick, tough, (tougher than skin) #AOSR/n2c6i/s/4t49
 ***
-Meninges layer **Arachnoid Layer**:: *Middle Layer*, Looks like a spider web, Separates blood and Cerebrospinal fluid, lots of little tubes
+Meninges layer **Arachnoid Layer**:: *Middle Layer*, Looks like a spider web, Separates blood and Cerebrospinal fluid, lots of little tubes #AOSR/n2c6i/s/shf6
 ***
-Meninges layer **Pia Mater Layer**:: *Inner layer*, Super thin, Helps protect the brain from trauma, Keeps brain as one solid unit
+Meninges layer **Pia Mater Layer**:: *Inner layer*, Super thin, Helps protect the brain from trauma, Keeps brain as one solid unit #AOSR/n2c6i/s/5jl4
 ***
-Blood-brain barrier:: *In Arachnoid layer*, Protects brain from blood toxins, **Astrocites form walls around blood vessles to take out waste and insert nutrients to brain**
+Blood-brain barrier:: *In Arachnoid layer*, Protects brain from blood toxins, **Astrocites form walls around blood vessles to take out waste and insert nutrients to brain** #AOSR/n2c6i/s/5dj3
 ***
-Afferent::nerves going toward the CNS
+Afferent::nerves going toward the CNS #AOSR/n2c6i/s/f016
 ***
-Efferent::nerves going away from the CNS
+Efferent::nerves going away from the CNS #AOSR/n2c6i/s/vsf3
