@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Flashcards.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Flashcards.md"
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Flashcards.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Flashcards.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,9 +197,10 @@
   },
   "active": "b4f8d76843d30809",
   "lastOpenFiles": [
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-    "Psych275/Flashcards.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Psych275/Flashcards.md",
+    "Markdown Cheat Sheet.md",
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
     "Cmput301/Objects, UML, and Java.md",
@@ -214,7 +215,6 @@
     "Cmput361/Media/Pasted image 20240130132256.png",
     "Cmput361/Media/Pasted image 20240130131323.png",
     "Cmput361/Lecture 03 -.md",
-    "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Lecture 02 - Tokenization",
