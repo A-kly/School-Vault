@@ -93,3 +93,16 @@ Hypothalamus: plays major role in controlling emotion and motivated behaviors, *
 ***
 Pineal gland:: secretes melatonin, a hormone that induces sleep, *forebrain*
 ***
+Corpus callosum::band of fibers that carry information between brain hemispheres, *forebrain*
+***
+Ventricles:: cavities in brain which develop from the hollow interior of the nervous system
+***
+Cerebrospinal fluid:: carries material from blood vessels to the CNS and transports waste materials in the other direction, *Inside ventricles and spinal cord*
+***
+Midbrain role:: structures have secondary roles in vision, hearing, and movement
+***
+Superior colliculi::help guide eye movements and fixation of gaze, *midbrain*
+***
+Inferior colliculi:: help locate the direction of sounds, *midbrain*
+***
+Substantia nigra:: involved in movement, *midbrain*

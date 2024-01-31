@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
+                "file": "Psych275/Flashcards.md"
               }
             }
           },
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b4f8d76843d30809",
+  "active": "55207eb1832d726e",
   "lastOpenFiles": [
-    "Psych275/Flashcards.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Flashcards.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
