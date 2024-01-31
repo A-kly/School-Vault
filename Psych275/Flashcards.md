@@ -106,3 +106,17 @@ Superior colliculi::help guide eye movements and fixation of gaze, *midbrain*
 Inferior colliculi:: help locate the direction of sounds, *midbrain*
 ***
 Substantia nigra:: involved in movement, *midbrain*
+***
+Pons::Regulates sleep and arousal, Helps reticular formation, *hindbrain*
+***
+Reticular formation:: Regulates sleep and arousal, Plays a role in attention, *hindbrain, In between Pons, also extends into midbrain*
+***
+Medulla::Lots of nuclei, Essential for controlling life processes, breathing, heartbeat, *Lower part of hindbrain, First 1-2cm of spinal cord*
+***
+Cerebellum:: Mini brain, small role in every function in the entire brain, Modifying/refining movement and balance (*contains 70% of the brain's neurons, most of them "we have no clue what the fuck they do*"), *hindbrain*
+***
+Meninges:: protective three-layered membrane, protect from trauma, surrounds entire CNS
+***
+Meninges layer **Dura**:: Thick, tough, (tougher than skin)
+***
+Meninges layer **Arachnoid Layer**

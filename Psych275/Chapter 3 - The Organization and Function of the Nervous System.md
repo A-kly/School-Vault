@@ -169,7 +169,7 @@
 - Interneuron activates reflex based on the strength of the signal
 ## Protecting the Central Nervous System
 - ==Blood kills neurons, we have to separate the two==
-- **Meninges:** protective three-layered membrane, protect from tauma
+- **Meninges:** protective three-layered membrane, protect from trauma
 	- Surrounds entire CNS
 	- **Outer layer: Dura**
 		- Thick, tough, (tougher than skin)
