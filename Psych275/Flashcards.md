@@ -78,5 +78,18 @@ Prefrontal Cortex:: Planning, organizing of behaviours, decision making, goals, 
 Postcentral gyrus:: (somatosensory cortex), Parietal lobe
 ***
 Association areas exist in the =Parietal lobe= and the =Temporal Lobes= #multiclause
-
-
+***
+Temporal lobes:: Regions containing the *auditory projection area*, *visual and auditory association areas*, an *additional language area*, and *structures important in learning and memory*
+***
+Inferior temporal cortex:: plays major role in visual identification of objects, *In temporal lobe*
+*** 
+Wernicke's area:: Responsible for speech understanding, take audio and processes it into meaning, and vice versa. *Temporal lobe*
+***
+Visual cortex:: process vision, *occipital lobe* Most posterior part is the *primary visual cortex* everything else is *secondary visual cortex*
+***
+Thalamus:: receives information from all sensory systems except olfaction (smell), *forebrain*
+***
+Hypothalamus: plays major role in controlling emotion and motivated behaviors, *forebrain*
+***
+Pineal gland:: secretes melatonin, a hormone that induces sleep, *forebrain*
+***
