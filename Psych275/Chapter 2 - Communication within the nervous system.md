@@ -1,5 +1,5 @@
 # Neurons
-- Conveys sensory info to the brain, carry out operations,transmit commands to the body
+- Conveys sensory info to the brain, carry out operations, transmit commands to the body
 - Structure
 	- Cell body
 	- Nucleus
