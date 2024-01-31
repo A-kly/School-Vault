@@ -34,6 +34,14 @@
             }
           },
           {
+            "id": "b25e8395dbdbb92d",
+            "type": "leaf",
+            "state": {
+              "type": "aosr-review-view",
+              "state": {}
+            }
+          },
+          {
             "id": "55207eb1832d726e",
             "type": "leaf",
             "state": {
@@ -47,7 +55,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,7 +185,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,10 +201,10 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "aosr:Aosr": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "76bd567f1f76d6bf",
+  "active": "b25e8395dbdbb92d",
   "lastOpenFiles": [
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
