@@ -34,15 +34,20 @@
             }
           },
           {
-            "id": "5059e84d40668be2",
+            "id": "55207eb1832d726e",
             "type": "leaf",
             "state": {
-              "type": "aosr-review-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Psych275/Flashcards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Q",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,18 +186,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "aosr:Aosr": false
+      "aosr:Aosr": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5059e84d40668be2",
+  "active": "b4f8d76843d30809",
   "lastOpenFiles": [
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Flashcards.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
@@ -209,7 +214,6 @@
     "Cmput361/Media/Pasted image 20240130132256.png",
     "Cmput361/Media/Pasted image 20240130131323.png",
     "Cmput361/Lecture 03 -.md",
-    "Psych275/Flashcards.md",
     "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Lecture 01 - Foundations.md",
