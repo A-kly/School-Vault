@@ -61,8 +61,9 @@ Sulcus:: groove or space between two gyri #AOSR/qqs08/s/3msi
 ***
 Fissure:: large groove or space between two gyri, extra big Suculus #AOSR/qqs08/s/4s8g
 
-#Q
+#Q #AOSR/25hch
 Cortex
+? #AOSR/25hch/m/1f2i
 outer surface of brain; literally, “bark” 
 - more surface area because of more gyri and sulci = more cortex = more high level thinking
 #/Q
