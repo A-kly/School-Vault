@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md"
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,12 +195,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4f8d76843d30809",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Flashcards.md",
     "Markdown Cheat Sheet.md",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
     "Cmput301/Objects, UML, and Java.md",
