@@ -5,7 +5,7 @@
 			"all": [{
 				"fact": "card",
 				"operator": "regexMatch",
-				"value": "Cmput301",
+				"value": "Psych275",
 				"path": "$.path"
 			}]
 		},
