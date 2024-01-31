@@ -17,18 +17,23 @@
 ```
 
 #Q #AOSR/qqs08
-Dorsal:: toward the back #AOSR/1b231/s/4fe1 #AOSR/qqs08/s/50jc
+Dorsal:: toward the back #AOSR/qqs08/s/50jc
 ***
-Ventral:: toward the stomach #AOSR/29uph/s/7v85 #AOSR/qqs08/s/66n6
+Ventral:: toward the stomach  #AOSR/qqs08/s/66n6
 ***
-Anterior:: toward the front #AOSR/toc0v/s/24vp #AOSR/qqs08/s/4ll9
+Anterior:: toward the front #AOSR/qqs08/s/4ll9
 ***
-Posterior:: toward the rear #AOSR/10qpm/s/1iph #AOSR/qqs08/s/4ba6
+Posterior:: toward the rear #AOSR/qqs08/s/4ba6
 ***
-Superior:: above another structure #AOSR/2jd5t/s/5vgu #AOSR/qqs08/s/4c67
+Superior:: above another structure #AOSR/qqs08/s/4c67
 ***
-Inferior:: below another structure #AOSR/4gna5/s/755p #AOSR/qqs08/s/76a6
+Inferior:: below another structure #AOSR/qqs08/s/76a6
 ***
-Lateral:: toward the side #AOSR/5g3q5/s/4l2d #AOSR/qqs08/s/4gbo
+Lateral:: toward the side #AOSR/qqs08/s/4gbo
 ***
-Medial:: toward the middle #AOSR/3r2gn/s/3g83 #AOSR/qqs08/s/6prq
+Medial:: toward the middle #AOSR/qqs08/s/6prq
+***
+Oligodendrocytes:: Glial cells which produce myelin in the brain and spinal cord *(CNS)*
+***
+Schwann cells:: Glial cells which produce myelin in the rest of the nervous system *(PNS)*
+***
