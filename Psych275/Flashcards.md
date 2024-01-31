@@ -53,16 +53,18 @@ Nerve:: bundle of axons running together in *PNS* #AOSR/qqs08/s/z288
 ***
 Tract:: a bundle of axons running together in the *CNS* #AOSR/qqs08/s/5ii7
 ***
-Longitudinal fissure:: division running length of the brain separating cerebral hemispheres
+Longitudinal fissure:: division running length of the brain separating cerebral hemispheres #AOSR/qqs08/s/1ln6
 ***
 Gyrus:: each ridge in surface of the brain #AOSR/qqs08/s/2eeh
 ***
 Sulcus:: groove or space between two gyri #AOSR/qqs08/s/3msi
 ***
-Fissure:: large groove or space between two gyri
+Fissure:: large groove or space between two gyri, extra big Suculus #AOSR/qqs08/s/4s8g
 
 #Q
-Cortex:: outer surface of brain; literally, “bark” #AOSR/qqs08/s/72so 
+Cortex
+outer surface of brain; literally, “bark” 
 - more surface area because of more gyri and sulci = more cortex = more high level thinking
-- #/Q
-***
+#/Q
+
+

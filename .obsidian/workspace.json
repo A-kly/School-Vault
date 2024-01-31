@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "ecd611b0eed91620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psych275/Flashcards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6bd8930a2dc269ce",
             "type": "leaf",
             "state": {
@@ -196,7 +209,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "6bd8930a2dc269ce",
+  "active": "ecd611b0eed91620",
   "lastOpenFiles": [
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Flashcards.md",
