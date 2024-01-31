@@ -117,6 +117,14 @@ Cerebellum:: Mini brain, small role in every function in the entire brain, Modif
 ***
 Meninges:: protective three-layered membrane, protect from trauma, surrounds entire CNS
 ***
-Meninges layer **Dura**:: Thick, tough, (tougher than skin)
+Meninges layer **Dura**:: *Outer Layer*, Thick, tough, (tougher than skin)
 ***
-Meninges layer **Arachnoid Layer**
+Meninges layer **Arachnoid Layer**:: *Middle Layer*, Looks like a spider web, Separates blood and Cerebrospinal fluid, lots of little tubes
+***
+Meninges layer **Pia Mater Layer**:: *Inner layer*, Super thin, Helps protect the brain from trauma, Keeps brain as one solid unit
+***
+Blood-brain barrier:: *In Arachnoid layer*, Protects brain from blood toxins, **Astrocites form walls around blood vessles to take out waste and insert nutrients to brain**
+***
+Afferent::nerves going toward the CNS
+***
+Efferent::nerves going away from the CNS
