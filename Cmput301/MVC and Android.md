@@ -7,4 +7,30 @@
 - Views ==can== modify the data (if they want)
 ![[Pasted image 20240202103614.png|500]]
 - We want all views to be updated once the data is updated
+- tell view to update
 ![[Pasted image 20240202103713.png|500]]
+- views request data in order to update
+## Model/View/Controller Roles
+### Model
+- entity layer
+	- complete, self-contained representation of the data managed by the application
+	- provides services to manipulate this data
+	- *"the back end"*
+- main responsibilities
+	- representation and computation issues
+	- sometimes persistence
+- ==A good app should survive the removal of it's GUI==
+### View
+- boundary layer
+	- set of user interface components
+	- determines what is needed for a particular perspective of the data
+	- *"the front end"*
+- main responsibility
+	- presentation issues
+- ==This is the GUI==
+### Controller
+- control layer
+	- handles events and uses appropriate information from user interface components to modify the model
+- main responsibility
+	- interaction issues
+- ==Interact with views and model, onClick listeners, used to complete a task that interacts with view and 
