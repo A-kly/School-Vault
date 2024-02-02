@@ -39,4 +39,33 @@
 ### All together
 ![[Pasted image 20240202104330.png]]
 - delegate changes to view to controller
+## Java Observer
+- java.util.Observable superclass
+```java
+public class Observable {
+…
+public Observable() { … }
+
+// “all models keep track of their views”
+public void addObserver( Observer o ) { … }
+public void deleteObserver( Observer o ) { … }
+
+// “all models notify their views to update”
+public void notifyObservers() { … }
+public void notifyObservers( Object arg ) { … }
+
+// note whether the model has changed
+public boolean hasChanged() { … }
+protected void clearChanged() { … }
+protected void setChanged() { … }
+…
+}
+```
+
+- java.util.Observer interface
+```java
+public interface Observer {
+	public void update( Observable s, Object arg );
+}
+```
 # MVC Design Issues
