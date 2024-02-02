@@ -33,4 +33,10 @@
 	- handles events and uses appropriate information from user interface components to modify the model
 - main responsibility
 	- interaction issues
-- ==Interact with views and model, onClick listeners, used to complete a task that interacts with view and 
+- ==Interact with views and model, onClick listeners, used to complete a task that interacts with view and model==
+- ==Can be combined with view (like how we can edit a spreadsheet cell, it displays and also interacts)==
+
+### All together
+![[Pasted image 20240202104330.png]]
+- delegate changes to view to controller
+# MVC Design Issues
