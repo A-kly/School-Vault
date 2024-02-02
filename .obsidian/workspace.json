@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput301/Objects, UML, and Java.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69465e84dfb7033b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cmput301/MVC and Android.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md"
+                "file": "Cmput301/MVC and Android.md"
               }
             }
           },
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput301/MVC and Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 2 - Communication within the nervous system.md",
+                "file": "Cmput301/MVC and Android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,17 +217,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b4f8d76843d30809",
+  "active": "69465e84dfb7033b",
   "lastOpenFiles": [
+    "Cmput301/Media/Pasted image 20240202103713.png",
+    "Cmput301/Media/Pasted image 20240202103614.png",
+    "Cmput301/Media/Pasted image 20240202103533.png",
+    "Cmput301/Media/Pasted image 20240202103436.png",
+    "Cmput301/Objects, UML, and Java.md",
+    "Cmput301/MVC and Android.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput301/What is Software Engineering about.md",
     "Psych275/Flashcards.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
-    "Cmput301/Objects, UML, and Java.md",
     "Cmput361/Media/Pasted image 20240130132939.png",
     "Cmput361/Media/Pasted image 20240130132822.png",
     "Cmput361/Media/Pasted image 20240130132751.png",
@@ -221,9 +240,6 @@
     "Cmput361/Media/Pasted image 20240130132609.png",
     "Cmput361/Media/Pasted image 20240130132434.png",
     "Cmput361/Media/Pasted image 20240130132323.png",
-    "Cmput361/Media/Pasted image 20240130132304.png",
-    "Cmput361/Media/Pasted image 20240130132256.png",
-    "Cmput361/Media/Pasted image 20240130131323.png",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Lecture 02 - Tokenization",
@@ -248,7 +264,6 @@
     "CMPUT 379/Scheduling.md",
     "CMPUT 379/DeadLock.md",
     "STAT 151/Data and Variables.md",
-    "STAT 151/Basics of probability.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
     "Untitled.canvas",
     "The game/Map.canvas"
