@@ -88,3 +88,15 @@
 	- “False colors” added for contrast
 	- Image shows differing densities of blood vessels in the brain
 ![[Pasted image 20240206094439.png]]
+- **Magnetic resonance imaging (MRI):** measures radio-frequency waves emitted by hydrogen atoms exposed to magnetic field
+	- Most hydrogen atoms within water molecules
+	- Non-hydrogen elements can now be measured
+	- Diffusion tensor imaging: MRI variant measuring the movement of water molecules
+![[Pasted image 20240206100323.png]]
+- **Positron emission tomography (PET):** observation of brain regions through a radioactive substance injected into bloodstream
+	- Scanner picks up emitted positrons to form a color-coded image
+	- Indicates relative activity of brain regions
+	- Difference scans
+	- Cannot detect changes less than 30 s in duration
+	- Results do not image the brain
+![[Pasted image 20240206100542.png|500]]
