@@ -34,10 +34,12 @@
 > a) Golgi stain
 > b) Mylelin stain
 > c) Nissl stain
-
+### Activity staining
 - **Autoradiography:** stains and reveals which neurons are active
-	- 
+	- Basically a post death PET scan, give organism radioactive tagged glucose, organism does task, this causes more active cells to absorb more glucose, take organism out back, do scan, brain parts that used radioactive glucose light up
 - **Immunocytochemistry:** uses antibodies attached to a dye to identify cell components
+	- Like FMRI, doesn't use radioactive tagging.
+	- Cells make proteins when they become active, we send dyed antibodies into brain, antibodies
 - **In situ hybridization:** construction of DNA strands which complement an mRNA strand
 - **Messenger ribonucleic acid (mRNA):** copy of one DNA strand carried from cell nucleus into cytoplasm
 	- ![[Pasted image 20240206093751.png]]
