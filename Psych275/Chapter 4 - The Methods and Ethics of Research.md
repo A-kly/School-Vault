@@ -20,14 +20,23 @@
 ![[Pasted image 20240206093535.png|500]]
 # Research Techniques
 ## Staining and Imaging Neurons (On exam, multiple choice question)
+### Structure staining
 - **Golgi stain:** randomly stains about 5% of neurons in a slide
 	- Really pretty, stains entire neuron, shows us general neuron shape
 - **Myelin stain:** taken up by the fatty myelin surrounding axons
-	- 
+	- shows us the axons, good at visualizing the neural pathways + connections
 - **Nissl stain:** identifies cell bodies of neurons
+	- Where and how many are the cell bodies?
 - **Retrograde stains:** taken up by neuron terminals and transported up the axons to cell bodies
+	- Injected into brain of animal while alive, gets taken up by axon terminals of one cell and sucks it backwards to dendrites.
+	- Lets us see what parts of brain send info to the part we injected
 ![[Pasted image 20240206093632.png]]
+> a) Golgi stain
+> b) Mylelin stain
+> c) Nissl stain
+
 - **Autoradiography:** stains and reveals which neurons are active
+	- 
 - **Immunocytochemistry:** uses antibodies attached to a dye to identify cell components
 - **In situ hybridization:** construction of DNA strands which complement an mRNA strand
 - **Messenger ribonucleic acid (mRNA):** copy of one DNA strand carried from cell nucleus into cytoplasm
