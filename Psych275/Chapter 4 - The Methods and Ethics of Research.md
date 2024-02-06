@@ -78,7 +78,8 @@
 	- *take cells from algae or bacteria that open and close their ion channels dependent on light, insert these genes into animal neurons, activate certain parts of brain due to light*
 	- *more precise*
 - **Chemical stimulation via cannulation**
-	- *change chemical makeup *
+	- *change chemical makeup around neurons*
+	- *canulation = tiny tube inserted into brain, drugs inserted into it*
 	- **Microdialysis:** a more complex variation of cannulation
 - **Natural experiments:** historically, brain damaged patients were a rich source of brain research
 	- Damage may overlap different functional areas
@@ -87,8 +88,10 @@
 	- Used for large areas - imprecise
 	- Often done by aspiration
 - **Lesioning:** surgical damaging of neural tissue
+	- *often done by injecting acid or a drug (that may wear off over time)*
 	- Precise and sometimes reversible
 - **Transcranial magnetic stimulation (TMS):** noninvasive technique using a magnet coil to induce a voltage
+	- 
 	- Device held over scalp and pulsed at varying rates
 	- Valuable in both research and therapeutically
 	- Transcranial direct current stimulation (tDCS)
