@@ -63,7 +63,12 @@
 		- Cancels out background noise
 		- Reveals brain’s unique response to stimulus
 ![[Pasted image 20240206094106.png]]
+> Example of EEG
 ![[Pasted image 20240206094122.png]]
+> Top = average person
+> Middle = Mildly conscious people
+> Bottom = people in coma
+
 - **Stereotaxic instrument:** device allowing precise positioning of a probe in the brain
 	- Probes typically fine-wire electrodes
 	- Microelectrodes can monitor and stimulate a single neuron
@@ -107,3 +112,9 @@
 	- Costly due to expense of equipment
 ![[Pasted image 20240206100656.png]]
 ![[Pasted image 20240206100744.png]]
+- Brain imaging is the main experimental technique in neuroscience
+- Limitations of brain imaging:
+	- fMRI in particular is low sensitivity
+	- Test-retest reliability often low
+	- Methods of data selection (“data snooping”)
+# Investigating Heredity
