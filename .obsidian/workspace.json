@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cd25d626e113d324",
+        "id": "c06d8385f2d7554f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f8d76843d30809",
+            "id": "a0efa10aaf404c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cmput301/Objects, UML, and Java.md",
+                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,46 +21,12 @@
             }
           },
           {
-            "id": "69465e84dfb7033b",
+            "id": "b765d7f6aaaebed9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cmput301/MVC and Android.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55207eb1832d726e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Flashcards.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed193033748c6dff",
-            "type": "leaf",
-            "state": {
-              "type": "aosr-review-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "54b806a4c421d34c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cmput301/What is Software Engineering about.md",
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cmput301/MVC and Android.md"
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md"
               }
             }
           },
@@ -156,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cmput301/MVC and Android.md",
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cmput301/MVC and Android.md",
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,20 +183,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "69465e84dfb7033b",
+  "active": "b765d7f6aaaebed9",
   "lastOpenFiles": [
+    "Psych275/Media/Pasted image 20240206093535.png",
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+    "Psych275/Flashcards.md",
+    "Cmput301/Objects, UML, and Java.md",
+    "Cmput301/MVC and Android.md",
     "Cmput301/Media/Pasted image 20240202104330.png",
     "Cmput301/Media/Pasted image 20240202103713.png",
     "Cmput301/Media/Pasted image 20240202103614.png",
     "Cmput301/Media/Pasted image 20240202103533.png",
     "Cmput301/Media/Pasted image 20240202103436.png",
-    "Cmput301/Objects, UML, and Java.md",
-    "Cmput301/MVC and Android.md",
     "Psych275/Chapter 2 - Communication within the nervous system.md",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput301/What is Software Engineering about.md",
-    "Psych275/Flashcards.md",
     "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
@@ -239,7 +207,6 @@
     "Cmput361/Media/Pasted image 20240130132751.png",
     "Cmput361/Media/Pasted image 20240130132741.png",
     "Cmput361/Media/Pasted image 20240130132609.png",
-    "Cmput361/Media/Pasted image 20240130132434.png",
     "Cmput361/Lecture 02 - Tokenization.md",
     "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Lecture 02 - Tokenization",
@@ -263,7 +230,6 @@
     "CMPUT 379/Interprocess Communication.md",
     "CMPUT 379/Scheduling.md",
     "CMPUT 379/DeadLock.md",
-    "STAT 151/Data and Variables.md",
     "PSYCH 105/Media/Recording 20231005121726.webm",
     "Untitled.canvas",
     "The game/Map.canvas"
