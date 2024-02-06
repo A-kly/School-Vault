@@ -57,11 +57,11 @@
 	- Confocal laser scanning microscope and two-photon microscope
 ## Measuring & Manipulating Brain Activity
 - **Electroencephalogram (EEG):** electronic amplifier detects electrical activity of all neurons between two electrodes
-- **Temporal resolution:** events as close as 1 ms apart
-- **Spatial resolution:** imprecise unless electrodes are applied directly to the brain surface
-- **Event-related potential:** averaging many recorded responses to stimulus
-	- Cancels out background noise
-	- Reveals brain’s unique response to stimulus
+	- **Temporal resolution:** events as close as 1 ms apart
+	- **Spatial resolution:** imprecise unless electrodes are applied directly to the brain surface
+	- **Event-related potential:** averaging many recorded responses to stimulus
+		- Cancels out background noise
+		- Reveals brain’s unique response to stimulus
 ![[Pasted image 20240206094106.png]]
 ![[Pasted image 20240206094122.png]]
 - **Stereotaxic instrument:** device allowing precise positioning of a probe in the brain
@@ -100,3 +100,10 @@
 	- Cannot detect changes less than 30 s in duration
 	- Results do not image the brain
 ![[Pasted image 20240206100542.png|500]]
+- **Functional magnetic resonance imaging (fMRI):** detects increases in blood flow and oxygen usage
+	- Suitable for repeated measurements
+	- Good spatial resolution
+	- Alternative to PET scans
+	- Costly due to expense of equipment
+![[Pasted image 20240206100656.png]]
+![[Pasted image 20240206100744.png]]
