@@ -72,9 +72,13 @@
 - **Stereotaxic instrument:** device allowing precise positioning of a probe in the brain
 	- Probes typically fine-wire electrodes
 	- Microelectrodes can monitor and stimulate a single neuron
+	- *big cage to keep head in one position, for animals used for lesions and direct drug administration*
 - **Optogenetic techniques:** light-sensitive channels can be inserted in specific types of neurons
 	- More precise than electrical stimulation
-- Chemical stimulation via cannulation
+	- *take cells from algae or bacteria that open and close their ion channels dependent on light, insert these genes into animal neurons, activate certain parts of brain due to light*
+	- *more precise*
+- **Chemical stimulation via cannulation**
+	- *change chemical makeup *
 	- **Microdialysis:** a more complex variation of cannulation
 - **Natural experiments:** historically, brain damaged patients were a rich source of brain research
 	- Damage may overlap different functional areas
