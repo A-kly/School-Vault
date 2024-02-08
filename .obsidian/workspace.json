@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0efa10aaf404c8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b765d7f6aaaebed9",
             "type": "leaf",
             "state": {
@@ -33,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +171,8 @@
   },
   "active": "b765d7f6aaaebed9",
   "lastOpenFiles": [
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Media/Pasted image 20240206100744.png",
     "Psych275/Media/Pasted image 20240206100656.png",
     "Psych275/Media/Pasted image 20240206100542.png",
@@ -195,9 +183,6 @@
     "Psych275/Media/Pasted image 20240206093828.png",
     "Psych275/Media/Pasted image 20240206093751.png",
     "Psych275/Media/Pasted image 20240206093632.png",
-    "Psych275/Media/Pasted image 20240206093535.png",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Flashcards.md",
     "Cmput301/Objects, UML, and Java.md",
     "Cmput301/MVC and Android.md",

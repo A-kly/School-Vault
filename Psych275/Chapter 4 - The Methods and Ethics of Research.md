@@ -91,10 +91,11 @@
 	- *often done by injecting acid or a drug (that may wear off over time)*
 	- Precise and sometimes reversible
 - **Transcranial magnetic stimulation (TMS):** noninvasive technique using a magnet coil to induce a voltage
-	- 
 	- Device held over scalp and pulsed at varying rates
 	- Valuable in both research and therapeutically
 	- Transcranial direct current stimulation (tDCS)
+		- *uses electricity instead of magnet*
+		- *targets astrocites instead of neurons*
 ## Brain Imaging Techniques
 - **Computed tomography (CT):** produces series of X-rays, then composites them into a 3-D image
 	- “False colors” added for contrast
