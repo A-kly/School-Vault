@@ -101,6 +101,7 @@
 	- “False colors” added for contrast
 	- Image shows differing densities of blood vessels in the brain
 ![[Pasted image 20240206094439.png]]
+> c) shows a tumor
 - **Magnetic resonance imaging (MRI):** measures radio-frequency waves emitted by hydrogen atoms exposed to magnetic field
 	- Most hydrogen atoms within water molecules
 	- Non-hydrogen elements can now be measured
