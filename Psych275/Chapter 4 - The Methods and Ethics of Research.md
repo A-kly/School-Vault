@@ -127,3 +127,20 @@
 	- Test-retest reliability often low
 	- Methods of data selection (“data snooping”)
 # Investigating Heredity
+## Genetic Similarities: The Correlational Approach
+- **Family study:** determines how a characteristic is shared among relatives
+- Heredity’s effects typically confounded by environment
+- Variables measured on a numerical scale require a correlation coefficient
+- **Correlation:** degree of relationship between two variables
+	- Expressed with correlation coefficient, a number between 0.0 and ±1.0
+	- Positive correlations: both variables are high
+	- Negative correlations: when one variable is high, the other is low
+- **Twin study:** assessing how similar twins are compared to each other and nontwin or fraternal twin siblings
+- **Concordance rate:** frequency with which relatives are alike in a characteristic
+![[Pasted image 20240208100657.png]]
+## Genetic Engineering: The Experimental Approach
+- **Genetic engineering:** manipulating an organism’s genes
+- **Knockout technique:** nonfunctioning mutation introduced into gene, then transferred to embryos
+- **Knockdown technique:** silencing a gene by interfering with its expression
+	- **Antisense RNA:** complementary strand of RNA which binds to mRNA to block gene expression
+![[Pasted image 20240208100746.png]]
