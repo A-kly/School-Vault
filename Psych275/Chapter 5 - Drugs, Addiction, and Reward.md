@@ -53,3 +53,32 @@
 - **Cannabinoid:** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
 - Illegality of marijuana has led to creation of synthetic marijuana, which may be lethal
 # Addiction
+- Neither pleasurable effects from a drug nor withdrawal fully account for drug use motivation
+- **Reward:** positive effect an object or condition has on the user
+- **Mesolimbic pathway:** reward circuit
+	- Ventral tegmental area
+	- Nucleus accumbens
+![[Pasted image 20240213100432.png|400]]
+## Synaptic Plasticity and Addiction
+- Addiction creates functional and structural changes in the brain that persist long after drug usage stops
+- **Mesocorticolimbic dopamine system:** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus
+- **Hypofrontality:** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment
+- Cravings persist after years of drug abstinence
+## Treating Drug Addiction
+- **Treatment strategies**:
+	- Agonist treatments
+	- Methadone
+	- Antagonist treatments
+	- Aversive treatments
+	- Antidrug vaccines
+- **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
+- **Agonist treatments:** replace addicting drug with another drug with similar effect
+- **Methadone:** synthetic opioid used to treat opioid addiction
+- **Antagonist treatments:** involve drugs that block effects of the addicting drug
+- **Aversive treatments:** cause a negative reaction when person takes the drug
+- **Antidrug vaccines:** molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug
+- **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
+# The Role of Genes in Addiction
+- Heritability of addiction first established with alcoholism
+	- Type 1 alcoholic
+	- Type 2 alcoholic
