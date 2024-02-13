@@ -82,3 +82,13 @@
 - Heritability of addiction first established with alcoholism
 	- Type 1 alcoholic
 	- Type 2 alcoholic
+- Genetic influences affect how drugs are metabolized, neurotransmitter/receptor levels, and other addiction risk factors
+- Drugs also impact genetic function
+	- **Methylation:** attachment of a methyl group to DNA, which suppresses a gene’s activity
+- Addiction research sheds light on complex mechanisms of addiction
+# In Perspective
+- Immense costs of drug abuse:
+	- Human suffering
+	- Loss of health, productivity, and life
+	- Billions spent on treatment and incarceration
+- Studying drug abuse gives insight into the brain and biological forces that mold human behavior
