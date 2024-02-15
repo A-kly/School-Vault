@@ -45,9 +45,16 @@
 ## Psychedelic Drugs
 - **Psychedelic Drugs:** compounds that cause perceptual distortions in the user
 	- Serotonergic
+		- Act on serotonin receptors, LSD, Magic mushrooms
 	- Catecholaminergic
+		- Act on dopamine, norepinephrine and epinephrine,
+		- Also stimulants
+		- Ecstasy, MDMA
 	- NMDA receptor agonists
+		- Glutimate (???)
+		- ketamine, pcp
 	- Designer drugs
+		- Very dangerous
 ## Marijuana
 - **Marijuana:** dried and crushed leaves and flowers of the plant Cannabis sativa
 - **Cannabinoid:** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
