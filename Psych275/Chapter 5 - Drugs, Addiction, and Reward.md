@@ -54,7 +54,8 @@
 		- Glutimate (???)
 		- ketamine, pcp
 	- Designer drugs
-		- Very dangerous
+		- Very dangerous, made in lab
+		- 
 ## Marijuana
 - **Marijuana:** dried and crushed leaves and flowers of the plant Cannabis sativa
 - **Cannabinoid:** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
