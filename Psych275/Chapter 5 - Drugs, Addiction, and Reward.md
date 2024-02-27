@@ -75,9 +75,12 @@
 - Cravings persist after years of drug abstinence
 ## Treating Drug Addiction
 - **Treatment strategies**:
-	- Agonist treatments
-	- Methadone
-	- Antagonist treatments
+	- *Agonist treatments*
+		- Replace addicting drug with another drug with a similar effect
+		- ==Methadone==
+			- synthetic opioid used to treat opioid addiction
+	- *Antagonist treatments*
+		- involve drugs that block effect of the addicting drug
 	- Aversive treatments
 	- Antidrug vaccines
 - **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
