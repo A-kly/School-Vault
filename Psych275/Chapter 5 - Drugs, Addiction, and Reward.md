@@ -81,8 +81,11 @@
 			- synthetic opioid used to treat opioid addiction
 	- *Antagonist treatments*
 		- involve drugs that block effect of the addicting drug
-	- Aversive treatments
-	- Antidrug vaccines
+		- ==Naloxone==
+	- *Aversive treatments*
+		- cause negative reaction when person takes drug
+	- *Antidrug vaccines*
+		- molecules that attach to the drug and stimulate immune system to make antibodies that will degrade
 - **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
 - **Agonist treatments:** replace addicting drug with another drug with similar effect
 - **Methadone:** synthetic opioid used to treat opioid addiction
