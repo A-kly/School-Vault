@@ -32,10 +32,33 @@
 - Takes 10–20 minutes for body to realize deficit has been eliminated and stop sending stimulatory signals
 - **Satiety:** the satisfaction of appetite
 ![[Pasted image 20240227102502.png|500]]
-## Hunger: A Complex Drive
-### Gustation: The Role of Taste
+# Hunger: A Complex Drive
+## Gustation: The Role of Taste
 - Food selection varies widely in animal kingdom:
 	- **Herbivores:** plant-eating animals
 	- **Carnivores:** meat-eating animals
 	- **Omnivores:** animals that eat both meat and plants
 - Taste primaries: sour, sweet, bitter, salty, and umami
+![[Pasted image 20240227102644.png]]
+## Sensory-Specific Satiety
+- **Sensory-specific satiety:** behavioral pattern that means the more an individual eats a particular food item, the less appealing the food becomes
+- **Learned taste aversion:** avoidance of foods associated with illness or poor nutrition
+- **Learned taste preference:** preference not for a nutrient itself but for the flavor of food containing the nutrient
+![[Pasted image 20240227102733.png|300]]
+## The Digestive Process
+- **Area postrema:** region in brain outside blood-brain barrier that induces vomiting if activated by toxins
+- **Duodenum:** initial 25 cm of the small intestine where most digestion occurs
+![[Pasted image 20240227102834.png|300]]
+- **Glucose:** a simple sugar which is a common metabolic product of carbohydrate digestion
+- **Amino acids:** an end product of protein digestion
+- **Fatty acids:** an end product of fat digested in the intestine
+- **Glycerol:** an end product of fat digested in the liver
+![[Pasted image 20240227102948.png]]
+### The Absorptive Phase
+- **Absorption phase:** the few hours after a meal when the body lives off the nutrients arriving from the digestive system
+- **Insulin:** hormone that enables body cells to take up glucose for energy and certain cells to store excess nutrients
+#### Diabetes
+- **Diabetes:** condition that results when pancreas is unable to produce enough insulin (Type 1) or the body’s tissues are relatively unresponsive to insulin (Type 2)
+- **Glycogen:** converted form of glucose stored in short-term reservoirs around body
+### The Fasting Phase
+- 
