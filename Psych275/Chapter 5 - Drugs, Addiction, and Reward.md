@@ -89,8 +89,9 @@
 - **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
 # The Role of Genes in Addiction
 - Heritability of addiction first established with alcoholism (Swedish people did it, no longer a thing)
-	- Type 1 alcoholic
-	- Type 2 alcoholic
+	- Type 1 alcoholic (environmental influence)
+	- Type 2 alcoholic (genetic influence)
+- *heritability of alcohol is about 15%*
 - Genetic influences affect how drugs are metabolized, neurotransmitter/receptor levels, and other addiction risk factors
 - Drugs also impact genetic function
 	- **Methylation:** attachment of a methyl group to DNA, which suppresses a gene’s activity
