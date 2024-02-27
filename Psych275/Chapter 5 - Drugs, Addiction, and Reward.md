@@ -92,6 +92,7 @@
 	- Type 1 alcoholic (environmental influence)
 	- Type 2 alcoholic (genetic influence)
 - *heritability of alcohol is about 15%*
+- *heritability for all drugs is less than 40%*
 - Genetic influences affect how drugs are metabolized, neurotransmitter/receptor levels, and other addiction risk factors
 - Drugs also impact genetic function
 	- **Methylation:** attachment of a methyl group to DNA, which suppresses a gene’s activity
