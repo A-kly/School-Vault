@@ -85,16 +85,10 @@
 	- *Aversive treatments*
 		- cause negative reaction when person takes drug
 	- *Antidrug vaccines*
-		- molecules that attach to the drug and stimulate immune system to make antibodies that will degrade
-- **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
-- **Agonist treatments:** replace addicting drug with another drug with similar effect
-- **Methadone:** synthetic opioid used to treat opioid addiction
-- **Antagonist treatments:** involve drugs that block effects of the addicting drug
-- **Aversive treatments:** cause a negative reaction when person takes the drug
-- **Antidrug vaccines:** molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug
+		- molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug
 - **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
 # The Role of Genes in Addiction
-- Heritability of addiction first established with alcoholism
+- Heritability of addiction first established with alcoholism (Swedish people did it, no longer a thing)
 	- Type 1 alcoholic
 	- Type 2 alcoholic
 - Genetic influences affect how drugs are metabolized, neurotransmitter/receptor levels, and other addiction risk factors
