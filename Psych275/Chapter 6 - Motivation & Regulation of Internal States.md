@@ -18,10 +18,10 @@
 	- *Preoptic area:* brain area in mammalian hypothalamus that contains separate warmth- sensitive and cold-sensitive cells
 ## Simple Homeostatic Drives: Thirst
 - **Thirst:** dry mouth and throat influence when to drink, not how much to drink
-	- **Hypovolemic thirst:** condition of thirst occurring when blood volume drops due to loss of extracellular water
-	- **Osmotic thirst:** condition of thirst occurring when fluid content decreases inside body’s cells
-- **Subfornical organ (SFO):** brain structure adjacent to third ventricle that senses and regulates internal water balance with OVLT
-- **Organum vasculosum lamina terminalis (OVLT):** brain structure adjacent to third ventricle that senses and regulates internal water balance with SFO
+	- **Hypovolemic thirst:** condition of thirst occurring when blood volume drops due to loss of extracellular water (also causes *osmotic thirst*)
+	- **Osmotic thirst:** condition of thirst occurring when fluid content decreases inside body’s cells (can occur alone)
+- **Subfornical organ (SFO):** brain structure *adjacent to third ventricle* that senses and regulates internal water balance with OVLT
+- **Organum vasculosum lamina terminalis (OVLT):** brain structure *adjacent to third ventricle* that senses and regulates internal water balance with SFO
 - Both SFO and OVLT are circumventricular organs
 	- *Circumventricular:* outside blood-brain barrier with direct access to blood circulation
 - Some SFO and OVLT neurons are osmoreceptors
