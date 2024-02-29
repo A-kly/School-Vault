@@ -89,4 +89,15 @@
 - **Basal metabolism:** energy required to fuel brain and other organs and to maintain body temperature
 - Metabolism will increase or decrease in order to defend a set point weight
 - Goal of 10% weight reduction can be more practical than return to normal weight
- 10% reduction also associated with reduced risk for chronic disease
+	- 10% reduction also associated with reduced risk for chronic disease
+- Some weight loss interventions are drastic, but standard treatment remains dietary restriction
+- Serotonin could play a role in weight control
+- Psychological therapeutic approaches treat out-of-control eating as an addictive behavior
+## Anorexia, Bulimia, & Binge Eating
+- **Anorexia nervosa:** eating disorder known as “starving disease” wherein the individual restricts food intake to maintain weight at a level so low it threatens health
+- **Bulimia nervosa:** eating disorder that also involves weight control, but the behavior is linked to bingeing and purging
+- **Binge-eating disorder:** eating disorder where individuals frequently eat large amounts of food during a short period of time, wherein they feel they cannot control what or how much they eat
+- **Other disorders:** night eating disorder, pica, rumination, and avoidant/restrictive food intake disorder
+- Anorexia and bulimia may have social environmental causes, but there seem to be genetic links as well
+- Eating disorders typically comorbid with other psychological disorders
+- Serotonin may also play a role in understanding eating disorders as well
