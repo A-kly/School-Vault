@@ -64,6 +64,13 @@
 - **Fasting phase:** period in which blood glucose drops and the body falls back on its energy stores
 - **Glucagon:** hormone that causes liver and skeletal muscles to transform stored glycogen back into glucose
 ## Regulating Hunger
+- **Arcuate nucleus (ARC):** master hypothalamic center for food intake control
+	- NPY/AgRP neurons
+	- POMC neurons
+- **Lateral hypothalamus:** brain region that initiates eating and controls aspects of feeding behavior and metabolic responses
+- **Orexin:** neuropeptide that increases eating and increases wakefulness in response to food deprivation
+	- activates NPY/AgRP neurons
+	- inhibits POMC neurons
 - **Paraventricular nucleus (PVN):** brain region that regulates eating and metabolic processes
 - **Ventromedial hypothalamus (VMH):** brain region that produces satiety and increases metabolism
 - **Ghrelin:** orexigenic peptide hormone synthesized in the stomach and released into bloodstream during fasting
