@@ -41,7 +41,7 @@
 - Taste primaries: sour, sweet, bitter, salty, and umami
 ![[Pasted image 20240227102644.png]]
 ## Sensory-Specific Satiety
-- **Sensory-specific satiety:** behavioral pattern that means the more an individual eats a particular food item, the less appealing the food becomes
+- **Sensory-specific satiety:** behavioral pattern that means *the more an individual eats a particular food item, the less appealing the food becomes*
 - **Learned taste aversion:** avoidance of foods associated with illness or poor nutrition
 - **Learned taste preference:** preference not for a nutrient itself but for the flavor of food containing the nutrient
 ![[Pasted image 20240227102733.png|300]]
