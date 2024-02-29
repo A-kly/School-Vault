@@ -72,7 +72,9 @@
 	- activates NPY/AgRP neurons
 	- inhibits POMC neurons
 - **Paraventricular nucleus (PVN):** brain region that regulates eating and metabolic processes
+	- hungry or no?
 - **Ventromedial hypothalamus (VMH):** brain region that produces satiety and increases metabolism
+	- actually makes eating slower/degreases it when satisfied
 - **Ghrelin:** orexigenic peptide hormone synthesized in the stomach and released into bloodstream during fasting
 ![[Pasted image 20240227103253.png|300]]
 - Optimal satiation requires interaction of mouth, stomach, and intestinal factors
