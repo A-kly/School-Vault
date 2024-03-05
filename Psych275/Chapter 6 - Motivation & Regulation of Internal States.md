@@ -76,6 +76,7 @@
 - **Ventromedial hypothalamus (VMH):** brain region that produces satiety and increases metabolism
 	- actually makes eating slower/degreases it when satisfied
 - **Ghrelin:** orexigenic peptide hormone synthesized in the stomach and released into bloodstream during fasting
+	- happens when stomach begins to shrink a little while after eating
 ![[Pasted image 20240227103253.png|300]]
 - Optimal satiation requires interaction of mouth, stomach, and intestinal factors
 - **Cholecystokinin (CCK):** peptide hormone that is best known satiety signal, released by stomach and small intestine as food passes into duodenum

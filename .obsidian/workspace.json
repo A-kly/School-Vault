@@ -18,35 +18,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b59a57400c615c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd63511f92afc372",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,8 +164,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dd63511f92afc372",
+  "active": "77a62a2e9e734ab4",
   "lastOpenFiles": [
+    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
+    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Media/Pasted image 20240227103439.png",
     "Psych275/Media/Pasted image 20240227103423.png",
     "Psych275/Media/Pasted image 20240227103253.png",
@@ -205,12 +176,9 @@
     "Psych275/Media/Pasted image 20240227102733.png",
     "Psych275/Media/Pasted image 20240227102644.png",
     "Psych275/Media/Pasted image 20240227102502.png",
-    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
-    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Media/Pasted image 20240213100432.png",
     "Psych275/Media/Pasted image 20240213100007.png",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
-    "Psych275/Media/Pasted image 20240213095630.png",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
     "Psych275/Flashcards.md",
     "Cmput301/Objects, UML, and Java.md",
