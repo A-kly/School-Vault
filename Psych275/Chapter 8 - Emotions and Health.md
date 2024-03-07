@@ -122,3 +122,32 @@
 	- **Affective aggression:** aggression characterized by its impulsiveness and emotional arousal
 	- **Proactive (instrumental) aggression:** aggression that is unprovoked and emotionless, and is intended to bring about some gain for the aggressor
 	- **Reactive (impulsive) aggression:** aggression that occurs in response to a threat, real or imagined, and is characterized by heightened emotionality
+## Biological Origins of Aggression
+- Aggression involves network of structures:
+	- *Amygdala* - detects and responds to threats
+	- *Prefrontal cortex* - moderates aggression with regard to amygdala
+	- *Hypothalamus* - primary instigator of aggressive behavior
+	- *Insula and anterior cingulate* (when emotion is involved)
+# Hormones and Neurotransmitters
+- **Testosterone:** plays a role in animals and both male and female human aggression
+	- Significant global effects in the brain and on behavior
+	- Reduces functional connectivity between orbitofrontal cortex and the amygdala, leading to poor emotion regulation
+	- Relationship between aggression and testosterone highly variable without considering other influences
+![[Pasted image 20240307102506.png|500]]
+- **Serotonin:** conventionally inhibitory, suppressing motivated behaviors
+	- Research suggests role in aggression is no different
+	- Low serotonin linked to impulsive aggression
+- **Cortisol** is also inhibitory to aggression
+	- Male prisoners with low cortisol had high levels of calculating and unemotional aggression
+- One hypothesis suggests testosterone, cortisol, and serotonin interreact to determine whether and how aggression will occur
+## Heredity and Environment
+- Review of 40 studies concluded that about 50% of variability in aggressive behavior can be accounted for by genes
+- *MAOA* gene encodes monoamine oxidase A (MAOA), an enzyme that degrades serotonin, dopamine, and norepinephrine
+	- Deficiencies in MAOA activity associated with impulsive aggression
+![[Pasted image 20240307102656.png|500]]
+- Environmental influences account for other half of variability in aggression:
+	- Childhood abuse (physical or sexual)
+	- Family adversity
+	- Low socioeconomic status
+	- Pre-adulthood cannabis consumption or alcohol abuse
+	- Living in a big city
