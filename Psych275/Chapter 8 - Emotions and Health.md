@@ -59,4 +59,13 @@
 - **Anterior cingulate cortex (ACC):** brain structure best known for roles in attention, decision-making, and impulse control
 	- Also plays major role in emotion
 # Stress, Immunity, and Health
-
+- **Stress:** condition in environment that makes unusual demands on an organism
+	- Threat, failure, or bereavement
+- Stress is also the response to a stressful situation
+	- Bodily response
+## Stress as an Adaptive Response
+- Short-term stress responses can be beneficial
+- *Hypothalamus* stimulates *adrenal medulla* to release epinephrine and norepinephrine
+	- Increase output from the heart and liberate glucose from the muscles for additional energy
+- Also releases *cortisol*
+	- Increases in metabolism, glucose availability, and blood supply to the skeletal muscles
