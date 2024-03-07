@@ -101,6 +101,24 @@
 	- ![[Pasted image 20240307101703.png]]
 ## Social, Personality, & Genetic Factors
 - Associations have been found between personality traits and vulnerability for or protection against disease
-- Type D “distressed” personality linked to increased risk of cardiovascular disease
-- Introverted HIV-infected individuals may have up to eight times higher viral load
-- People with a strong support network are healthier and live longer
+	- **Type D “distressed” personality** linked to increased risk of cardiovascular disease
+	- Introverted HIV-infected individuals may have up to eight times higher viral load
+	- People with a strong support network are healthier and live longer
+- Personality characteristics such as introversion are moderately heritable, as is vulnerability to stress
+- Study of 300 Swedish twins concluded that 32% of workplace stress is genetic (Judge, Ilies, & Zhang, 2012)
+- Stress has ability to modify the expression of genes
+## Pain as an Adaptive Emotion
+- Pain is a sense closely linked with emotion
+- **Congenital insensitivity to pain:** rare genetic disorder of PNS in which people are unable to sense pain
+	- Prone to injury
+- Somatosensory cortex as primary projection area for pain
+- Also activates anterior cingulate cortex, which connects to limbic system
+![[Pasted image 20240307101917.png|500]]
+- Prolonged pain recruits prefrontal cortex
+	- Pain is evaluated and responses to the painful situation are planned
+# Aggression
+- **Aggression:** forceful or assertive behavior that is intended to harm or control another
+	- **Predatory aggression:** aggression that occurs when an animal attacks and kills its prey or when a human makes a premeditated, unprovoked attack on another
+	- **Affective aggression:** aggression characterized by its impulsiveness and emotional arousal
+	- **Proactive (instrumental) aggression:** aggression that is unprovoked and emotionless, and is intended to bring about some gain for the aggressor
+	- **Reactive (impulsive) aggression:** aggression that occurs in response to a threat, real or imagined, and is characterized by heightened emotionality
