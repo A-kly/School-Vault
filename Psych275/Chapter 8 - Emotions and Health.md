@@ -69,3 +69,38 @@
 	- Increase output from the heart and liberate glucose from the muscles for additional energy
 - Also releases *cortisol*
 	- Increases in metabolism, glucose availability, and blood supply to the skeletal muscles
+## Hypothalamus-Pituitary-Adrenal Axis
+- Hypothalamus releases **corticotropin-releasing hormone (CRH)**
+- CRH stimulates the synthesis and release of **adrenocorticotropic hormone** (ACTH) from the **pituitary gland**
+- ACTH binds to the **adrenal cortex** and triggers release of **cortisol, epinephrine, and norepinephrine**
+- Triggers stress-reducing response from target organs
+	- Decreases subsequent release of hormones in this pathway
+![[Pasted image 20240307101348.png|500]]
+## Stress and Our Immune System
+- **Leukocytes (white blood cells):** recognize invaders by the unique proteins (antigens) that every cell has on its surface and kills them
+	- **Macrophage:** ingests invaders and displays foreign antigens
+	- **T cells:** attracted by specific antigens
+	- **B cells:** produce antibodies that attack a particular cell type
+- **Natural killer cells:** attack and destroy certain kinds of cancer cells and cells infected with viruses
+	- Less specific in their targets than T or B cells
+- Central nervous system is protected from most infectious agents by the blood- brain barrier
+	- **Microglia** act like macrophages vs any agents that get through
+![[Pasted image 20240307101520.png]]
+## Stress as a Negative Response
+- Prolonged stress has negative side effects:
+	- Memory interference
+	- Appetite changes
+	- Diminished sexual desire and performance
+	- Depleted energy
+	- Disrupted mood
+	- Compromised immune system
+	- Worsened concentration
+![[Pasted image 20240307101606.png]]
+- **Sudden cardiac death:** excessive sympathetic activity with stress sends heart into fibrillation, contracting so rapidly that it pumps little or no blood
+- Chronic stress can produce structural and functional degeneration in the brain
+	- ![[Pasted image 20240307101703.png]]
+## Social, Personality, & Genetic Factors
+- Associations have been found between personality traits and vulnerability for or protection against disease
+- Type D “distressed” personality linked to increased risk of cardiovascular disease
+- Introverted HIV-infected individuals may have up to eight times higher viral load
+- People with a strong support network are healthier and live longer
