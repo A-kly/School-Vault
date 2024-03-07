@@ -58,3 +58,5 @@
 	- Basal ganglia involved in motor functions
 - **Anterior cingulate cortex (ACC):** brain structure best known for roles in attention, decision-making, and impulse control
 	- Also plays major role in emotion
+# Stress, Immunity, and Health
+
