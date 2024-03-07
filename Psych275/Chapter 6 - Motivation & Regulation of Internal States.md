@@ -102,6 +102,8 @@
 	- 10% reduction also associated with reduced risk for chronic disease
 - Some weight loss interventions are drastic, but standard treatment remains dietary restriction
 - Serotonin could play a role in weight control
+	- When you eat carbs, it increases serotonin levels, which inhibits your desire to eat carbs
+	- 
 - Psychological therapeutic approaches treat out-of-control eating as an addictive behavior
 ## Anorexia, Bulimia, & Binge Eating
 - **Anorexia nervosa:** eating disorder known as “starving disease” wherein the individual restricts food intake to maintain weight at a level so low it threatens health
