@@ -53,4 +53,8 @@
 	- Rats with a damaged amygdala will approach and interact with a sedated cat
 	- Patients with bilateral amygdala damage do not experience traditional fear responses to external stimuli
 ![[Pasted image 20240307094235.png|500]]
-
+- **Insular cortex and basal ganglia involved in disgust**
+	- Insula is the cortical projection site for taste
+	- Basal ganglia involved in motor functions
+- **Anterior cingulate cortex (ACC):** brain structure best known for roles in attention, decision-making, and impulse control
+	- Also plays major role in emotion
