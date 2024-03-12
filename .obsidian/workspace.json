@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ceb990875d8443b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psych275/Exam review.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md"
+                "file": "Psych275/Exam review.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md",
+                "file": "Psych275/Exam review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md",
+                "file": "Psych275/Exam review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "dc9ccc499d7c1665",
+  "active": "ceb990875d8443b9",
   "lastOpenFiles": [
-    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
+    "Psych275/Exam review.md",
+    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Media/Pasted image 20240307102656.png",
     "Psych275/Media/Pasted image 20240307102506.png",
     "Psych275/Media/Pasted image 20240307101917.png",
