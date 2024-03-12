@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66384e19c8726ad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc9ccc499d7c1665",
             "type": "leaf",
             "state": {
@@ -99,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md"
+                "file": "Psych275/Chapter 8 - Emotions and Health.md"
               }
             }
           },
@@ -121,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+                "file": "Psych275/Chapter 8 - Emotions and Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+                "file": "Psych275/Chapter 8 - Emotions and Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,8 +169,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "66384e19c8726ad2",
+  "active": "dc9ccc499d7c1665",
   "lastOpenFiles": [
+    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Media/Pasted image 20240307102656.png",
     "Psych275/Media/Pasted image 20240307102506.png",
@@ -195,7 +183,6 @@
     "Psych275/Media/Pasted image 20240307094235.png",
     "Psych275/Media/Pasted image 20240307094131.png",
     "Psych275/Media/Pasted image 20240307094028.png",
-    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",

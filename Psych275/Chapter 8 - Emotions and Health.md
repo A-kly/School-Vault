@@ -118,7 +118,7 @@
 	- Pain is evaluated and responses to the painful situation are planned
 # Aggression
 - **Aggression:** forceful or assertive behavior that is intended to harm or control another
-	- **Predatory aggression:** aggression that occurs when an animal attacks and kills its prey or when a human makes a premeditated, unprovoked attack on another
+	- **Predatory aggression:** aggression that occurs when an *animal* attacks and kills its prey or when a *human* makes a premeditated, unprovoked attack on another
 	- **Affective aggression:** aggression characterized by its impulsiveness and emotional arousal
 	- **Proactive (instrumental) aggression:** aggression that is unprovoked and emotionless, and is intended to bring about some gain for the aggressor
 	- **Reactive (impulsive) aggression:** aggression that occurs in response to a threat, real or imagined, and is characterized by heightened emotionality
