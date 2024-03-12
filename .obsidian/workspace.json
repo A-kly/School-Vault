@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77a62a2e9e734ab4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "66384e19c8726ad2",
             "type": "leaf",
             "state": {
@@ -110,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md"
+              }
             }
           },
           {
@@ -131,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +182,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "77a62a2e9e734ab4",
+  "active": "66384e19c8726ad2",
   "lastOpenFiles": [
     "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Media/Pasted image 20240307102656.png",
