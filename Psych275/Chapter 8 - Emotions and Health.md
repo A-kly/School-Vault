@@ -136,7 +136,7 @@
 ![[Pasted image 20240307102506.png|500]]
 - **Serotonin:** conventionally inhibitory, suppressing motivated behaviors
 	- Research suggests role in aggression is no different
-	- Low serotonin linked to impulsive aggression
+	- Low serotonin linked to impulsive aggression (when it it paired with high testosterone)
 - **Cortisol** is also inhibitory to aggression
 	- Male prisoners with low cortisol had high levels of calculating and unemotional aggression
 - One hypothesis suggests testosterone, cortisol, and serotonin interreact to determine whether and how aggression will occur
