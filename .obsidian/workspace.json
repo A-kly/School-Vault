@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Flashcards.md"
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md"
               }
             }
           },
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Flashcards.md",
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Flashcards.md",
+                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,12 +222,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fb7165ca643df20a",
+  "active": "ceb990875d8443b9",
   "lastOpenFiles": [
-    "Psych275/Exam review.md",
-    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
-    "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Flashcards.md",
+    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+    "Psych275/Exam review.md",
+    "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Media/Pasted image 20240206100542.png",
