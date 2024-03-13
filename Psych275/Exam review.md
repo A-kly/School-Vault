@@ -51,9 +51,9 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]] #AOSR/4pc
 ***
 **Addiction ::** *preoccupation* with obtaining a drug, *compulsive use*, and a *tendency to relapse* after quitting #AOSR/4pc5o/s/ds5v
 ***
-**Withdrawal ::** negative reaction when drug use is stopped
+**Withdrawal ::** negative reaction when drug use is stopped #AOSR/4pc5o/s/7lh0
 ***
-**Opiate** :: Natural narcotic opioid alkyloids found in the opium poppy (Papaver somniferum)
+**Opiate** :: Natural narcotic opioid alkyloids found in the opium poppy (Papaver somniferum) #AOSR/4pc5o/s/14eg
 ***
 **Opioid** :: Any natural or synthetic compound or the *endogenous peptides* that exert biological effects at the opioid receptors #AOSR/4pc5o/s/6li5
 ***
@@ -73,23 +73,23 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]] #AOSR/4pc
 ***
 **Cocaine::** drug extracted from South American coca plant—produces euphoria, decreases appetite, increases alertness, and relieves fatigue #AOSR/4pc5o/s/5c1i
 ***
-**Amphetamines::** group of synthetic drugs that produce euphoria and increase confidence and concentration
+**Amphetamines::** group of synthetic drugs that produce euphoria and increase confidence and concentration #AOSR/4pc5o/s/740m
 ***
 **Bath salts::** variety of synthetic drugs related to cathinone, a stimulant found in the khat (Catha edulis) plant #AOSR/4pc5o/s/6dac
 ***
 **Nicotine::** primary psychoactive and addictive agent in tobacco #AOSR/4pc5o/s/7si7
 ***
-**Caffeine::** active ingredient in coffee and tea, which produces arousal, increased alertness, and decreased sleepiness
+**Caffeine::** active ingredient in coffee and tea, which produces arousal, increased alertness, and decreased sleepiness #AOSR/4pc5o/s/1svb
 ***
 **Psychedelic Drugs:** compounds that cause perceptual distortions in the user
 ***
-Serotonergic :: Act on serotonin receptors, LSD, Magic mushrooms
+Serotonergic :: Act on serotonin receptors, LSD, Magic mushrooms #AOSR/4pc5o/s/6o3i
 ***
 Catecholaminergic :: Act on dopamine, norepinephrine and epinephrine, ++ Also stimulants ++ Ecstasy, MDMA #AOSR/4pc5o/s/263u
 ***
 NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp #AOSR/4pc5o/s/2al4
 ***
-Designer drugs ::Very dangerous, made in lab
+Designer drugs ::Very dangerous, made in lab #AOSR/4pc5o/s/2cfg
 ***
 **Marijuana::** dried and crushed leaves and flowers of the plant Cannabis sativa #AOSR/4pc5o/s/1bd8
 ***
@@ -99,17 +99,17 @@ Designer drugs ::Very dangerous, made in lab
 ***
 Addiction creates........  :: functional and structural changes in the brain that persist long after drug usage stops #AOSR/4pc5o/s/z308
 ***
-**Mesocorticolimbic dopamine system::** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus
+**Mesocorticolimbic dopamine system::** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus #AOSR/4pc5o/s/77mo
 ***
 **Hypofrontality::** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment #AOSR/4pc5o/s/7h99
 ***
 **Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence #AOSR/4pc5o/s/7lcs
 ***
-*Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone==, synthetic opioid used to treat opioid addiction #AOSR/4pc5o/s/781i
+*Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone== #AOSR/4pc5o/c/4iv4 , synthetic opioid used to treat opioid addiction #AOSR/4pc5o/s/781i
 ***
 *Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone== #AOSR/4pc5o/c/6d68 
 ***
-*Aversive treatments* :: cause negative reaction when person takes drug
+*Aversive treatments* :: cause negative reaction when person takes drug #AOSR/4pc5o/s/3cos
 ***
 *Antidrug vaccines* :: molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug #AOSR/4pc5o/s/198s
 ***
