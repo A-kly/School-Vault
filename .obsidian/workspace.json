@@ -72,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Q",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +119,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md"
+                "file": "Psych275/Flashcards.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+                "file": "Psych275/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+                "file": "Psych275/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,11 +222,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ceb990875d8443b9",
+  "active": "fb7165ca643df20a",
   "lastOpenFiles": [
+    "Psych275/Exam review.md",
     "Psych275/Flashcards.md",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
-    "Psych275/Exam review.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",

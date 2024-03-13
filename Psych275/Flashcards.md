@@ -128,3 +128,5 @@ Blood-brain barrier:: *In Arachnoid layer*, Protects brain from blood toxins, **
 Afferent::nerves going toward the CNS #AOSR/n2c6i/s/f016
 ***
 Efferent::nerves going away from the CNS #AOSR/n2c6i/s/vsf3
+***
+Brain imaging strategies/types :: 

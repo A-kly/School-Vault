@@ -118,7 +118,7 @@
 	- Suitable for repeated measurements
 	- Good spatial resolution
 	- Alternative to PET scans
-	- Costly due to expense of equipment
+		- Costly due to expense of equipment
 ![[Pasted image 20240206100656.png]]
 ![[Pasted image 20240206100744.png]]
 - Brain imaging is the main experimental technique in neuroscience

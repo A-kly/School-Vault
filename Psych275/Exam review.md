@@ -37,3 +37,5 @@ Lesioning ::  surgical damaging of neural tissue ++ *often done by injecting aci
 ***
 Transcranial magnetic stimulation (TMS) ::  noninvasive technique using a magnet coil to induce a voltage ++ Device held over scalp and pulsed at varying rates ++ Valuable in both research and therapeutically ++ Transcranial direct current stimulation (tDCS) ++ 	*uses electricity instead of magnet* ++ 	*targets astrocites instead of neurons* #AOSR/4pc5o/s/5pm5
 ***
+![[Pasted image 20240206100744.png]]
+***
