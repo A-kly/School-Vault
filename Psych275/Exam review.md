@@ -91,7 +91,17 @@ NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp
 ***
 Designer drugs ::Very dangerous, made in lab
 ***
-**Marijuana:** dried and crushed leaves and flowers of the plant Cannabis sativa
+**Marijuana::** dried and crushed leaves and flowers of the plant Cannabis sativa
 ***
-**Cannabinoid:** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
+**Cannabinoid::** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
+***
+**Mesolimbic pathway::** reward circuit ++ Ventral tegmental area ++ Nucleus accumbens ++ ![[Pasted image 20240213100432.png|400]]
+***
+Addiction creates........  :: functional and structural changes in the brain that persist long after drug usage stops
+***
+**Mesocorticolimbic dopamine system::** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus
+***
+**Hypofrontality::** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment
+***
+**Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence
 ***

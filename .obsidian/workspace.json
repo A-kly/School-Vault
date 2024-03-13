@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Exam review.md"
+                "file": "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,10 +216,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fb7165ca643df20a",
+  "active": "c0ca0733b4e61873",
   "lastOpenFiles": [
-    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Exam review.md",
+    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Flashcards.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
