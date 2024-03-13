@@ -107,7 +107,7 @@ Addiction creates........  :: functional and structural changes in the brain tha
 ***
 *Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone== #AOSR/4pc5o/c/4iv4 , synthetic opioid used to treat opioid addiction #AOSR/4pc5o/s/781i
 ***
-*Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone== #AOSR/4pc5o/c/6d68 
+*Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone== #AOSR/4pc5o/c/6d68  #AOSR/4pc5o/s/3ph1
 ***
 *Aversive treatments* :: cause negative reaction when person takes drug #AOSR/4pc5o/s/3cos
 ***
