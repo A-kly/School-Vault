@@ -55,27 +55,27 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]] #AOSR/4pc
 ***
 **Opiate** :: Natural narcotic opioid alkyloids found in the opium poppy (Papaver somniferum)
 ***
-**Opioid** :: Any natural or synthetic compound or the *endogenous peptides* that exert biological effects at the opioid receptors
+**Opioid** :: Any natural or synthetic compound or the *endogenous peptides* that exert biological effects at the opioid receptors #AOSR/4pc5o/s/6li5
 ***
 **Heroin::** most notoriously abused opiate; synthesized from morphine #AOSR/4pc5o/s/6av8
 ***
-**Endogenous endorphins::** body’s own neurotransmitters for receptors opioid drugs act on ++ **Endogenous:** generated within the body ++ **Endorphins:** endogenous opioids
+**Endogenous endorphins::** body’s own neurotransmitters for receptors opioid drugs act on ++ **Endogenous:** generated within the body ++ **Endorphins:** endogenous opioids #AOSR/4pc5o/s/350s
 ***
 **Depressants::** drugs that reduce CNS activity ++ Sedative ++ Anxiolytic ++ Hypnotic ++ Alcohol, barbiturates, and benzodiazepines are all types of depressants #AOSR/4pc5o/s/1lg0
 ***
-**Delirium tremens::** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death
+**Delirium tremens::** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death #AOSR/4pc5o/s/3olb
 ***
-**Barbiturates::** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior
+**Barbiturates::** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior #AOSR/4pc5o/s/25va
 ***
 **Benzodiazepines::** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation #AOSR/4pc5o/s/76st
 ***
-**Stimulants::** drugs that activate CNS to produce arousal, increased alertness, and elevated mood ++ Cocaine ++ Amphetamines ++ Nicotine ++ Caffeine
+**Stimulants::** drugs that activate CNS to produce arousal, increased alertness, and elevated mood ++ Cocaine ++ Amphetamines ++ Nicotine ++ Caffeine #AOSR/4pc5o/s/5hmh
 ***
 **Cocaine::** drug extracted from South American coca plant—produces euphoria, decreases appetite, increases alertness, and relieves fatigue #AOSR/4pc5o/s/5c1i
 ***
 **Amphetamines::** group of synthetic drugs that produce euphoria and increase confidence and concentration
 ***
-**Bath salts::** variety of synthetic drugs related to cathinone, a stimulant found in the khat (Catha edulis) plant
+**Bath salts::** variety of synthetic drugs related to cathinone, a stimulant found in the khat (Catha edulis) plant #AOSR/4pc5o/s/6dac
 ***
 **Nicotine::** primary psychoactive and addictive agent in tobacco #AOSR/4pc5o/s/7si7
 ***
@@ -85,15 +85,15 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]] #AOSR/4pc
 ***
 Serotonergic :: Act on serotonin receptors, LSD, Magic mushrooms
 ***
-Catecholaminergic :: Act on dopamine, norepinephrine and epinephrine, ++ Also stimulants ++ Ecstasy, MDMA
+Catecholaminergic :: Act on dopamine, norepinephrine and epinephrine, ++ Also stimulants ++ Ecstasy, MDMA #AOSR/4pc5o/s/263u
 ***
-NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp
+NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp #AOSR/4pc5o/s/2al4
 ***
 Designer drugs ::Very dangerous, made in lab
 ***
 **Marijuana::** dried and crushed leaves and flowers of the plant Cannabis sativa #AOSR/4pc5o/s/1bd8
 ***
-**Cannabinoid::** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
+**Cannabinoid::** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG) #AOSR/4pc5o/s/4kfu
 ***
 **Mesolimbic pathway::** reward circuit ++ Ventral tegmental area ++ Nucleus accumbens ++ ![[Pasted image 20240213100432.png|400]] #AOSR/4pc5o/s/44bk
 ***
@@ -101,17 +101,17 @@ Addiction creates........  :: functional and structural changes in the brain tha
 ***
 **Mesocorticolimbic dopamine system::** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus
 ***
-**Hypofrontality::** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment
+**Hypofrontality::** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment #AOSR/4pc5o/s/7h99
 ***
 **Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence #AOSR/4pc5o/s/7lcs
 ***
 *Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone==, synthetic opioid used to treat opioid addiction #AOSR/4pc5o/s/781i
 ***
-*Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone==
+*Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone== #AOSR/4pc5o/c/6d68 
 ***
 *Aversive treatments* :: cause negative reaction when person takes drug
 ***
-*Antidrug vaccines* :: molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug
+*Antidrug vaccines* :: molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug #AOSR/4pc5o/s/198s
 ***
 **Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
 ***
