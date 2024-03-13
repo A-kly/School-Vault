@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Flashcards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#/Q",
+                "query": "tag:#Q",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +119,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Exam review.md"
+                "file": "Psych275/Flashcards.md"
               }
             }
           },
@@ -161,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +225,8 @@
   },
   "active": "fb7165ca643df20a",
   "lastOpenFiles": [
-    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Exam review.md",
+    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Flashcards.md",
     "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",

@@ -16,7 +16,7 @@
 }
 ```
 
-#Q #AOSR/qqs08
+#AOSR/qqs08
 Dorsal:: toward the back #AOSR/qqs08/s/50jc
 ***
 Ventral:: toward the stomach  #AOSR/qqs08/s/66n6
@@ -61,14 +61,14 @@ Sulcus:: groove or space between two gyri #AOSR/qqs08/s/3msi
 ***
 Fissure:: large groove or space between two gyri, extra big Suculus #AOSR/qqs08/s/4s8g
 
-#Q #AOSR/25hch
+#AOSR/25hch
 Cortex
 ? #AOSR/25hch/m/1f2i
 outer surface of brain; literally, “bark” 
 - more surface area because of more gyri and sulci = more cortex = more high level thinking
 #/Q
 
-#Q  #AOSR/n2c6i
+  #AOSR/n2c6i
 Precentral gyrus :: (Motor cortex), Frontal lobe #AOSR/n2c6i/s/24j8
 ***
 Broca's area :: Speech formation, *Only on left hemisphere of frontal lobe* #AOSR/n2c6i/s/4jr2
