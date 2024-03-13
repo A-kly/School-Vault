@@ -37,19 +37,19 @@ Lesioning ::  surgical damaging of neural tissue ++ *often done by injecting aci
 ***
 Transcranial magnetic stimulation (TMS) ::  noninvasive technique using a magnet coil to induce a voltage ++ Device held over scalp and pulsed at varying rates ++ Valuable in both research and therapeutically ++ Transcranial direct current stimulation (tDCS) ++ 	*uses electricity instead of magnet* ++ 	*targets astrocites instead of neurons* #AOSR/4pc5o/s/5pm5
 ***
-Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]]
+Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]] #AOSR/4pc5o/s/7t50
 ***
-**Genetic engineering ::** manipulating an organism’s genes
+**Genetic engineering ::** manipulating an organism’s genes #AOSR/4pc5o/s/4j4g
 ***
-**Knockout technique ::** nonfunctioning mutation introduced into gene, then transferred to embryos
+**Knockout technique ::** nonfunctioning mutation introduced into gene, then transferred to embryos #AOSR/4pc5o/s/juro
 ***
-**Knockdown technique ::** silencing a gene by interfering with its expression ++ **Antisense RNA:** complementary strand of RNA which binds to mRNA to block gene expression
+**Knockdown technique ::** silencing a gene by interfering with its expression ++ **Antisense RNA:** complementary strand of RNA which binds to mRNA to block gene expression #AOSR/4pc5o/s/707c
 ***
-**Dependence ::** need to keep taking a drug to avoid withdrawal ++ Physical dependence ++ Psychological dependence
+**Dependence ::** need to keep taking a drug to avoid withdrawal ++ Physical dependence ++ Psychological dependence #AOSR/4pc5o/s/ob2r
 ***
-**Tolerance ::** more of the drug required to produce same effects
+**Tolerance ::** more of the drug required to produce same effects #AOSR/4pc5o/s/6t6d
 ***
-**Addiction ::** *preoccupation* with obtaining a drug, *compulsive use*, and a *tendency to relapse* after quitting
+**Addiction ::** *preoccupation* with obtaining a drug, *compulsive use*, and a *tendency to relapse* after quitting #AOSR/4pc5o/s/ds5v
 ***
 **Withdrawal ::** negative reaction when drug use is stopped
 ***
@@ -57,27 +57,27 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]]
 ***
 **Opioid** :: Any natural or synthetic compound or the *endogenous peptides* that exert biological effects at the opioid receptors
 ***
-**Heroin::** most notoriously abused opiate; synthesized from morphine
+**Heroin::** most notoriously abused opiate; synthesized from morphine #AOSR/4pc5o/s/6av8
 ***
 **Endogenous endorphins::** body’s own neurotransmitters for receptors opioid drugs act on ++ **Endogenous:** generated within the body ++ **Endorphins:** endogenous opioids
 ***
-**Depressants::** drugs that reduce CNS activity ++ Sedative ++ Anxiolytic ++ Hypnotic ++ Alcohol, barbiturates, and benzodiazepines are all types of depressants
+**Depressants::** drugs that reduce CNS activity ++ Sedative ++ Anxiolytic ++ Hypnotic ++ Alcohol, barbiturates, and benzodiazepines are all types of depressants #AOSR/4pc5o/s/1lg0
 ***
 **Delirium tremens::** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death
 ***
 **Barbiturates::** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior
 ***
-**Benzodiazepines::** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation
+**Benzodiazepines::** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation #AOSR/4pc5o/s/76st
 ***
 **Stimulants::** drugs that activate CNS to produce arousal, increased alertness, and elevated mood ++ Cocaine ++ Amphetamines ++ Nicotine ++ Caffeine
 ***
-**Cocaine::** drug extracted from South American coca plant—produces euphoria, decreases appetite, increases alertness, and relieves fatigue
+**Cocaine::** drug extracted from South American coca plant—produces euphoria, decreases appetite, increases alertness, and relieves fatigue #AOSR/4pc5o/s/5c1i
 ***
 **Amphetamines::** group of synthetic drugs that produce euphoria and increase confidence and concentration
 ***
 **Bath salts::** variety of synthetic drugs related to cathinone, a stimulant found in the khat (Catha edulis) plant
 ***
-**Nicotine::** primary psychoactive and addictive agent in tobacco
+**Nicotine::** primary psychoactive and addictive agent in tobacco #AOSR/4pc5o/s/7si7
 ***
 **Caffeine::** active ingredient in coffee and tea, which produces arousal, increased alertness, and decreased sleepiness
 ***
@@ -91,21 +91,21 @@ NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp
 ***
 Designer drugs ::Very dangerous, made in lab
 ***
-**Marijuana::** dried and crushed leaves and flowers of the plant Cannabis sativa
+**Marijuana::** dried and crushed leaves and flowers of the plant Cannabis sativa #AOSR/4pc5o/s/1bd8
 ***
 **Cannabinoid::** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
 ***
-**Mesolimbic pathway::** reward circuit ++ Ventral tegmental area ++ Nucleus accumbens ++ ![[Pasted image 20240213100432.png|400]]
+**Mesolimbic pathway::** reward circuit ++ Ventral tegmental area ++ Nucleus accumbens ++ ![[Pasted image 20240213100432.png|400]] #AOSR/4pc5o/s/44bk
 ***
-Addiction creates........  :: functional and structural changes in the brain that persist long after drug usage stops
+Addiction creates........  :: functional and structural changes in the brain that persist long after drug usage stops #AOSR/4pc5o/s/z308
 ***
 **Mesocorticolimbic dopamine system::** system consisting of ventral tegmental area and the brain regions receiving its dopaminergic projections, including nucleus accumbens, prefrontal cortex, amygdala, and hippocampus
 ***
 **Hypofrontality::** reduced activity in frontal regions that control working memory, behavioral inhibition, and response to environment
 ***
-**Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence
+**Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence #AOSR/4pc5o/s/7lcs
 ***
-*Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone==, synthetic opioid used to treat opioid addiction
+*Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone==, synthetic opioid used to treat opioid addiction #AOSR/4pc5o/s/781i
 ***
 *Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone==
 ***
