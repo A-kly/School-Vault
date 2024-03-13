@@ -37,5 +37,35 @@ Lesioning ::  surgical damaging of neural tissue ++ *often done by injecting aci
 ***
 Transcranial magnetic stimulation (TMS) ::  noninvasive technique using a magnet coil to induce a voltage ++ Device held over scalp and pulsed at varying rates ++ Valuable in both research and therapeutically ++ Transcranial direct current stimulation (tDCS) ++ 	*uses electricity instead of magnet* ++ 	*targets astrocites instead of neurons* #AOSR/4pc5o/s/5pm5
 ***
-![[Pasted image 20240206100744.png]]
+Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]]
 ***
+**Genetic engineering ::** manipulating an organism’s genes
+***
+**Knockout technique ::** nonfunctioning mutation introduced into gene, then transferred to embryos
+***
+**Knockdown technique ::** silencing a gene by interfering with its expression ++ **Antisense RNA:** complementary strand of RNA which binds to mRNA to block gene expression
+***
+**Dependence ::** need to keep taking a drug to avoid withdrawal ++ Physical dependence ++ Psychological dependence
+***
+**Tolerance ::** more of the drug required to produce same effects
+***
+**Addiction ::** *preoccupation* with obtaining a drug, *compulsive use*, and a *tendency to relapse* after quitting
+***
+**Withdrawal ::** negative reaction when drug use is stopped
+***
+**Opiate** :: Natural narcotic opioid alkyloids found in the opium poppy (Papaver somniferum)
+***
+**Opioid** :: Any natural or synthetic compound or the *endogenous peptides* that exert biological effects at the opioid receptors
+***
+**Heroin::** most notoriously abused opiate; synthesized from morphine
+***
+**Endogenous endorphins::** body’s own neurotransmitters for receptors opioid drugs act on ++ **Endogenous:** generated within the body ++ **Endorphins:** endogenous opioids
+***
+**Depressants:** drugs that reduce CNS activity
+	Sedative
+	Anxiolytic
+	Hypnotic
+Alcohol, barbiturates, and benzodiazepines are all types of depressants
+**Delirium tremens:** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death
+**Barbiturates:** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior
+**Benzodiazepines:** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation
