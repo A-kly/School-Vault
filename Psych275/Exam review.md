@@ -105,3 +105,13 @@ Addiction creates........  :: functional and structural changes in the brain tha
 ***
 **Incubation period::** After quitting, cravings steadily become worse over the next weeks and months until they start to become less again ++ Cravings persist after years of drug abstinence
 ***
+*Agonist treatments* :: Replace addicting drug with another drug with a similar effect ++ ==Methadone==, synthetic opioid used to treat opioid addiction
+***
+*Antagonist treatments* :: involve drugs that block effect of the addicting drug ++ ==Naloxone==
+***
+*Aversive treatments* :: cause negative reaction when person takes drug
+***
+*Antidrug vaccines* :: molecules that attach to the drug and stimulate immune system to make antibodies that will degrade the drug
+***
+**Comorbidity:** addiction often appears in combination with mental or emotional personality disorders which can complicate rehabilitation
+***
