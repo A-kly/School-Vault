@@ -61,11 +61,37 @@ Brain imaging strategies/types :: ![[Pasted image 20240206100744.png]]
 ***
 **Endogenous endorphins::** body’s own neurotransmitters for receptors opioid drugs act on ++ **Endogenous:** generated within the body ++ **Endorphins:** endogenous opioids
 ***
-**Depressants:** drugs that reduce CNS activity
-	Sedative
-	Anxiolytic
-	Hypnotic
-Alcohol, barbiturates, and benzodiazepines are all types of depressants
-**Delirium tremens:** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death
-**Barbiturates:** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior
-**Benzodiazepines:** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation
+**Depressants::** drugs that reduce CNS activity ++ Sedative ++ Anxiolytic ++ Hypnotic ++ Alcohol, barbiturates, and benzodiazepines are all types of depressants
+***
+**Delirium tremens::** severe reaction to alcohol withdrawal resulting in hallucinations, delusions, confusion, and in extreme cases seizures and possible death
+***
+**Barbiturates::** drugs that in small amounts act selectively on higher cortical centers, especially those involved in inhibiting behavior
+***
+**Benzodiazepines::** drugs that act at benzodiazepine receptor on the GABAA complex to produce anxiety reduction, sedation, and muscle relaxation
+***
+**Stimulants::** drugs that activate CNS to produce arousal, increased alertness, and elevated mood ++ Cocaine ++ Amphetamines ++ Nicotine ++ Caffeine
+***
+**Cocaine::** drug extracted from South American coca plant—produces euphoria, decreases appetite, increases alertness, and relieves fatigue
+***
+**Amphetamines::** group of synthetic drugs that produce euphoria and increase confidence and concentration
+***
+**Bath salts::** variety of synthetic drugs related to cathinone, a stimulant found in the khat (Catha edulis) plant
+***
+**Nicotine::** primary psychoactive and addictive agent in tobacco
+***
+**Caffeine::** active ingredient in coffee and tea, which produces arousal, increased alertness, and decreased sleepiness
+***
+**Psychedelic Drugs:** compounds that cause perceptual distortions in the user
+***
+Serotonergic :: Act on serotonin receptors, LSD, Magic mushrooms
+***
+Catecholaminergic :: Act on dopamine, norepinephrine and epinephrine, ++ Also stimulants ++ Ecstasy, MDMA
+***
+NMDA receptor agonists:: Glutimate (???) ++ ketamine, pcp
+***
+Designer drugs ::Very dangerous, made in lab
+***
+**Marijuana:** dried and crushed leaves and flowers of the plant Cannabis sativa
+***
+**Cannabinoid:** group of compounds including anandamide and 2-arachidonyl glycerol (2-AG)
+***
