@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fb7165ca643df20a",
+            "id": "c0ca0733b4e61873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Exam review.md",
+                "file": "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "c711c9a6630fce3f",
+            "id": "9088ced63054c221",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "dd67e28db71c2bff",
+            "id": "b1246d8f00ca875d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,8 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb7165ca643df20a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psych275/Flashcards.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md"
+                "file": "Psych275/Flashcards.md"
               }
             }
           },
@@ -147,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+                "file": "Psych275/Flashcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+                "file": "Psych275/Flashcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,14 +222,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "ceb990875d8443b9",
+  "active": "fb7165ca643df20a",
   "lastOpenFiles": [
     "Psych275/Exam review.md",
-    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Flashcards.md",
+    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
-    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Media/Pasted image 20240206100542.png",
     "Psych275/Media/Pasted image 20240307102656.png",
     "Psych275/Media/Pasted image 20240307102506.png",
