@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9088ced63054c221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b1246d8f00ca875d",
             "type": "leaf",
             "state": {
@@ -31,27 +18,6 @@
                 "backlinks": false,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "fb7165ca643df20a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Psych275/Exam review.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28521bcc72401bfd",
-            "type": "leaf",
-            "state": {
-              "type": "aosr-review-view",
-              "state": {}
             }
           }
         ]
@@ -120,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md"
+                "file": "Psych275/Chapter 8 - Emotions and Health.md"
               }
             }
           },
@@ -142,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+                "file": "Psych275/Chapter 8 - Emotions and Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+                "file": "Psych275/Chapter 8 - Emotions and Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,14 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "9088ced63054c221",
+  "active": "b1246d8f00ca875d",
   "lastOpenFiles": [
-    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Exam review.md",
+    "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Flashcards.md",
-    "Psych275/Chapter 8 - Emotions and Health.md",
     "Psych275/Media/Pasted image 20240206100542.png",
     "Psych275/Media/Pasted image 20240307102656.png",
     "Psych275/Media/Pasted image 20240307102506.png",
