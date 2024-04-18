@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md",
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md"
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md",
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Psych275/Chapter 8 - Emotions and Health.md",
+                "file": "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,18 @@
   },
   "active": "b1246d8f00ca875d",
   "lastOpenFiles": [
-    "Psych275/Exam review.md",
+    "Cmput361/Lecture 03 -.md",
+    "Cmput361/Lecture 02 - Tokenization.md",
+    "Cmput361/Lecture 01 - Foundations.md",
     "Psych275/Chapter 8 - Emotions and Health.md",
+    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Cmput301/What is Software Engineering about.md",
+    "Cmput301/Objects, UML, and Java.md",
+    "Cmput301/MVC and Android.md",
+    "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
+    "Cmput361/Lecture 00 - Syllabus.md",
+    "Psych275/Exam review.md",
     "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
@@ -187,17 +197,8 @@
     "Psych275/Media/Pasted image 20240307101348.png",
     "Psych275/Media/Pasted image 20240307094235.png",
     "Psych275/Media/Pasted image 20240307094131.png",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-    "Cmput301/Objects, UML, and Java.md",
-    "Cmput301/MVC and Android.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
-    "Cmput301/What is Software Engineering about.md",
-    "Cmput361/Lecture 03 -.md",
     "Markdown Cheat Sheet.md",
-    "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
-    "Cmput361/Lecture 02 - Tokenization.md",
-    "Cmput361/Lecture 01 - Foundations.md",
     "Cmput361/Lecture 02 - Tokenization",
     "Soc203/Lecture 0 - Syllabus and shit.md",
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
@@ -206,7 +207,6 @@
     "Psych275/().md",
     "Psych275/Media",
     "Psych275",
-    "Cmput361/Lecture 00 - Syllabus.md",
     "Cmput301/Media",
     "Cmput361/Media",
     "Cmput361",
