@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c7d2ff5520559852",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lol.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lol.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -122,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lol.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lol.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "c7d2ff5520559852",
+  "active": "b1246d8f00ca875d",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
     "lol.md",
+    "Markdown Cheat Sheet.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
     "Cmput361/Lecture 03 -.md",
     "Cmput361/Lecture 02 - Tokenization.md",
