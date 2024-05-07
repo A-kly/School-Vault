@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat Sheet.md"
+                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +171,10 @@
   },
   "active": "b1246d8f00ca875d",
   "lastOpenFiles": [
-    "lol.md",
     "Markdown Cheat Sheet.md",
+    "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239",
+    "lol.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
     "Cmput361/Lecture 03 -.md",
     "Cmput361/Lecture 02 - Tokenization.md",
@@ -215,8 +217,6 @@
     "CMPUT 379/Memory Management.md",
     "CMPUT 379/Message Passing.md",
     "CMPUT 379/Operating Systems Introduction.md",
-    "CMPUT 379/Synchronization.md",
-    "PSYCH 105/Media/Recording 20231005121726.webm",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]

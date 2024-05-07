@@ -1,1 +1,0 @@
-$$P(w’|y) = \frac{{1 + \sum_{d \in y} tf_{w’,d}}}{{\sum_{t’ \in V} (1 + \sum_{d \in y} tf_{t’,d})}}$$
