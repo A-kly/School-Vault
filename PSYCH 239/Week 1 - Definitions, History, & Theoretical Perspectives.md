@@ -114,4 +114,16 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Psychological Perspectives
 - Sociocultural Perspectives
 - Interactionists Perspectives (Biopsychological)
-## Bological Perspec
+## Biological Perspectives
+- Bio vs medical model
+	- We can adopt a biological oriented perspective without using the terminology of the medical model.
+	- A focus on biological factors does not require the medical model.
+## Genetics
+- Genome: *All the genetic material encoded in DNA*
+- DNA: *The molecular structure of the genome comprised of four organic compounds*
+- Human genome: 2.8 billion base pairs, 20-25 thousand base pairs
+- Genetic and Chromosomal disorders
+- Epigenome
+	- Ability to influence expression of genes
+	- Inherited and induced (acetylation) gene regulation
+- Stem Cells
