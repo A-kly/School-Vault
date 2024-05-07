@@ -63,5 +63,21 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "supsub:wrap-sub": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "supsub:wrap-sup": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": ","
+    }
   ]
 }

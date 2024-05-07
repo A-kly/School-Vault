@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b1246d8f00ca875d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "4ea3ea99d859e1ef",
             "type": "leaf",
             "state": {
@@ -28,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,8 +171,8 @@
   },
   "active": "4ea3ea99d859e1ef",
   "lastOpenFiles": [
-    "PSYCH 239/Flashcards.md",
     "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Flashcards.md",
     "Markdown Cheat Sheet.md",
     "PSYCH 239",
     "lol.md",
