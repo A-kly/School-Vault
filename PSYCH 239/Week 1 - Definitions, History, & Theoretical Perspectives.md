@@ -24,7 +24,27 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 ## Culture
 - Normal in one culture may be abnormal in another culture
 - Need to understand how different cultures experience different states of emotional distress, including depression and anxiety, rather than imposing out perspectives on them.
-- Failure to recognize cultureal differences can lead to inadequate and inaoorioruate treatment.
+- Failure to recognize cultural differences can lead to inadequate and inappropriate treatment.
 ## Context
 - Definition of abnormal behaviour depends a lot on context.
-	- Shirtless with body paint at sports gave v.s. at church
+	- Shirtless with body paint at sports gave vs. at church
+# Why study it?
+- Affects everyone in one way or another
+- When abnormal behaviour involves a disturbance in functioning and behaviour, they are classified as **psychological disorders**
+- 20% of Canadians will suffer from a psychological disorder in their lifetime
+# How common?
+- Anxiety: 30%
+- Mood: 20%
+- Substance Abuse: 15%
+- *Any disorder: 46%*
+# Risk Factors
+- Age
+- Education
+- Childhood Trauma
+- Current stress
+- Life events
+- Lack of social supports
+- Gender
+- Physical health
+- Genetic Predisposition
+- 
