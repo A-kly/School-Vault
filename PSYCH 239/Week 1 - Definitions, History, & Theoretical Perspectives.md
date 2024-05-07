@@ -219,4 +219,15 @@ Neurons have:
 # Psychological perspectives: Behaviourism
 ## Modern behaviourism: Environmental Adaptation
 ![[Pasted image 20240507170629.png]]
-- 
+- Pavlov
+	- When dogs heard the bells from opening the door, the dogs began salivating a hell of a lot without actually giving them food yet
+	- Conditioned stimulus evoked a conditioned response
+	- Two things not normally linked in nature, are put together, so organism comes to expect one from the other
+		- eg, traumatic event causes person to be anxious when entering a vehicle
+		- brain goes "vehicle = Hurt and harmed"
+		- PTSD
+- Watson
+	- Social processes can be reward or punishment
+- Thorndike & Skinner
+	- Classical conditioning (skinner boxes)
+## Pavlov conditioning

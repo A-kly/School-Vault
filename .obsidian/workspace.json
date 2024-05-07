@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat Sheet.md"
+                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,16 +192,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "acbac87655855083",
+  "active": "e142bfe8250f73b3",
   "lastOpenFiles": [
     "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239/Media/Pasted image 20240507170629.png",
     "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/Media/Pasted image 20240507165129.png",
     "PSYCH 239/Media/Pasted image 20240507163742.png",
     "PSYCH 239/Media/Pasted image 20240507162848.png",
     "PSYCH 239/Media/Pasted image 20240507162834.png",
-    "Markdown Cheat Sheet.md",
     "PSYCH 239/Media/Pasted image 20240507154931.png",
     "PSYCH 239/Media",
     "PSYCH 239/Flashcards.md",
