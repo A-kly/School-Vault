@@ -52,3 +52,13 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Two risk factors can induce an 4x increase in adverse outcomes
 - 4+ factors can induce 10x chance of mental disorder
 # Historical views
+Demonological model: **Not the person's fault, they are being inhabited/ controlled and they must be freed or remove the bad spiritual thing that is ailing them**
+- Medeval Times
+	- Demonological model
+	- Exorcism
+- Witchcraft
+	- Malleus Maleficarum
+		- *Maleficarum = gender neutral witch*
+		- *Malleus = hammer*
+		- This is a manual for "diagnosing" someone as a Maleficarum
+		- people were often tortured in 
