@@ -19,4 +19,4 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 5. is it maladaptive?
 6. is it dangerous to the person or others?
 
-# Factors affecting our 
+# Factors affecting our label of abnormal
