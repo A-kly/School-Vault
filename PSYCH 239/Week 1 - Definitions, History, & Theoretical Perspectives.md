@@ -79,4 +79,19 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Asylums in Europe & the New World
 	- Bedlam, London UK
 		- First Asylum for people with psychiatric disorders
-		- 
+		- People were not treated well
+			- Starved
+			- Sexually abused
+			- Chained to parts of their cell
+- The Reform Movement: Moral Therapy
+	- Philippe Pinel (France), William Tuke (England) & Dorthea Dix (Canada & USA)
+	- *"If these are Ill people, why would we be treating them this bad? We need to treat them like people, compassionately, and maybe they will improve"*
+	- Resulted in putting people back in the community, built the field of occupational therapy
+	- Eventually, these people were living on the streets as they were not given enough social support in life
+- Treatment takes a step backwards
+	- Mental institutions move to custodial care
+- The Community Mental Health Movement in Canada
+	- Canada Mental Health Association, 1963
+	- Deinstitutionalization
+	- Pharmacology & Phenothiazines
+		- First generation antipsychotics
