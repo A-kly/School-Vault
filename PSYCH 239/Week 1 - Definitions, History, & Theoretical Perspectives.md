@@ -157,4 +157,8 @@ Neurons have:
 	- Conscious
 		- Currently in brain
 	- Shitty understanding
-- Gain insights into the unconscious mind from hearing what they have to say and then telling them what 
+- Gain insights into the unconscious mind from hearing what they have to say and then telling them what defense mechanisms that you need to get rid of
+- ![[Pasted image 20240507163742.png]]
+	- *Id:* Stupid, wants the most pleasure and the least pain, doesn't care about whatever else
+	- *Ego:* refferee, makes peace between *Id* and *Super Ego*, maintains a peace bond between them
+	- *Super Ego:* Learned from socialization, contains socialized values, fights *Id* in order to maintain normal function
