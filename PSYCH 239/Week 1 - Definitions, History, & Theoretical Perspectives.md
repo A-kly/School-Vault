@@ -127,3 +127,18 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 	- Ability to influence expression of genes
 	- Inherited and induced (acetylation) gene regulation
 - Stem Cells
+# Nervous system
+Neurons have:
+- Soma 
+- Dendrites
+- Axon
+- Terminals
+- Knobs
+![[Pasted image 20240507162834.png]]
+![[Pasted image 20240507162848.png]]
+- Certain neurotransmitters have a massive influence on certain psychiatric disorders
+	- Dopamine hypothesis: Schizophrenia
+	- Serotonin: Depression
+		- Reuptake inhibitors (yippie)
+			- SSRIS (Prozac)
+# WH
