@@ -162,3 +162,19 @@ Neurons have:
 	- *Id:* Stupid, wants the most pleasure and the least pain, doesn't care about whatever else
 	- *Ego:* refferee, makes peace between *Id* and *Super Ego*, maintains a peace bond between them
 	- *Super Ego:* Learned from socialization, contains socialized values, fights *Id* in order to maintain normal function
+	- Identification
+		- Morally attach yourself to an important person in your life
+		- Used by a person to match behaviour to said individual
+		- When they fail at this, we must treat them
+		- They need to regress psychologically in order for them to start doing the thing right and emulating proper behaviour
+## Stages
+1. Oral stage
+	1. oral fixation
+		- Can't control "consuming" impulses and this they need to work on that
+		- alcoholism, stealing, binge eating
+1. Anal Stage
+	1. Retentive and expulsive traits
+		- Crave the 
+2. Phalic Stage
+	1. Oedipus/Electra Complex
+	2. Castration anxiety
