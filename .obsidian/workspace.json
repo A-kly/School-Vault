@@ -11,13 +11,8 @@
             "id": "b1246d8f00ca875d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md"
-              }
+              "state": {}
             }
           },
           {
@@ -108,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,8 +162,8 @@
   },
   "active": "b1246d8f00ca875d",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
     "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239",
     "lol.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
