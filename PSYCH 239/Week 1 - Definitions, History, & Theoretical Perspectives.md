@@ -106,6 +106,12 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 	- Hypnosis and Hysteria: Charcot
 		- Hysteria: *stupid understanding of women's psychology and a bias in diagnosis towards women lead to this concept*
 	- Psychodynamic model & Catharsis: Freud
-		- "there is not necessarily a physical underlying issue with mental illness and "
+		- *"there is not necessarily a physical underlying issue with mental illness and therefore, non physical treatment can also be affective"*
 - Sociocultural Model
 	- Thomas Szasz: The Myth of Mental Illness
+# Current perspectives on abnormal behaviour
+- Biological perspectives 
+- Psychological Perspectives
+- Sociocultural Perspectives
+- Interactionists Perspectives (Biopsychological)
+## Bological Perspec
