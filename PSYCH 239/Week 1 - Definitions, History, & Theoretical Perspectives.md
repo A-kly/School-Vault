@@ -230,4 +230,21 @@ Neurons have:
 	- Social processes can be reward or punishment
 - Thorndike & Skinner
 	- Classical conditioning (skinner boxes)
-## Pavlov conditioning
+## Classical conditioning
+- Conditioned response (CR)
+- Unconditioned stimulus (US)
+- Conditioned stimulus (CS)
+- Unconditioned Response (UR)
+
+Pavlov Setup
+- ![[Pasted image 20240507171231.png|300]]
+- Food happens no matter what, only association is established
+
+![[Pasted image 20240507171428.png]]
+## Operant Conditioning
+- Reward only happens when positive behaviour is observed, association and *cause* can be established
+- Reinforcement & reward
+- Positive & Negative reinforcers
+- Primary & Secondary Reinforcers
+- Punishment: Positive Punishment & Negative Punishment
+
