@@ -52,7 +52,10 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Two risk factors can induce an 4x increase in adverse outcomes
 - 4+ factors can induce 10x chance of mental disorder
 # Historical views
-Demonological model: **Not the person's fault, they are being inhabited/ controlled and they must be freed or remove the bad spiritual thing that is ailing them**
+- **Demonological model:** *Not the person's fault, they are being inhabited/ controlled and they must be freed or remove the bad spiritual thing that is ailing them*
+	- Not originating in Medeval times
+	- Trephining: *Holes cut in the head in order to vent something out of the person, demon, spirit or something else.*
+
 - Medeval Times
 	- Demonological model
 	- Exorcism
@@ -61,4 +64,10 @@ Demonological model: **Not the person's fault, they are being inhabited/ control
 		- *Maleficarum = gender neutral witch*
 		- *Malleus = hammer*
 		- This is a manual for "diagnosing" someone as a Maleficarum
-		- people were often tortured in 
+		- people were often tortured when they were "found out"
+		- Demonological model + control over those demons by the Maleficarum
+		- Based a lot on finding a cause
+
+- Medical Model: *A normally functioning individual is not broken, an abnormally behaving individual has something broken in them and in order to treat we can fix that thing*
+
+- 
