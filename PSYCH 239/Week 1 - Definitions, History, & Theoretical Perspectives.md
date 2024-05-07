@@ -99,4 +99,13 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 		- THEN used as a treatment for the positive symptoms of Schizophrenia
 		- THEN we realized the foggy, unclear thinking and delusions and hallucinations were also treated 
 	- Psychiatric homeless
-# Pathways to the present
+# Pathways to the present : From Demonological to Science
+- Medical model:
+	- Emil Kraepelin & Dementia praecox
+- Psychological Models
+	- Hypnosis and Hysteria: Charcot
+		- Hysteria: *stupid understanding of women's psychology and a bias in diagnosis towards women lead to this concept*
+	- Psychodynamic model & Catharsis: Freud
+		- "there is not necessarily a physical underlying issue with mental illness and "
+- Sociocultural Model
+	- Thomas Szasz: The Myth of Mental Illness
