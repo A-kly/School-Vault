@@ -21,6 +21,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "bc70a706b9b40758",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0472d4fc2a9f1ef2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,9 +187,10 @@
   },
   "active": "4ea3ea99d859e1ef",
   "lastOpenFiles": [
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/Lecture 1 - Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/Flashcards.md",
     "Markdown Cheat Sheet.md",
+    "PSYCH 239/Flashcards.md",
     "PSYCH 239",
     "lol.md",
     "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
@@ -214,7 +231,6 @@
     "Cmput301/Media",
     "Cmput361/Media",
     "Cmput361",
-    "Cmput301",
     "CMPUT 379/Memory Management.md",
     "Untitled.canvas",
     "The game/Map.canvas"
