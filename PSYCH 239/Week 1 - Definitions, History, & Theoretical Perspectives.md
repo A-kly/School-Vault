@@ -188,5 +188,4 @@ Neurons have:
 	- Balanced and healthy way to regulate behaviours
 ## Defense mechanisms
 ![[Pasted image 20240507165129.png]]
-- Most psychodynamic theorists, that aren't Freud, have something like this that are 
-
+- Most psychodynamic theorists, that aren't Freud, have something like this that is more simple
