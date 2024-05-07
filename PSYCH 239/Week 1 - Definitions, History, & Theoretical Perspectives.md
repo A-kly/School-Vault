@@ -189,3 +189,19 @@ Neurons have:
 ## Defense mechanisms
 ![[Pasted image 20240507165129.png]]
 - Most psychodynamic theorists, that aren't Freud, have something like this that is more simple
+## More theorists
+- Carl Jung : Analytical Psychology
+	- Archetypes
+		- Genetically inherited
+		- Persona
+			- way we present ourselves outwardly to people
+		- Shadow
+			- sex, instinct, unconscious mind, repressed ideas, weaknesses, desires, instincts
+		- Anamus
+			- Complimentary gender opposite of you
+			- in eastern tradition, Yin and Yang
+			- opposite gender "side" of a person
+		- Self
+			- Unified conciousness and unconscioisness
+	- Collective unconscious
+		- 
