@@ -18,5 +18,9 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 4. does it cause personal distress?
 5. is it maladaptive?
 6. is it dangerous to the person or others?
+- **This is all important in order for us to quantify "exactly" what abnormal behaviour is** 
 
 # Factors affecting our label of abnormal
+## Culture
+- Normal in one culture may be abnormal in another culture
+- Need to understand how differet ciltures experienve diff
