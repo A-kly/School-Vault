@@ -23,4 +23,8 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 # Factors affecting our label of abnormal
 ## Culture
 - Normal in one culture may be abnormal in another culture
-- Need to understand how differet ciltures experienve diff
+- Need to understand how different cultures experience different states of emotional distress, including depression and anxiety, rather than imposing out perspectives on them.
+- Failure to recognize cultureal differences can lead to inadequate and inaoorioruate treatment.
+## Context
+- Definition of abnormal behaviour depends a lot on context.
+	- Shirtless with body paint at sports gave v.s. at church
