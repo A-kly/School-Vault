@@ -47,4 +47,8 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Gender
 - Physical health
 - Genetic Predisposition
-- 
+## Details
+- Exponentially increased effect when we have multiple risk factors
+- Two risk factors can induce an 4x increase in adverse outcomes
+- 4+ factors can induce 10x chance of mental disorder
+# Historical views
