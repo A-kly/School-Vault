@@ -161,22 +161,3 @@ var = "hello"
 def test(aah):
 	return aah
 ```
-
-# For AOSR
-```aosr-deck-config
-{
-	"rule": {
-		"conditions": {
-			"all": [{
-				"fact": "card",
-				"operator": "regexMatch",
-				"value": "KEYWORD",    <--  Replace with your own note path keyword
-				"path": "$.path"
-			}]
-		},
-		"event": {
-			"type": "match"
-		}
-	}
-}
-```

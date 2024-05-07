@@ -29,6 +29,19 @@
                 "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf"
               }
             }
+          },
+          {
+            "id": "13cb150ed5e46120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheat Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -80,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -181,11 +193,11 @@
   },
   "active": "4ea3ea99d859e1ef",
   "lastOpenFiles": [
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/Media/Pasted image 20240507154931.png",
     "PSYCH 239/Media",
-    "Markdown Cheat Sheet.md",
     "PSYCH 239/Flashcards.md",
     "PSYCH 239",
     "lol.md",

@@ -94,4 +94,9 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 	- Canada Mental Health Association, 1963
 	- Deinstitutionalization
 	- Pharmacology & Phenothiazines
-		- First generation antipsychotics
+		- Phenothiazines - First generation antipsychotics, originally an insecticide, people who were exposed to this substance tended to calm down a lot
+		- Then Used as an addition to anesthetic prior to surgery
+		- THEN used as a treatment for the positive symptoms of Schizophrenia
+		- THEN we realized the foggy, unclear thinking and delusions and hallucinations were also treated 
+	- Psychiatric homeless
+# Pathways to the present
