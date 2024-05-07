@@ -197,11 +197,26 @@ Neurons have:
 			- way we present ourselves outwardly to people
 		- Shadow
 			- sex, instinct, unconscious mind, repressed ideas, weaknesses, desires, instincts
-		- Anamus
+		- Animus
 			- Complimentary gender opposite of you
 			- in eastern tradition, Yin and Yang
 			- opposite gender "side" of a person
 		- Self
-			- Unified conciousness and unconscioisness
+			- Unified consciousness and unconsciousness
 	- Collective unconscious
-		- 
+		- Shared with ancestors
+- Alfred Adler
+	- Inferiority complex
+		- Feeling of inferiority about parts of us
+		- we focus on it
+	- drive to superiority
+		- We wanna become superior
+		- Use creative self to do this
+		- Engaging in things that drive social behaviour and progress is the best way to do this
+		- Focus on *social good*
+	- Creative self
+		- Ability to transform ourselves to escape inferiority
+# Psychological perspectives: Behaviourism
+## Modern behaviourism: Environmental Adaptation
+![[Pasted image 20240507170629.png]]
+- 
