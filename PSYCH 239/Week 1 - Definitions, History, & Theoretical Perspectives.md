@@ -172,9 +172,21 @@ Neurons have:
 	1. oral fixation
 		- Can't control "consuming" impulses and this they need to work on that
 		- alcoholism, stealing, binge eating
-1. Anal Stage
-	1. Retentive and expulsive traits
-		- Crave the 
-2. Phalic Stage
+2. Anal Stage
+	1. Analy Retentive Traits
+		- Stuck up, not generous, Very Stingy, 
+	2.  Anally expulsive traits
+		- Can't stop, overly sharing, etc.
+3. Phallic Stage
 	1. Oedipus/Electra Complex
-	2. Castration anxiety
+		- Means In love with opposite gender parent, wanna kill same gender parent
+		- must Identify with same gender parent to fix it
+	1. Castration anxiety
+		- Get over this fear by identifying with same gender parent
+4. Latency Stage
+5. Genital Stage
+	- Balanced and healthy way to regulate behaviours
+## Defense mechanisms
+![[Pasted image 20240507165129.png]]
+- Most psychodynamic theorists, that aren't Freud, have something like this that are 
+
