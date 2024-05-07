@@ -76,3 +76,7 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 	- Must balance the humors in order to "fix" someone
 	- Abnormal behaviours are the result of underlying biological process.
 		- Medical model
+- Asylums in Europe & the New World
+	- Bedlam, London UK
+		- First Asylum for people with psychiatric disorders
+		- 
