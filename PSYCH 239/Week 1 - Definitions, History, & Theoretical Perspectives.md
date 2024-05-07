@@ -141,4 +141,20 @@ Neurons have:
 	- Serotonin: Depression
 		- Reuptake inhibitors (yippie)
 			- SSRIS (Prozac)
-# WH
+# Which neurotransmitters play a role in psychological disorders?
+- Excesses and deficiencies of the neurotransmitter norepinephrine have been connected with mood disorders and eating disorders
+- Reduced levels of neurotransmitter acetylcholine is associated with Alzheimer's Disease
+- Excessive levels of dopamine appear to be involved in schizophrenia
+- Serotonin, another neurotransmitter, is linked to anxiety disorders, mood disorders, sleep disorders and eating disorders
+# Psychological perspectives: Psychodynamic model
+- Freud
+- Psychoanalytic Theory
+- The Structure of the mind
+	- Unconscious
+		- Not easy to access in your mind, cannot reach
+	- Preconscious
+		- Not aware of currently but easily accessible
+	- Conscious
+		- Currently in brain
+	- Shitty understanding
+- Gain insights into the unconscious mind from hearing what they have to say and then telling them what 
