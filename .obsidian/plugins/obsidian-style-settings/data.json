@@ -1,5 +1,5 @@
 {
-  "encore-settings@@theme-dark": "encore-theme-dark-glass-royale",
+  "encore-settings@@theme-dark": "encore-theme-dark-carbon",
   "encore-settings@@encore-coloured-tooltip": true,
   "encore-settings@@encore-mobile-oled-mode": false,
   "encore-settings@@blur-amount": "encore-blur-off",
@@ -110,7 +110,10 @@
   "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
   "anuppuccin-theme-settings@@anp-print": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
-  "encore-settings@@encore-translucency": false,
+  "encore-settings@@encore-translucency": true,
   "encore-settings@@encore-highlight-border": true,
-  "neo-style@@accent-affect-bg": false
+  "neo-style@@accent-affect-bg": false,
+  "encore-settings@@encore-translucency-background": "encore-bg-frosty",
+  "encore-settings@@encore-translucency-blur-amount": 10,
+  "encore-settings@@encore-translucency-strength": 0.3
 }
