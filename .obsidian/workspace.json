@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
-                "mode": "preview",
+                "file": "PSYCH 239/COPy.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md"
+                "file": "PSYCH 239/COPy.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/COPy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/COPy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,13 +178,15 @@
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "quiz-generator:Open generator": false
     }
   },
   "active": "e142bfe8250f73b3",
   "lastOpenFiles": [
-    "Pracrice/kajsfhlksja.md",
     "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/COPy.md",
+    "Pracrice/kajsfhlksja.md",
     "Pracrice",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
@@ -228,7 +230,6 @@
     "Psych275/Media",
     "Psych275",
     "Cmput301/Media",
-    "CMPUT 379/Memory Management.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
