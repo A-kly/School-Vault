@@ -244,7 +244,12 @@ Pavlov Setup
 ## Operant Conditioning
 - Reward only happens when positive behaviour is observed, association and *cause* can be established
 - Reinforcement & reward
-- Positive & Negative reinforcers
+- Positive & Negative reinforcers (can be different for different people)
+	- Positive: Appetitive stimulus, *Good thing added*
+	- Negative:  *Bad thing removed*
 - Primary & Secondary Reinforcers
-- Punishment: Positive Punishment & Negative Punishment
-
+	- Primary: Food, directly positive
+	- Secondary: Money, can lead to 
+- Positive Punishment & Negative Punishment
+	- Positive: *bad thing added*
+	- Negative: *removal of good thing*
