@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "Markdown Cheat Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,9 +24,12 @@
             "id": "e142bfe8250f73b3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf"
+                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -80,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -97,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,10 +182,10 @@
   },
   "active": "4ea3ea99d859e1ef",
   "lastOpenFiles": [
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/Media/Pasted image 20240507171428.png",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "Markdown Cheat Sheet.md",
+    "PSYCH 239/Media/Pasted image 20240507171428.png",
     "PSYCH 239/Media/Pasted image 20240507171231.png",
     "PSYCH 239/Media/Pasted image 20240507170629.png",
     "PSYCH 239/Media/Pasted image 20240507165129.png",
