@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c06d8385f2d7554f",
+        "id": "4527b1311c379983",
         "type": "tabs",
         "children": [
           {
-            "id": "415fd733589945ce",
+            "id": "59c8e04d5226e054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "70a2b7ed4e01dd1a",
+            "id": "b43f2b9e0493ad9e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf"
+                "file": "PSYCH 239/Assessment Classification Treatment (2024).pdf"
               }
             }
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
               }
             }
           },
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,13 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "415fd733589945ce",
+  "active": "59c8e04d5226e054",
   "lastOpenFiles": [
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-    "Untitled.canvas",
-    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
+    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
+    "PSYCH 239/Media/Pasted image 20240509151327.png",
+    "Untitled.canvas",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/COPy.md",
     "Pracrice/kajsfhlksja.md",
@@ -218,7 +219,6 @@
     "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Psych275/Flashcards.md",
     "Psych275/Media/Pasted image 20240206100542.png",
-    "Psych275/Media/Pasted image 20240307102656.png",
     "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
     "Cmput361/Lecture 02 - Tokenization",
     "Soc203/Lecture 0 - Syllabus and shit.md",
