@@ -27,7 +27,7 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 - Failure to recognize cultural differences can lead to inadequate and inappropriate treatment.
 ## Context
 - Definition of abnormal behaviour depends a lot on context.
-	- Shirtless with body paint at sports gave vs. at church
+	- Shirtless with body paint at sports game vs. at church
 # Why study it?
 - Affects everyone in one way or another
 - When abnormal behaviour involves a disturbance in functioning and behaviour, they are classified as **psychological disorders**
@@ -54,10 +54,10 @@ Notes: [[Intro and Theoretical Perspectives (2024).pdf]]
 # Historical views
 ## Demonological model
 - **Demonological model:** *Not the person's fault, they are being inhabited/ controlled and they must be freed or remove the bad spiritual thing that is ailing them*
-	- Not originating in Medeval times
+	- Not originating in Medieval times
 	- Trephining: *Holes cut in the head in order to vent something out of the person, demon, spirit or something else.*
 
-- Medeval Times
+- Medieval Times
 	- Demonological model
 	- Exorcism
 - Witchcraft
