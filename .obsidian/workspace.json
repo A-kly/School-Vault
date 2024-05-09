@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,10 +170,10 @@
   },
   "active": "415fd733589945ce",
   "lastOpenFiles": [
-    "PSYCH 239/Assessment Classification Treatment (2024).pdf",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
+    "PSYCH 239/Assessment Classification Treatment (2024).pdf",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/COPy.md",
     "Pracrice/kajsfhlksja.md",
