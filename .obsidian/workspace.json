@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,10 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e142bfe8250f73b3",
+  "active": "4ea3ea99d859e1ef",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
     "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239/COPy.md",
     "Pracrice/kajsfhlksja.md",
     "Pracrice",
