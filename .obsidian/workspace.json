@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4ea3ea99d859e1ef",
+            "id": "415fd733589945ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat Sheet.md"
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
               }
             }
           },
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,14 +181,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "4ea3ea99d859e1ef",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
-    "PSYCH 239/Week 1 - Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/COPy.md",
     "Pracrice/kajsfhlksja.md",
     "Pracrice",
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/Media/Pasted image 20240507171428.png",
     "PSYCH 239/Media/Pasted image 20240507171231.png",
     "PSYCH 239/Media/Pasted image 20240507170629.png",
@@ -224,7 +225,6 @@
     "Soc203/Lecture 1 - What are social problems (hopefully it gets good).md",
     "Soc203/Media",
     "Soc203",
-    "Psych275/().md",
     "Psych275/Media",
     "Psych275",
     "Cmput301/Media",
