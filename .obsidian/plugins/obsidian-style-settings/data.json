@@ -114,6 +114,6 @@
   "encore-settings@@encore-highlight-border": true,
   "neo-style@@accent-affect-bg": false,
   "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
-  "encore-settings@@encore-translucency-blur-amount": 0,
-  "encore-settings@@encore-translucency-strength": 0.3
+  "encore-settings@@encore-translucency-strength": 0.3,
+  "encore-settings@@encore-translucency-blur-amount": 10
 }
