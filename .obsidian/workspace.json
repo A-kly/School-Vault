@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf30a037d12f9ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/PSYCH 239.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/PSYCH 239.md"
               }
             }
           },
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/PSYCH 239.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/PSYCH 239.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,13 +164,12 @@
             }
           },
           {
-            "id": "e4b2af0768f0f8e1",
+            "id": "8d77bc9cd933beb1",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "file-properties",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "file": "PSYCH 239/PSYCH 239.md"
               }
             }
           }
@@ -165,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,54 +190,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "59c8e04d5226e054",
+  "active": "bf30a037d12f9ef6",
   "lastOpenFiles": [
-    "PSYCH 239/Assessment Classification Treatment (2024).pdf",
+    "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
+    "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
-    "PSYCH 239/Media/Pasted image 20240509151327.png",
+    "Old notes/STAT 151/Media/php6pVJmc.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006104232.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006102048.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006102058.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006102107.png",
+    "Old notes/STAT 151/Media/Pasted image 20231004110333.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006100302.png",
+    "Old notes/STAT 151/Media/Pasted image 20231006100114.png",
+    "Old notes/STAT 151/Media/Pasted image 20231004104752.png",
+    "Old notes/STAT 151/Media/Pasted image 20231004104527.png",
+    "Old notes/PSYCH 105/Media/Recording 20231005121726.webm",
+    "Old notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
+    "Old notes/STAT 151/STAT 151.md",
+    "Old notes/STAT 151/LAB1.md",
+    "Old notes/Psych275/Flashcards.md",
+    "Old notes/STAT 151/Media",
+    "Old notes/STAT 151/Data and Variables.md",
+    "Old notes/Psych275/Exam review.md",
+    "Old notes/STAT 151/Basics of probability.md",
+    "Old notes/Psych275/Media",
+    "Old notes/Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
+    "Old notes/Psych275/Chapter 8 - Emotions and Health.md",
+    "Old notes/Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
+    "Old notes/Psych275/Chapter 4 - The Methods and Ethics of Research.md",
+    "Old notes/Psych275/Chapter 2 - Communication within the nervous system.md",
+    "Old notes/Psych275/Chapter 1 - What is behavioural Neuroscience.md",
+    "Old notes/Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
+    "Old notes/PSYCH 105/Methods in Psychology.html",
+    "Old notes/PSYCH 105/Methods in Psychology.md",
+    "Old notes/PSYCH 105/Experience and Intuition V.S. Science.md",
+    "Old notes/PSYCH 105/PSYCH 105.md",
+    "Old notes/PSYCH 105/Language & Thought.md",
+    "Old notes/Math 146/Math 146.md",
+    "Old notes/PSYCH 105/Media",
+    "Old notes/PSYCH 105/Intelligence and Psychological Testing.md",
+    "Old notes/Math 146/IMPORTANT STUDY TOPICS.md",
+    "Old notes/PSYCH 105/Human Development over the Lifespan.md",
+    "Old notes/PSYCH 105/Class Info.md",
+    "Old notes/Math 146/Media",
+    "Old notes/Math 146/Math 144 review stuff",
+    "Old notes/Math 146/9.1 Separation of variables.md",
+    "Old notes/English 103-B20/Media",
+    "Old notes/Cmput361/Media",
     "Untitled.canvas",
-    "Markdown Cheat Sheet.md",
-    "PSYCH 239/COPy.md",
-    "Pracrice/kajsfhlksja.md",
-    "Pracrice",
-    "PSYCH 239/Media/Pasted image 20240507171428.png",
-    "PSYCH 239/Media/Pasted image 20240507171231.png",
-    "PSYCH 239/Media/Pasted image 20240507170629.png",
-    "PSYCH 239/Media/Pasted image 20240507165129.png",
-    "PSYCH 239/Media/Pasted image 20240507163742.png",
-    "PSYCH 239/Media/Pasted image 20240507162848.png",
-    "PSYCH 239/Media/Pasted image 20240507162834.png",
-    "PSYCH 239/Media/Pasted image 20240507154931.png",
-    "PSYCH 239/Media",
-    "PSYCH 239/Flashcards.md",
-    "PSYCH 239",
-    "lol.md",
-    "Cmput361/Lecture 04 - Ranked Retrieval with the Vector Space Model.md",
-    "Cmput361/Lecture 03 -.md",
-    "Cmput361/Lecture 02 - Tokenization.md",
-    "Cmput361/Lecture 01 - Foundations.md",
-    "Psych275/Chapter 8 - Emotions and Health.md",
-    "Psych275/Chapter 3 - The Organization and Function of the Nervous System.md",
-    "Psych275/Chapter 2 - Communication within the nervous system.md",
-    "Cmput301/What is Software Engineering about.md",
-    "Cmput301/Objects, UML, and Java.md",
-    "Cmput301/MVC and Android.md",
-    "Cmput361/Lecture 00 - Syllabus.md",
-    "Psych275/Exam review.md",
-    "Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
-    "Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
-    "Psych275/Chapter 4 - The Methods and Ethics of Research.md",
-    "Psych275/Flashcards.md",
-    "Psych275/Media/Pasted image 20240206100542.png",
-    "Psych275/Chapter 1 - What is behavioural Neuroscience.md",
-    "Cmput361/Lecture 02 - Tokenization",
-    "Soc203/Lecture 0 - Syllabus and shit.md",
-    "Soc203/Media",
-    "Soc203",
-    "Psych275/Media",
-    "Psych275",
     "The game/Map.canvas"
   ]
 }
