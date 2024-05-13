@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b43f2b9e0493ad9e",
+            "id": "872d9cb6c23e70e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43f2b9e0493ad9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "moral therapy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,12 +190,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b43f2b9e0493ad9e",
+  "active": "872d9cb6c23e70e9",
   "lastOpenFiles": [
+    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/Media/Pasted image 20240507154931.png",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
     "PSYCH 239/Media/Pasted image 20240509164030.png",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/Media/Pasted image 20240509161138.png",
