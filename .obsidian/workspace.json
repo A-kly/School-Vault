@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2622134cb413e4dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b43f2b9e0493ad9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbc816f86b6c09ff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Assessment Classification Treatment (2024).pdf"
-              }
-            }
-          },
-          {
             "id": "676d41ceaec2d63d",
             "type": "leaf",
             "state": {
@@ -56,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/Anxiety disorders.md"
               }
             }
           },
@@ -145,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/Anxiety disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/Anxiety disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/Anxiety disorders.md"
               }
             }
           }
@@ -204,7 +167,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b43f2b9e0493ad9e",
+  "active": "676d41ceaec2d63d",
   "lastOpenFiles": [
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
