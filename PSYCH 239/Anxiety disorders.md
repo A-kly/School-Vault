@@ -55,4 +55,19 @@
 
 - 1 – 5% prevalence (lifetime)
 - Anxiety sensitivity
-# Ago
+	- Beliefs that anxiety symptoms are dangerous to the person
+	- cause of more anxiety
+# Agoraphobia
+- (Fear of the marketplace)
+- Accompanies panic attacks in a large minority of cases (30-50%, other writers report up to 75%)
+	- When it does, it is usually fear of another attack that is most debilitating
+	- makes treatment less likely unless patient gets very strong support to attend or the psychologist makes house calls
+- Even without Agoraphobia, panic disordered patients are often reluctant to discuss episodes for fear of triggering another attack
+	- Almost like victim of violence who refuses to report to police
+# Generalized Anxiety Disorder
+- General feelings of dread, foreboding, and hightened states of sympathetic arousal
+	- Not linked to any one particular fear or trigger
+	- Formerly referred to as free-floating anxiety
+		- Freudian term
+## DSM-5/TR Criteria - Generalized Anxiety Disorder
+- At least 6 moths of "excessice anxiety and worry"
