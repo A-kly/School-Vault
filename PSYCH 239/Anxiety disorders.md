@@ -172,6 +172,11 @@
 ## Cognitive Perspective
 - Self-defeating or irrational belief
 - Oversensitivity to threat
+	- **Hostile attributional bias**: assume that people are out to get you and even if their actions are *not* caused by their malice, they are attributed to be caused by their malice
 - Anxiety sensitivity
+	- More likely to have anxiety due to core beliefs
 - Misattributions for panic attacks
-- **Hostile attributional bias**: assume that people are out to get you and even if their actions are not caused by their malice, they are attributed to be caused by their malice
+## Interactionist perspective
+![[Pasted image 20240514163807.png]]
+- Explains anxiety sensitivity, rough explanation of panic attack development
+- 
