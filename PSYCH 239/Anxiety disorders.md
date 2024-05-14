@@ -212,8 +212,19 @@
 ## Biological Approaches
 - Antidepressants
 	- SSRIs/SNRIs - *less likely to have enduring benefits than CBT*
-- Benzoz not frequently used to treat anxiety
+- Benzos not frequently used to treat anxiety
 	- Highly addictive
 ## Cognitive Approaches
 - Irrational beliefs, bolstering self-efficacy, individual meaning, regular "worry periods" (Borkevic, 1985)
+	- **Worry periods** : Give yourself permission to freak out during specific times during the day
 ## Learning-Based Approaches
+- **Most Combine exposure with response prevention** ==on exam==
+	- Systematic desensitization
+		- Fear-Stimulus Hierarchy
+			- Systematically confront patient with things closer and closer to actual situat
+		- Gradual Exposure
+	- Behavioural Treatment of Social Phobia
+	- Behavioural Treatment of Agoraphobia
+	- Behavioural Treatment of OCD
+	- Cognitive-Behavioural Treatment of Generalized Anxiety
+	- Cognitive-Behavioural Treatment of Panic Disorder
