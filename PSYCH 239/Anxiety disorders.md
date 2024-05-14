@@ -126,4 +126,8 @@
 	- Intrusive, unwanted, and recurrent thought, image, or urge that seems beyond a person's ability to control
 - Compulsion:
 	- A repetitive behaviour or mental act that a person feels compelled or driven to perform
-- 
+		- Anxiety inducing if it does not get performed
+		- may perpetuate anxiety
+![[Pasted image 20240514161148.png]]
+- All of these must be distinguished from adjustment disorders
+	- Maladaptive reactions to an identified tressor or stessons that occur shortly followinf e
