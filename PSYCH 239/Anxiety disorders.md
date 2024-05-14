@@ -203,4 +203,17 @@
 - Extinction opportunities
 	- Presence of CS is less able to illicit a conditioned response
 	- Presence of discriminative stimulus is less likely to cause a learned behaviour
-# T
+# Treatment
+## Psychodynamic aproach
+- Free association and psychoanalysis to resolve deeper conflict
+- Phobic objects are symbolic of those conflicts
+## Humanistic Approaches
+- Unconditional positive regard allows integration of inauthentic social presentation with authentic self
+## Biological Approaches
+- Antidepressants
+	- SSRIs/SNRIs - *less likely to have enduring benefits than CBT*
+- Benzoz not frequently used to treat anxiety
+	- Highly addictive
+## Cognitive Approaches
+- Irrational beliefs, bolstering self-efficacy, individual meaning, regular "worry periods" (Borkevic, 1985)
+## Learning-Based Approaches
