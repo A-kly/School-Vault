@@ -32,19 +32,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e1ee252315fa5ab0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Assessment Classification Treatment (2024).pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
               }
             }
           },
@@ -133,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
               }
             }
           }
@@ -192,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "b43f2b9e0493ad9e",
+  "active": "872d9cb6c23e70e9",
   "lastOpenFiles": [
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/Media/Pasted image 20240507154931.png",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/Media/Pasted image 20240507154931.png",
     "PSYCH 239/Media/Pasted image 20240509164030.png",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/Media/Pasted image 20240509161138.png",
