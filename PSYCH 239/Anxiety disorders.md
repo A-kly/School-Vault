@@ -179,4 +179,17 @@
 ## Interactionist perspective
 ![[Pasted image 20240514163807.png]]
 - Explains anxiety sensitivity, rough explanation of panic attack development
-- 
+## Biological perspective
+- Genetic factors
+	- Higher concordance rates with Monozygotic twins
+	- Neuroticism
+		- Emotionally stable vs unstable
+		- Strong genetic contribution
+- Neurotransmitters
+	- Gamma-aminobutyric acid (GABA)
+		- Inhibitory neurotransmitter
+		- Calms the CNS from anxiety symptoms
+		- **MOST STRONGLY IMPLICATED IN ANXIETY DISORDERS** ==on exam==
+	- Benzodiazepines
+- Biological aspects of panic disorder
+	- Hyperventilation - can bring a
