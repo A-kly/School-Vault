@@ -158,7 +158,7 @@
 		- Man on street (CS) barely escapes being run down by bus (US) -> Fear reaction (UR)
 			- now anxious when by road (CR)
 	- Factor 2: **(Skinnerian)**
-		- Road (Sd): Walks away (Reinforcement) -> Fear reduction
+		- Road (Sd = Discriminative Stimulus): Walks away (Reinforcement) -> Fear reduction
 			- Now can minimize fear by avoiding road
 			- avoidance response
 	- *VERY good explanation of Agoraphobia*
@@ -166,4 +166,12 @@
 	- Phobias for certain things are more common
 	- eg, snakes and spiders
 	- nature has conditioned us to fear them
-	- natural in born 
+	- natural in born tendency to fear these things
+	- *Diathesis* = predisposition
+- Superstition: OCD
+## Cognitive Perspective
+- Self-defeating or irrational belief
+- Oversensitivity to threat
+- Anxiety sensitivity
+- Misattributions for panic attacks
+- **Hostile attributional bias**: assume that people are out to get you and even if their actions are not caused by their malice, they are attributed to be caused by their malice
