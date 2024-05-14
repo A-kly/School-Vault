@@ -152,4 +152,18 @@
 	- Projection: Project cause of anxiety on another person rather than realizing it is internal
 		- More likely for specific anxiety focus
 	- Displacement: anxiety more likely to be generalized.
-## 
+## Learning Perspective
+- (Mower-Miller) Two factor model: O. Hobart Mowrer
+	- Factor 1: **(Pavlovian)**
+		- Man on street (CS) barely escapes being run down by bus (US) -> Fear reaction (UR)
+			- now anxious when by road (CR)
+	- Factor 2: **(Skinnerian)**
+		- Road (Sd): Walks away (Reinforcement) -> Fear reduction
+			- Now can minimize fear by avoiding road
+			- avoidance response
+	- *VERY good explanation of Agoraphobia*
+- Prepared Conditioning
+	- Phobias for certain things are more common
+	- eg, snakes and spiders
+	- nature has conditioned us to fear them
+	- natural in born 
