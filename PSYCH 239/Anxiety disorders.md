@@ -70,4 +70,26 @@
 	- Formerly referred to as free-floating anxiety
 		- Freudian term
 ## DSM-5/TR Criteria - Generalized Anxiety Disorder
-- At least 6 moths of "excessice anxiety and worry"
+- At least 6 moths of "excessive anxiety and worry" abut a variety of issues. Generally "excessive" means more than would be expected.
+- There is significant difficulty controlling anxiety or worry. If someone has a very difficult struggle to regain control, relax, or cope with the anxiety and worry, then this requirement is met.
+	- Telling them not to worry is often not enough to help
+- The presence for most days over the previous six months of 3 or more (only 1 for children) of the following symptoms: 
+	1. Feeling wound-up, tense, or restless 
+	2. Easily becoming fatigued or worn-out 
+	3. Concentration problems 
+	4. Irritability 
+	5. Significant tension in muscles 
+	6. Difficulty with sleep
+# Phobic disorders
+- Specific phobia
+	- eg, claustrophobia
+- Social phobia
+- Agoraphobia
+## Specific phobias
+- 5 diagnostic subtypes
+	1. Animal
+	2. natural environment
+	3. blood-injection-injury
+	4. situational type
+	5. other types (e.g., phobias of choking or contracting an illness).
+- Develo
