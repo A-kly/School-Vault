@@ -9,6 +9,24 @@
 	- **Adaptive** when it prompts us to seek medical attention, to study for an upcoming test, or avoid danger
 	- **Maladaptive** when out is out of proportion to the level of threat or when it occurs out of the blue, not in response to environmental changes
 - Common: most people experience it in varying degrees.
+# Anxiety disorder features
+- Physical:
+	- jumpiness
+	- jitters
+	- increased heart rate
+	- chrtness of breath
+	- dizziness
+	- nausea
+- Behavioural
+	- need to escape/ avoid situation
+	- agitation
+	- clinginess
+	- need for reassurance
+- Cognitive
+	- prolonged, extra worrying
+	- overly aware of bodily sensations
+	- jumbled thoughts
+	- nagging thoughts'
 # Major types
 - Panic Disorders
 	- Agoraphobia
@@ -96,21 +114,11 @@
 	- Young children: animals
 	- Teenagers: social
 	- Adults: Agora or social phobia
-# Anxiety disorder features
-- Physical:
-	- jumpiness
-	- jitters
-	- increased heart rate
-	- chrtness of breath
-	- dizziness
-	- nausea
-- Behavioural
-	- need to escape/ avoid situation
-	- agitation
-	- clinginess
-	- need for reassurance
-- Cognitive
-	- prolonged, extra worrying
-	- overly aware of bodily sensations
-	- jumbled thoughts
-	- nagging thoughts'
+### DSM-5/TR Criteria - Specific phobias
+1. Marked and persistent fear that is excessive or unreasonable, caused by anticipation of object or event
+2. Exposure to the phobic stimulus almost invariably provokes an immediate anxiety response, which may take the form of a situationally bound or situationally pre disposed panic attack. Note: in children, the anxiety may be expressed by crying, tantrums, freezing or clinging.
+3. The person recognizes that the fear is excessive and unreasonable. Note: in children this feature may be absent.
+4. The phobic situation is avoided or is endured with intense anxiety or distress. 
+5. The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with a person’s routine, occupational (or academic) functioning, or social activities or relationships or there is a marked distress about having the phobia. 
+6. In individuals under the age of 18 years the duration is at least 6 months.
+# 
