@@ -92,4 +92,25 @@
 	3. blood-injection-injury
 	4. situational type
 	5. other types (e.g., phobias of choking or contracting an illness).
-- Develo
+- Strong relationship between age and the types of phobia one is likely to develop
+	- Young children: animals
+	- Teenagers: social
+	- Adults: Agora or social phobia
+# Anxiety disorder features
+- Physical:
+	- jumpiness
+	- jitters
+	- increased heart rate
+	- chrtness of breath
+	- dizziness
+	- nausea
+- Behavioural
+	- need to escape/ avoid situation
+	- agitation
+	- clinginess
+	- need for reassurance
+- Cognitive
+	- prolonged, extra worrying
+	- overly aware of bodily sensations
+	- jumbled thoughts
+	- nagging thoughts'
