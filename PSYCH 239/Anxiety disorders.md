@@ -130,4 +130,15 @@
 		- may perpetuate anxiety
 ![[Pasted image 20240514161148.png]]
 - All of these must be distinguished from adjustment disorders
-	- Maladaptive reactions to an identified tressor or stessons that occur shortly followinf e
+	- Maladaptive reactions to an identified stressor or stressor that occur shortly following exposure to the stressor and results in impaired functioning or emotional distress more than normal
+	- Reactions may be resolved when stressor is removed
+# Acute Stress Disorder (ASD)
+- A traumatic stress reaction occurring in the days and weeks following exposure to a traumatic event
+- Resolves after stress is removed after about a month
+# Post traumatic Stress Disorder (PTSD)
+- A Prolonged (3+ months) reaction to a traumatic event that threatened death or serious injury to one’s own or another’s physical safety.
+# Features of Traumatic Stress Reactions
+- Extreme anxiety or dissociation (detagchment fro one's self or one's environement)
+- Intrusive memories & flashbacks (chronic re-experiencing, extremelu vivid, may feel like they a re back in situation)
+- High arousal and vigilance
+- 

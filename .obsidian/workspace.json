@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Anxiety disorders.md"
+                "file": "PSYCH 239/Anxiety and Related Disorders (2023).pdf"
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Anxiety disorders.md",
+                "file": "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Anxiety disorders.md",
+                "file": "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/Anxiety disorders.md"
+                "file": "PSYCH 239/Anxiety and Related Disorders (2023).pdf"
               }
             }
           }
@@ -177,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "676d41ceaec2d63d",
+  "active": "4483beb9d6df8028",
   "lastOpenFiles": [
-    "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/Anxiety disorders.md",
+    "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240514161148.png",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
