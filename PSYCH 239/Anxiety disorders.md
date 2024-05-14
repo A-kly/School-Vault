@@ -28,7 +28,8 @@
 
 #  DSM-5/TR Criteria - Panic Attack
 - Building block of panic disorder
-- A discrete period of intense fear or discomfort, in which four or more of the symptoms develop abruptly and reached a peak within 10 minutes:
+- **Polythetic diagnosis** : different ways to reach a diagnosis
+- A discrete period of intense fear or discomfort, in which **four** or more of the symptoms develop abruptly and reached a peak within 10 minutes:
 	1. Palpitations, pounding hear, or higher heart rate
 	2. sweating
 	3. trembling/shaking
@@ -43,3 +44,15 @@
 	12. paresthesia (numbness or tingling sensations)
 	13. chills or hot flushes
 - Situationally bound vs Situationally predisposed
+	- **bound:** *only* occurs in certain conditions
+	- **predisposed**: *more likely* to occur in certain conditions
+#  DSM-5/TR Criteria - Panic Disorder
+- *Recurrent unexpected panic attacks* **and** *at least one of the attacks has been followed by one month (or more) of one (or more) of the following*:
+	1. Persistent concern about having additional attacks
+	2. worry about the implications of the attack or its consequences
+		1. e.g., losing control, having a heart attack, "going crazy") 
+	3. a significant change in behavior related to the attacks
+
+- 1 – 5% prevalence (lifetime)
+- Anxiety sensitivity
+# Ago
