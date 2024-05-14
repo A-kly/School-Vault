@@ -192,4 +192,15 @@
 		- **MOST STRONGLY IMPLICATED IN ANXIETY DISORDERS** ==on exam==
 	- Benzodiazepines
 - Biological aspects of panic disorder
-	- Hyperventilation - can bring a
+	- Hyperventilation - can bring about panic like symptoms
+- Biological aspects of OCD
+	- Higher comorbidity with other anxiety disorders
+# Tying it all together
+- Not all people who have traumatic events develop related phobias or anxiety but not necessarily PTSD
+- Genetic predisposition to greater negative arousal or makes them more likely to panic in response to changes in bodily sensations.
+![[Pasted image 20240514164603.png]]
+- ACES test for childhood trauma
+- Extinction opportunities
+	- Presence of CS is less able to illicit a conditioned response
+	- Presence of discriminative stimulus is less likely to cause a learned behaviour
+# T
