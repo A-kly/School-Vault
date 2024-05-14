@@ -221,10 +221,15 @@
 - **Most Combine exposure with response prevention** ==on exam==
 	- Systematic desensitization
 		- Fear-Stimulus Hierarchy
-			- Systematically confront patient with things closer and closer to actual situat
+			- Systematically confront patient with things closer and closer to actual situation, *change exactly what we expose patient to*
 		- Gradual Exposure
+			- Gradually expose the patient to the thing in more intensity, *don't change the thing*
 	- Behavioural Treatment of Social Phobia
 	- Behavioural Treatment of Agoraphobia
 	- Behavioural Treatment of OCD
 	- Cognitive-Behavioural Treatment of Generalized Anxiety
 	- Cognitive-Behavioural Treatment of Panic Disorder
+## Virtual reality research
+- For Combat vets with PTSD 
+- The system contains eye-tracking software to study a person’s response when exposed to a virtual combat environment 
+- It’s important to realize that treatment for anxiety disorders often improves the condition significantly, but doesn’t necessarily eliminate it completely.
