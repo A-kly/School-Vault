@@ -121,4 +121,9 @@
 4. The phobic situation is avoided or is endured with intense anxiety or distress. 
 5. The avoidance, anxious anticipation, or distress in the feared situation(s) interferes significantly with a person’s routine, occupational (or academic) functioning, or social activities or relationships or there is a marked distress about having the phobia. 
 6. In individuals under the age of 18 years the duration is at least 6 months.
-# 
+# Obsessive-Compulsive Disorder
+- Obsession:
+	- Intrusive, unwanted, and recurrent thought, image, or urge that seems beyond a person's ability to control
+- Compulsion:
+	- A repetitive behaviour or mental act that a person feels compelled or driven to perform
+- 
