@@ -8,25 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "676d41ceaec2d63d",
+            "id": "235ec38c3ec442aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/3. Anxiety disorders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4483beb9d6df8028",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Anxiety and Related Disorders (2023).pdf"
               }
             }
           }
@@ -96,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/3. Anxiety disorders.md"
               }
             }
           },
@@ -118,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/3. Anxiety disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+                "file": "PSYCH 239/3. Anxiety disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
+                "file": "PSYCH 239/3. Anxiety disorders.md"
               }
             }
           }
@@ -177,16 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "676d41ceaec2d63d",
+  "active": "235ec38c3ec442aa",
   "lastOpenFiles": [
-    "PSYCH 239/Anxiety disorders.md",
+    "PSYCH 239/PSYCH 239.md",
+    "PSYCH 239/3. Anxiety disorders.md",
     "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
+    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
     "PSYCH 239/Media/Pasted image 20240514164603.png",
     "PSYCH 239/Media/Pasted image 20240514163807.png",
     "PSYCH 239/Media/Pasted image 20240514161148.png",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
-    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/Media/Pasted image 20240509151327.png",
     "PSYCH 239/Media/Pasted image 20240507171428.png",
     "PSYCH 239/Media/Pasted image 20240507154931.png",
@@ -197,7 +188,6 @@
     "PSYCH 239/Media/Pasted image 20240509161054.png",
     "Old notes/Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
-    "PSYCH 239/PSYCH 239.md",
     "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
     "Old notes/PSYCH 105/Media/Recording 20231005121726.webm",
     "Old notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
