@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md"
               }
             }
           }
