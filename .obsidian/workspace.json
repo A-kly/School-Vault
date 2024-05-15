@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
               }
             }
           },
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md"
               }
             }
           }
@@ -169,8 +170,8 @@
   },
   "active": "235ec38c3ec442aa",
   "lastOpenFiles": [
-    "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/3. Anxiety disorders.md",
+    "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
