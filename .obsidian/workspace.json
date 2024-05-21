@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "87ea297544bb8686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md",
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/3. Anxiety disorders.md"
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
               }
             }
           }
@@ -167,11 +181,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "249447e882440adb",
+  "active": "87ea297544bb8686",
   "lastOpenFiles": [
+    "PSYCH 239/Media/Pasted image 20240521131428.png",
+    "PSYCH 239/3. Anxiety disorders.md",
+    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/3. Anxiety disorders.md",
     "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240514164603.png",
@@ -210,7 +226,6 @@
     "Old notes/PSYCH 105/Experience and Intuition V.S. Science.md",
     "Old notes/PSYCH 105/PSYCH 105.md",
     "Old notes/PSYCH 105/Language & Thought.md",
-    "Old notes/Math 146/Math 146.md",
     "Old notes/PSYCH 105/Media",
     "Old notes/Math 146/Media",
     "Old notes/Math 146/Math 144 review stuff",
