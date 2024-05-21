@@ -34,4 +34,30 @@
 	- Ancient Greece: Left to die, thrown off cliff
 - Do we think this is universally awful?
 	- Terminating pregnancies where fetal cells show signs of Down's Syndrome?
-	- Lower surgical and medical priority for severely disable
+	- Lower surgical and medical priority for severely disabled individuals
+		- Organ transplants for example
+## Intellectual Disability Disorder
+- Based on level of adaptive functioning, not IQ alone
+	- Mild
+	- Moderate
+	- Severe
+	- Profound
+- Social adjustment can have a significant bearing on life success
+	- Agreeable, kind, non aggressive = easy to find caregivers
+### Causes
+- Prenatal Factors 
+	- Cytomegalovirus (CMV)
+		- Human herpes type 5
+		- 90% of adults have it at age 60, neurodevelopment is done by then
+	- Inadequate diet during pregnancy 
+	- Maternal (while pregnant) 
+		- Drinking (FASD) 
+		- Valproate 
+		- Smoking 
+		- Antidepressants, antihypertensive drugs 
+		- Heavy metals (lead, mercury)
+- Cultural-Familial causes
+	- Cultural-familial intellectual impairment
+- Intervention
+	- Mainstreaming 
+	- Diagnostic overshadowing
