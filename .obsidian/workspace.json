@@ -8,15 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87ea297544bb8686",
+            "id": "4df55dbc80e76f0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "file": "PSYCH 239/Abnormal Behaviour Across the Lifespan.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "6e097b5838d41b83",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PSYCH 239/Lifespan (2023).pdf"
               }
             }
           }
@@ -70,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -87,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
+                "file": "PSYCH 239/Abnormal Behaviour Across the Lifespan.md"
               }
             }
           },
@@ -109,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "file": "PSYCH 239/Abnormal Behaviour Across the Lifespan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "file": "PSYCH 239/Abnormal Behaviour Across the Lifespan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
+                "file": "PSYCH 239/Abnormal Behaviour Across the Lifespan.md"
               }
             }
           }
@@ -168,13 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "87ea297544bb8686",
+  "active": "4df55dbc80e76f0f",
   "lastOpenFiles": [
+    "PSYCH 239/4. Mood Disorders & Suicide.md",
+    "PSYCH 239/Abnormal Behaviour Across the Lifespan.md",
+    "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240521145155.png",
     "PSYCH 239/Media/Pasted image 20240521145101.png",
     "PSYCH 239/Media/Pasted image 20240521143635.png",
     "PSYCH 239/3. Anxiety disorders.md",
-    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/Media/Pasted image 20240521134736.png",
     "PSYCH 239/Media/Pasted image 20240521131428.png",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
@@ -187,7 +198,6 @@
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
     "PSYCH 239/Media/Pasted image 20240509151327.png",
     "PSYCH 239/Media/Pasted image 20240507171428.png",
-    "PSYCH 239/Media/Pasted image 20240507154931.png",
     "Markdown Cheat Sheet.md",
     "Old notes/Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
@@ -212,10 +222,8 @@
     "Old notes/PSYCH 105/Methods in Psychology.md",
     "Old notes/PSYCH 105/Experience and Intuition V.S. Science.md",
     "Old notes/PSYCH 105/PSYCH 105.md",
-    "Old notes/PSYCH 105/Language & Thought.md",
     "Old notes/PSYCH 105/Media",
     "Old notes/Math 146/Media",
-    "Old notes/Math 146/Math 144 review stuff",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
