@@ -3,7 +3,7 @@
 - [[2. Assessment, Classification, and Treatment of Abnormal Behaviour]]
 - [[3. Anxiety disorders]]
 - [[4. Mood Disorders & Suicide]]
-- [[Abnormal Behaviour Across the Lifespan]]
+- [[5. Abnormal Behaviour Across the Lifespan]]
 - **Media**
 
 
