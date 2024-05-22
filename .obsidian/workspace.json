@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "5fef0a71ca393976",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AREC - Grant oportunities.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e097b5838d41b83",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -96,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md"
+                "file": "AREC - Grant oportunities.md"
               }
             }
           },
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+                "file": "AREC - Grant oportunities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+                "file": "AREC - Grant oportunities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md"
+                "file": "AREC - Grant oportunities.md"
               }
             }
           }
@@ -177,10 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "4df55dbc80e76f0f",
+  "active": "5fef0a71ca393976",
   "lastOpenFiles": [
-    "PSYCH 239/Lifespan (2023).pdf",
+    "Markdown Cheat Sheet.md",
+    "AREC - Grant oportunities.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+    "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240521171631.png",
     "PSYCH 239/Media/Pasted image 20240521171550.png",
     "PSYCH 239/Media/Pasted image 20240521171245.png",
@@ -198,7 +215,6 @@
     "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
-    "Markdown Cheat Sheet.md",
     "Old notes/Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
     "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
