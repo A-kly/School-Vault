@@ -24,3 +24,4 @@
 - Higher than usual appetite
 - More than worries
 - Thinks she is going crazy
+- hard time reading
