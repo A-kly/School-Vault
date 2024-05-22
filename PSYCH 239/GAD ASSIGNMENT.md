@@ -12,4 +12,8 @@
 - Body aches
 	- Muscles joints
 - Heart beating fast and pounding a lot
-- can't catch br
+- can't catch breath
+- tightness in chest
+- Tense
+- worrying a lot 
+- 
