@@ -4,4 +4,4 @@
 - Fidgeting with hands
 - Closed off body language, crossing arms
 - Loud / agitated speech
-- Refual to spreak
+- Refusal to speak
