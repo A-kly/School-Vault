@@ -8,4 +8,8 @@
 - Shaky voice
 - cowering behind hands
 - scratching neck
-- 
+# Symptoms
+- Body aches
+	- Muscles joints
+- Heart beating fast and pounding a lot
+- can't catch br
