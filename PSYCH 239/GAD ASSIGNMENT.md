@@ -16,4 +16,11 @@
 - tightness in chest
 - Tense
 - worrying a lot 
-- 
+- worry all the time
+- Hard to focus on job
+- Worry higher than it should be
+- Refusal to talk
+- Long time falling asleep 1-2 hours
+- Higher than usual appetite
+- More than worries
+- Thinks she is going crazy
