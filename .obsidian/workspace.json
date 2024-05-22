@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AREC - Grant oportunities.md",
+                "file": "Markdown Cheat Sheet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AREC - Grant oportunities.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AREC - Grant oportunities.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AREC - Grant oportunities.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AREC - Grant oportunities.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           }
@@ -194,8 +193,8 @@
   },
   "active": "5fef0a71ca393976",
   "lastOpenFiles": [
-    "Markdown Cheat Sheet.md",
     "AREC - Grant oportunities.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240521171631.png",
