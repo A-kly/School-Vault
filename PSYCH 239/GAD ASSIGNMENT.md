@@ -5,3 +5,7 @@
 - Closed off body language, crossing arms
 - Loud / agitated speech
 - Refusal to speak
+- Shaky voice
+- cowering behind hands
+- scratching neck
+- 
