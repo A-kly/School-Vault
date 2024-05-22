@@ -8,43 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4df55dbc80e76f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5fef0a71ca393976",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2710e164084b0ecf",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6e097b5838d41b83",
+            "id": "b045e581662cc6af",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PSYCH 239/Lifespan (2023).pdf"
+                "file": "PSYCH 239/Mood Disorders (2023).pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown Cheat Sheet.md"
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
               }
             }
           },
@@ -132,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Cheat Sheet.md",
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +161,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Markdown Cheat Sheet.md"
+                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
               }
             }
           }
@@ -193,9 +185,11 @@
   },
   "active": "5fef0a71ca393976",
   "lastOpenFiles": [
-    "AREC - Grant oportunities.md",
-    "Markdown Cheat Sheet.md",
+    "PSYCH 239/Mood Disorders (2023).pdf",
+    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+    "Markdown Cheat Sheet.md",
+    "AREC - Grant oportunities.md",
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240521171631.png",
     "PSYCH 239/Media/Pasted image 20240521171550.png",
@@ -203,7 +197,6 @@
     "PSYCH 239/Media/Pasted image 20240521163903.png",
     "PSYCH 239/Media/Pasted image 20240521163837.png",
     "PSYCH 239/Media/Pasted image 20240521161843.png",
-    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/Media/Pasted image 20240521145155.png",
     "PSYCH 239/Media/Pasted image 20240521145101.png",
     "PSYCH 239/Media/Pasted image 20240521143635.png",
@@ -236,9 +229,7 @@
     "Old notes/PSYCH 105/Methods in Psychology.html",
     "Old notes/PSYCH 105/Methods in Psychology.md",
     "Old notes/PSYCH 105/Experience and Intuition V.S. Science.md",
-    "Old notes/PSYCH 105/PSYCH 105.md",
     "Old notes/PSYCH 105/Media",
-    "Old notes/Math 146/Media",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
