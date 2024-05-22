@@ -1,0 +1,3 @@
+# Signs
+- Shaky breath
+- 

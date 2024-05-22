@@ -19,24 +19,22 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "2710e164084b0ecf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b045e581662cc6af",
+            "id": "fb5a76b13ad0d59b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Mood Disorders (2023).pdf"
+                "file": "PSYCH 239/GAD ASSIGNMENT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
+                "file": "PSYCH 239/GAD ASSIGNMENT.md"
               }
             }
           },
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "file": "PSYCH 239/GAD ASSIGNMENT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md",
+                "file": "PSYCH 239/GAD ASSIGNMENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/4. Mood Disorders & Suicide.md"
+                "file": "PSYCH 239/GAD ASSIGNMENT.md"
               }
             }
           }
@@ -183,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5fef0a71ca393976",
+  "active": "fb5a76b13ad0d59b",
   "lastOpenFiles": [
-    "PSYCH 239/Mood Disorders (2023).pdf",
     "PSYCH 239/4. Mood Disorders & Suicide.md",
+    "PSYCH 239/GAD ASSIGNMENT.md",
+    "PSYCH 239/Mood Disorders (2023).pdf",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "Markdown Cheat Sheet.md",
     "AREC - Grant oportunities.md",
