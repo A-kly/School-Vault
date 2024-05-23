@@ -4,19 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "4527b1311c379983",
+        "id": "592a4ba262274e35",
         "type": "tabs",
         "children": [
           {
-            "id": "5fef0a71ca393976",
+            "id": "57dc35e834789e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "a5f95b1e346044fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf"
               }
             }
           }
@@ -86,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md"
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md"
               }
             }
           },
@@ -108,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md"
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md"
               }
             }
           }
@@ -167,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5fef0a71ca393976",
+  "active": "57dc35e834789e16",
   "lastOpenFiles": [
     "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
-    "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
+    "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/Media/Pasted image 20240523143258.png",
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/4. Mood Disorders & Suicide.md",
