@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf"
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md"
               }
             }
           },
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf"
+                "file": "PSYCH 239/6. Substance- Related and Addictive Disorders.md"
               }
             }
           }
@@ -178,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "a5f95b1e346044fd",
+  "active": "57dc35e834789e16",
   "lastOpenFiles": [
+    "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/Media/Pasted image 20240523160035.png",
-    "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240523154139.png",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/Media/Pasted image 20240523143258.png",
