@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a5f95b1e346044fd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf"
-              }
-            }
           }
         ]
       }
@@ -80,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -179,7 +170,10 @@
   },
   "active": "57dc35e834789e16",
   "lastOpenFiles": [
+    "PSYCH 239/Media/Pasted image 20240521131428.png",
+    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
+    "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240523170218.png",
     "PSYCH 239/Media/Pasted image 20240523170046.png",
@@ -189,15 +183,12 @@
     "PSYCH 239/Media/Pasted image 20240523162630.png",
     "PSYCH 239/Media/Pasted image 20240523160035.png",
     "PSYCH 239/Media/Pasted image 20240523154139.png",
-    "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/Media/Pasted image 20240523143258.png",
     "PSYCH 239/Lifespan (2023).pdf",
-    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/GAD ASSIGNMENT.md",
     "PSYCH 239/Mood Disorders (2023).pdf",
     "Markdown Cheat Sheet.md",
     "AREC - Grant oportunities.md",
-    "PSYCH 239/Media/Pasted image 20240521171631.png",
     "PSYCH 239/3. Anxiety disorders.md",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
