@@ -5,6 +5,7 @@
 - [[4. Mood Disorders & Suicide]]
 - [[5. Abnormal Behaviour Across the Lifespan]]
 - [[6. Substance- Related and Addictive Disorders]]
+- [[7. Dissociative and Somatic Symptom Disorders]]
 - [[GAD ASSIGNMENT]]
 - **Media**
 
