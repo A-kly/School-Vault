@@ -19,7 +19,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e239d692de07b137",
+        "type": "tabs",
+        "children": [
           {
             "id": "a6c58a38a311b2e9",
             "type": "leaf",
@@ -179,9 +185,9 @@
   },
   "active": "2aa545f6a5f3cb79",
   "lastOpenFiles": [
-    "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/Dissociative and Somatoform Disorders (2022).pdf",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
+    "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/Media/Pasted image 20240521131428.png",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
