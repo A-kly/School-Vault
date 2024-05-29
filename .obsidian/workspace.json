@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -170,8 +169,12 @@
   },
   "active": "2aa545f6a5f3cb79",
   "lastOpenFiles": [
-    "PSYCH 239/4. Mood Disorders & Suicide.md",
+    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
+    "Markdown Cheat Sheet.md",
+    "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
+    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
+    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/Dissociative and Somatoform Disorders (2022).pdf",
     "PSYCH 239/Media/Pasted image 20240528143936.png",
@@ -189,11 +192,8 @@
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/GAD ASSIGNMENT.md",
     "PSYCH 239/Mood Disorders (2023).pdf",
-    "Markdown Cheat Sheet.md",
     "AREC - Grant oportunities.md",
     "PSYCH 239/3. Anxiety disorders.md",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
     "PSYCH 239/PSYCH 239.md",
     "PSYCH 239/Anxiety and Related Disorders (2023).pdf",
     "PSYCH 239/Assessment Classification Treatment (2024).pdf",
@@ -209,7 +209,6 @@
     "Old notes/STAT 151/Data and Variables.md",
     "Old notes/Psych275/Exam review.md",
     "Old notes/STAT 151/Basics of probability.md",
-    "Old notes/Psych275/Media",
     "Old notes/Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Old notes/Psych275/Chapter 8 - Emotions and Health.md",
     "Old notes/Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
