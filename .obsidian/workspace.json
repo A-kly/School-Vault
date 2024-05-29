@@ -21,22 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "e239d692de07b137",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a6c58a38a311b2e9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Dissociative and Somatoform Disorders (2022).pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
