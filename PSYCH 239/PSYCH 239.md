@@ -6,6 +6,7 @@
 - [[5. Abnormal Behaviour Across the Lifespan]]
 - [[6. Substance- Related and Addictive Disorders]]
 - [[7. Dissociative and Somatic Symptom Disorders]]
+- [[8. Personality Disorders]]
 - [[GAD ASSIGNMENT]]
 - **Media**
 
