@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Personality Disorders (2023).pdf"
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Personality Disorders (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Personality Disorders (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Personality Disorders (2023).pdf"
               }
             }
           }
@@ -177,10 +178,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5e7e994dc3bc6fa4",
+  "active": "2aa545f6a5f3cb79",
   "lastOpenFiles": [
-    "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/8. Personality Disorders.md",
+    "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
