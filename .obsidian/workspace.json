@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "PSYCH 239/Eating and Sleep Disorders (2023).pdf"
               }
             }
           },
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "PSYCH 239/Eating and Sleep Disorders (2023).pdf"
               }
             }
           }
@@ -177,11 +178,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0da860149f7a7370",
+  "active": "0a4ffec4908813da",
   "lastOpenFiles": [
-    "PSYCH 239/Media/Pasted image 20240604164009.png",
-    "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+    "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
+    "PSYCH 239/Media/Pasted image 20240604165019.png",
+    "PSYCH 239/Media/Pasted image 20240604164955.png",
+    "PSYCH 239/Media/Pasted image 20240604164009.png",
     "PSYCH 239/Media/Pasted image 20240604161853.png",
     "PSYCH 239/Media/Pasted image 20240604160743.png",
     "PSYCH 239/8. Personality Disorders.md",
@@ -201,9 +204,6 @@
     "PSYCH 239/Media/Pasted image 20240523170218.png",
     "PSYCH 239/Media/Pasted image 20240523170046.png",
     "PSYCH 239/Media/Pasted image 20240523164018.png",
-    "PSYCH 239/Media/Pasted image 20240523163502.png",
-    "PSYCH 239/Media/Pasted image 20240523162909.png",
-    "PSYCH 239/Media/Pasted image 20240523162630.png",
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/GAD ASSIGNMENT.md",
     "PSYCH 239/Mood Disorders (2023).pdf",
