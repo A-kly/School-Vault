@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "0da860149f7a7370",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2aa545f6a5f3cb79",
             "type": "leaf",
             "state": {
@@ -30,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Untitled.md"
               }
             }
           },
@@ -118,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Untitled.md"
               }
             }
           }
@@ -177,10 +191,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "5e7e994dc3bc6fa4",
+  "active": "0da860149f7a7370",
   "lastOpenFiles": [
-    "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/8. Personality Disorders.md",
+    "PSYCH 239/Untitled.md",
+    "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
+    "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
@@ -213,7 +229,6 @@
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
     "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
     "Old notes/PSYCH 105/Media/Recording 20231005121726.webm",
-    "Old notes/Math 146/Math 144 review stuff/Things every MATH 144 student should know.pdf",
     "Old notes/STAT 151/STAT 151.md",
     "Old notes/STAT 151/LAB1.md",
     "Old notes/Psych275/Flashcards.md",
