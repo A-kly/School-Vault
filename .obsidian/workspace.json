@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e7e994dc3bc6fa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0da860149f7a7370",
             "type": "leaf",
             "state": {
@@ -34,12 +21,15 @@
             }
           },
           {
-            "id": "2aa545f6a5f3cb79",
+            "id": "5e7e994dc3bc6fa4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PSYCH 239/Personality Disorders (2023).pdf"
+                "file": "PSYCH 239/8. Personality Disorders.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -110,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "PSYCH 239/8. Personality Disorders.md"
               }
             }
           },
@@ -132,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "PSYCH 239/8. Personality Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "PSYCH 239/8. Personality Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "PSYCH 239/8. Personality Disorders.md"
               }
             }
           }
@@ -191,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "0da860149f7a7370",
+  "active": "5e7e994dc3bc6fa4",
   "lastOpenFiles": [
-    "PSYCH 239/8. Personality Disorders.md",
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
-    "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
     "PSYCH 239/Personality Disorders (2023).pdf",
+    "PSYCH 239/8. Personality Disorders.md",
+    "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
@@ -238,7 +228,6 @@
     "Old notes/Psych275/Chapter 6 - Motivation & Regulation of Internal States.md",
     "Old notes/Psych275/Chapter 8 - Emotions and Health.md",
     "Old notes/Psych275/Chapter 5 - Drugs, Addiction, and Reward.md",
-    "Old notes/Psych275/Chapter 2 - Communication within the nervous system.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
