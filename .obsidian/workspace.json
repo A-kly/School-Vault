@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2aa545f6a5f3cb79",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/Personality Disorders (2023).pdf"
-              }
-            }
-          },
-          {
             "id": "5e7e994dc3bc6fa4",
             "type": "leaf",
             "state": {
@@ -29,9 +19,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2aa545f6a5f3cb79",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PSYCH 239/Personality Disorders (2023).pdf"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
