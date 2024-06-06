@@ -8,6 +8,7 @@
 - [[7. Dissociative and Somatic Symptom Disorders]]
 - [[8. Personality Disorders]]
 - [[9. Sleep-Wake Disorders AND Feeding & Eating Disorders]]
+- [[10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions]]
 - [[GAD ASSIGNMENT]]
 - **Media**
 
