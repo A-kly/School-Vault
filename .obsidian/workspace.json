@@ -11,8 +11,13 @@
             "id": "f248cfee2e3c46c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+              }
             }
           },
           {
@@ -101,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+              }
             }
           }
         ],
