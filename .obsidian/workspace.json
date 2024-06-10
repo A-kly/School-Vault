@@ -24,9 +24,12 @@
             "id": "726a2d4ffc953530",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Markdown Cheat Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           },
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "Markdown Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "file": "Markdown Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md"
+                "file": "Markdown Cheat Sheet.md"
               }
             }
           }
@@ -180,6 +183,8 @@
   },
   "active": "726a2d4ffc953530",
   "lastOpenFiles": [
+    "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 239/Gender Identity, Paraphilias, Sexual Dysfunctions (2023).pdf",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
     "PSYCH 239/Media/Pasted image 20240606164352.png",
@@ -188,7 +193,6 @@
     "PSYCH 239/Media/Pasted image 20240606151444.png",
     "PSYCH 239/Media/Pasted image 20240606150956.png",
     "PSYCH 239/Eating and Sleep Disorders (2023).pdf",
-    "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
     "PSYCH 239/8. Personality Disorders.md",
     "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/Media/Pasted image 20240604165403.png",
@@ -200,7 +204,6 @@
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "Markdown Cheat Sheet.md",
     "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/4. Mood Disorders & Suicide.md",
