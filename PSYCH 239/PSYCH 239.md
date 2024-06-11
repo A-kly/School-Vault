@@ -10,6 +10,7 @@
 - [[9. Sleep-Wake Disorders AND Feeding & Eating Disorders]]
 - [[10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions]]
 - [[11. Schizophrenia Spectrum and Other Psychotic Disorders]]
+- [[12. Psychopharmacology of Antipsychotics]]
 - [[GAD ASSIGNMENT]]
 - **Media**
 
