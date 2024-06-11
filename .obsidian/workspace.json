@@ -159,8 +159,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e7764cec9c31398a",
+  "active": "24162dc252b7081a",
   "lastOpenFiles": [
     "PSYCH 239/Media/Pasted image 20240611161341.png",
     "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
