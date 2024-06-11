@@ -31,22 +31,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "f8e1adbda1daf887",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "93661531b704eff3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf"
+                "file": "PSYCH 239/12. Psychopharmacology of Antipsychotics.md"
               }
             }
           },
@@ -134,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
+                "file": "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
+                "file": "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +155,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf"
+                "file": "PSYCH 239/12. Psychopharmacology of Antipsychotics.md"
               }
             }
           }
@@ -193,20 +177,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "93661531b704eff3",
+  "active": "e7764cec9c31398a",
   "lastOpenFiles": [
-    "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
-    "PSYCH 239/Media/Pasted image 20240611161140.png",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
+    "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
+    "PSYCH 239/Media/Pasted image 20240611161421.png",
+    "PSYCH 239/Media/Pasted image 20240611161341.png",
+    "PSYCH 239/Media/Pasted image 20240611161206.png",
+    "PSYCH 239/Media/Pasted image 20240611161140.png",
     "PSYCH 239/Media/Pasted image 20240611161116.png",
     "PSYCH 239/Media/Pasted image 20240611161026.png",
     "PSYCH 239/Media/Pasted image 20240611160852.png",
     "PSYCH 239/Media/Pasted image 20240611160820.png",
     "PSYCH 239/Media/Pasted image 20240611160728.png",
     "PSYCH 239/Media/Pasted image 20240611160347.png",
-    "PSYCH 239/Media/Pasted image 20240611160326.png",
-    "PSYCH 239/Media/Pasted image 20240611155600.png",
-    "PSYCH 239/Media/Pasted image 20240611155448.png",
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/Schizophrenia Spectrum Disorders (2023).pdf",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
