@@ -214,55 +214,55 @@
 11. Which sleep disorder is characterized by difficulty falling or staying asleep?
     - a) Hypersomnolence Disorder
     - b) Narcolepsy
-    - c) Insomnia Disorder
+    - ==c) Insomnia Disorder==
     - d) Kleine-Levin Syndrome
 
 12. What sleep stage is associated with dreaming and paralysis of voluntary muscles?
     - a) Stage 1
     - b) Stage 2
     - c) Stage 3
-    - d) REM Sleep
+    - ==d) REM Sleep==
 
 13. Which breathing-related sleep disorder involves episodes of airway closure during sleep?
     - a) Narcolepsy
-    - b) Central Sleep Apnea
+    - ==b) Central Sleep Apnea==
     - c) Circadian Rhythm Sleep-Wake Disorder
     - d) Restless Leg Syndrome
 
 14. Which syndrome involves recurring periods of excessive sleep and impaired understanding of the world?
-    - a) Kleine-Levin Syndrome
+    - ==a) Kleine-Levin Syndrome==
     - b) REM Sleep Behavior Disorder
     - c) Nightmare Disorder
     - d) Non-REM Sleep Arousal Disorder
 
 15. In which type of sleep disorder does a person experience nightmares and wake up recalling the dreams?
     - a) Non-REM Sleep Arousal Disorder
-    - b) Nightmare Disorder
+    - ==b) Nightmare Disorder==
     - c) REM Sleep Behavior Disorder
     - d) Restless Leg Syndrome
 
 16. Which sleep disorder involves moving quickly into deep sleep stages, causing muscle paralysis at dangerous times?
     - a) Insomnia Disorder
     - b) Hypersomnolence Disorder
-    - c) Narcolepsy
+    - ==c) Narcolepsy==
     - d) Circadian Rhythm Sleep-Wake Disorder
 
 17. Which approach is commonly used in the treatment of sleep-wake disorders and involves addressing sleep hygiene?
     - a) Psychoanalysis
-    - b) Cognitive Behavioral Therapy (CBT)
+    - ==b) Cognitive Behavioral Therapy (CBT==)
     - c) Hypnotherapy
     - d) Rational Emotive Behavior Therapy (REBT)
 
 18. What is a common treatment for Central Sleep Apnea?
     - a) Medication
-    - b) CPAP machine
+    - ==b) CPAP machine==
     - c) Hypnotherapy
     - d) Surgery
 
 19. What behavioral disorder involves engaging in sexual behaviors during sleep?
     - a) Non-REM Sleep Arousal Disorder
     - b) REM Sleep Behavior Disorder
-    - c) Sexsomnia
+    - ==c) Sexsomnia==
     - d) Kleine-Levin Syndrome
 
 20. Which stage of sleep is also known as "Delta sleep" and involves a predominance of delta band EEG activity?
