@@ -14,6 +14,7 @@
 - [[GAD ASSIGNMENT]]
 - **Media**
 
-- [[Quiz]]
+- [[Personality disorder Quiz]]
+- [[Untitled]]
 
 %% End Waypoint %%
