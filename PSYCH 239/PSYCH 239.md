@@ -11,10 +11,10 @@
 - [[10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions]]
 - [[11. Schizophrenia Spectrum and Other Psychotic Disorders]]
 - [[12. Psychopharmacology of Antipsychotics]]
+- [[ED Quiz]]
 - [[GAD ASSIGNMENT]]
 - **Media**
 
-- [[Personality disorder Quiz]]
-- [[Untitled]]
+- [[PD Quiz]]
 
 %% End Waypoint %%
