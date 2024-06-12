@@ -28,36 +28,36 @@
 
 5. What type of anorexia nervosa involves severe restriction of food intake without binge eating or purging?
    - a) Binge-Eating/Purging Type
-   - b) Restricting Type
+   - ==b) Restricting Type==
    - c) Mixed Type
    - d) Compulsive Type
 
 6. How is the severity of anorexia nervosa primarily determined?
    - a) Caloric intake
-   - b) Body Mass Index (BMI)
+   - ==b) Body Mass Index (BMI==)
    - c) Exercise frequency
    - d) Psychological assessment
 
 7. What is a common medical complication of anorexia nervosa related to bone health?
    - a) Amenorrhea
-   - b) Osteoporosis
+   - ==b) Osteoporosis==
    - c) Kidney damage
    - d) Anemia
 
 8. Which eating disorder is characterized by a recurrent pattern of binge eating followed by self-induced purging?
    - a) Anorexia Nervosa
-   - b) Bulimia Nervosa
+   - ==b) Bulimia Nervosa==
    - c) Binge-Eating Disorder
    - d) Pica
 
 9. According to the DSM-5, how often must binge eating and compensatory behaviors occur for a diagnosis of bulimia nervosa?
    - a) Once a day for 6 months
-   - b) Once a week for 6 months
+   - ==b) Once a week for 6 months==
    - c) Once a week for 3 months
    - d) Once a month for 3 months
 
 10. What is a common dental complication of bulimia nervosa?
-    - a) Tooth erosion
+    - ==a) Tooth erosion==
     - b) Osteoporosis
     - c) Kidney damage
     - d) Hypotension
@@ -65,25 +65,25 @@
 11. Which eating disorder involves binge eating without subsequent purging?
     - a) Anorexia Nervosa
     - b) Bulimia Nervosa
-    - c) Binge-Eating Disorder
+    - ==c) Binge-Eating Disorder==
     - d) Night-Eating Syndrome
 
 12. Which psychological therapy is often used to treat both anorexia nervosa and bulimia nervosa?
     - a) Hypnotherapy
-    - b) Cognitive Behavioral Therapy (CBT)
+    - ==b) Cognitive Behavioral Therapy (CBT==)
     - c) Psychoanalysis
     - d) Art Therapy
 
 13. Which of the following is NOT a risk factor for developing an eating disorder?
     - a) Female gender
     - b) Participation in competitive sports
-    - c) Having a supportive family
+    - ==c) Having a supportive family==
     - d) Perfectionism
 
 14. What sociocultural factor is often linked to the development of eating disorders?
     - a) High socioeconomic status
     - b) Media portrayals of thinness
-    - c) Lack of education
+    - ==c) Lack of education==
     - d) Rural living
 
 15. Which condition involves the ingestion of non-nutritive substances?
