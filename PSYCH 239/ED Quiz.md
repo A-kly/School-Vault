@@ -158,7 +158,7 @@
 2. What BMI is considered "moderate to severe thinness" in anorexia nervosa according to the WHO?
    - a) 16.0 - 16.99
    - ==b) 15.0 - 15.99==
-   - c) 17.0 - 18.49
+   - *c) 17.0 - 18.49*
    - d) Less than 15.0
 
 3. Which hormone is typically low in females with anorexia nervosa, leading to amenorrhea?
@@ -171,11 +171,11 @@
    - a) Body Dysmorphic Disorder
    - b) Self-Evaluation
    - ==c) Body Image Distortion==
-   - d) Compensatory Behavior
+   - *d) Compensatory Behavior*
 
 5. What medical complication is NOT typically associated with bulimia nervosa?
    - a) Tooth erosion
-   - b) Osteoporosis
+   - *b) Osteoporosis*
    - c) Esophagus damage
    - ==d) Pancreatitis==
 
@@ -268,8 +268,8 @@
 20. Which stage of sleep is also known as "Delta sleep" and involves a predominance of delta band EEG activity?
     - a) Stage 1
     - b) Stage 2
-    - c) Stage 3
-    - d) Stage 4
+    - ==c) Stage 3==
+    - *d) Stage 4*
 
 ### Answer Key
 

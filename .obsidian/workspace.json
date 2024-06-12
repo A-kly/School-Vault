@@ -13,6 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9f2afc1d974f259d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f99a78ebc9fa6f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "PSYCH 239/ED Quiz.md",
                 "mode": "source",
                 "backlinks": false,
@@ -86,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/ED Quiz.md"
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md"
               }
             }
           },
@@ -108,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/ED Quiz.md",
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/ED Quiz.md",
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +164,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/ED Quiz.md"
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md"
               }
             }
           }
@@ -168,8 +187,8 @@
   },
   "active": "6563ef3d43f4f421",
   "lastOpenFiles": [
-    "PSYCH 239/PD Quiz.md",
     "PSYCH 239/ED Quiz.md",
+    "PSYCH 239/PD Quiz.md",
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
     "PSYCH 239/8. Personality Disorders.md",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
