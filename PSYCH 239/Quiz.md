@@ -233,11 +233,11 @@
     - a) Obsessive-Compulsive Personality Disorder
     - b) Dependent Personality Disorder
     - ==c) Borderline Personality Disorder==
-    - d) Antisocial Personality Disorder
+    - *d) Antisocial Personality Disorder*
 16. Which theoretical perspective emphasizes the role of reinforcement history in the development of personality disorders?
     
     - a) Psychodynamic Perspective
-    - b) Cognitive-Behavioral Perspective
+    - *b) Cognitive-Behavioral Perspective*
     - ==c) Family Perspective==
     - d) Biological Perspective
 17. Which personality disorder is characterized by a pervasive distrust and suspiciousness of others?
@@ -265,4 +265,24 @@
     - ==c) Psychodynamic Perspective==
     - d) Biological Perspective
 
-Let me know if you need the answer key!
+### Answers
+1. a) Cluster A
+2. c) Borderline Personality Disorder
+3. b) Lack of trust in the therapist
+4. c) Schizotypal Personality Disorder
+5. b) Ego Dystonic
+6. c) Histrionic Personality Disorder
+7. b) Inflated sense of self-worth
+8. c) Antisocial Personality Disorder
+9. c) Lack of interest in social relationships
+10. c) Obsessive-Compulsive Personality Disorder
+11. a) Splitting
+12. a) Avoidant Personality Disorder
+13. c) Dialectical Behavior Therapy (DBT)
+14. c) Dependent Personality Disorder
+15. d) Antisocial Personality Disorder
+16. b) Cognitive-Behavioral Perspective
+17. b) Paranoid Personality Disorder
+18. b) Excessive need to be the center of attention
+19. c) Obsessive-Compulsive Personality Disorder
+20. c) Psychodynamic Perspective
