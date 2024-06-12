@@ -14,5 +14,6 @@
 - [[GAD ASSIGNMENT]]
 - **Media**
 
+- [[Quiz]]
 
 %% End Waypoint %%
