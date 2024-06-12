@@ -190,7 +190,7 @@
     
     - a) Avoidant Personality Disorder
     - b) Dependent Personality Disorder
-    - c) Antisocial Personality Disorder
+    - ==c) Antisocial Personality Disorder==
     - d) Obsessive-Compulsive Personality Disorder
 9. What is a common feature of Schizoid Personality Disorder?
     
