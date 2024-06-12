@@ -151,18 +151,18 @@
 
 1. Which type of anorexia nervosa involves episodes of binge eating or purging?
    - a) Restricting Type
-   - b) Binge-Eating/Purging Type
+   - ==b) Binge-Eating/Purging Type==
    - c) Mixed Type
    - d) Compulsive Type
 
 2. What BMI is considered "moderate to severe thinness" in anorexia nervosa according to the WHO?
    - a) 16.0 - 16.99
-   - b) 15.0 - 15.99
+   - ==b) 15.0 - 15.99==
    - c) 17.0 - 18.49
    - d) Less than 15.0
 
 3. Which hormone is typically low in females with anorexia nervosa, leading to amenorrhea?
-   - a) Estrogen
+   - ==a) Estrogen==
    - b) Progesterone
    - c) Testosterone
    - d) Insulin
@@ -170,14 +170,14 @@
 4. In bulimia nervosa, what term describes the overconcern with body weight and image?
    - a) Body Dysmorphic Disorder
    - b) Self-Evaluation
-   - c) Body Image Distortion
+   - ==c) Body Image Distortion==
    - d) Compensatory Behavior
 
 5. What medical complication is NOT typically associated with bulimia nervosa?
    - a) Tooth erosion
    - b) Osteoporosis
    - c) Esophagus damage
-   - d) Pancreatitis
+   - ==d) Pancreatitis==
 
 6. Which therapy focuses on the relationships that are malfunctioning or lost in the treatment of eating disorders?
    - a) Cognitive Behavioral Therapy (CBT)
