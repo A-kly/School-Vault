@@ -182,31 +182,31 @@
 6. Which therapy focuses on the relationships that are malfunctioning or lost in the treatment of eating disorders?
    - a) Cognitive Behavioral Therapy (CBT)
    - b) Family Therapy
-   - c) Interpersonal Psychotherapy
+   - ==c) Interpersonal Psychotherapy==
    - d) Art Therapy
 
 7. Which eating disorder involves night-time eating and is characterized by consuming more than half of daily food intake after dinner?
    - a) Nocturnal Sleep-Related Eating Disorder
-   - b) Night-Eating Syndrome
+   - ==b) Night-Eating Syndrome==
    - c) Binge-Eating Disorder
    - d) Anorexia Athletica
 
 8. What is the focus of muscle dysmorphia (Bigorexia)?
    - a) Perceived need to lose weight
-   - b) Perceived smallness of muscles
+   - ==b) Perceived smallness of muscles==
    - c) Fear of gaining weight
    - d) Obsession with pure foods
 
 9. Which childhood disorder involves repeated regurgitation of food?
    - a) Pica
-   - b) Rumination Disorder
+   - ==b) Rumination Disorder==
    - c) Feeding Disorder of Infancy
    - d) Prader-Willi Syndrome
 
 10. What condition is characterized by eating large quantities of food rapidly, often followed by a feeling of distress?
     - a) Anorexia Nervosa
     - b) Bulimia Nervosa
-    - c) Binge-Eating Disorder
+    - ==c) Binge-Eating Disorder==
     - d) Night-Eating Syndrome
 
 #### Sleep-Wake Disorders
