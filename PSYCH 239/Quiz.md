@@ -86,14 +86,14 @@
 
 15. **What term describes behavior or feelings perceived as foreign or alien to one’s self-identity?**
     - a) Ego Syntonic
-    - b) Ego Dystonic
+    - ==b) Ego Dystonic==
     - c) Cognitive Dissonance
     - d) Dialectical
 
 16. **Which of the following personality disorders is more commonly associated with a history of legal problems or criminal behavior?**
     - a) Schizoid Personality Disorder
     - b) Avoidant Personality Disorder
-    - c) Antisocial Personality Disorder
+    - ==c) Antisocial Personality Disorder==
     - d) Obsessive-Compulsive Personality Disorder
 
 17. **What is a common treatment goal for individuals with Avoidant Personality Disorder?**
