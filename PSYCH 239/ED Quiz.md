@@ -144,3 +144,152 @@
 18. c) Cognitive Behavioral Therapy (CBT)
 19. c) Lack of recollection of the event
 20. c) Central Sleep Apnea
+***
+### Multiple Choice Questions
+
+#### Feeding & Eating Disorders
+
+1. Which type of anorexia nervosa involves episodes of binge eating or purging?
+   - a) Restricting Type
+   - b) Binge-Eating/Purging Type
+   - c) Mixed Type
+   - d) Compulsive Type
+
+2. What BMI is considered "moderate to severe thinness" in anorexia nervosa according to the WHO?
+   - a) 16.0 - 16.99
+   - b) 15.0 - 15.99
+   - c) 17.0 - 18.49
+   - d) Less than 15.0
+
+3. Which hormone is typically low in females with anorexia nervosa, leading to amenorrhea?
+   - a) Estrogen
+   - b) Progesterone
+   - c) Testosterone
+   - d) Insulin
+
+4. In bulimia nervosa, what term describes the overconcern with body weight and image?
+   - a) Body Dysmorphic Disorder
+   - b) Self-Evaluation
+   - c) Body Image Distortion
+   - d) Compensatory Behavior
+
+5. What medical complication is NOT typically associated with bulimia nervosa?
+   - a) Tooth erosion
+   - b) Osteoporosis
+   - c) Esophagus damage
+   - d) Pancreatitis
+
+6. Which therapy focuses on the relationships that are malfunctioning or lost in the treatment of eating disorders?
+   - a) Cognitive Behavioral Therapy (CBT)
+   - b) Family Therapy
+   - c) Interpersonal Psychotherapy
+   - d) Art Therapy
+
+7. Which eating disorder involves night-time eating and is characterized by consuming more than half of daily food intake after dinner?
+   - a) Nocturnal Sleep-Related Eating Disorder
+   - b) Night-Eating Syndrome
+   - c) Binge-Eating Disorder
+   - d) Anorexia Athletica
+
+8. What is the focus of muscle dysmorphia (Bigorexia)?
+   - a) Perceived need to lose weight
+   - b) Perceived smallness of muscles
+   - c) Fear of gaining weight
+   - d) Obsession with pure foods
+
+9. Which childhood disorder involves repeated regurgitation of food?
+   - a) Pica
+   - b) Rumination Disorder
+   - c) Feeding Disorder of Infancy
+   - d) Prader-Willi Syndrome
+
+10. What condition is characterized by eating large quantities of food rapidly, often followed by a feeling of distress?
+    - a) Anorexia Nervosa
+    - b) Bulimia Nervosa
+    - c) Binge-Eating Disorder
+    - d) Night-Eating Syndrome
+
+#### Sleep-Wake Disorders
+
+11. Which sleep disorder is characterized by difficulty falling or staying asleep?
+    - a) Hypersomnolence Disorder
+    - b) Narcolepsy
+    - c) Insomnia Disorder
+    - d) Kleine-Levin Syndrome
+
+12. What sleep stage is associated with dreaming and paralysis of voluntary muscles?
+    - a) Stage 1
+    - b) Stage 2
+    - c) Stage 3
+    - d) REM Sleep
+
+13. Which breathing-related sleep disorder involves episodes of airway closure during sleep?
+    - a) Narcolepsy
+    - b) Central Sleep Apnea
+    - c) Circadian Rhythm Sleep-Wake Disorder
+    - d) Restless Leg Syndrome
+
+14. Which syndrome involves recurring periods of excessive sleep and impaired understanding of the world?
+    - a) Kleine-Levin Syndrome
+    - b) REM Sleep Behavior Disorder
+    - c) Nightmare Disorder
+    - d) Non-REM Sleep Arousal Disorder
+
+15. In which type of sleep disorder does a person experience nightmares and wake up recalling the dreams?
+    - a) Non-REM Sleep Arousal Disorder
+    - b) Nightmare Disorder
+    - c) REM Sleep Behavior Disorder
+    - d) Restless Leg Syndrome
+
+16. Which sleep disorder involves moving quickly into deep sleep stages, causing muscle paralysis at dangerous times?
+    - a) Insomnia Disorder
+    - b) Hypersomnolence Disorder
+    - c) Narcolepsy
+    - d) Circadian Rhythm Sleep-Wake Disorder
+
+17. Which approach is commonly used in the treatment of sleep-wake disorders and involves addressing sleep hygiene?
+    - a) Psychoanalysis
+    - b) Cognitive Behavioral Therapy (CBT)
+    - c) Hypnotherapy
+    - d) Rational Emotive Behavior Therapy (REBT)
+
+18. What is a common treatment for Central Sleep Apnea?
+    - a) Medication
+    - b) CPAP machine
+    - c) Hypnotherapy
+    - d) Surgery
+
+19. What behavioral disorder involves engaging in sexual behaviors during sleep?
+    - a) Non-REM Sleep Arousal Disorder
+    - b) REM Sleep Behavior Disorder
+    - c) Sexsomnia
+    - d) Kleine-Levin Syndrome
+
+20. Which stage of sleep is also known as "Delta sleep" and involves a predominance of delta band EEG activity?
+    - a) Stage 1
+    - b) Stage 2
+    - c) Stage 3
+    - d) Stage 4
+
+### Answer Key
+
+1. b) Binge-Eating/Purging Type
+2. c) 17.0 - 18.49
+3. a) Estrogen
+4. d) Compensatory Behavior
+5. b) Osteoporosis
+6. c) Interpersonal Psychotherapy
+7. b) Night-Eating Syndrome
+8. b) Perceived smallness of muscles
+9. b) Rumination Disorder
+10. c) Binge-Eating Disorder
+11. c) Insomnia Disorder
+12. d) REM Sleep
+13. b) Central Sleep Apnea
+14. a) Kleine-Levin Syndrome
+15. b) Nightmare Disorder
+16. c) Narcolepsy
+17. b) Cognitive Behavioral Therapy (CBT)
+18. b) CPAP machine
+19. c) Sexsomnia
+20. d) Stage 4
