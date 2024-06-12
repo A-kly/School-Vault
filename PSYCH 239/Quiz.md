@@ -196,23 +196,23 @@
     
     - a) Excessive need for admiration
     - b) Persistent suspiciousness
-    - c) Lack of interest in social relationships
+    - ==c) Lack of interest in social relationships==
     - d) Emotional instability
 10. Which personality disorder involves a preoccupation with orderliness, perfectionism, and control?
     
     - a) Avoidant Personality Disorder
     - b) Dependent Personality Disorder
-    - c) Obsessive-Compulsive Personality Disorder
+    - ==c) Obsessive-Compulsive Personality Disorder==
     - d) Borderline Personality Disorder
 11. What term refers to the tendency to view things in black-and-white terms, often seen in Borderline Personality Disorder?
     
-    - a) Splitting
+    - ==a) Splitting==
     - b) Projecting
     - c) Externalizing
     - d) Rationalizing
 12. Which disorder is characterized by a pervasive pattern of social inhibition and feelings of inadequacy?
     
-    - a) Avoidant Personality Disorder
+    - ==a) Avoidant Personality Disorder==
     - b) Dependent Personality Disorder
     - c) Schizoid Personality Disorder
     - d) Antisocial Personality Disorder
@@ -220,49 +220,49 @@
     
     - a) Cognitive Behavioral Therapy (CBT)
     - b) Psychoanalysis
-    - c) Dialectical Behavior Therapy (DBT)
+    - ==c) Dialectical Behavior Therapy (DBT==)
     - d) Exposure Therapy
 14. Which disorder includes a persistent need to be taken care of and fears of separation?
     
     - a) Obsessive-Compulsive Personality Disorder
     - b) Avoidant Personality Disorder
-    - c) Dependent Personality Disorder
+    - ==c) Dependent Personality Disorder==
     - d) Schizoid Personality Disorder
 15. Which personality disorder is often difficult to treat because individuals typically do not see their behavior as problematic?
     
     - a) Obsessive-Compulsive Personality Disorder
     - b) Dependent Personality Disorder
-    - c) Borderline Personality Disorder
+    - ==c) Borderline Personality Disorder==
     - d) Antisocial Personality Disorder
 16. Which theoretical perspective emphasizes the role of reinforcement history in the development of personality disorders?
     
     - a) Psychodynamic Perspective
     - b) Cognitive-Behavioral Perspective
-    - c) Family Perspective
+    - ==c) Family Perspective==
     - d) Biological Perspective
 17. Which personality disorder is characterized by a pervasive distrust and suspiciousness of others?
     
     - a) Narcissistic Personality Disorder
-    - b) Paranoid Personality Disorder
+    - ==b) Paranoid Personality Disorder==
     - c) Schizotypal Personality Disorder
     - d) Borderline Personality Disorder
 18. What is a defining feature of Histrionic Personality Disorder?
     
     - a) Intense fear of abandonment
-    - b) Excessive need to be the center of attention
+    - ==b) Excessive need to be the center of attention==
     - c) Chronic feelings of emptiness
     - d) Lack of remorse for wrongdoing
 19. Which personality disorder is characterized by excessive orderliness, perfectionism, and a need for control?
     
     - a) Schizoid Personality Disorder
     - b) Narcissistic Personality Disorder
-    - c) Obsessive-Compulsive Personality Disorder
+    - ==c) Obsessive-Compulsive Personality Disorder==
     - d) Histrionic Personality Disorder
 20. Which theoretical perspective focuses on the influence of early childhood experiences on personality development?
     
     - a) Cognitive-Behavioral Perspective
     - b) Family Perspective
-    - c) Psychodynamic Perspective
+    - ==c) Psychodynamic Perspective==
     - d) Biological Perspective
 
 Let me know if you need the answer key!
