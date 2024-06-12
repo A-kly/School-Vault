@@ -97,29 +97,50 @@
     - d) Obsessive-Compulsive Personality Disorder
 
 17. **What is a common treatment goal for individuals with Avoidant Personality Disorder?**
-    - a) Increasing social skills and reducing anxiety
+    - ==a) Increasing social skills and reducing anxiety==
     - b) Increasing independence and self-reliance
     - c) Decreasing suspiciousness and improving trust
     - d) Enhancing grandiosity and self-confidence
 
 18. **Which personality disorder is most likely to involve a fear of abandonment and unstable personal relationships?**
     - a) Narcissistic Personality Disorder
-    - b) Borderline Personality Disorder
+    - ==b) Borderline Personality Disorder==
     - c) Schizotypal Personality Disorder
     - d) Obsessive-Compulsive Personality Disorder
 
 19. **Which of the following is NOT typically a symptom of Obsessive-Compulsive Personality Disorder?**
     - a) Perfectionism
     - b) Rigidity
-    - c) Preoccupation with details
+    - ==c) Preoccupation with details==
     - d) Frequent, intrusive obsessions and compulsions
 
 20. **Which personality disorder is characterized by social withdrawal and a restricted range of emotional expression in interpersonal settings?**
     - a) Borderline Personality Disorder
-    - b) Schizoid Personality Disorder
+    - ==b) Schizoid Personality Disorder==
     - c) Histrionic Personality Disorder
     - d) Dependent Personality Disorder
 
 ### Answer Key
 
-Please let me know when you would like the answer key.
+### Answer Key
+
+1. **c) Persistent lack of interest in social relationships**
+2. **b) Cluster B**
+3. **b) Borderline Personality Disorder**
+4. **b) Behavior or feelings that are perceived as natural or compatible parts of the self**
+5. **c) Ideas of reference and odd beliefs**
+6. **a) Must be at least 18 years old and have shown signs of Conduct Disorder before 15 years of age**
+7. **a) The division of social groups into sections with opposing views of the person**
+8. **b) Histrionic Personality Disorder**
+9. **c) Increase in the number of personality disorders in the DSM**
+10. **a) Psychodynamic Perspective**
+11. **c) Difficulty making independent decisions and overly dependent behavior**
+12. **c) Dialectical Behavior Therapy (DBT)**
+13. **c) Cluster C**
+14. **c) Narcissistic Personality Disorder**
+15. **b) Ego Dystonic**
+16. **c) Antisocial Personality Disorder**
+17. **a) Increasing social skills and reducing anxiety**
+18. **b) Borderline Personality Disorder**
+19. **d) Frequent, intrusive obsessions and compulsions**
+20. **b) Schizoid Personality Disorder**
