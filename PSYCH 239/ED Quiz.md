@@ -17,7 +17,7 @@
 3. According to the DSM-5, what is a key characteristic of anorexia nervosa?
    - a) Excessive weight gain
    - ==b) Maintenance of a minimally normal body weight==
-   - c) Intense fear of gaining weight
+   - *c) Intense fear of gaining weight*
    - d) Frequent binge eating without purging
 
 4. What is the term used to describe the absence of menstruation in females with anorexia nervosa?
@@ -53,7 +53,7 @@
 9. According to the DSM-5, how often must binge eating and compensatory behaviors occur for a diagnosis of bulimia nervosa?
    - a) Once a day for 6 months
    - ==b) Once a week for 6 months==
-   - c) Once a week for 3 months
+   - *c) Once a week for 3 months*
    - d) Once a month for 3 months
 
 10. What is a common dental complication of bulimia nervosa?
@@ -82,44 +82,44 @@
 
 14. What sociocultural factor is often linked to the development of eating disorders?
     - a) High socioeconomic status
-    - b) Media portrayals of thinness
+    - *b) Media portrayals of thinness*
     - ==c) Lack of education==
     - d) Rural living
 
 15. Which condition involves the ingestion of non-nutritive substances?
     - a) Rumination Disorder
     - b) Feeding Disorder of Infancy
-    - c) Pica
+    - ==c) Pica==
     - d) Prader-Willi Syndrome
 
 16. What is a feature of Rumination Disorder?
     - a) Binge eating followed by purging
     - b) Ingestion of non-nutritive substances
-    - c) Regurgitation and rechewing of food
+    - ==c) Regurgitation and rechewing of food==
     - d) Avoidance of eating due to body image distortion
 
 17. Which sleep disorder is characterized by excessive sleep and episodes lasting for several days?
     - a) Insomnia Disorder
     - b) Narcolepsy
-    - c) Kleine-Levin Syndrome
+    - ==c) Kleine-Levin Syndrome==
     - d) Restless Leg Syndrome
 
 18. Which treatment approach is used for sleep disorders and involves identifying and restructuring irrational thoughts?
     - a) Hypnotherapy
     - b) Rational Emotive Behavior Therapy (REBT)
-    - c) Cognitive Behavioral Therapy (CBT)
+    - ==c) Cognitive Behavioral Therapy (CBT==)
     - d) Psychoanalysis
 
 19. What is a common characteristic of non-REM sleep arousal disorders like sleepwalking?
     - a) Vivid dreams
     - b) REM sleep involvement
-    - c) Lack of recollection of the event
+    - ==c) Lack of recollection of the event==
     - d) Frequent awakenings
 
 20. Which breathing-related sleep disorder is more likely in obese individuals?
     - a) Insomnia Disorder
     - b) Hypersomnolence Disorder
-    - c) Central Sleep Apnea
+    - ==c) Central Sleep Apnea==
     - d) Circadian Rhythm Sleep-Wake Disorder
 
 ### Answer Key
