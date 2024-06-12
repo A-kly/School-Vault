@@ -8,7 +8,7 @@
 
 2. **Which cluster of personality disorders is characterized by dramatic, emotional, or erratic behavior?**
    - ==a) Cluster A==
-   - b) Cluster B
+   - *b) Cluster B*
    - c) Cluster C
    - d) Cluster D
 
@@ -51,7 +51,7 @@
 9. **Which of the following is NOT a proposed change to address problems with current personality disorder classifications?**
    - a) Reduction in diagnostic overlap
    - ==b) Movement from a categorical to dimensional conceptualization==
-   - c) Increase in the number of personality disorders in the DSM
+   - *c) Increase in the number of personality disorders in the DSM*
    - d) Recognition that symptom severity can fluctuate over time
 
 10. **Which theoretical perspective emphasizes the historical basis and how interpersonal conduct undermines relationships in treating personality disorders?**
@@ -112,7 +112,7 @@
     - a) Perfectionism
     - b) Rigidity
     - ==c) Preoccupation with details==
-    - d) Frequent, intrusive obsessions and compulsions
+    - *d) Frequent, intrusive obsessions and compulsions*
 
 20. **Which personality disorder is characterized by social withdrawal and a restricted range of emotional expression in interpersonal settings?**
     - a) Borderline Personality Disorder
@@ -121,9 +121,6 @@
     - d) Dependent Personality Disorder
 
 ### Answer Key
-
-### Answer Key
-
 1. **c) Persistent lack of interest in social relationships**
 2. **b) Cluster B**
 3. **b) Borderline Personality Disorder**

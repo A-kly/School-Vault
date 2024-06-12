@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Quiz.md"
               }
             }
           },
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Quiz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "PSYCH 239/Quiz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "PSYCH 239/Quiz.md"
               }
             }
           }
@@ -189,14 +190,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "e7764cec9c31398a",
+  "active": "65b984145bbac852",
   "lastOpenFiles": [
-    "PSYCH 239/Quiz.md",
     "PSYCH 239/8. Personality Disorders.md",
+    "PSYCH 239/Quiz.md",
+    "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
     "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
-    "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
     "PSYCH 239/Media/Pasted image 20240611161341.png",
     "PSYCH 239/Media/Pasted image 20240611161421.png",
     "PSYCH 239/Media/Pasted image 20240611161206.png",
@@ -236,7 +237,6 @@
     "Old notes/Psych275/Flashcards.md",
     "Old notes/STAT 151/Data and Variables.md",
     "Old notes/Psych275/Exam review.md",
-    "Old notes/STAT 151/Basics of probability.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
