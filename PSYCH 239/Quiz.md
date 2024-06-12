@@ -44,18 +44,18 @@
 
 8. **Which personality disorder involves excessive attention-seeking behavior and a need for constant reassurance, praise, and approval?**
    - a) Antisocial Personality Disorder
-   - b) Histrionic Personality Disorder
+   - ==b) Histrionic Personality Disorder==
    - c) Avoidant Personality Disorder
    - d) Obsessive-Compulsive Personality Disorder
 
 9. **Which of the following is NOT a proposed change to address problems with current personality disorder classifications?**
    - a) Reduction in diagnostic overlap
-   - b) Movement from a categorical to dimensional conceptualization
+   - ==b) Movement from a categorical to dimensional conceptualization==
    - c) Increase in the number of personality disorders in the DSM
    - d) Recognition that symptom severity can fluctuate over time
 
 10. **Which theoretical perspective emphasizes the historical basis and how interpersonal conduct undermines relationships in treating personality disorders?**
-    - a) Psychodynamic Perspective
+    - ==a) Psychodynamic Perspective==
     - b) Learning Perspective
     - c) Cognitive-Behavioral Perspective
     - d) Biological Perspective
@@ -63,25 +63,25 @@
 11. **Which of the following is a core feature of Dependent Personality Disorder?**
     - a) Persistent lack of interest in social relationships
     - b) Excessive need to be the center of attention
-    - c) Difficulty making independent decisions and overly dependent behavior
+    - ==c) Difficulty making independent decisions and overly dependent behavior==
     - d) Inflated sense of self-worth and entitlement
 
 12. **What type of therapy is primarily developed for Borderline Personality Disorder and focuses on techniques like mindfulness and distress tolerance?**
     - a) Cognitive Behavioral Therapy (CBT)
     - b) Psychodynamic Therapy
-    - c) Dialectical Behavior Therapy (DBT)
+    - ==c) Dialectical Behavior Therapy (DBT)==
     - d) Rational Emotive Behavior Therapy (REBT)
 
 13. **Which cluster of personality disorders is characterized by anxious, fearful, or avoidant behaviors?**
     - a) Cluster A
     - b) Cluster B
-    - c) Cluster C
+    - ==c) Cluster C==
     - d) Cluster D
 
 14. **Which personality disorder is characterized by an inflated self-image and demands for constant attention and admiration?**
     - a) Schizoid Personality Disorder
     - b) Dependent Personality Disorder
-    - c) Narcissistic Personality Disorder
+    - ==c) Narcissistic Personality Disorder==
     - d) Avoidant Personality Disorder
 
 15. **What term describes behavior or feelings perceived as foreign or alien to one’s self-identity?**
