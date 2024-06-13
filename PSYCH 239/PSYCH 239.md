@@ -13,6 +13,7 @@
 - [[12. Psychopharmacology of Antipsychotics]]
 - [[ED Quiz]]
 - [[GAD ASSIGNMENT]]
+- [[GI Quiz]]
 - **Media**
 
 - [[PD Quiz]]
