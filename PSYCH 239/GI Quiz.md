@@ -165,12 +165,12 @@
 4. **Which surgery involves the creation of a penis from skin taken from the thigh or forearm?**
    - A. Vaginoplasty
    - B. Metoidioplasty
-   - C. Phalloplasty
+   - ==C. Phalloplasty==
    - D. Tracheal shave
 
 5. **What type of disorder is characterized by sexual arousal from viewing a non-consenting person?**
    - A. Exhibitionistic Disorder
-   - B. Voyeuristic Disorder
+   - ==B. Voyeuristic Disorder==
    - C. Frotteuristic Disorder
    - D. Transvestic Disorder
 
@@ -178,29 +178,29 @@
    - A. Behaviour therapy
    - B. Pharmacological therapy
    - C. Hormone therapy
-   - D. Psychotherapy
+   - ==D. Psychotherapy==
 
 7. **Which term describes the condition of a strong desire to be treated as the other gender?**
    - A. Transvestic Disorder
    - B. Pedophilic Disorder
-   - C. Gender Dysphoria
+   - ==C. Gender Dysphoria==
    - D. Fetishistic Disorder
 
 8. **What is a characteristic of Exhibitionistic Disorder?**
    - A. Intense sexual arousal from cross-dressing
-   - B. Intense sexual arousal from exposing one's genitals to an unsuspecting person
+   - ==B. Intense sexual arousal from exposing one's genitals to an unsuspecting person==
    - C. Intense sexual arousal from viewing a non-consenting person
    - D. Intense sexual arousal from rubbing against a non-consenting person
 
 9. **Which type of disorder involves erotic interest in having an enema?**
-   - A. Klismaphilic Disorder
+   - ==A. Klismaphilic Disorder==
    - B. Voyeuristic Disorder
    - C. Fetishistic Disorder
    - D. Frotteuristic Disorder
 
 10. **What is the primary goal of Sensate Focus therapy?**
     - A. To increase sexual arousal through specific exercises
-    - B. To decrease sexual performance anxiety
+    - ==B. To decrease sexual performance anxiety==
     - C. To provide immediate sexual gratification
     - D. To delay orgasm
 
