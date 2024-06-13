@@ -165,7 +165,7 @@
 4. **Which statement is true about the prevalence of schizophrenia?**
    - ==A. It affects about 5% of the population==.
    - B. It is the leading cause of disability worldwide.
-   - C. It affects approximately 1% of the population.
+   - *C. It affects approximately 1% of the population*.
    - D. It is more common in childhood than in adulthood.
 
 5. **During which phase of schizophrenia do most of the negative symptoms occur?**

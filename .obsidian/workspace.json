@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "b0b8c3b2ba5264aa",
+        "id": "3b90dc1bc5f62cae",
         "type": "tabs",
         "children": [
           {
-            "id": "6563ef3d43f4f421",
+            "id": "97fffe012b861256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/8. Personality Disorders.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81ab55399e33d467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ddcbe915d00a5d89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c27cede1c8e06a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +58,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "168537f2a6b05b4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/Sz quiz.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/Sz quiz.md"
+                "file": "PSYCH 239/8. Personality Disorders.md"
               }
             }
           },
@@ -122,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/Sz quiz.md",
+                "file": "PSYCH 239/8. Personality Disorders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/Sz quiz.md",
+                "file": "PSYCH 239/8. Personality Disorders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +184,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/Sz quiz.md"
+                "file": "PSYCH 239/8. Personality Disorders.md"
               }
             }
           }
@@ -180,16 +205,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "168537f2a6b05b4a",
+  "active": "97fffe012b861256",
   "lastOpenFiles": [
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
-    "PSYCH 239/Sz quiz.md",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
+    "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
+    "PSYCH 239/8. Personality Disorders.md",
+    "PSYCH 239/Sz quiz.md",
     "PSYCH 239/GI Quiz.md",
     "PSYCH 239/ED Quiz.md",
     "PSYCH 239/PD Quiz.md",
-    "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
-    "PSYCH 239/8. Personality Disorders.md",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
     "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
