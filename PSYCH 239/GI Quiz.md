@@ -62,62 +62,62 @@
 
 11. **Which disorder is characterized by sexual arousal from exposing one's genitals to an unsuspecting person?**
     - A. Voyeuristic Disorder
-    - B. Exhibitionistic Disorder
+    - ==B. Exhibitionistic Disorder==
     - C. Frotteuristic Disorder
     - D. Fetishistic Disorder
 
 12. **Which of the following surgeries involves embedding the clitoris in the shaft of a penis created from skin taken from the thigh or forearm?**
     - A. Vaginoplasty
     - B. Metoidioplasty
-    - C. Phalloplasty
+    - ==C. Phalloplasty==
     - D. Tracheal shave
 
 13. **Which of the following therapies is often necessary throughout the process of gender transformation?**
     - A. Behaviour therapy
     - B. Pharmacological therapy
     - C. Hormone therapy
-    - D. Psychotherapy
+    - ==D. Psychotherapy==
 
 14. **Which theoretical perspective suggests that learned associations between sexual pleasure and contextual stimuli can lead to paraphilias?**
     - A. Psychodynamic theory
-    - B. Learning theory
+    - ==B. Learning theory==
     - C. Cognitive theory
     - D. Biological theory
 
 15. **What is the first category listed in DSM-5 for sexual dysfunctions?**
     - A. Orgasm disorders
     - B. Sexual pain disorders
-    - C. Sexual interest/arousal disorders
+    - ==C. Sexual interest/arousal disorders==
     - D. Genito-pelvic pain/penetration disorder
 
 16. **What is the name for the disorder where individuals derive sexual pleasure from giving or receiving enemas?**
-    - A. Klismaphilic Disorder
+    - ==A. Klismaphilic Disorder==
     - B. Voyeuristic Disorder
     - C. Fetishistic Disorder
     - D. Frotteuristic Disorder
 
 17. **Which type of therapy involves creating adaptive thoughts and social skills?**
     - A. Psychodynamic therapy
-    - B. Cognitive-behavioral therapy (CBT)
+    - ==B. Cognitive-behavioral therapy (CBT==)
     - C. Pharmacological therapy
     - D. Aversive conditioning
 
 18. **Which of the following is often a consequence of sexual assault?**
     - A. Increased sexual drive
     - B. Enhanced intimate relationships
-    - C. Post-Traumatic Stress Disorder (PTSD)
+    - ==C. Post-Traumatic Stress Disorder (PTSD==)
     - D. Improved physical health
 
 19. **What is the legal significance of Level 3 sexual assault?**
     - A. Non-consensual bodily contact for sexual purpose
     - B. Assault with a weapon
-    - C. Aggravated; physical harm and/or threat of death
+    - ==C. Aggravated; physical harm and/or threat of death==
     - D. Non-consensual verbal harassment
 
 20. **Which disorder is characterized by involuntary contractions of vaginal musculature that make penile entry very difficult?**
     - A. Dysparenuria
     - B. Vaginismus
-    - C. Genito-pelvic pain/penetration disorder
+    - ==C. Genito-pelvic pain/penetration disorder==
     - D. Female Orgasmic Disorder
 
 ### Answer Key
