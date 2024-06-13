@@ -206,54 +206,54 @@
 
 11. **Which disorder involves a marked incongruence between one’s experienced/expressed gender and primary and/or secondary sex characteristics?**
     - A. Voyeuristic Disorder
-    - B. Gender Dysphoria
+    - ==B. Gender Dysphoria==
     - C. Transvestic Disorder
     - D. Pedophilic Disorder
 
 12. **What is the purpose of Real Life Experience (RLE) in the context of gender transition?**
-    - A. To test the individual's commitment to their gender identity
+    - ==A. To test the individual's commitment to their gender identity==
     - B. To provide legal documentation for gender change
     - C. To prepare for hormone therapy
     - D. To undergo psychotherapy
 
 13. **Which theoretical perspective suggests that paraphilias result from learned associations between sexual pleasure and contextual stimuli?**
     - A. Psychodynamic theory
-    - B. Learning theory
+    - ==B. Learning theory==
     - C. Cognitive theory
     - D. Biological theory
 
 14. **Which treatment is used for Sexual Desire Disorders?**
     - A. Sensate focus
     - B. Hormone therapy
-    - C. Aversive conditioning
-    - D. Testosterone patches
+    - ==C. Aversive conditioning==
+    - *D. Testosterone patches*
 
 15. **What is an example of a paraphilic disorder that does not typically result in criminal activity?**
     - A. Voyeuristic Disorder
     - B. Exhibitionistic Disorder
-    - C. Fetishistic Disorder
+    - ==C. Fetishistic Disorder==
     - D. Pedophilic Disorder
 
 16. **What is a common consequence of sexual assault?**
     - A. Enhanced intimate relationships
-    - B. Increased substance abuse
+    - ==B. Increased substance abuse==
     - C. Improved physical health
     - D. Higher sexual drive
 
 17. **What is the focus of Cognitive-Behavioral Therapy (CBT) in the treatment of paraphilias?**
     - A. Aversive conditioning
     - B. Resolution of the Oedipal complex
-    - C. Development of adaptive thoughts and social skills
+    - ==C. Development of adaptive thoughts and social skills==
     - D. Pharmacological interventions
 
 18. **Which of the following is a specifier for Exhibitionistic Disorder?**
     - A. In full remission
     - B. In partial remission
-    - C. In a controlled environment
+    - ==C. In a controlled environment==
     - D. In an uncontrolled environment
 
 19. **Which sexual dysfunction involves difficulties with achieving or maintaining an erection?**
-    - A. Male Erectile Disorder
+    - ==A. Male Erectile Disorder==
     - B. Female Sexual Interest/Arousal Disorder
     - C. Female Orgasmic Disorder
     - D. Genito-pelvic pain/penetration disorder
@@ -261,7 +261,7 @@
 20. **What is a common treatment for premature ejaculation?**
     - A. Testosterone patches
     - B. Vibrators
-    - C. SSRIs
+    - ==C. SSRIs==
     - D. Hormone therapy
 
 ### Answer Key

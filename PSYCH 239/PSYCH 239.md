@@ -17,5 +17,6 @@
 - **Media**
 
 - [[PD Quiz]]
+- [[Sz quiz]]
 
 %% End Waypoint %%
