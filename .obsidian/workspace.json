@@ -35,6 +35,25 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "222e62d9eab6e628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9a8635d8796222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 239/Sz quiz.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "168537f2a6b05b4a",
+  "active": "ab9a8635d8796222",
   "lastOpenFiles": [
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/Sz quiz.md",
