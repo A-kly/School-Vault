@@ -9,3 +9,4 @@
 - Email Prof for urgent issues (missing exams, personal problems)
 - If I can do the assignments and examples in course notes, I'll do fine on the exam!
 - Calc is important, lots of math, no neural networks
+	
