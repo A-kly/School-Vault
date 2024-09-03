@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97fffe012b861256",
+            "id": "d0d2791c91d5c5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "CMPUT 267/CMPUT 267.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,48 +21,12 @@
             }
           },
           {
-            "id": "52a19f80e4dd0d8d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
-          },
-          {
-            "id": "81ab55399e33d467",
+            "id": "6cd6f4c6efb190bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ddcbe915d00a5d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c27cede1c8e06a94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
+                "file": "CMPUT 267/Lecture 1 - Intro.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -136,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "CMPUT 267/Lecture 1 - Intro.md"
               }
             }
           },
@@ -158,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "CMPUT 267/Lecture 1 - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md",
+                "file": "CMPUT 267/Lecture 1 - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 239/8. Personality Disorders.md"
+                "file": "CMPUT 267/Lecture 1 - Intro.md"
               }
             }
           }
@@ -216,8 +180,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "52a19f80e4dd0d8d",
+  "active": "6cd6f4c6efb190bf",
   "lastOpenFiles": [
+    "CMPUT 267/CMPUT 267.md",
+    "CMPUT 267/Lecture 1 - Intro.md",
+    "CMPUT 267",
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
@@ -254,7 +221,6 @@
     "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
     "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/GAD ASSIGNMENT.md",
-    "PSYCH 239/Mood Disorders (2023).pdf",
     "AREC - Grant oportunities.md",
     "PSYCH 239/3. Anxiety disorders.md",
     "PSYCH 239/PSYCH 239.md",
@@ -262,8 +228,6 @@
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
     "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
     "Old notes/STAT 151/STAT 151.md",
-    "Old notes/STAT 151/LAB1.md",
-    "Old notes/Psych275/Flashcards.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]

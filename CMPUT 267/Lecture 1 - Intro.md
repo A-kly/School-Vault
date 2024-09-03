@@ -1,0 +1,4 @@
+- All class content streamed on google meet and recorded for YouTube
+- Lots of admin and barebones of why this couse ecists
+- course website is vladtkachuck4.github.io/machinelearning1
+- 
