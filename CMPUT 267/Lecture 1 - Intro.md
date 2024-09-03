@@ -1,4 +1,9 @@
 - All class content streamed on google meet and recorded for YouTube
 - Lots of admin and barebones of why this couse ecists
-- course website is vladtkachuck4.github.io/machinelearning1
-- 
+- course website is https://vladtkachuck4.github.io/machinelearning1
+- Tutorials (optional) 4:00-5:00pm
+	- Going over examples and assignment questions and **Solutions**
+- Lectures are mostly whiteboard lectures using an ipad to take them, I should probably take notes using notebooks
+- Use LLMs to get question help, Piazza for course specific help
+- Email TAs for private assignment questions
+- Email Prof for urgent issues (missing exams, personal problems)
