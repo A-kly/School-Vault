@@ -32,9 +32,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5b1afa72d210314a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 258/PSYCH 258.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb86ef22be6ee3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 382/CMPUT 382.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 267/Lecture 1 - Intro.md"
+                "file": "CMPUT 382/CMPUT 382.md"
               }
             }
           },
@@ -122,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 267/Lecture 1 - Intro.md",
+                "file": "CMPUT 382/CMPUT 382.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 267/Lecture 1 - Intro.md",
+                "file": "CMPUT 382/CMPUT 382.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPUT 267/Lecture 1 - Intro.md"
+                "file": "CMPUT 382/CMPUT 382.md"
               }
             }
           }
@@ -180,10 +206,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "6cd6f4c6efb190bf",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
-    "CMPUT 267/CMPUT 267.md",
+    "PSYCH 258/PSYCH 258.md",
+    "CMPUT 382/CMPUT 382.md",
+    "CMPUT 382",
     "CMPUT 267/Lecture 1 - Intro.md",
+    "PSYCH 258",
+    "CMPUT 267/CMPUT 267.md",
     "CMPUT 267",
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
@@ -218,16 +248,12 @@
     "PSYCH 239/Intro and Theoretical Perspectives (2024).pdf",
     "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
     "PSYCH 239/4. Mood Disorders & Suicide.md",
-    "PSYCH 239/Substance Related and Addictive Disorders (2023).pdf",
-    "PSYCH 239/Lifespan (2023).pdf",
     "PSYCH 239/GAD ASSIGNMENT.md",
     "AREC - Grant oportunities.md",
     "PSYCH 239/3. Anxiety disorders.md",
     "PSYCH 239/PSYCH 239.md",
     "Old notes/Psych275/Chapter 4 - The Methods and Ethics of Research.md",
     "Old notes/Math 146/10.2 Linear first-order differential equations.md",
-    "Old notes/CMPUT 204-B1/CMPUT 204-B1.md",
-    "Old notes/STAT 151/STAT 151.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
