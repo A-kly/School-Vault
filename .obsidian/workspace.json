@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "52a19f80e4dd0d8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "81ab55399e33d467",
             "type": "leaf",
             "state": {
@@ -59,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "97fffe012b861256",
+  "active": "52a19f80e4dd0d8d",
   "lastOpenFiles": [
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
