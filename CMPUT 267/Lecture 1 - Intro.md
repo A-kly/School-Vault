@@ -1,5 +1,5 @@
 - All class content streamed on google meet and recorded for YouTube
-- Lots of admin and barebones of why this couse ecists
+- Lots of admin and barebones of why this course exists
 - course website is https://vladtkachuck4.github.io/machinelearning1
 - Tutorials (optional) 4:00-5:00pm
 	- Going over examples and assignment questions and **Solutions**
@@ -7,3 +7,5 @@
 - Use LLMs to get question help, Piazza for course specific help
 - Email TAs for private assignment questions
 - Email Prof for urgent issues (missing exams, personal problems)
+- If I can do the assignments and examples in course notes, I'll do fine on the exam!
+- Calc is important, lots of math, no neural networks
