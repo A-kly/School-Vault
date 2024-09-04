@@ -21,23 +21,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC 225/SOC 225.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "82b0992cf5dd91ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+              }
             }
           },
           {
@@ -123,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+              }
             }
           }
         ]
@@ -178,9 +176,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "82b0992cf5dd91ca",
+  "active": "217c04c5c8b35aa0",
   "lastOpenFiles": [
     "SOC 225/SOC 225.md",
+    "SOC 225/Untitled.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
     "CMPUT 267/Lecture 1 - Intro.md",
