@@ -4,32 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6756f629e992de77",
+        "id": "a17debec73e8f99f",
         "type": "tabs",
         "children": [
           {
-            "id": "d223bbe0173f41c2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "217c04c5c8b35aa0",
+            "id": "f3ee50786f0edc19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "CMPUT 382/CMPUT 382.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "CMPUT 382/CMPUT 382.md"
               }
             }
           },
@@ -117,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "CMPUT 382/CMPUT 382.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "CMPUT 382/CMPUT 382.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "CMPUT 382/CMPUT 382.md"
               }
             }
           }
@@ -176,15 +167,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "217c04c5c8b35aa0",
+  "active": "f3ee50786f0edc19",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "SOC 225/SOC 225.md",
     "SOC 225/Untitled.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
     "CMPUT 267/Lecture 1 - Intro.md",
     "CMPUT 267/CMPUT 267.md",
-    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "PSYCH 258/test.md",
     "HTML import/p104s01intro1.md",
     "HTML import",
