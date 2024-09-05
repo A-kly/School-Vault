@@ -1,0 +1,4 @@
+- Non cumulative final
+- Study and I'll be chill
+- read the textbook
+- 
