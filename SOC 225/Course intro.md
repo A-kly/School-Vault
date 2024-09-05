@@ -1,4 +1,5 @@
 - Non cumulative final
 - Study and I'll be chill
 - read the textbook
+- he talks a lot, we are on slide 5 and the class started 23 minutes ago
 - 
