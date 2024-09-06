@@ -1,4 +1,6 @@
 %% Begin Waypoint %%
-- [[Lecture 1 - Course overview]]
+- [[Lecture 1.2 - Introduction to Heterogeneous Parallel Computing]]
+- **Media**
+
 
 %% End Waypoint %%

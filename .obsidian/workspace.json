@@ -11,8 +11,13 @@
             "id": "d96613da4f2603c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+              }
             }
           },
           {
@@ -101,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,14 +144,17 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 270.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +169,9 @@
   },
   "active": "d96613da4f2603c9",
   "lastOpenFiles": [
+    "CMPUT 382/Media/Pasted image 20240906141251.png",
+    "CMPUT 382/Media/Pasted image 20240906140850.png",
+    "CMPUT 382/Media",
     "PSYCH 258/PSYCH 258_ Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "CMPUT 382/CMPUT 382.md",
@@ -171,7 +186,7 @@
     "PSYCH 258/Attachments",
     "HTML import",
     "SOC 225/Course intro.md",
-    "CMPUT 382/Lecture 1 - Course overview.md",
+    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "SOC 225/SOC 225.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
@@ -197,8 +212,6 @@
     "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
     "PSYCH 239/Media/Pasted image 20240611161341.png",
     "PSYCH 239/Media/Pasted image 20240611161421.png",
-    "PSYCH 239/Media/Pasted image 20240611161206.png",
-    "PSYCH 239/Schizophrenia Spectrum Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "Markdown Cheat Sheet.md",
