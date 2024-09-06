@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 382/CMPUT 382.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "PSYCH 258/PSYCH 258_ Cognitive Neuroscience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +180,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7ac81e58e3276573",
+  "active": "f3ee50786f0edc19",
   "lastOpenFiles": [
+    "CMPUT 382/CMPUT 382.md",
+    "PSYCH 258/PSYCH 258_ Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
-    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+    "PSYCH 258/Attachments/p258s03-5.jpg",
+    "PSYCH 258/Attachments/p258s03-4.jpg",
+    "PSYCH 258/Attachments/p258s03-3.jpg",
+    "PSYCH 258/Attachments/p258s03-2.jpg",
+    "PSYCH 258/Attachments/p258s03-1.png",
     "PSYCH 258/p258s01-021.md",
     "PSYCH 258/Attachments/p258s01-02-1.png",
     "PSYCH 258/Attachments/con-new.png",
@@ -192,7 +197,6 @@
     "HTML import",
     "SOC 225/Course intro.md",
     "CMPUT 382/Lecture 1 - Course overview.md",
-    "CMPUT 382/CMPUT 382.md",
     "SOC 225/SOC 225.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
@@ -219,16 +223,10 @@
     "PSYCH 239/Media/Pasted image 20240611161341.png",
     "PSYCH 239/Media/Pasted image 20240611161421.png",
     "PSYCH 239/Media/Pasted image 20240611161206.png",
-    "PSYCH 239/Media/Pasted image 20240611161140.png",
-    "PSYCH 239/Media/Pasted image 20240611161116.png",
-    "PSYCH 239/Media/Pasted image 20240611161026.png",
-    "PSYCH 239/Media/Pasted image 20240611160852.png",
-    "PSYCH 239/Media/Pasted image 20240611160820.png",
     "PSYCH 239/Schizophrenia Spectrum Disorders (2023).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "Markdown Cheat Sheet.md",
-    "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]

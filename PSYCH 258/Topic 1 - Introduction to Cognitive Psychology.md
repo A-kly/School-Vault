@@ -52,26 +52,28 @@
 	- ==People== are part of the world
 	- explanations should be of this world (not magical)
 - Plato (b.428? - d.348? BCE):
-- **Rati**: knowledge is obtained via thinking and logical analysis
+	- **Rationalism**: knowledge is obtained via thinking and logical analysis
+		- Thinking about things we know generated new knowledge
 - Aristotle (b.384 - d.322 BCE):
-- **----------**: knowledge is acquired through experience and observation
+	- **empiricist**: knowledge is acquired through experience and observation
+		- Do things to gather new knowledge
 
 ### Renaissance Philosophers
 
 - René Descartes (b.1596 - d.1650):
-- French rationalist
-- “-cogito, ergo sum-” (“I think, therefore I am”)
-- Cartesian dualism: mind and body are distinct entities interacting in humans
+	- French **rationalist**
+	- “-cogito, ergo sum-” (“I think, therefore I am”)
+	- Cartesian dualism: mind and body are distinct entities interacting in humans
 - John Locke (b.1632 - d.1704):
-- British empiricist
-- -tablula rasa- (“----- -----”): at birth, we know nothing; we acquire knowledge through empirical observation
+	- British **empiricist**
+	- tablula rasa- (“==blank slate==”): at birth, we know nothing; we acquire knowledge through empirical observation
 - Immanuel Kant (b.1724 - d.1804):
-- dialectically synthesized the views of Descartes and Locke
-- contended that both rationalism and empiricism contribute to understanding
+	- **dialectically synthesized** the views of Descartes and Locke
+	- *contended* that both rationalism and empiricism contribute to understanding
 
 ### The 19th Century
 
-- psychology: the scientific study of --------- experience
+- psychology: the scientific study of conscious experience
 
 **Structuralism**
 
