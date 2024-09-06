@@ -93,60 +93,46 @@
 	- determine the ==adaptive== significance of thought processes
 	- find how and why the ==mind== works
 		- e.g., how do people change and adapt to their environments?
-
-- specify ------------- between stimuli and responses
+- specify ==relationships== between stimuli and responses
 - William James (b.1842-d.1910):
-- published -The Principles of Psychology- (1890), which foreshadowed much of cognitive psychology
-- problems:
-	-  not based on experimentation
-	
-	-  theories did not make testable predictions
+	- published -The Principles of Psychology- (1890), which foreshadowed much of cognitive psychology
+	- problems:
+		-  not based on experimentation
+		-  theories did not make testable predictions
 
 **Associationism**
 
 - goals:
-- determine how events/ideas become ----------
-
-e.g., contiguity, frequency, similarity, contrast
-
-- understand how association produces --------
+	- determine how events/ideas become ==associated==
+	- e.g., contiguity, frequency, similarity, contrast
+	- understand how association produces ==learning==
 - F.C. Donders (1868):
-- studied mental chronometry using reaction time (RT) and **----------- method**
-
-Task A (------ RT): 1 light, 1 button
-
-RTA = stimulus detection + motor response
-
-Task B (------ RT): 2 lights, 2 buttons
-
-RTB = stimulus detection + stimulus identification + response selection + motor response
-
-RT for stimulus identification + response selection = RTB - RTA
-
-But how to separate these?
-
-Task C (go/no go RT): 2 lights, 1 button (------ one light)
-
-RTC = stimulus detection + stimulus identification + motor response
-
-RT for stimulus identification = RTC - RTA
-
-RT for response selection = RTB - RTC
-
-- assumed “---- ---------”: time to complete each stage is independent of the other stages
-- problems:
--  RTC not always shorter than RTB
--  motor response times may be different in different tasks
--  novice performance not comparable to expert performance
-- Hermann Ebbinghaus (1885):
-- used 2,000 3-letter -------- syllables to measure his memory
-- this removed familiarity effects (e.g., -bat- vs. -cat-)
-- found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
-
-![forgetting curve](p258s01-02-1.png)
-
-- problem:
-	-  it’s hard to remember --------
+	- studied mental chronometry using reaction time (RT) and **subtraction method**
+		- Task A (------ RT): 1 light, 1 button
+		- RTA = stimulus detection + motor response
+		- Task B (------ RT): 2 lights, 2 buttons
+		- RTB = stimulus detection + stimulus identification + response selection + motor response
+		- RT for stimulus identification + response selection = RTB - RTA
+		- But how to separate these?
+		- Task C (go/no go RT): 2 lights, 1 button (------ one light)
+		- RTC = stimulus detection + stimulus identification + motor response
+		- RT for stimulus identification = RTC - RTA
+		- RT for response selection = RTB - RTC
+	
+	- assumed “---- ---------”: time to complete each stage is independent of the other stages
+	- problems:
+	-  RTC not always shorter than RTB
+	-  motor response times may be different in different tasks
+	-  novice performance not comparable to expert performance
+	- Hermann Ebbinghaus (1885):
+	- used 2,000 3-letter -------- syllables to measure his memory
+	- this removed familiarity effects (e.g., -bat- vs. -cat-)
+	- found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
+	
+	![forgetting curve](p258s01-02-1.png)
+	
+	- problem:
+		-  it’s hard to remember --------
 
 **Psychoanalysis**
 
