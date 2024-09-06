@@ -73,27 +73,26 @@
 
 ### The 19th Century
 
-- psychology: the scientific study of conscious experience
+- psychology: the scientific study of conscious ==experience==
 
 **Structuralism**
 
 - goals:
-- analyze conscious processes into their basic --------
-- discover how the elements become ---------
-- specify the laws of connection
+	- analyze conscious processes into their basic ==elements==
+	- discover how the elements become ==connected==
+	- specify the laws of connection
 - Wilhelm Wundt (b.1832-d.1920):
-- opened first psychology lab, University of Leipzig (1879)
-- **-------------**: analyze your own conscious experience into sensations, images, & affections
-- problems:
-	-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently ---------- )
+	- opened first psychology lab, University of Leipzig (1879)
+	- **introspection**: analyze your own conscious experience into sensations, images, & affections
+	- problems:
+		-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently ==verifiable== )
 
 **Functionalism**
 
 - goals:
-- determine the -------- significance of thought processes
-- find how and why the ---- works
-
-e.g., how do people change and adapt to their environments?
+	- determine the ==adaptive== significance of thought processes
+	- find how and why the ==mind== works
+		- e.g., how do people change and adapt to their environments?
 
 - specify ------------- between stimuli and responses
 - William James (b.1842-d.1910):
