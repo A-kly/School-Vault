@@ -11,6 +11,8 @@
 	- SIMD = Single instruction multiple data
 - PU = Processing unit.
 	- Essentially a core
+- GPU uses SIMD, instruction comes to a WARP (32 PUs), and is executed by all processors in the warp
+	- The instruction pool dictates a thread. In order for each PU to compute different things, the data they work on must be different
 # Turing Machine
 - Infinitely long strip of tape
 	- head to read and store symbols on tape
@@ -60,9 +62,28 @@
 - Such reductions are desirable traits for light, portable, battery-powered devices—including smartphones, laptops and tablet computers, and other embedded systems
 - For Supercomputers, which consume large amounts of electricity, ARM could also be a power- efficient solution
 - **Less transistors, less energy, slightly less powerful**
-- **ARM** Architectire is further reduced for simplicity
+	- **ARM** Architecture is further reduced for simplicity
 
 ### Instructions
 ![[Pasted image 20240906144121.png]]
 - CISC multiply instruction = Load+load+product+store RISC instructions
 - RISC is more simple von Neuman architecture
+### Compare
+#### CISC
+- Richer instruction set, some simple, some very complex.
+- Instructions generally take more than 1 clock to execute.
+- Instructions of a variable size.
+- Instructions interface with memory in multiple mechanisms with complex addressing modes.
+- **No pipelining**
+- Upward compatibility within a family.
+- Microcode control.
+- Work well with simpler compiler.
+#### RISC
+- Simple primitive instructions and addressing modes.
+- Instructions execute in one clock cycle.
+- Uniformed length instructions and fixed instruction format.
+- Instructions interface with memory via fixed mechanisms.
+- Pipelining.
+- Instruction set is orthogonal (little overlapping of instruction functionality)
+- **Hardwired control**
+- **Complexity pushed to the compiler**
