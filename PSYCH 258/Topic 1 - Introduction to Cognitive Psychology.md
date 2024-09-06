@@ -14,7 +14,7 @@
 
 ## What is Cognitive Psychology?
 
-Dictionary Definitions
+### Dictionary Definitions
 
 - **cognition**: Middle English _cognicioun_, from Latin _cognitio_, to learn; to ____ (Encarta, 2000)
 
@@ -24,7 +24,7 @@ Dictionary Definitions
 
 - what are these mental processes and representations?
 
-Classic Definition
+### Classic Definition
 
 - **cognitive psychology**: “all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used” (Neisser, 1967, p.4)
 
@@ -36,7 +36,7 @@ Classic Definition
 
 - these processes have a _________
 
-Information-Processing Definition
+### Information-Processing Definition
 
 - **cognitive psychology**: the experimental study of human information processing
 
@@ -60,7 +60,7 @@ Information-Processing Definition
 
 ## History
 
-Ancient Greek Philosophers
+### Ancient Greek Philosophers
 
 - basic assumptions
 
@@ -78,7 +78,7 @@ Ancient Greek Philosophers
 
 - **__________**: knowledge is acquired through experience and observation
 
-Renaissance Philosophers
+### Renaissance Philosophers
 
 - René Descartes (b.1596 - d.1650):
 
@@ -100,7 +100,7 @@ Renaissance Philosophers
 
 - contended that both rationalism and empiricism contribute to understanding
 
-The 19th Century
+### The 19th Century
 
 - psychology: the scientific study of _________ experience
 
@@ -201,8 +201,7 @@ RT for response selection = RTB - RTC
 ![forgetting curve](p258s01-02-1.png)
 
 - problem:
-
--  it’s hard to remember ________
+	-  it’s hard to remember ________
 
 **Psychoanalysis**
 
