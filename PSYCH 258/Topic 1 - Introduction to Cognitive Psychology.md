@@ -108,16 +108,16 @@
 	- understand how association produces ==learning==
 - F.C. Donders (1868):
 	- studied mental chronometry using reaction time (RT) and **subtraction method**
-		- Task A (------ RT): 1 light, 1 button
-		- RTA = stimulus detection + motor response
-		- Task B (------ RT): 2 lights, 2 buttons
-		- RTB = stimulus detection + stimulus identification + response selection + motor response
-		- RT for stimulus identification + response selection = RTB - RTA
-		- But how to separate these?
-		- Task C (go/no go RT): 2 lights, 1 button (------ one light)
-		- RTC = stimulus detection + stimulus identification + motor response
-		- RT for stimulus identification = RTC - RTA
-		- RT for response selection = RTB - RTC
+		- *Task A* (==Simple== RT): 1 light, 1 button
+			- RTA = stimulus detection + motor response
+		- *Task B* (==Choice== RT): 2 lights, 2 buttons
+			- RTB = stimulus detection + stimulus identification + response selection + motor response
+			- **RT for stimulus identification + response selection = RTB - RTA**
+			- But how to separate these?
+		- *Task C* (go/no go RT): 2 lights, 1 button (==ingore== one light)
+			- **RTC = stimulus detection + stimulus identification + motor response**
+			- **RT for stimulus identification = RTC - RTA**
+			- **RT for response selection = RTB - RTC**
 	
 	- assumed “---- ---------”: time to complete each stage is independent of the other stages
 	- problems:
