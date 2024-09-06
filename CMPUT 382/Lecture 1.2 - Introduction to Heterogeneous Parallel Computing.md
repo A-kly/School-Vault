@@ -24,5 +24,9 @@
 		- Can have multiple machine descriptions (programs) to change what the machine does and chain together operations
 # The Von-Neumann Architecture
 ![[Pasted image 20240906142459.png]]
-- Tom scott Von-Neumann Architecture video
-- 
+- Tom scott Von-Neumann Architecture basics video
+# Harvard vs von Neuman
+![[Pasted image 20240906143336.png]]
+- ROM is used for instructions memory rather than using RAM for that, this makes it easier for us to boot off of the ROM and access RAM only for data
+- von Neuman slows down things due to address bus being used for both instructions and data
+- **Each core in a modern cpu is it's own von Neuman machine**
