@@ -20,5 +20,9 @@
 - Can be made more abstract in order to generalize it
 	- Has input, output, and program P to do this
 	- new machine required for every computation
-	- Universal turing machine takes in extra input of machine description to change what it does
-		- Can have multiple 
+	- **Universal turing machine** takes in extra input of machine description to change what it does
+		- Can have multiple machine descriptions (programs) to change what the machine does and chain together operations
+# The Von-Neumann Architecture
+![[Pasted image 20240906142459.png]]
+- Tom scott Von-Neumann Architecture video
+- 
