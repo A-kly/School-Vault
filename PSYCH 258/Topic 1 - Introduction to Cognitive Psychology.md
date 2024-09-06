@@ -16,30 +16,30 @@
 
 ### Dictionary Definitions
 
-- **cognition**: Middle English _cognicioun_, from Latin _cognitio_, to learn; to ____ (Encarta, 2000)
-- **cognitive psychology**: “a general approach to psychology emphasizing the internal, mental _________. Behaviour...requires explanations at the level of mental events, mental representations, beliefs and intentions” (Reber & Reber, 2001, p.135)
-- behaviour explained in terms of underlying __________
-- what are these mental processes and representations?
+- **cognition**: Middle English -cognicioun-, from Latin -cognitio-, to learn; to ---- (Encarta, 2000)
+- **cognitive psychology**: “a general approach to psychology emphasizing the Internal, ==mental processes==. Behaviour...requires explanations at the level of mental events, mental representations, beliefs and intentions” (Reber & Reber, 2001, p.135)
+	- behaviour explained in terms of underlying ==mechanisms==
+	- what are these mental processes and representations?
 
 ### Classic Definition
 
 - **cognitive psychology**: “all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used” (Neisser, 1967, p.4)
-- information may be changed or _______
+- information may be changed or ==removed==
 - new information is connected to other information
-- ____ information and get it later
-- these processes have a _________
+- Keep information and get it later
+- these processes have a ==Purpose==
 
 ### Information-Processing Definition
 
 - **cognitive psychology**: the experimental study of human information processing
 - assumption: the mind is “a complex system that receives, stores, retrieves, transforms, and transmits information” (Stillings et al., 1987, p.1)
 - characteristics:
-	-  processing capacity is _______--due to attention
-	-  cognition takes ____--multiple stages inferred
-	-  processing stages are ______________--processes cannot be isolated
+	-  processing capacity is ---------due to attention
+	-  cognition takes ------multiple stages inferred
+	-  processing stages are ----------------processes cannot be isolated
 - basic domains: attention, pattern perception, learning, memory,...
 - higher-level domains: language processing, problem solving, decision-making,...
-- hardware:software::_____:?
+- hardware:software::-----:?
 
 ---
 
@@ -49,53 +49,53 @@
 
 - basic assumptions
 - the world can be understood and predicted
-- ______ are part of the world
+- ------ are part of the world
 - explanations should be of this world (not magical)
 - Plato (b.428? - d.348? BCE):
-- **___________**: knowledge is obtained via thinking and logical analysis
+- **-----------**: knowledge is obtained via thinking and logical analysis
 - Aristotle (b.384 - d.322 BCE):
-- **__________**: knowledge is acquired through experience and observation
+- **----------**: knowledge is acquired through experience and observation
 
 ### Renaissance Philosophers
 
 - René Descartes (b.1596 - d.1650):
 - French rationalist
-- “_cogito, ergo sum_” (“I think, therefore I am”)
+- “-cogito, ergo sum-” (“I think, therefore I am”)
 - Cartesian dualism: mind and body are distinct entities interacting in humans
 - John Locke (b.1632 - d.1704):
 - British empiricist
-- _tablula rasa_ (“_____ _____”): at birth, we know nothing; we acquire knowledge through empirical observation
+- -tablula rasa- (“----- -----”): at birth, we know nothing; we acquire knowledge through empirical observation
 - Immanuel Kant (b.1724 - d.1804):
 - dialectically synthesized the views of Descartes and Locke
 - contended that both rationalism and empiricism contribute to understanding
 
 ### The 19th Century
 
-- psychology: the scientific study of _________ experience
+- psychology: the scientific study of --------- experience
 
 **Structuralism**
 
 - goals:
-- analyze conscious processes into their basic ________
-- discover how the elements become _________
+- analyze conscious processes into their basic --------
+- discover how the elements become ---------
 - specify the laws of connection
 - Wilhelm Wundt (b.1832-d.1920):
 - opened first psychology lab, University of Leipzig (1879)
-- **_____________**: analyze your own conscious experience into sensations, images, & affections
+- **-------------**: analyze your own conscious experience into sensations, images, & affections
 - problems:
-	-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently __________ )
+	-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently ---------- )
 
 **Functionalism**
 
 - goals:
-- determine the ________ significance of thought processes
-- find how and why the ____ works
+- determine the -------- significance of thought processes
+- find how and why the ---- works
 
 e.g., how do people change and adapt to their environments?
 
-- specify _____________ between stimuli and responses
+- specify ------------- between stimuli and responses
 - William James (b.1842-d.1910):
-- published _The Principles of Psychology_ (1890), which foreshadowed much of cognitive psychology
+- published -The Principles of Psychology- (1890), which foreshadowed much of cognitive psychology
 - problems:
 	-  not based on experimentation
 	
@@ -104,19 +104,19 @@ e.g., how do people change and adapt to their environments?
 **Associationism**
 
 - goals:
-- determine how events/ideas become __________
+- determine how events/ideas become ----------
 
 e.g., contiguity, frequency, similarity, contrast
 
-- understand how association produces ________
+- understand how association produces --------
 - F.C. Donders (1868):
-- studied mental chronometry using reaction time (RT) and **___________ method**
+- studied mental chronometry using reaction time (RT) and **----------- method**
 
-Task A (______ RT): 1 light, 1 button
+Task A (------ RT): 1 light, 1 button
 
 RTA = stimulus detection + motor response
 
-Task B (______ RT): 2 lights, 2 buttons
+Task B (------ RT): 2 lights, 2 buttons
 
 RTB = stimulus detection + stimulus identification + response selection + motor response
 
@@ -124,7 +124,7 @@ RT for stimulus identification + response selection = RTB - RTA
 
 But how to separate these?
 
-Task C (go/no go RT): 2 lights, 1 button (______ one light)
+Task C (go/no go RT): 2 lights, 1 button (------ one light)
 
 RTC = stimulus detection + stimulus identification + motor response
 
@@ -132,26 +132,26 @@ RT for stimulus identification = RTC - RTA
 
 RT for response selection = RTB - RTC
 
-- assumed “____ _________”: time to complete each stage is independent of the other stages
+- assumed “---- ---------”: time to complete each stage is independent of the other stages
 - problems:
 -  RTC not always shorter than RTB
 -  motor response times may be different in different tasks
 -  novice performance not comparable to expert performance
 - Hermann Ebbinghaus (1885):
-- used 2,000 3-letter ________ syllables to measure his memory
-- this removed familiarity effects (e.g., _bat_ vs. _cat_)
+- used 2,000 3-letter -------- syllables to measure his memory
+- this removed familiarity effects (e.g., -bat- vs. -cat-)
 - found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
 
 ![forgetting curve](p258s01-02-1.png)
 
 - problem:
-	-  it’s hard to remember ________
+	-  it’s hard to remember --------
 
 **Psychoanalysis**
 
 - goals:
 - develop psychological understanding of psychopathologies
-- apply psychotherapeutic _________
+- apply psychotherapeutic ---------
 - Sigmund Freud (b.1856-d.1939):
 - proposed different levels of awareness--some items unavailable to consciousness
 - methods included introspection, dream analysis, hypnosis
@@ -160,17 +160,17 @@ RT for response selection = RTB - RTC
 
 The Early 20th Century
 
-- psychology: the science of __________ behaviour
+- psychology: the science of ---------- behaviour
 
 **Behaviourism**
 
 - goals:
-- study (describe, quantify) ____________ behaviours
-- how they are _______
+- study (describe, quantify) ------------ behaviours
+- how they are -------
 - how they are modified by the environment
 - J.B. Watson (b.1878-d.1958):
 - shifted study of mind to study of behaviour
-- saw the mind as a “_____ ___”
+- saw the mind as a “----- ---”
 - B.F. Skinner (b.1904-d.1990):
 - we are shaped by our environment, not by free will
 - problem:
@@ -179,7 +179,7 @@ The Early 20th Century
 **Gestalt approach**
 
 - goals:
-- ________ approach that emphasized consciousness
+- -------- approach that emphasized consciousness
 - described how the whole is different than the sum of its parts
 - Max Wertheimer (b.1880-d.1943):
 - founded Gestalt psychology (“form”, “configuration”)
@@ -188,11 +188,11 @@ The Early 20th Century
 
 The Mid-20th Century
 
-- psychology: science of behaviour and ______ processes
+- psychology: science of behaviour and ------ processes
 
 The cognitive revolution/renaissance:
 
-- limits of ____________
+- limits of ------------
 
 Edward Tolman (1932):
 
@@ -203,59 +203,59 @@ Edward Tolman (1932):
 
 Karl Lashley (1951):
 
-- argued that behaviourist explanations of language, using stimulus-response ______, were inadequate
+- argued that behaviourist explanations of language, using stimulus-response ------, were inadequate
 
 e.g., spoonerisms (“our queer old dean” instead of “our dear old Queen”) are novel, nonhabitual recombinations
 
 - organization in language comes from within the organism (not from outside)
-- advances in ___________
+- advances in -----------
 
 Noam Chomsky (1959):
 
-- published criticism of Skinner’s (1957) _Verbal Behavior_
+- published criticism of Skinner’s (1957) -Verbal Behavior-
 - concluded that behaviourist accounts of language were lacking
 - language is not merely imitation
-- emergence of _____ _______/cognitive engineering/applied cognitive psychology
+- emergence of ----- -------/cognitive engineering/applied cognitive psychology
 - rapid technological advances in WWII led to problems with skills and performance
 - engineering perspective on human information processing applied
 - important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
-- rise of ______________
+- rise of --------------
 
 Jean Piaget (1923):
 
-- explained children’s cognitive development via **_______**: mental structures that provide the basis for thought
+- explained children’s cognitive development via **-------**: mental structures that provide the basis for thought
 - schemes organize experience and knowledge
 - contain information about actions one can perform on objects
 - change through developmental stages
-- contributions from _________ _______
+- contributions from --------- -------
 - artificial intelligence (AI) related to cognition
-- new conceptualizations of (and research on) ______
+- new conceptualizations of (and research on) ------
 
 e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
 
-- ___________ of Ulric Neisser’s (1967) _Cognitive Psychology_
+- ----------- of Ulric Neisser’s (1967) -Cognitive Psychology-
 
 ---
 
 ## The Scientific Method
 
-Goal of psychology: describe, _______, predict, and control behaviour and mental processes
+Goal of psychology: describe, -------, predict, and control behaviour and mental processes
 
-- **______**: set of related principles that simplify and organize some aspect of the world
+- **------**: set of related principles that simplify and organize some aspect of the world
 
 e.g., Gestalt theory, Psychoanalytic theory
 
-- typically represented as ______ statements
+- typically represented as ------ statements
 - helps to describe, explain, predict, and control behaviour and mental processes
-- **_____**: representation of a specific phenomenon that predicts and simulates empirical data
+- **-----**: representation of a specific phenomenon that predicts and simulates empirical data
 - derived from a theory; narrower in focus
-- typically employs an _______ or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in _some_ respects, then they may be alike in _other_ respects)
+- typically employs an ------- or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
 
 e.g., filter model of attention
 
-- analogies may be useful--even if ultimately __________, by definition
+- analogies may be useful--even if ultimately ----------, by definition
 
-e.g., Locke: newborn is a _tabula rasa_--but is not literally a “blank slate”
+e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
 
 - models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
 - although descriptive, may not be explanatory
@@ -264,11 +264,11 @@ The scientific method:
 
 1. ask questions/make observations/describe the phenomenon
 2. develop an explanation (a theory or model)
-3. generate a **__________**: testable prediction derived from a theory
+3. generate a **----------**: testable prediction derived from a theory
 4. design the research study; select methodology
 5. collect relevant information
-6. _______ the data; compare results with the hypothesis
-7. solicit peer reviews and ______ findings:
+6. ------- the data; compare results with the hypothesis
+7. solicit peer reviews and ------ findings:
 
 - provide facts
 - test theories
@@ -278,16 +278,16 @@ The scientific method:
 
 ## Cognitive Science
 
-- _________________ field, which includes anthropology, linguistics, psychology, philosophy, computing science
+- ----------------- field, which includes anthropology, linguistics, psychology, philosophy, computing science
 - based on tri-level hypothesis (Marr, 1982):
 
-1. **_____________ Theory**
+1. **------------- Theory**
 
 What is the system doing?
 
 e.g., multiplication is the product of two numbers; repeated addition: the sum of X groups of Y items
 
-2. **______________ and _________**
+2. **-------------- and ---------**
 
 How is the problem symbolized?
 
@@ -295,28 +295,28 @@ What steps are being used to solve the problem?
 
 e.g., 9+9+9+9+9, or 5+5+5+5+5+5+5+5+5, or digital bit shifting, or Karatsuba algorithm, or...
 
-3. **Hardware ______________**
+3. **Hardware --------------**
 
 What physical components carry out these operations?
 
 e.g., fingers, or brain, or abacus, or calculator, or computer, or...
 
-(Almost exclusively, cognitive psychology focuses on the ______ level.)
+(Almost exclusively, cognitive psychology focuses on the ------ level.)
 
-Application: consider a person playing _____ against a computer
+Application: consider a person playing ----- against a computer
 
 How are they the same? How are they different?
 
 ## Artificial Intelligence (AI)
 
-- employs the _____________ metaphor in a simulation of behaviour or mental process
+- employs the ------------- metaphor in a simulation of behaviour or mental process
 - what can we learn by comparing the human mind to a computer?
-- a lot, if they’re both doing the same thing (level 1) _in the ____ way_ (level 2)
-- this **functionalist** approach can lead to “______ equivalence” (vs. “____ __”: looking for the best solution) and escapes the problem of analogy
+- a lot, if they’re both doing the same thing (level 1) -in the ---- way- (level 2)
+- this **functionalist** approach can lead to “------ equivalence” (vs. “---- --”: looking for the best solution) and escapes the problem of analogy
 
 Benefits of building bridges between cognitive psychology and AI (Reed, 2019):
 
-- computational programs in AI can serve as potential theoretical ______ in cognitive psychology
+- computational programs in AI can serve as potential theoretical ------ in cognitive psychology
 
 e.g., hierarchical network model of semantic memory
 
@@ -324,7 +324,7 @@ e.g., hierarchical network model of semantic memory
 
 e.g., pattern classification is studied by both fields: human visual object categorization and AI image processing
 
-- the integration of AI into everyday life requires a better understanding of human-AI _______
+- the integration of AI into everyday life requires a better understanding of human-AI -------
 
 e.g., IBM's WatsonPaths AI system analyzes medical data to give physicians the most likely diagnosis or most appropriate treatment
 
@@ -334,17 +334,17 @@ e.g., IBM's WatsonPaths AI system analyzes medical data to give physicians the m
 
 Cognitive processes:
 
-- are (inter-)______
+- are (inter-)------
 - the mind is constructive; internal processes change information
-- are efficient and (generally) ________
+- are efficient and (generally) --------
 - errors often byproducts of otherwise accurate processes
-- better handle ________ information
+- better handle -------- information
 - biased towards retaining information that fits with our beliefs
 - are interrelated
-- but often studied __________
+- but often studied ----------
 - rely on two processes
 - bottom-up (based on low-level sensory processes) and top-down (based on higher-level cognitive processes)
-- can be ___________
+- can be -----------
 - much depends on automatic processing, priming, and implicit memory
 - also called “system 1” (Stanovich & West, 2000)
 
