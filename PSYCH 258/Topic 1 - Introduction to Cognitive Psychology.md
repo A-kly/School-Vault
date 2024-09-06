@@ -3,17 +3,11 @@
 ## Learning Outcomes
 
 1. What is cognitive psychology?
-
 2. Describe the history of this field, and the different philosophical approaches over time.
-
 3. What factors led to the cognitive revolution/renaissance?
-
 4. How is the scientific method applied in cognitive psychology?
-
-5. What is cognitive science, and how does it relate to hcognitive psychology?
-
+5. What is cognitive science, and how does it relate to cognitive psychology?
 6. Give the three benefits of building bridges between cognitive psychology and AI.
-
 7. What are some common themes in cognitive psychology?
 
 ---
@@ -24,7 +18,7 @@ Dictionary Definitions
 
 - **cognition**: Middle English _cognicioun_, from Latin _cognitio_, to learn; to ____ (Encarta, 2000)
 
-- **cognitive psychology**: “a general approach to psychology emphasizing the internal, mental _________. [B]ehaviour...requires explanations at the level of mental events, mental representations, beliefs and intentions” (Reber & Reber, 2001, p.135)
+- **cognitive psychology**: “a general approach to psychology emphasizing the internal, mental _________. Behaviour...requires explanations at the level of mental events, mental representations, beliefs and intentions” (Reber & Reber, 2001, p.135)
 
 - behaviour explained in terms of underlying __________
 
@@ -128,7 +122,7 @@ The 19th Century
 
 - problems:
 
-- [X] introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently __________)
+	-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently __________ )
 
 **Functionalism**
 
@@ -148,9 +142,9 @@ e.g., how do people change and adapt to their environments?
 
 - problems:
 
-![☒](con-new.png) not based on experimentation
-
-![☒](con-new.png) theories did not make testable predictions
+	-  not based on experimentation
+	
+	-  theories did not make testable predictions
 
 **Associationism**
 
@@ -190,11 +184,11 @@ RT for response selection = RTB - RTC
 
 - problems:
 
-![☒](con-new.png) RTC not always shorter than RTB
+-  RTC not always shorter than RTB
 
-![☒](con-new.png) motor response times may be different in different tasks
+-  motor response times may be different in different tasks
 
-![☒](con-new.png) novice performance not comparable to expert performance
+-  novice performance not comparable to expert performance
 
 - Hermann Ebbinghaus (1885):
 
@@ -208,7 +202,7 @@ RT for response selection = RTB - RTC
 
 - problem:
 
-![☒](con-new.png) it’s hard to remember ________
+-  it’s hard to remember ________
 
 **Psychoanalysis**
 
@@ -226,7 +220,7 @@ RT for response selection = RTB - RTC
 
 - problems:
 
-![☒](con-new.png) criticized as unscientific, unfalsifiable, and not based on experimental evidence
+-  criticized as unscientific, unfalsifiable, and not based on experimental evidence
 
 The Early 20th Century
 
@@ -254,7 +248,7 @@ The Early 20th Century
 
 - problem:
 
-![☒](con-new.png) criticized for ignoring mental processes
+-  criticized for ignoring mental processes
 
 **Gestalt approach**
 
@@ -270,7 +264,7 @@ The Early 20th Century
 
 - problems:
 
-![☒](con-new.png) described--but did not explain--consciousness
+-  described--but did not explain--consciousness
 
 The Mid-20th Century
 
