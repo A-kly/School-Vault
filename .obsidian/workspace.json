@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -169,6 +170,7 @@
   },
   "active": "d96613da4f2603c9",
   "lastOpenFiles": [
+    "CMPUT 382/Media/Pasted image 20240906141309.png",
     "CMPUT 382/Media/Pasted image 20240906141251.png",
     "CMPUT 382/Media/Pasted image 20240906140850.png",
     "CMPUT 382/Media",
@@ -211,7 +213,6 @@
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
     "PSYCH 239/Media/Pasted image 20240611161341.png",
-    "PSYCH 239/Media/Pasted image 20240611161421.png",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "Markdown Cheat Sheet.md",
