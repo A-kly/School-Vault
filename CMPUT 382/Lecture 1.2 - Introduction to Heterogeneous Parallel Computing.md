@@ -12,7 +12,7 @@
 - PU = Processing unit.
 	- Essentially a core
 - GPU uses SIMD, instruction comes to a WARP (32 PUs), and is executed by all processors in the warp
-	- The instruction pool dictates a thread. In order for each PU to compute different things, the data they work on must be different
+	- The instruction pool dictates a thread. In order for each PU to compute different things, the data they work on must be different.
 # Turing Machine
 - Infinitely long strip of tape
 	- head to read and store symbols on tape
