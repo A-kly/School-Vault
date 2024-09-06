@@ -16,7 +16,7 @@
 
 ### Dictionary Definitions
 
-- **cognition**: Middle English -cognicioun-, from Latin -cognitio-, to learn; to ---- (Encarta, 2000)
+- **cognition**: Middle English -cognicioun-, from Latin -cognitio-, to learn; to ==know== (Encarta, 2000)
 - **cognitive psychology**: “a general approach to psychology emphasizing the Internal, ==mental processes==. Behaviour...requires explanations at the level of mental events, mental representations, beliefs and intentions” (Reber & Reber, 2001, p.135)
 	- behaviour explained in terms of underlying ==mechanisms==
 	- what are these mental processes and representations?
@@ -24,22 +24,22 @@
 ### Classic Definition
 
 - **cognitive psychology**: “all processes by which the sensory input is transformed, reduced, elaborated, stored, recovered, and used” (Neisser, 1967, p.4)
-- information may be changed or ==removed==
-- new information is connected to other information
-- Keep information and get it later
-- these processes have a ==Purpose==
+	- information may be changed or ==removed==
+	- new information is connected to other information
+	- Keep information and get it later
+	- these processes have a ==Purpose==
 
 ### Information-Processing Definition
 
 - **cognitive psychology**: the experimental study of human information processing
 - assumption: the mind is “a complex system that receives, stores, retrieves, transforms, and transmits information” (Stillings et al., 1987, p.1)
 - characteristics:
-	-  processing capacity is ---------due to attention
-	-  cognition takes ------multiple stages inferred
-	-  processing stages are ----------------processes cannot be isolated
+	-  processing capacity is ==limited== due to attention
+	-  cognition takes ==time==, multiple stages inferred
+	-  processing stages are ==interdependent==,  processes cannot be isolated
 - basic domains: attention, pattern perception, learning, memory,...
 - higher-level domains: language processing, problem solving, decision-making,...
-- hardware:software::-----:?
+- hardware:software *as* Brain:?
 
 ---
 
@@ -48,11 +48,11 @@
 ### Ancient Greek Philosophers
 
 - basic assumptions
-- the world can be understood and predicted
-- ------ are part of the world
-- explanations should be of this world (not magical)
+	- the world can be understood and predicted
+	- ==People== are part of the world
+	- explanations should be of this world (not magical)
 - Plato (b.428? - d.348? BCE):
-- **-----------**: knowledge is obtained via thinking and logical analysis
+- **Rati**: knowledge is obtained via thinking and logical analysis
 - Aristotle (b.384 - d.322 BCE):
 - **----------**: knowledge is acquired through experience and observation
 
