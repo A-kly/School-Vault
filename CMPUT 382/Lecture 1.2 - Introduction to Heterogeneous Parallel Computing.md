@@ -1,8 +1,8 @@
 ![[Pasted image 20240906140850.png]]
-## CPU
+# CPU
 - Cpu has large cache in order to hide the slowness of dRAM
 - SIMD - CPU has some of these, but not a lot, used for ALU add for example
-## GPU
+# GPU
 - GPU has smaller cache but way more registers, so we can move faster
 - More SIMD to process more data per instruction
 
@@ -11,7 +11,7 @@
 	- SIMD = Single instruction multiple data
 - PU = Processing unit.
 	- Essentially a core
-# Turing machine
+# Turing Machine
 - Infinitely long strip of tape
 	- head to read and store symbols on tape
 - state machine used to move head and alter content of tape
@@ -25,12 +25,12 @@
 # The Von-Neumann Architecture
 ![[Pasted image 20240906142459.png]]
 - Tom scott Von-Neumann Architecture basics video
-# Harvard vs von Neuman
+# Harvard Vs Von Neuman
 ![[Pasted image 20240906143336.png]]
 - ROM is used for instructions memory rather than using RAM for that, this makes it easier for us to boot off of the ROM and access RAM only for data
 - von Neuman slows down things due to address bus being used for both instructions and data
 - **Each core in a modern cpu is it's own von Neuman (or harvard) machine**
-# CPUs are Latency Oriented Design
+# CPUs Are Latency Oriented Design
 ![[Pasted image 20240906143847.png]]
 - limited set of very powerful ALUs 
 - most of silicon is used for cache, control and limited ALUs
@@ -47,7 +47,20 @@
 	- Reduced Instruction Set Computing (RISC)
 		- eg. arm
 ![[Pasted image 20240906144046.png]]
-## RISC vs CISC 
+## RISC Vs CISC
+### CISC Machine Architecture
+![[Pasted image 20240906144320.png]]
+- Complex instruction set computing (CISC) is a processor design where single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions  
+- The term was retroactively coined in contrast to reduced instruction set computer (RISC) and has therefore become something of an umbrella term for everything that is not RISC, from large and complex mainframe computers to simplistic microcontrollers where memory load and store operations are not separated from arithmetic instructions CISC
+
+### RISC Machine architecture
+![[Pasted image 20240906144518.png]]
+- A RISC-based computer design approach means processors require fewer transistors than typical complex instruction set computing (CISC) x86 processors in most personal computers
+- This approach reduces costs, heat and power use
+- Such reductions are desirable traits for light, portable, battery-powered devices—including smartphones, laptops and tablet computers, and other embedded systems
+- For Supercomputers, which consume large amounts of electricity, ARM could also be a power- efficient solution
+- **Less transistors, less energy, slightly less powerful**
+- **ARM** Architectire is further reduced for simplicity
 
 ### Instructions
 ![[Pasted image 20240906144121.png]]
