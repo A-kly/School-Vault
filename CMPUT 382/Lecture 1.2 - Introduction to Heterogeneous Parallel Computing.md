@@ -29,4 +29,27 @@
 ![[Pasted image 20240906143336.png]]
 - ROM is used for instructions memory rather than using RAM for that, this makes it easier for us to boot off of the ROM and access RAM only for data
 - von Neuman slows down things due to address bus being used for both instructions and data
-- **Each core in a modern cpu is it's own von Neuman machine**
+- **Each core in a modern cpu is it's own von Neuman (or harvard) machine**
+# CPUs are Latency Oriented Design
+![[Pasted image 20240906143847.png]]
+- limited set of very powerful ALUs 
+- most of silicon is used for cache, control and limited ALUs
+- *one CPU core alu is faster than one cuda core alu*
+# What is a CPU?
+- Primary functions:
+	- Fetching
+	- Decoding
+	- Executing
+	- Writeback
+- Two types of architectures:
+	- Complex Instruction Set Computing (CISC)
+		- eg. intel x86
+	- Reduced Instruction Set Computing (RISC)
+		- eg. arm
+![[Pasted image 20240906144046.png]]
+## RISC vs CISC 
+
+### Instructions
+![[Pasted image 20240906144121.png]]
+- CISC multiply instruction = Load+load+product+store RISC instructions
+- RISC is more simple von Neuman architecture
