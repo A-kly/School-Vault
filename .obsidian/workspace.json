@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC 225/Course intro.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/Course intro.md"
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/Course intro.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/Course intro.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/Course intro.md"
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
               }
             }
           }
@@ -183,18 +183,23 @@
   },
   "active": "7ac81e58e3276573",
   "lastOpenFiles": [
+    "HTML import/PSYCH 258_ Introduction to Cognitive Psychology.md",
+    "HTML import/Attachments/p258s01-02-1.png",
+    "HTML import/Attachments/con-new.png",
+    "HTML import/Attachments",
+    "HTML import",
+    "PSYCH 258/p258s01-021.md",
+    "SOC 225/Course intro.md",
     "CMPUT 382/Lecture 1 - Course overview.md",
     "CMPUT 382/CMPUT 382.md",
     "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "SOC 225/SOC 225.md",
-    "SOC 225/Course intro.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
     "CMPUT 267/Lecture 1 - Intro.md",
     "CMPUT 267/CMPUT 267.md",
     "PSYCH 258/test.md",
     "HTML import/p104s01intro1.md",
-    "HTML import",
     "PSYCH 258/PSYCO 104_ Basic Psychological Processes.html",
     "CMPUT 382",
     "PSYCH 258",
@@ -219,16 +224,11 @@
     "PSYCH 239/Media/Pasted image 20240611161026.png",
     "PSYCH 239/Media/Pasted image 20240611160852.png",
     "PSYCH 239/Media/Pasted image 20240611160820.png",
-    "PSYCH 239/Media/Pasted image 20240611160728.png",
-    "PSYCH 239/Media/Pasted image 20240611160347.png",
     "PSYCH 239/Schizophrenia Spectrum Disorders (2023).pdf",
-    "PSYCH 239/Dissociative and Somatoform Disorders (2022).pdf",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
     "Markdown Cheat Sheet.md",
     "PSYCH 239/2. Assessment, Classification, and Treatment of Abnormal Behaviour.md",
-    "PSYCH 239/1. Definitions, History, & Theoretical Perspectives.md",
-    "PSYCH 239/4. Mood Disorders & Suicide.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
