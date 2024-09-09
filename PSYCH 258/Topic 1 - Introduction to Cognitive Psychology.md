@@ -215,48 +215,42 @@
 
 - new conceptualizations of (and research on) ==memory==
 	- e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
-		- this is the des
+		- this is the description of the items we can store in short term memory
 
-- ----------- of Ulric Neisser’s (1967) -Cognitive Psychology-
+- ==Publications== of Ulric Neisser’s (1967) -Cognitive Psychology-
 
 ---
 
 ## The Scientific Method
 
-Goal of psychology: describe, -------, predict, and control behaviour and mental processes
+- Goal of psychology: describe, ==explain==, predict, and control behaviour and mental processes
+	- **theory**: set of related principles that simplify and organize some aspect of the world
+	
+- e.g., Gestalt theory, Psychoanalytic theory
+	- typically represented as ==verbal== statements
+	- helps to describe, explain, predict, and control behaviour and mental processes
 
-- **------**: set of related principles that simplify and organize some aspect of the world
-
-e.g., Gestalt theory, Psychoanalytic theory
-
-- typically represented as ------ statements
-- helps to describe, explain, predict, and control behaviour and mental processes
-- **-----**: representation of a specific phenomenon that predicts and simulates empirical data
-- derived from a theory; narrower in focus
-- typically employs an ------- or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
-
-e.g., filter model of attention
-
-- analogies may be useful--even if ultimately ----------, by definition
-
-e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
-
-- models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
-- although descriptive, may not be explanatory
-
-The scientific method:
-
-1. ask questions/make observations/describe the phenomenon
-2. develop an explanation (a theory or model)
-3. generate a **----------**: testable prediction derived from a theory
-4. design the research study; select methodology
-5. collect relevant information
-6. ------- the data; compare results with the hypothesis
-7. solicit peer reviews and ------ findings:
-
-- provide facts
-- test theories
-- give insight into research methods
+- **model**: representation of a specific phenomenon that predicts and simulates empirical data
+	- derived from a theory; *narrower in focus*
+	- typically employs an ==analogy== or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
+	- e.g., filter model of attention
+	- analogies may be useful--even if ultimately ==inaccurate==, by definition
+	- e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
+	- models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
+	- although descriptive, may not be explanatory
+	
+- The scientific method:
+	1. ask questions/make observations/describe the phenomenon
+	2. develop an explanation (a theory or model)
+	3. generate a **----------**: testable prediction derived from a theory
+	4. design the research study; select methodology
+	5. collect relevant information
+	6. ------- the data; compare results with the hypothesis
+	7. solicit peer reviews and ------ findings:
+	
+	- provide facts
+	- test theories
+	- give insight into research methods
 
 ---
 
