@@ -256,8 +256,7 @@
 ## Cognitive Science
 
 - ==interdisciplinary== field, which includes anthropology, linguistics, psychology, philosophy, computing science
-- **based on tri-level hypothesis (Marr, 1982**):
-
+- **based on tri-level hypothesis (Marr, 1982)**:
 	1. **Computational Theory**
 		- What is the system doing?
 			- e.g., multiplication is the product of two numbers; repeated addition: the sum of X groups of Y items
@@ -266,11 +265,11 @@
 		- How is the problem symbolized?
 		- What steps are being used to solve the problem?
 			- e.g., 9+9+9+9+9, or 5+5+5+5+5+5+5+5+5, or digital bit shifting, or Karatsuba algorithm, or...
-	3. **Hardware --------------**
+	3. **Hardware Implementation**
 		- What physical components carry out these operations?
 		- e.g., fingers, or brain, or abacus, or calculator, or computer, or...
-		- (Almost exclusively, cognitive psychology focuses on the ------ level.)
-		- Application: consider a person playing ----- against a computer
+		- (Almost exclusively, cognitive psychology focuses on the ==second== level.)
+		- Application: consider a person playing ==chess== against a computer
 		- How are they the same? How are they different?
 
 ## Artificial Intelligence (AI)
