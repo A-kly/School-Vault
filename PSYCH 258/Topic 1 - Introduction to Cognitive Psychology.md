@@ -191,28 +191,31 @@
 	- argued that behaviourist explanations of language, using stimulus-response ==chains== were inadequate
 	- e.g., spoonerisms (“our queer old dean” instead of “our dear old Queen”) are novel, nonhabitual recombinations
 	- organization in language comes from **within the organism** (not from outside)
-	- advances in ==linguistics==
 
-- Noam Chomsky (1959):
-	- published criticism of Skinner’s (1957) -Verbal Behavior-
-	- concluded that behaviourist accounts of language were lacking
-	- language is not merely imitation
-	- emergence of ----- -------/cognitive engineering/applied cognitive psychology
-	- rapid technological advances in WWII led to problems with skills and performance
-	- engineering perspective on human information processing applied
-	- important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
-	- rise of --------------
+- advances in ==linguistics==
+	- Noam Chomsky (1959):
+		- published criticism of Skinner’s (1957) *Verbal Behavior*
+		- concluded that **behaviourist accounts of language were lacking**
+		- language is **not merely imitation**
 
-- Jean Piaget (1923):
-	- explained children’s cognitive development via **-------**: mental structures that provide the basis for thought
-	- schemes organize experience and knowledge
-	- contain information about actions one can perform on objects
-	- change through developmental stages
-	- contributions from --------- -------
+- emergence of human factors/cognitive engineering/applied cognitive psychology
+		- rapid technological advances in WWII led to problems with skills and performance
+		- engineering perspective on human information processing applied
+		- important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
+
+- rise of ==constructivism==
+	- Jean Piaget (1923):
+		- explained children’s cognitive development via **schèmes**: mental structures that provide the basis for thought
+		- **schemes organize experience and knowledge**
+		- contain information about actions one can perform on objects
+		- change through developmental stages
+
+- contributions from ==Computing science==
 	- artificial intelligence (AI) related to cognition
-	- new conceptualizations of (and research on) ------
 
-e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
+- new conceptualizations of (and research on) ==memory==
+	- e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
+		- this is the des
 
 - ----------- of Ulric Neisser’s (1967) -Cognitive Psychology-
 
