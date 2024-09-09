@@ -119,15 +119,16 @@
 			- **RT for stimulus identification = RTC - RTA**
 			- **RT for response selection = RTB - RTC**
 	
-	- assumed “---- ---------”: time to complete each stage is independent of the other stages
+	- assumed “==pure insertion==”: time to complete each stage is independent of the other stages
 	- problems:
-	-  RTC not always shorter than RTB
-	-  motor response times may be different in different tasks
-	-  novice performance not comparable to expert performance
+		-  RTC not always shorter than RTB
+		-  motor response times may be different in different tasks
+		-  novice performance not comparable to expert performance
 	- Hermann Ebbinghaus (1885):
-	- used 2,000 3-letter -------- syllables to measure his memory
-	- this removed familiarity effects (e.g., -bat- vs. -cat-)
-	- found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
+		- used 2,000 3-letter nonsense syllables to measure his memory
+		- this removed familiarity effects (e.g., -bat- vs. -cat-)
+			- nonsense words make all 
+		- found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
 	
 	![forgetting curve](p258s01-02-1.png)
 	
