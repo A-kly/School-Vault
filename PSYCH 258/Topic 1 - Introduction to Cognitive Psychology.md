@@ -241,10 +241,10 @@
 - The scientific method:
 	1. ask questions/make observations/describe the phenomenon
 	2. develop an explanation (a theory or model)
-	3. generate a **----------**: testable prediction derived from a theory
+	3. generate a **hypothesis**: testable prediction derived from a theory
 	4. design the research study; select methodology
 	5. collect relevant information
-	6. ------- the data; compare results with the hypothesis
+	6. ==analyze== the data; compare results with the hypothesis
 	7. solicit peer reviews and ------ findings:
 	
 	- provide facts
