@@ -176,48 +176,41 @@
 
 ### The Mid-20th Century
 
-- psychology: science of behaviour and ------ processes
+- psychology: science of behaviour and ==mental== processes
 
 #### The cognitive revolution/renaissance:
 
-- limits of ------------
+- limits of behaviourism:
+	- Edward Tolman (1932):
+		- trained rats in a maze to get food via direct route to food box
+		- **when forced to take roundabout pathway, rats successfully reached the food box--despite lack of reinforcement for this route**
+		- rats must be using a **cognitive map**
+		- this contradicted basic behaviourist principles of learning
 
-Edward Tolman (1932):
+- Karl Lashley (1951):
+	- argued that behaviourist explanations of language, using stimulus-response ==chains== were inadequate
+	- e.g., spoonerisms (“our queer old dean” instead of “our dear old Queen”) are novel, nonhabitual recombinations
+	- organization in language comes from **within the organism** (not from outside)
+	- advances in ==linguistics==
 
-- trained rats in a maze to get food via direct route to food box
-- when forced to take roundabout pathway, rats successfully reached the food box--despite lack of reinforcement for this route
-- rats must be using a cognitive map
-- this contradicted basic behaviourist principles of learning
+- Noam Chomsky (1959):
+	- published criticism of Skinner’s (1957) -Verbal Behavior-
+	- concluded that behaviourist accounts of language were lacking
+	- language is not merely imitation
+	- emergence of ----- -------/cognitive engineering/applied cognitive psychology
+	- rapid technological advances in WWII led to problems with skills and performance
+	- engineering perspective on human information processing applied
+	- important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
+	- rise of --------------
 
-Karl Lashley (1951):
-
-- argued that behaviourist explanations of language, using stimulus-response ------, were inadequate
-
-e.g., spoonerisms (“our queer old dean” instead of “our dear old Queen”) are novel, nonhabitual recombinations
-
-- organization in language comes from within the organism (not from outside)
-- advances in -----------
-
-Noam Chomsky (1959):
-
-- published criticism of Skinner’s (1957) -Verbal Behavior-
-- concluded that behaviourist accounts of language were lacking
-- language is not merely imitation
-- emergence of ----- -------/cognitive engineering/applied cognitive psychology
-- rapid technological advances in WWII led to problems with skills and performance
-- engineering perspective on human information processing applied
-- important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
-- rise of --------------
-
-Jean Piaget (1923):
-
-- explained children’s cognitive development via **-------**: mental structures that provide the basis for thought
-- schemes organize experience and knowledge
-- contain information about actions one can perform on objects
-- change through developmental stages
-- contributions from --------- -------
-- artificial intelligence (AI) related to cognition
-- new conceptualizations of (and research on) ------
+- Jean Piaget (1923):
+	- explained children’s cognitive development via **-------**: mental structures that provide the basis for thought
+	- schemes organize experience and knowledge
+	- contain information about actions one can perform on objects
+	- change through developmental stages
+	- contributions from --------- -------
+	- artificial intelligence (AI) related to cognition
+	- new conceptualizations of (and research on) ------
 
 e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
 
