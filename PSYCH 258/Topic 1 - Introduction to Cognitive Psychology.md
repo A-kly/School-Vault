@@ -225,20 +225,19 @@
 
 - Goal of psychology: describe, ==explain==, predict, and control behaviour and mental processes
 	- **theory**: set of related principles that simplify and organize some aspect of the world
-	
-- e.g., Gestalt theory, Psychoanalytic theory
+	- e.g., Gestalt theory, Psychoanalytic theory
 	- typically represented as ==verbal== statements
 	- helps to describe, explain, predict, and control behaviour and mental processes
 
-- **model**: representation of a specific phenomenon that predicts and simulates empirical data
-	- derived from a theory; *narrower in focus*
-	- typically employs an ==analogy== or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
-	- e.g., filter model of attention
-	- analogies may be useful--even if ultimately ==inaccurate==, by definition
-	- e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
-	- models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
-	- although descriptive, may not be explanatory
-	
+	- **model**: representation of a specific phenomenon that predicts and simulates empirical data
+		- derived from a theory; *narrower in focus*
+		- typically employs an ==analogy== or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
+			- e.g., filter model of attention
+		- analogies may be useful--even if ultimately ==inaccurate==, by definition
+			- e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
+		- models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
+		- although descriptive, may not be explanatory
+
 - The scientific method:
 	1. ask questions/make observations/describe the phenomenon
 	2. develop an explanation (a theory or model)
