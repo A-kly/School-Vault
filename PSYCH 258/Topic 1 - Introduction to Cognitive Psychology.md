@@ -152,32 +152,33 @@
 **Behaviourism**
 
 - goals:
-	- study (describe, quantify) ------------ behaviours
-	- how they are -------
+	- study (describe, quantify) ==observable== behaviours
+	- how they are ==learned==
 	- how they are modified by the environment
 - J.B. Watson (b.1878-d.1958):
-- shifted study of mind to study of behaviour
-- saw the mind as a “----- ---”
+	- shifted study of mind to study of behaviour
+	- saw the mind as a “==black box==”
 - B.F. Skinner (b.1904-d.1990):
-- we are shaped by our environment, not by free will
-- problem:
--  criticized for ignoring mental processes
+	- we are shaped by our environment, not by free will
+	- problem:
+		-  criticized for ignoring mental processes
 
 **Gestalt approach**
 
 - goals:
-- -------- approach that emphasized consciousness
-- described how the whole is different than the sum of its parts
+	- ==holistic== approach that emphasized consciousness
+		- NON STRUCTURALIST
+	- described how the whole is different than the sum of its parts
 - Max Wertheimer (b.1880-d.1943):
-- founded Gestalt psychology (“form”, “configuration”)
-- problems:
--  described--but did not explain--consciousness
+	- founded Gestalt psychology (“form”, “configuration”)
+	- problems:
+		-  described--but did not explain--consciousness
 
-The Mid-20th Century
+### The Mid-20th Century
 
 - psychology: science of behaviour and ------ processes
 
-The cognitive revolution/renaissance:
+#### The cognitive revolution/renaissance:
 
 - limits of ------------
 
