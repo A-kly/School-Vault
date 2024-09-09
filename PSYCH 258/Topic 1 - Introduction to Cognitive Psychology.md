@@ -255,34 +255,23 @@
 
 ## Cognitive Science
 
-- ----------------- field, which includes anthropology, linguistics, psychology, philosophy, computing science
-- based on tri-level hypothesis (Marr, 1982):
+- ==interdisciplinary== field, which includes anthropology, linguistics, psychology, philosophy, computing science
+- **based on tri-level hypothesis (Marr, 1982**):
 
-1. **------------- Theory**
-
-What is the system doing?
-
-e.g., multiplication is the product of two numbers; repeated addition: the sum of X groups of Y items
-
-2. **-------------- and ---------**
-
-How is the problem symbolized?
-
-What steps are being used to solve the problem?
-
-e.g., 9+9+9+9+9, or 5+5+5+5+5+5+5+5+5, or digital bit shifting, or Karatsuba algorithm, or...
-
-3. **Hardware --------------**
-
-What physical components carry out these operations?
-
-e.g., fingers, or brain, or abacus, or calculator, or computer, or...
-
-(Almost exclusively, cognitive psychology focuses on the ------ level.)
-
-Application: consider a person playing ----- against a computer
-
-How are they the same? How are they different?
+	1. **Computational Theory**
+		- What is the system doing?
+			- e.g., multiplication is the product of two numbers; repeated addition: the sum of X groups of Y items
+	1. **Representation and Algorithm**\
+		- "structure and process"
+		- How is the problem symbolized?
+		- What steps are being used to solve the problem?
+			- e.g., 9+9+9+9+9, or 5+5+5+5+5+5+5+5+5, or digital bit shifting, or Karatsuba algorithm, or...
+	3. **Hardware --------------**
+		- What physical components carry out these operations?
+		- e.g., fingers, or brain, or abacus, or calculator, or computer, or...
+		- (Almost exclusively, cognitive psychology focuses on the ------ level.)
+		- Application: consider a person playing ----- against a computer
+		- How are they the same? How are they different?
 
 ## Artificial Intelligence (AI)
 
