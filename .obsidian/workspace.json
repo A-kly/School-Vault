@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
               }
             }
           },
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
               }
             }
           }
@@ -170,6 +169,7 @@
   },
   "active": "d96613da4f2603c9",
   "lastOpenFiles": [
+    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "CMPUT 382/Media/Pasted image 20240906144518.png",
     "CMPUT 382/Media/Pasted image 20240906144320.png",
     "CMPUT 382/Media/Pasted image 20240906144121.png",
@@ -184,12 +184,10 @@
     "PSYCH 258/PSYCH 258_ Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "CMPUT 382/CMPUT 382.md",
-    "PSYCH 258/Attachments/p258s03-5.jpg",
     "PSYCH 258/p258s01-021.md",
     "PSYCH 258/Attachments",
     "HTML import",
     "SOC 225/Course intro.md",
-    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "SOC 225/SOC 225.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
