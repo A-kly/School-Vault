@@ -127,35 +127,34 @@
 	- Hermann Ebbinghaus (1885):
 		- used 2,000 3-letter nonsense syllables to measure his memory
 		- this removed familiarity effects (e.g., -bat- vs. -cat-)
-			- nonsense words make all 
+			- nonsense words make all familiarity unimportant
 		- found forgetting was rapid at first, then more gradual (the “forgetting curve,” which is actually a “retention curve”)
 	
 	![forgetting curve](p258s01-02-1.png)
 	
 	- problem:
-		-  it’s hard to remember --------
+		-  it’s hard to remember ==nonsense==
 
 **Psychoanalysis**
 
 - goals:
-- develop psychological understanding of psychopathologies
-- apply psychotherapeutic ---------
+	- develop psychological understanding of psychopathologies
+	- apply psychotherapeutic ==treatment==
 - Sigmund Freud (b.1856-d.1939):
-- proposed different levels of awareness--some items unavailable to consciousness
-- methods included introspection, dream analysis, hypnosis
+	- proposed different levels of awareness - some items unavailable to consciousness
+	- methods included introspection, dream analysis, hypnosis
 - problems:
--  criticized as unscientific, unfalsifiable, and not based on experimental evidence
+	-  criticized as unscientific, unfalsifiable, and not based on experimental evidence
 
-The Early 20th Century
-
-- psychology: the science of ---------- behaviour
+### The Early 20th Century
+- psychology: the science of ==conscious== behaviour
 
 **Behaviourism**
 
 - goals:
-- study (describe, quantify) ------------ behaviours
-- how they are -------
-- how they are modified by the environment
+	- study (describe, quantify) ------------ behaviours
+	- how they are -------
+	- how they are modified by the environment
 - J.B. Watson (b.1878-d.1958):
 - shifted study of mind to study of behaviour
 - saw the mind as a “----- ---”
