@@ -151,10 +151,15 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - Large stack of 32 [[#The Von-Neumann Architecture|Von Neumann machine]]
 - Single thread multiple data
 - Small program executed on a batch of 32 cores. This is called WARP execution.
-# Arrays of Parallel Threads
+# Arrays of Parallel Threads\
+![[Pasted image 20240910154657.png]]
 - A CUDA kernel is executed by a **grid** (array) of threads
 	- All threads in a grid run the same kernel code (Single Program Multiple Data)
 	- Each thread has indexes that it uses to compute memory addresses and make control decisions
 - **Instead of pointing to data in memory, we do pointer arithmetic but with threads using thread IDs**
 - **Thread IDs are pointers to data in a thread's memory**
-- 
+## Thread blocks: Scalable cooperation
+![[Pasted image 20240910154738.png]]
+- Divide thread array into multiple blocks
+- Threads within a block cooperate via shared memory, atomic operations and barrier synchronization
+- Threads in different blocks do not interact
