@@ -69,4 +69,22 @@
 	- Low self esteem
 	- considered trivial
 	- Competition for resources (scholarships, money, etc.)
-- How?
+	- Occurs more with
+		- Young
+		- male
+		- overworked
+		- second language studying
+		- low self esteem
+		- anxiety or high gpa
+## Elements of deviance
+- It is **Culturally and situationally relative**
+- Changes over time
+	- Seatbelts
+	- smoking
+	- marijuana
+	- Drinking and driving
+	- Tattoos
+	- phones
+	- etc.
+- Where do acceptable practices end and cheating begins?
+	- Who decides?
