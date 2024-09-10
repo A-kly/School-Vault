@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d96613da4f2603c9",
+            "id": "0d3dc0df62ef882b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "SOC 225/Lecture 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "SOC 225/Lecture 1.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "SOC 225/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "SOC 225/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "SOC 225/Lecture 1.md"
               }
             }
           }
@@ -167,11 +167,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d96613da4f2603c9",
+  "active": "0d3dc0df62ef882b",
   "lastOpenFiles": [
-    "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
-    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+    "SOC 225/Media/Pasted image 20240910094630.png",
+    "SOC 225/Media",
+    "SOC 225/Course intro.md",
+    "SOC 225/Lecture 1.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+    "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
+    "SOC 225/SOC 225.md",
+    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "CMPUT 382/Media/Pasted image 20240906144518.png",
     "CMPUT 382/Media/Pasted image 20240906144320.png",
     "CMPUT 382/Media/Pasted image 20240906144121.png",
@@ -187,8 +192,6 @@
     "PSYCH 258/p258s01-021.md",
     "PSYCH 258/Attachments",
     "HTML import",
-    "SOC 225/Course intro.md",
-    "SOC 225/SOC 225.md",
     "SOC 225",
     "PSYCH 258/PSYCH 258.md",
     "CMPUT 267/Lecture 1 - Intro.md",
@@ -208,12 +211,10 @@
     "PSYCH 239/ED Quiz.md",
     "PSYCH 239/PD Quiz.md",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
-    "PSYCH 239/Personality Disorders (2023).pdf",
     "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "PSYCH 239/12. Psychopharmacology of Antipsychotics.md",
     "PSYCH 239/6. Substance- Related and Addictive Disorders.md",
     "PSYCH 239/5. Abnormal Behaviour Across the Lifespan.md",
-    "Markdown Cheat Sheet.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
