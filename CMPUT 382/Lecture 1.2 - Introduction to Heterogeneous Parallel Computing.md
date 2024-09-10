@@ -105,7 +105,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ## NVIDIA's Huang's Law For GPUs
 ![[Pasted image 20240910142508.png]]
 - Lots of calculation transistors, numbers increasing
-# Key ideas in high throughput processing
+# Key Ideas in High Throughput Processing
 ![](https://www.youtube.com/watch?v=bdYkznOFb2Y)
 - **Superscalar:** We are processing more instructions at once by fetching, decoding, and executing more than one instruction at once.
 - This only works when Instructions can be executed in parallel, avoiding data hazards.
@@ -121,4 +121,23 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ![[Pasted image 20240910142650.png]]
 - CPUs devote lots of area to control and storage
 - GPUs devote most area to computational units 
-## GPU view
+## Nvidia GPU view
+![[Pasted image 20240910152702.png]]
+- Each SM is contains a group of 32 CUDA cores
+- Some neural network stuff
+- Each core has registers
+# GPUs: Throughput Oriented Design
+![[Pasted image 20240910152920.png]]
+
+- Details
+	- Small caches
+		- To boost memory throughput
+	- Simple control
+		- No branch prediction
+		- No data forwarding
+	- Energy efficient ALUs
+		- Many, long latency but heavily pipelined for high throughput
+	- Require massive number of threads to tolerate latencies
+		- Threading logic
+		- Thread state
+- 
