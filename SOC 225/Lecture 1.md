@@ -39,4 +39,6 @@
 - Is all crime deviance?
 	- Also no, insider trading by government officials
 - Is crime something everyone does? or is it confined to "criminal" classes?
-	- 
+	- No, Crime happens throughout society, from low income neighborhoods to high income.
+	- Even though a lot of crime happens outside in society, it is the tip of the iceberg compared to all the crime that happens in society
+	- The most dangerous environment in society is in the home in terms of crime
