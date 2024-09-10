@@ -1,4 +1,4 @@
-# What is deviance?
+# What is Deviance?
 - any behaviour that violates social norms
 - has negative connotations
 - Does positive deviance exist?
@@ -14,8 +14,8 @@
 	- Respect other people's space
 	- etc.
 - Why do we know?
-## How do you know what the norms ARE?
-- Observation + immitation
+## How Do You Know what the Norms ARE?
+- Observation + imitation
 - Education
 - Correction / feedback
 - Breakdown
@@ -26,14 +26,14 @@
 	- How do you know how to conduct yourself in society or situations
 - How do you feel when you violate social norms
 	- Awkward, nervous, bad
-## What are social norms and how do we learn them
+## What Are Social Norms and how Do We Learn Them
 - Silent road map of expectations that guide behaviour
 - Rewards for conformity
 	- Shopping therapy
 		- It feels good to conform to the norm of buying something that we want, as it helps us feel a part of the greater social world
 - How do we learn these social norms that everyone is expected to know?
 - How do you feel when you violate social norms or witness someone doing so?
-## What is deviance in more detail?
+## What is Deviance in More Detail?
 - Is all deviance crime?
 	- No! eg. dying hair
 - Is all crime deviance?
@@ -46,7 +46,7 @@
 	- Corporate level, domestic level and other levels exist too
 - Is everyone deviant in some way?
 - Why does society admonish and sanction deviance?
-## Deviance is...
+## Deviance Is...
 - Contextual / situationally specific
 - Two elements:
 	- Changes according to social group
@@ -55,7 +55,7 @@
 		- eg. sex in bedroom vs at work
 		- eg. drinking young in rural environment vs in urban environment
 		- eg. knowing everyone's business in rural vs urban environment
-## Why and how do students cheat?
+## Why and how Do Students Cheat?
 - More than 70% of students in America admit to cheating in university and colleges
 - Why?
 	- Easier than doing the work
@@ -63,4 +63,10 @@
 	- Late on assignments
 	- To do better at school
 	- more profit for less work
-	- 
+	- Home life pressure
+	- Language barriers
+	- Laziness
+	- Low self esteem
+	- considered trivial
+	- Competition for resources (scholarships, money, etc.)
+- How?
