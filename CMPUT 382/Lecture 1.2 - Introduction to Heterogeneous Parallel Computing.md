@@ -55,7 +55,7 @@
 - Complex instruction set computing (CISC) is a processor design where single instructions can execute several low-level operations (such as a load from memory, an arithmetic operation, and a memory store) or are capable of multi-step operations or addressing modes within single instructions  
 - The term was retroactively coined in contrast to reduced instruction set computer (RISC) and has therefore become something of an umbrella term for everything that is not RISC, from large and complex mainframe computers to simplistic microcontrollers where memory load and store operations are not separated from arithmetic instructions CISC
 
-### RISC Machine architecture
+### RISC Machine Architecture
 ![[Pasted image 20240906144518.png]]
 - A RISC-based computer design approach means processors require fewer transistors than typical complex instruction set computing (CISC) x86 processors in most personal computers
 - This approach reduces costs, heat and power use
@@ -87,16 +87,27 @@
 - Instruction set is orthogonal (little overlapping of instruction functionality)
 - **Hardwired control**
 - **Complexity pushed to the compiler**
-# Computing trends
-## Moore's law
+# Computing Trends
+## Moore's Law
 ![[Pasted image 20240910142025.png]]
 - "Law" is slowing down and becoming less accurate
 - We are limited by minimum size
 	- ![[Pasted image 20240910142142.png]]
 	- We run into limits and start hitting quantum limits
-## 3D-Stacked CMOS Takes Moore’s Law to New Heights
+### 3D-Stacked CMOS Takes Moore’s Law to New Heights
 ![[Pasted image 20240910142246.png]]
 - Uses 3d structures to pack more transistors vertically, increasing density
 - Heat transfer may be an issue
 ![[Pasted image 20240910142331.png]]
-### Intel is attempting 3d moore's law
+#### Intel is Attempting 3d Moore's Law
+![[Pasted image 20240910142408.png]]
+https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew3shd
+## NVIDIA's Huang's Law For GPUs
+![[Pasted image 20240910142508.png]]
+- Lots of calculation transistors, numbers increasing
+# CPU Vs GPU
+![[Pasted image 20240910142650.png]]
+- CPUs devote lots of area to control and storage
+- GPUs devote most area to computational units 
+# Key ideas in high throughput processing
+![](https://www.youtube.com/watch?v=bdYkznOFb2Y)
