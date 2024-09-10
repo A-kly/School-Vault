@@ -142,3 +142,10 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 		- Thread state
 ## Understanding the V100 SM
 ![](https://www.youtube.com/watch?v=2cHKY6ZcEEM)
+- The threads in a warp are executed in a SIMD manner if they share the same next instruction
+## Hardware View of a CUDA Processor
+![[Pasted image 20240910153911.png]]
+- Each CUDA core = One ALU and a set of registers (PUs in this diagram)
+- Shared memory is used to transfer data between cores
+- Control unit tells many PUs to execute one instruction
+- Large stack of 32 [[#The Von-Neumann Architecture]] machine
