@@ -170,4 +170,14 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - A block is executed by a multiprocessing unit
 - The threads of a block can be identified (indexed) using 1Dimension(x), 2Dimensions (x,y) or 3Dim indexes (x,y,z)
 - Blocks may be also indexed 1D, 2D or 3D.
-- **Grid is made of data blocks, each **
+- ***Grid* is made of data *blocks*, Each block is run on a *WARP* of CUDA *cores*, addressed by execution *Threads***
+## Blocks Execute on an SM
+![[Pasted image 20240910155840.png]]
+# High Performance Applications Use Both CPU and GPU
+- CPUs for sequential parts where latency matters
+	- CPUs can be 10X+ faster than GPUs for sequential code
+• GPUs for parallel parts where throughput wins
+	- GPUs can be 10X+ faster than CPUs for parallel code
+![[Pasted image 20240910155955.png]]
+# NVIDIA GPU roadmap
+![[Pasted image 20240910160150.png]]
