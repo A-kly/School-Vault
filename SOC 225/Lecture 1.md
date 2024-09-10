@@ -48,9 +48,11 @@
 - Why does society admonish and sanction deviance?
 ## Deviance is...
 - Contextual / situationally specific
-	- Eg. 
 - Two elements:
 	- Changes according to social group
-		- eg. No dances at cathlolic weddings
+		- eg. No dances at catholic weddings "leaving room for Jesus", Lots of dancing and partying at atheist weddings, vs Dancing at a Powwow
 	- changes according to situation/setting
-		- eg.
+		- eg. sex in bedroom vs at work
+		- eg. drinking young in rural environment vs in urban environment
+		- eg. knowing everyone's business in rural vs urban environment
+## Deviance in Video
