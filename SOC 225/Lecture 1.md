@@ -11,5 +11,13 @@
 	- No talking while the prof is talking
 	- Raising hand
 	- Take notes
-	- 
+	- Respect other people's space
+	- etc.
 - Why do we know?
+# How do you know what the norms ARE?
+- Observation + immitation
+- Education
+- Correction / feedback
+- Breakdown
+	- 
+- Emotional Response
