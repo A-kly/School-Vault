@@ -148,4 +148,13 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - Each CUDA core = One ALU and a set of registers (PUs in this diagram)
 - Shared memory is used to transfer data between cores
 - Control unit tells many PUs to execute one instruction
-- Large stack of 32 [[#The Von-Neumann Architecture]] machine
+- Large stack of 32 [[#The Von-Neumann Architecture|Von Neumann machine]]
+- Single thread multiple data
+- Small program executed on a batch of 32 cores. This is called WARP execution.
+# Arrays of Parallel Threads
+- A CUDA kernel is executed by a **grid** (array) of threads
+	- All threads in a grid run the same kernel code (Single Program Multiple Data)
+	- Each thread has indexes that it uses to compute memory addresses and make control decisions
+- **Instead of pointing to data in memory, we do pointer arithmetic but with threads using thread IDs**
+- **Thread IDs are pointers to data in a thread's memory**
+- 
