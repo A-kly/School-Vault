@@ -158,8 +158,16 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 	- Each thread has indexes that it uses to compute memory addresses and make control decisions
 - **Instead of pointing to data in memory, we do pointer arithmetic but with threads using thread IDs**
 - **Thread IDs are pointers to data in a thread's memory**
-## Thread blocks: Scalable cooperation
+## Thread Blocks: Scalable Cooperation
 ![[Pasted image 20240910154738.png]]
 - Divide thread array into multiple blocks
-- Threads within a block cooperate via shared memory, atomic operations and barrier synchronization
-- Threads in different blocks do not interact
+- Threads within a block cooperate via **shared memory**, **atomic operations** and **barrier synchronization**
+- *Threads in different blocks do not interact*
+## Threads and Blocks
+![[Pasted image 20240910155532.png]]
+- Threads are organized in blocks
+- A grid is a collection of thread blocks of the same thread dimensionality which all execute the same kernel
+- A block is executed by a multiprocessing unit
+- The threads of a block can be identified (indexed) using 1Dimension(x), 2Dimensions (x,y) or 3Dim indexes (x,y,z)
+- Blocks may be also indexed 1D, 2D or 3D.
+- **Grid is made of data blocks, each **
