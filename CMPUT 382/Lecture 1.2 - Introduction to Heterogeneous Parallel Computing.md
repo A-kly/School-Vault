@@ -87,3 +87,16 @@
 - Instruction set is orthogonal (little overlapping of instruction functionality)
 - **Hardwired control**
 - **Complexity pushed to the compiler**
+# Computing trends
+## Moore's law
+![[Pasted image 20240910142025.png]]
+- "Law" is slowing down and becoming less accurate
+- We are limited by minimum size
+	- ![[Pasted image 20240910142142.png]]
+	- We run into limits and start hitting quantum limits
+## 3D-Stacked CMOS Takes Moore’s Law to New Heights
+![[Pasted image 20240910142246.png]]
+- Uses 3d structures to pack more transistors vertically, increasing density
+- Heat transfer may be an issue
+![[Pasted image 20240910142331.png]]
+### Intel is attempting 3d moore's law
