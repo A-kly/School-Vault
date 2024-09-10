@@ -121,3 +121,4 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ![[Pasted image 20240910142650.png]]
 - CPUs devote lots of area to control and storage
 - GPUs devote most area to computational units 
+## GPU view
