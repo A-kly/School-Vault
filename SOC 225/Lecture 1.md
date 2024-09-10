@@ -42,3 +42,15 @@
 	- No, Crime happens throughout society, from low income neighborhoods to high income.
 	- Even though a lot of crime happens outside in society, it is the tip of the iceberg compared to all the crime that happens in society
 	- The most dangerous environment in society is in the home in terms of crime
+	- Street level criminality is only one small level of crime in the world
+	- Corporate level, domestic level and other levels exist too
+- Is everyone deviant in some way?
+- Why does society admonish and sanction deviance?
+## Deviance is...
+- Contextual / situationally specific
+	- Eg. 
+- Two elements:
+	- Changes according to social group
+		- eg. No dances at cathlolic weddings
+	- changes according to situation/setting
+		- eg.
