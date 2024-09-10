@@ -105,10 +105,6 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ## NVIDIA's Huang's Law For GPUs
 ![[Pasted image 20240910142508.png]]
 - Lots of calculation transistors, numbers increasing
-# CPU Vs GPU
-![[Pasted image 20240910142650.png]]
-- CPUs devote lots of area to control and storage
-- GPUs devote most area to computational units 
 # Key ideas in high throughput processing
 ![](https://www.youtube.com/watch?v=bdYkznOFb2Y)
 - **Superscalar:** We are processing more instructions at once by fetching, decoding, and executing more than one instruction at once.
@@ -119,4 +115,9 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 	- One execution context
 - We can expand this entire system to be multithreaded
 - AND the entire system can be multicore
-- 
+- **For a GPUs:**
+	- hardware is given only vector threads, control logic determines if multiple instructions can be executed at the same time by different ALUs, 
+# CPU Vs GPU
+![[Pasted image 20240910142650.png]]
+- CPUs devote lots of area to control and storage
+- GPUs devote most area to computational units 
