@@ -111,3 +111,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - GPUs devote most area to computational units 
 # Key ideas in high throughput processing
 ![](https://www.youtube.com/watch?v=bdYkznOFb2Y)
+- **Superscalar:** We are processing more instructions at once by fetching, decoding, and executing more than one instruction at once.
+- This only works when Instructions can be executed in parallel, avoiding data hazards.
+- **SIMD:** has one fetch, and decode unit, but multiple ALUs that all do the same instruction, once per clock, on a bunch of separate data (vector instructions)
+- These can be combined
