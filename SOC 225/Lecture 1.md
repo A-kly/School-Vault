@@ -19,5 +19,16 @@
 - Education
 - Correction / feedback
 - Breakdown
-	- 
 - Emotional Response
+# All Fairly Simple?
+- Think about social norms
+- What do you think they are?
+	- How do you know how to conduct yourself in society or situations
+- How do you feel when you violate social norms
+	- Awkward, nervous, bad
+# What are social norms and how do we learn them
+- Silent road map of expectations that guide behaviour
+- Rewards for conformity
+	- Shopping therapy
+- How do we learn these social norms that everyone is expected to know?
+- How do you feel when you violate social norms or witness someone doing so?
