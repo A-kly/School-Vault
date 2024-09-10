@@ -55,4 +55,12 @@
 		- eg. sex in bedroom vs at work
 		- eg. drinking young in rural environment vs in urban environment
 		- eg. knowing everyone's business in rural vs urban environment
-## Deviance in Video
+## Why and how do students cheat?
+- More than 70% of students in America admit to cheating in university and colleges
+- Why?
+	- Easier than doing the work
+	- Unprepared
+	- Late on assignments
+	- To do better at school
+	- more profit for less work
+	- 
