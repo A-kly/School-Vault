@@ -140,4 +140,5 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 	- Require massive number of threads to tolerate latencies
 		- Threading logic
 		- Thread state
-- 
+## Understanding the V100 SM
+![](https://www.youtube.com/watch?v=2cHKY6ZcEEM)
