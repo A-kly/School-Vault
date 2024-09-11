@@ -69,22 +69,22 @@
 		- [*] take radioactive form of glucose
 		- [*] X-rays cause positron to be emitted
 		- [*] shows metabolic activity
-	- **fMRI** (---------- magnetic resonance imaging):
+	- **fMRI** (==functional== magnetic resonance imaging):
 		- [*] hemoglobin (which carries oxygen in the blood) contains an iron atom that has magnetic properties
 		- [*] strong magnetic field (e.g., 3 Tesla) aligns magnetic molecules
 		- [*] radio wave pulse disorients them
 		- [*] upon realignment, protons emit radio waves which can be measured quickly
 		- [*] shows metabolic activity
-	- **----------- technique**:
+	- **==subtraction== technique**:
 		- [*] brain imaging compares activity between two conditions
 		- [*] activity produced in control (or baseline) condition is subtracted from the activity produced in experimental condition
 		- [*] result shows the difference due to experimental manipulation
-- pros & cons of brain imaging:
-	- [ ] can -correlate- active area with function
-	- [ ] can only ----------- active area with function
-	- [ ] applications range from promising (neurodiagnosis)...
-	- [ ] ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
-	- [ ]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
+	- pros & cons of brain imaging:
+		- [ ] can -correlate- active area with function
+		- [ ] can only ----------- active area with function
+		- [ ] applications range from promising (neurodiagnosis)...
+		- [ ] ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
+		- [ ]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
 
 ---
 
@@ -96,7 +96,7 @@
 
 ## Brain Structures
 
-- spinal cord ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) brainstem
+- spinal cord -> brainstem
 - **hindbrain**:
 - **----------**: planning, timing, and coordination of voluntary movements; control of ballistic movement
 - **----**: sleep stages, arousal, consciousness
