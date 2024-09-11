@@ -280,37 +280,32 @@
 - this **functionalist** approach can lead to “==strong== equivalence” (vs. “==Pure AI==”: looking for the best solution) and escapes the problem of analogy
 
 Benefits of building bridges between cognitive psychology and AI (Reed, 2019):
-- computational programs in AI can serve as potential theoretical models in cognitive psychology
-
-e.g., hierarchical network model of semantic memory
-
+- computational programs in AI can serve as potential theoretical ==models== in cognitive psychology
+	- e.g., hierarchical network model of semantic memory
 - both share common interests that may lead to greater reciprocal understanding
-
-e.g., pattern classification is studied by both fields: human visual object categorization and AI image processing
-
-- the integration of AI into everyday life requires a better understanding of human-AI -------
-
-e.g., IBM's WatsonPaths AI system analyzes medical data to give physicians the most likely diagnosis or most appropriate treatment
+	- e.g., pattern classification is studied by both fields: human visual object categorization and AI image processing
+- the integration of AI into everyday life requires a better understanding of human-AI ==teaming==
+	- e.g., IBM's WatsonPaths AI system analyzes medical data to give physicians the most likely diagnosis or most appropriate treatment
 
 ---
 
-## Some Common Themes
+## Some Common Themes (NON TESTABLE)
 
 Cognitive processes:
 
-- are (inter-)------
-- the mind is constructive; internal processes change information
-- are efficient and (generally) --------
-- errors often byproducts of otherwise accurate processes
-- better handle -------- information
-- biased towards retaining information that fits with our beliefs
+- are (inter-)==active==
+	- the mind is constructive; internal processes change information
+- are efficient and (generally) ==accurate==
+	- errors often byproducts of otherwise accurate processes
+- better handle ==positive== information
+	- biased towards retaining information that fits with our beliefs
 - are interrelated
-- but often studied ----------
+	- but often studied ==seperately==
 - rely on two processes
-- bottom-up (based on low-level sensory processes) and top-down (based on higher-level cognitive processes)
+	- bottom-up (based on low-level sensory processes) and top-down (based on higher-level cognitive processes)
 - can be -----------
-- much depends on automatic processing, priming, and implicit memory
-- also called “system 1” (Stanovich & West, 2000)
+	- much depends on automatic processing, priming, and implicit memory
+	- also called “system 1” (Stanovich & West, 2000)
 
 ---
 
