@@ -24,24 +24,22 @@
 	- however, these reports are controversial, and may have been exaggerated
 	- Ratiu & colleagues (2004):
 		- created computer-generated 3-D reconstruction of Gage’s skull
-		- concluded there was damage to left ------------- and prefrontal cortex
+		- concluded there was damage to left ==orbitofrontal== and prefrontal cortex
 		- purported changes in Gage’s behaviour parallel those in patients with damage to the orbitofrontal cortex and amygdala
-		- considered to be “the index case for personality change due to frontal lobe damage” and “the historical beginnings of the study of the ---------- basis of behavior”
+		- considered to be “the index case for personality change due to frontal lobe damage” and “the historical beginnings of the study of the ==biological== basis of behavior”
 
-Alexander Luria (b.1902-d.1977)
-
-- psychologist wrote about two now-famous case studies:
-- a journalist with apparently unlimited ------ (-The mind of a mnemonist: A little book about a vast memory-, 1968)
-- a man who whose brain injury abolished his ability to read, write, and speak (-The man with a shattered world: The history of a brain wound-, 1972)
-- related brain areas to psychological functions
-- created the field of ---------------
+- Alexander Luria (b.1902-d.1977)
+	- psychologist wrote about two now-famous case studies:
+		- a journalist with apparently unlimited ==memory== (-The mind of a mnemonist: A little book about a vast memory-, 1968)
+		- a man who whose brain injury abolished his ability to read, write, and speak (-The man with a shattered world: The history of a brain wound-, 1972)
+	- related brain areas to psychological functions
+	- created the field of ==neuropsychology==
 
 ---
 
 ## What is Cognitive Neuroscience?
 
 **Cognitive neuroscience**: investigates the neural mechanisms underlying all cognitive processes
-
 - attempts to link mind to -----
 - can all cognitive functions be ---------?
 - how does this aid understanding?
