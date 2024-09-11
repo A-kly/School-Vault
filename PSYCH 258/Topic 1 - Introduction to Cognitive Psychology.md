@@ -274,14 +274,13 @@
 
 ## Artificial Intelligence (AI)
 
-- employs the ------------- metaphor in a simulation of behaviour or mental process
+- employs the ==computational== metaphor in a simulation of behaviour or mental process
 - what can we learn by comparing the human mind to a computer?
-- a lot, if they’re both doing the same thing (level 1) -in the ---- way- (level 2)
-- this **functionalist** approach can lead to “------ equivalence” (vs. “---- --”: looking for the best solution) and escapes the problem of analogy
+- a lot, if they’re both doing the same thing (level 1) -*in the ==same== way*- (level 2)
+- this **functionalist** approach can lead to “==strong== equivalence” (vs. “==Pure AI==”: looking for the best solution) and escapes the problem of analogy
 
 Benefits of building bridges between cognitive psychology and AI (Reed, 2019):
-
-- computational programs in AI can serve as potential theoretical ------ in cognitive psychology
+- computational programs in AI can serve as potential theoretical models in cognitive psychology
 
 e.g., hierarchical network model of semantic memory
 
