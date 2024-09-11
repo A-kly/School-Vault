@@ -15,19 +15,18 @@
 
 ## Historical Origins
 
-The Case of Phineas Gage
-
-- 25-year-old railroad construction foreman for Rutland and Burland Railroad
-- in Vermont on September 13, 1848, an accident sent a tamping iron through his ----
-- regained consciousness shortly after; walked to nearest doctor
-- lost left eye, but was still able-bodied and intelligent; lived another 13 years
-- some reports claimed his --------- changed profoundly: disregarded social conventions, used profanity, lacked social responsibility
-- however, these reports are controversial, and may have been exaggerated
-- Ratiu & colleagues (2004):
-- created computer-generated 3-D reconstruction of Gage’s skull
-- concluded there was damage to left ------------- and prefrontal cortex
-- purported changes in Gage’s behaviour parallel those in patients with damage to the orbitofrontal cortex and amygdala
-- considered to be “the index case for personality change due to frontal lobe damage” and “the historical beginnings of the study of the ---------- basis of behavior”
+- The Case of Phineas Gage
+	- 25-year-old railroad construction foreman for Rutland and Burland Railroad
+	- in Vermont on September 13, 1848, an accident sent a tamping iron through his ==head==
+	- regained consciousness shortly after; walked to nearest doctor
+	- lost left eye, but was still able-bodied and intelligent; lived another 13 years
+	- some reports claimed his ==behaviour== changed profoundly: disregarded social conventions, used profanity, lacked social responsibility
+	- however, these reports are controversial, and may have been exaggerated
+	- Ratiu & colleagues (2004):
+		- created computer-generated 3-D reconstruction of Gage’s skull
+		- concluded there was damage to left ------------- and prefrontal cortex
+		- purported changes in Gage’s behaviour parallel those in patients with damage to the orbitofrontal cortex and amygdala
+		- considered to be “the index case for personality change due to frontal lobe damage” and “the historical beginnings of the study of the ---------- basis of behavior”
 
 Alexander Luria (b.1902-d.1977)
 
