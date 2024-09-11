@@ -193,11 +193,12 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ![[Pasted image 20240911140835.png]]
 - A thread is described by c/cuda code
 - Each vector is associated with a thread, and executes code on vector elements
-- kernel defines the code and threads
+- kernel defines the code, grid size, and block size
 - each kernel associated with one grid of data
-	- How the threads are distributed, example (256x256 pixel image)
+	- description of How the threads are distributed, example (256x256 pixel image)
 - each grid is divided into blocks
-- each block is associated with a set of threads
-- each thread runs on one SM
+- Each SM is assigned one or many blocks (typical is 32)
+- Each SM executes one block at a time and manages order
+- SM divides each block into 32 in order to run on CUDA cores
 # CUDA Threads Execution
 ![[Pasted image 20240911141747.png]]
