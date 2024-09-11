@@ -202,3 +202,4 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - SM divides each block into 32 in order to run on CUDA cores
 # CUDA Threads Execution
 ![[Pasted image 20240911141747.png]]
+- grey box aka thread is run on one SM
