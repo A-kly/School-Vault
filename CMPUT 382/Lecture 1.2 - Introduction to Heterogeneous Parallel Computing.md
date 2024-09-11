@@ -181,3 +181,8 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ![[Pasted image 20240910155955.png]]
 # NVIDIA GPU roadmap
 ![[Pasted image 20240910160150.png]]
+# NVIDIA H100 GPU
+![[Pasted image 20240910160213.png]]
+![[Pasted image 20240910160233.png]]
+# AMD RDNA 2 Architecture
+![[Pasted image 20240910160300.png]]
