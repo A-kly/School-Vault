@@ -59,51 +59,32 @@
 	- e.g., frontal lobotomy severs connection to frontal lobe; reduces seizures
 - **TMS** (transcranial ==magnetic== stimulation):
 	- [*] magnetic coil placed beside head
-	- [*] pulse -------- neural activity; like temporary lesion
+	- [*] pulse ==disrupts== neural activity; like temporary lesion
 	- [*] relates disrupted function to location
 - record electrical activity:
-	- **--------------------** (EEG) measures **event-related potentials** (ERPs) produced by large numbers of neurons
-	- intra/extracellular recordings: measure activity of a single neuron, using microelectrode
-	- brain imaging:
-- **PET** (-------- -------- tomography):
-
-**▸** take radioactive form of glucose
-
-**▸** X-rays cause positron to be emitted
-
-**▸** shows metabolic activity
-
-- **fMRI** (---------- magnetic resonance imaging):
-
-**▸** hemoglobin (which carries oxygen in the blood) contains an iron atom that has magnetic properties
-
-**▸** strong magnetic field (e.g., 3 Tesla) aligns magnetic molecules
-
-**▸** radio wave pulse disorients them
-
-**▸** upon realignment, protons emit radio waves which can be measured quickly
-
-**▸** shows metabolic activity
-
-- **----------- technique**:
-
-**▸** brain imaging compares activity between two conditions
-
-**▸** activity produced in control (or baseline) condition is subtracted from the activity produced in experimental condition
-
-**▸** result shows the difference due to experimental manipulation
-
+	- **==Electroencephalogram==** (EEG) measures **event-related potentials** (ERPs) produced by large numbers of neurons
+	- **intra/extracellular recordings:** measure activity of a single neuron, using microelectrode
+- brain imaging:
+	- **PET** (Positron emission tomography):
+		- [*] take radioactive form of glucose
+		- [*] X-rays cause positron to be emitted
+		- [*] shows metabolic activity
+	- **fMRI** (---------- magnetic resonance imaging):
+		- [*] hemoglobin (which carries oxygen in the blood) contains an iron atom that has magnetic properties
+		- [*] strong magnetic field (e.g., 3 Tesla) aligns magnetic molecules
+		- [*] radio wave pulse disorients them
+		- [*] upon realignment, protons emit radio waves which can be measured quickly
+		- [*] shows metabolic activity
+	- **----------- technique**:
+		- [*] brain imaging compares activity between two conditions
+		- [*] activity produced in control (or baseline) condition is subtracted from the activity produced in experimental condition
+		- [*] result shows the difference due to experimental manipulation
 - pros & cons of brain imaging:
-
- can -correlate- active area with function
-
- can only ----------- active area with function
-
- applications range from promising (neurodiagnosis)...
-
- ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
-
- naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
+	- [ ] can -correlate- active area with function
+	- [ ] can only ----------- active area with function
+	- [ ] applications range from promising (neurodiagnosis)...
+	- [ ] ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
+	- [ ]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
 
 ---
 
