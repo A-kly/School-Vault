@@ -126,10 +126,8 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - Each SM is contains a group of 32 CUDA cores
 - Some neural network stuff
 - Each core has registers
-- Each core (SM) has 
 # GPUs: Throughput Oriented Design
 ![[Pasted image 20240910152920.png]]
-
 - Details
 	- Small caches
 		- To boost memory throughput
@@ -141,6 +139,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 	- Require massive number of threads to tolerate latencies
 		- Threading logic
 		- Thread state
+
 ## Understanding the V100 SM
 ![](https://www.youtube.com/watch?v=2cHKY6ZcEEM)
 - The threads in a warp are executed in a SIMD manner if they share the same next instruction
@@ -177,13 +176,21 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 # High Performance Applications Use Both CPU and GPU
 - CPUs for sequential parts where latency matters
 	- CPUs can be 10X+ faster than GPUs for sequential code
-• GPUs for parallel parts where throughput wins
+- GPUs for parallel parts where throughput wins
 	- GPUs can be 10X+ faster than CPUs for parallel code
 ![[Pasted image 20240910155955.png]]
-# NVIDIA GPU roadmap
+# NVIDIA GPU Roadmap
 ![[Pasted image 20240910160150.png]]
 # NVIDIA H100 GPU
 ![[Pasted image 20240910160213.png]]
 ![[Pasted image 20240910160233.png]]
 # AMD RDNA 2 Architecture
 ![[Pasted image 20240910160300.png]]
+# CUDA Kernel and Thread Hierarchy
+- A CUDA kernel is executed by an array of threads
+- All threads run the same code
+- Each thread has an ID that it uses to compute memory addresses and make control decisions
+![[Pasted image 20240911140835.png]]
+- A thread is described by c/cuda code
+- Each vector is associated with a thread, and executes code on vector elements
+- 
