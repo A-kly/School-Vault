@@ -193,4 +193,8 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 ![[Pasted image 20240911140835.png]]
 - A thread is described by c/cuda code
 - Each vector is associated with a thread, and executes code on vector elements
-- 
+- kernel defines the code
+- each kernel associated with one grid of data
+- each grid is divided into blocks
+- each block is associated with a set of threads
+- each thread runs on one sm
