@@ -198,6 +198,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - each kernel associated with one grid of data
 	- description of How the threads are distributed, example (256x256 pixel image)
 - each grid is divided into blocks
+- Each Block uses up to 32 threads
 - Each SM is assigned one or many blocks (typical is 32)
 - Each SM executes one block at a time and manages order
 - SM divides each block into 32 in order to run on CUDA cores
