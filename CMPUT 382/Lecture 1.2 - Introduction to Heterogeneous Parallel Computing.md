@@ -126,6 +126,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - Each SM is contains a group of 32 CUDA cores
 - Some neural network stuff
 - Each core has registers
+- Each core (SM) has 
 # GPUs: Throughput Oriented Design
 ![[Pasted image 20240910152920.png]]
 
