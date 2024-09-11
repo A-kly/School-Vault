@@ -158,7 +158,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 	- Each thread has indexes that it uses to compute memory addresses and make control decisions
 - **Instead of pointing to data in memory, we do pointer arithmetic but with threads using thread IDs**
 - **Thread IDs are pointers to data in a thread's memory**
-- ==**We adress seperate regions in memory by the formula called i**==
+- ==**We address separate regions in memory by the formula called `i` in this example.**==
 ## Thread Blocks: Scalable Cooperation
 ![[Pasted image 20240910154738.png]]
 - Divide thread array into multiple blocks
