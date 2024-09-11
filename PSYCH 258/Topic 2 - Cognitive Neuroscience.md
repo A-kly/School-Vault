@@ -104,15 +104,15 @@ e.g., frontal lobotomy severs connection to frontal lobe; reduces seizures
 
 - pros & cons of brain imaging:
 
-![☑](PSYCH%20258-%20Cognitive%20Neuroscience-files/pro-new.png) can -correlate- active area with function
+ can -correlate- active area with function
 
-![☒](PSYCH%20258-%20Cognitive%20Neuroscience-files/con-new.png) can only ----------- active area with function
+ can only ----------- active area with function
 
-![☑](PSYCH%20258-%20Cognitive%20Neuroscience-files/pro-new.png) applications range from promising (neurodiagnosis)...
+ applications range from promising (neurodiagnosis)...
 
-![☒](PSYCH%20258-%20Cognitive%20Neuroscience-files/con-new.png) ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
+ ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
 
-![☒](PSYCH%20258-%20Cognitive%20Neuroscience-files/con-new.png) naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
+ naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
 
 ---
 

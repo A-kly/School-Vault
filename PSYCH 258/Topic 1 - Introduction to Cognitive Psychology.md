@@ -178,7 +178,7 @@
 
 - psychology: science of behaviour and ==mental== processes
 
-#### The cognitive revolution/renaissance:
+#### The Cognitive revolution/renaissance:
 
 - limits of behaviourism:
 	- Edward Tolman (1932):
@@ -186,37 +186,30 @@
 		- **when forced to take roundabout pathway, rats successfully reached the food box--despite lack of reinforcement for this route**
 		- rats must be using a **cognitive map**
 		- this contradicted basic behaviourist principles of learning
-
 - Karl Lashley (1951):
 	- argued that behaviourist explanations of language, using stimulus-response ==chains== were inadequate
 	- e.g., spoonerisms (“our queer old dean” instead of “our dear old Queen”) are novel, nonhabitual recombinations
 	- organization in language comes from **within the organism** (not from outside)
-
 - advances in ==linguistics==
 	- Noam Chomsky (1959):
 		- published criticism of Skinner’s (1957) *Verbal Behavior*
 		- concluded that **behaviourist accounts of language were lacking**
 		- language is **not merely imitation**
-
 - emergence of human factors/cognitive engineering/applied cognitive psychology
 		- rapid technological advances in WWII led to problems with skills and performance
 		- engineering perspective on human information processing applied
 		- important factors include: alertness, sensitivity to environmental conditions (e.g., heat, noise, sleep loss), distinguishing relevant vs. irrelevant information, multiple task performance
-
 - rise of ==constructivism==
 	- Jean Piaget (1923):
 		- explained children’s cognitive development via **schèmes**: mental structures that provide the basis for thought
 		- **schemes organize experience and knowledge**
 		- contain information about actions one can perform on objects
 		- change through developmental stages
-
 - contributions from ==Computing science==
 	- artificial intelligence (AI) related to cognition
-
 - new conceptualizations of (and research on) ==memory==
 	- e.g., “The Magical Number Seven, Plus or Minus Two” (Miller, 1956)
 		- this is the description of the items we can store in short term memory
-
 - ==Publications== of Ulric Neisser’s (1967) -Cognitive Psychology-
 
 ---
@@ -228,7 +221,6 @@
 	- e.g., Gestalt theory, Psychoanalytic theory
 	- typically represented as ==verbal== statements
 	- helps to describe, explain, predict, and control behaviour and mental processes
-
 	- **model**: representation of a specific phenomenon that predicts and simulates empirical data
 		- derived from a theory; *narrower in focus*
 		- typically employs an ==analogy== or metaphor for a psychological process (analogy: logical inference, based on the assumption that if two things seem similar in -some- respects, then they may be alike in -other- respects)
@@ -237,7 +229,6 @@
 			- e.g., Locke: newborn is a -tabula rasa---but is not literally a “blank slate”
 		- models often represented as a mathematical expression or computer program; “boxes and arrows” in cognitive psychology
 		- although descriptive, may not be explanatory
-
 - The scientific method:
 	1. ask questions/make observations/describe the phenomenon
 	2. develop an explanation (a theory or model)
@@ -303,7 +294,7 @@ Cognitive processes:
 	- but often studied ==seperately==
 - rely on two processes
 	- bottom-up (based on low-level sensory processes) and top-down (based on higher-level cognitive processes)
-- can be -----------
+- can be ==unconscious==
 	- much depends on automatic processing, priming, and implicit memory
 	- also called “system 1” (Stanovich & West, 2000)
 
