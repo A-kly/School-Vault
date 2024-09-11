@@ -40,8 +40,8 @@
 ## What is Cognitive Neuroscience?
 
 **Cognitive neuroscience**: investigates the neural mechanisms underlying all cognitive processes
-- attempts to link mind to -----
-- can all cognitive functions be ---------?
+- attempts to link mind to ==brain==
+- can all cognitive functions be ==localized==?
 - how does this aid understanding?
 
 **(Cognitive) neuropsychology**: also focuses on mental processes, but with an emphasis on studying the cognitive effects of brain injury or neurological illness, and applying the results to models of normal cognitive functioning
@@ -50,27 +50,21 @@
 
 ## Research Methods
 
-- -------- observations:
-- measure and record effects of brain damage/diseases
-- relate damaged area to lost/disrupted function
+- ==clinical== observations:
+	- measure and record effects of brain damage/diseases
+	- relate damaged area to lost/disrupted function
 - manipulation:
-- **---------- stimulation of brain** (ESB): map effects to brain regions using electrodes (Penfield & Jasper, 1954)
-- **-------**: surgical destruction of tissue
-
-e.g., frontal lobotomy severs connection to frontal lobe; reduces seizures
-
-- **TMS** (transcranial -------- stimulation):
-
-**▸** magnetic coil placed beside head
-
-**▸** pulse -------- neural activity; like temporary lesion
-
-**▸** relates disrupted function to location
-
+	- **==Electrical== stimulation of brain** (ESB): map effects to brain regions using electrodes (Penfield & Jasper, 1954)
+- **Lesions**: surgical destruction of tissue
+	- e.g., frontal lobotomy severs connection to frontal lobe; reduces seizures
+- **TMS** (transcranial ==magnetic== stimulation):
+	- [*] magnetic coil placed beside head
+	- [*] pulse -------- neural activity; like temporary lesion
+	- [*] relates disrupted function to location
 - record electrical activity:
-- **--------------------** (EEG) measures **event-related potentials** (ERPs) produced by large numbers of neurons
-- intra/extracellular recordings: measure activity of a single neuron, using microelectrode
-- brain imaging:
+	- **--------------------** (EEG) measures **event-related potentials** (ERPs) produced by large numbers of neurons
+	- intra/extracellular recordings: measure activity of a single neuron, using microelectrode
+	- brain imaging:
 - **PET** (-------- -------- tomography):
 
 **▸** take radioactive form of glucose

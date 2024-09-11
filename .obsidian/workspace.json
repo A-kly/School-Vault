@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b777a90487309c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheat Sheet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -169,8 +182,9 @@
   },
   "active": "0d3dc0df62ef882b",
   "lastOpenFiles": [
-    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+    "Markdown Cheat Sheet.md",
     "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
+    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "CMPUT 382/Media/Pasted image 20240910160300.png",
     "CMPUT 382/Media/Pasted image 20240910160254.png",
