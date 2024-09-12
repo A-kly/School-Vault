@@ -162,7 +162,7 @@
 - Drinking so much that you can no longer walk?
 	- ==Deviant==
 - Driving on a deserted highway in the middle of the night at 120 kph (posted speed limit is 110)
-	- ==Both==
+	- ==Criminal==
 - Offering to give a false alibi for a friend who has been accused of a crime that he could not have committed because he was in bed with a married woman at the time.
 	- ==Both==
 - Having a tattoo
