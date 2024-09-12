@@ -119,3 +119,8 @@
 - Where do most Canadians tend to learn about crime?
 	- The news, internet
 	- ==News, social media==
+## What is crime?
+- Any behaviour that happens that transgresses the Canadian criminal code
+- More complex
+- *Crime = latin term crimen = accusation*
+	- This implies
