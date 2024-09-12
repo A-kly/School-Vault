@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC 225/Lecture 1.md",
+                "file": "SOC 225/Topic 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/Lecture 1.md"
+                "file": "SOC 225/Topic 1.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/Lecture 1.md",
+                "file": "SOC 225/Topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/Lecture 1.md",
+                "file": "SOC 225/Topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/Lecture 1.md"
+                "file": "SOC 225/Topic 1.md"
               }
             }
           }
@@ -183,7 +183,7 @@
     "CMPUT 382/Media/Pasted image 20240910155955.png",
     "CMPUT 382/Media/Pasted image 20240910155840.png",
     "CMPUT 382/Media/Pasted image 20240910155532.png",
-    "SOC 225/Lecture 1.md",
+    "SOC 225/Topic 1.md",
     "SOC 225/Media",
     "SOC 225/Course intro.md",
     "SOC 225/SOC 225.md",
