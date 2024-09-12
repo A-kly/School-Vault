@@ -143,3 +143,27 @@
 		- You commited the act of "purchasing coke"
 		- You had the mental capacity to understand the result
 			- Had the conscious intent
+## Up for Debate
+- "Rather than attributing crime and all that is evil to a relatively small group of people, I am saying that crime and socially harmful behaviour is widely (though not evenly) Thomas Gabor, dispersed in society." "Everybody Does It!" 1994.
+- Is crime something everyone does? Or, is it confined to the “criminal” classes?
+	- ==It is ALL OVER SOCIETY==
+# Pop Quiz!? Crime and Deviance Pause for Thought
+- consider a range of situations and then decide whether each situation falls into the category of:
+	- crime
+	- deviance
+	- both
+	- neither
+-  At the end of the exercise try ask your neighbour what they think about each of these situations
+
+- A person of 14 buying cigarettes in a shop.
+	- ==Deviant==
+- Marrying a stranger
+	- ==Deviant==
+- Drinking so much that you can no longer walk?
+	- ==Deviant==
+- Driving on a deserted highway in the middle of the night at 120 kph (posted speed limit is 110)
+	- ==Both==
+- Offering to give a false alibi for a friend who has been accused of a crime that he could not have committed because he was in bed with a married woman at the time.
+	- ==Both==
+- Having a tattoo
+	- ==Neither==
