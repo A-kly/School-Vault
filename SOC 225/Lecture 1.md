@@ -89,3 +89,22 @@
 - Where do acceptable practices end and cheating begins?
 	- Who decides?
 # What is a crime?
+## How Much do you know about crime?
+- What is the only violent crime typically committed by strangers?
+	- Hit and run?
+	- Correct: ==Robbery==
+- Can Dr. Evil be convicted of attempted murder if he shot into Austin Powers’ bed when he was not there, believing that he was (since Mini-Me assured Dr. Evil Austin Powers was asleep)?
+	- Yes?
+	- Correct: ==Yes==
+- True or False? Prostitution is a crime.
+	- No?
+- Are the costs higher for “street crime” or “white-collar crime?
+	- White collar?
+- Has legalizing alcohol and gambling decreased involvement in organized crime?
+	- yes?
+- True or False? It was legal in Canada for men to sexually assault their wives until 1983.
+	- Yes?
+- What is the most common item stolen in break and enter thefts?
+	- Electronics?
+- Where do most Canadians tend to learn about crime?
+	- The news
