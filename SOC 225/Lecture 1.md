@@ -131,3 +131,11 @@
 		- Must break the criminal code
 	- Mens rea
 		- act does not make person guilty unless his/her mind is also guilty
+		- Must have the conscious intent to do the action that is illegal
+			- Negligence is not a valid excuse
+
+### Therefore
+- What groups would be considered incapable of committing crime?
+	- Children under the age of 12 (by law)
+		- 
+- If you buy a bag of baking powder and think you are purchasing coke, are you guilty of an offence?
