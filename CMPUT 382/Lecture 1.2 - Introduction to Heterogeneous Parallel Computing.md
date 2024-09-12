@@ -188,6 +188,7 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 # AMD RDNA 2 Architecture
 ![[Pasted image 20240910160300.png]]
 # CUDA Kernel and Thread Hierarchy
+## VERY MUCH STRUGGLING TO UNDERSTAND THIS
 - A CUDA kernel is executed by an array of threads
 - All threads run the same code
 - Each thread has an ID that it uses to compute memory addresses and make control decisions
