@@ -137,5 +137,9 @@
 ### Therefore
 - What groups would be considered incapable of committing crime?
 	- Children under the age of 12 (by law)
-		- 
+	- Mental health challenges
 - If you buy a bag of baking powder and think you are purchasing coke, are you guilty of an offence?
+	- You are!!
+		- You commited the act of "purchasing coke"
+		- You had the mental capacity to understand the result
+			- Had the conscious intent
