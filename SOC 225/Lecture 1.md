@@ -123,4 +123,11 @@
 - Any behaviour that happens that transgresses the Canadian criminal code
 - More complex
 - *Crime = latin term crimen = accusation*
-	- This implies
+	- This implies that accusation is required for crime to exist
+	- The accusation is what sets off the crime
+	- An act only becomes a crime in the legal sense one you are accused, even if you are breaking the law
+- Two requirements for crime:
+	- Actus Reus
+		- Must break the criminal code
+	- Mens rea
+		- act does not make person guilty unless his/her mind is also guilty
