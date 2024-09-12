@@ -96,15 +96,26 @@
 - Can Dr. Evil be convicted of attempted murder if he shot into Austin Powers’ bed when he was not there, believing that he was (since Mini-Me assured Dr. Evil Austin Powers was asleep)?
 	- Yes?
 	- Correct: ==Yes==
+		- Because he had *intent* to murder Austin powers
 - True or False? Prostitution is a crime.
 	- No?
+	- Correct: ==No==
+		- The activities around the sexual act are criminalized
+		- Solicitation of sex
+		- Living off of the income of a prostitute
 - Are the costs higher for “street crime” or “white-collar crime?
 	- White collar?
+	- Correct: ==White collar==
 - Has legalizing alcohol and gambling decreased involvement in organized crime?
 	- yes?
+	- Correct: ==No==
+		- Shift illegal focus to something else
 - True or False? It was legal in Canada for men to sexually assault their wives until 1983.
 	- Yes?
+	- ==True==
 - What is the most common item stolen in break and enter thefts?
 	- Electronics?
+	- ==Jewellery, electronics, wallets==
 - Where do most Canadians tend to learn about crime?
-	- The news
+	- The news, internet
+	- ==News, social media==
