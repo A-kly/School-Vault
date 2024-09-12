@@ -167,3 +167,25 @@
 	- ==Both==
 - Having a tattoo
 	- ==Neither==
+# What is criminology?
+- “The body of knowledge regarding crime as a social phenomenon. It includes… the processes of:
+	- making laws,
+	- breaking laws, and
+	- reacting to the breaking of laws.”
+		- Sutherland and Cressey, 1960 
+- Its goal is scientific: to develop a body of general and verified principles and knowledge regarding law, crime, and treatment.
+
+## History of Criminology
+- Coined in 1885 by Italian Law professor Raffaele Garofalo (Criminologia)
+- Is now a discipline in its own right – Interdisciplinary study of crime
+- In Canada
+	- Denis Szabo – 1960 at the Université de Montréal
+	- Centres of Criminology late 1970s
+	- First textbook – early 1990s Rick Linden and Vince Sacco
+## Institutes of Criminology
+- Université de Montréal, University of Toronto, University of Ottawa, Simon Fraser University
+- Centres for Criminological Research throughout the country
+- Purpose:
+	- Teach and train next generation of criminal justice staff
+	- Work on particular problems as set by Solicitor General and Dept. of Justice
+	- Engage in scientific research
