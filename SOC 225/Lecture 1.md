@@ -156,7 +156,7 @@
 -  At the end of the exercise try ask your neighbour what they think about each of these situations
 
 - A person of 14 buying cigarettes in a shop.
-	- ==Deviant==
+	- ==Both==
 - Marrying a stranger
 	- ==Deviant==
 - Drinking so much that you can no longer walk?
