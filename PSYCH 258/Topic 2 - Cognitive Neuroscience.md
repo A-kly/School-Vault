@@ -173,22 +173,22 @@
 	- **==Broca's== aphasia** (Paul Broca, 1865):
 		- a.k.a. *motor or expressive aphasia*
 		- severely impaired ==speech==; patient could only say “tan”
-		- problems forming sentences (spoken, written, and signed--but can draw and ==sing==)
-	- comprehension relatively normal, but may be affected
-	- ----------- speech: nouns & verbs, but no function words
-	- caused by damage in left frontal lobe
-	- **---------- aphasia** (Carl Wernicke, 1874):
-	- a.k.a. sensory or receptive aphasia
-	- primarily a ------------- problem
-	- lack of awareness that speech is incomprehensible; comprehension impaired in nonverbal tasks (e.g., pointing)
-	- sentences may be fluent and grammatical, but gibberish: “---- -----”, neologisms
-	- caused by damage in left -------- lobe
-	- **---------- aphasia**:
-	- a.k.a. associative aphasia
-	- can comprehend language
-	- have fluent speech, but show paraphasic errors (e.g., dropping syllables)
-	- cannot ------ heard words; oral reading may also be poor
-	- caused by damage to arcuate fasciculus (connects Wernicke’s area to Broca’s area)
+		- problems forming sentences (spoken, written, and signed, but can draw and ==sing==)
+		- comprehension relatively normal, but may be affected
+		- *telegraphic speech:* nouns & verbs, but no function words
+		- caused by damage in left frontal lobe
+	- **Wernicke's aphasia** (Carl Wernicke, 1874):
+		- a.k.a. *sensory or receptive aphasia*
+		- primarily a comprehension problem
+		- lack of awareness that speech is incomprehensible; comprehension impaired in nonverbal tasks (e.g., pointing)
+		- sentences may be fluent and grammatical, but gibberish: “==word salad==”, neologisms (make new words that make no sense to anyone else)
+		- caused by damage in left temporal lobe
+		- **Conduction aphasia**:
+			- a.k.a. *associative aphasia*
+			- can comprehend language
+			- have fluent speech, but show paraphasic errors (e.g., dropping syllables)
+			- cannot ==repeat== heard words; oral reading may also be poor
+			- caused by damage to arcuate fasciculus (connects Wernicke’s area to Broca’s area)
 - **------- gyrus**:
 - recodes visual information into auditory form
 - damage causes breakdown in reading
