@@ -35,3 +35,45 @@ void vecAdd(float *h_A, float *h_B, float *h_C, int n)
 		// Free device vectors
 }
 ```
+## Partial Overview of CUDA Memories
+![[Pasted image 20240913140917.png]]
+- Grid of data is broken into blocks, which threads get executed on
+
+- Device code can:
+	- R/W per-thread registers
+	- R/W all-shared globalmemory
+- Host code can:
+	- Transfer data to/from per grid global memory
+## CUDA Device Memory Management API functions
+- cudaMalloc()
+	- Allocates an object in the device global memory
+	- Two parameters
+		- Address of a pointer to the allocated object
+		- Size of allocated object in terms of bytes
+- cudaFree()
+	- Frees object from device global memory
+	- One parameter
+		- Pointer to freed object
+- cudaMemcpy()
+	- memory data transfer
+	- Requires four parameters
+		- Pointer to destination
+		- Pointer to source
+		- Number of bytes copied
+		- Type/Direction of transfer
+- Transfer to device is asynchronous
+# Vector Addition Host Code (in cpu)
+```c
+void vecAdd(float *h_A, float *h_B, float *h_C, int n)
+{
+	int size = n * sizeof(float); float *d_A, *d_B, *d_C;
+	cudaMalloc((void **) &d_A, size);
+	cudaMemcpy(d_A, h_A, size, cudaMemcpyHostToDevice);
+	cudaMalloc((void **) &d_B, size);
+	cudaMemcpy(d_B, h_B, size, cudaMemcpyHostToDevice);
+	cudaMalloc((void **) &d_C, size);
+	// Kernel invocation code – to be shown later
+	cudaMemcpy(h_C, d_C, size, cudaMemcpyDeviceToHost);
+	cudaFree(d_A); cudaFree(d_B); cudaFree (d_C);
+}
+```
