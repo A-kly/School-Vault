@@ -98,12 +98,17 @@
 ==LOOK A BRAIN DIAGRAM ON ECLASS==
 - spinal cord -> brainstem
 - **hindbrain**:
-	- ****: planning, timing, and coordination of voluntary movements; control of ballistic movement
-	- **----**: sleep stages, arousal, consciousness
-	- **------- oblongata**: cardiorespiratory function
+	- **==cerebellum==**: planning, timing, and coordination of voluntary movements; control of ballistic movement
+		- translates to "little brain"
+		- regular neuron structure
+	- **pons**: sleep stages, arousal, consciousness
+		- Outer layer of brainstem
+	- **medulla oblongata**: cardiorespiratory function
+		- Basic life support
 - **midbrain**:
-	- **superior & inferior ---------**: process visual & auditory information, respectively
-	- **--------- ---------**: attention, sleep & arousal, reflexes
+	- **superior & inferior colliculi**: process visual & auditory information, respectively
+		- Waystations for auditory and visual info
+	- **reticular formation**: attention, sleep & arousal, reflexes
 	- also motor function
 - **forebrain**:
 	- **--------**: “relay station” for incoming sensory information
