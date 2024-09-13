@@ -160,33 +160,35 @@
 	- ZERO evidence to this
 		- Brain does not push out on skull
 		- brain has pudding texture, not possible to push
+	- HOWEVER
+		- certain areas of brain do have localized function
 
 ### Language
 
 - approx. 95% of population has language areas localized in left hemisphere
-- **-------**: language difficulty due to brain damage
-- **------**: loss of ability to name objects
-- damage in left -------- lobe
-- can be specific (e.g., cannot name colours, animals, or fingers)
-- **------- aphasia** (Paul Broca, 1865):
-- a.k.a. motor or expressive aphasia
-- severely impaired ------; patient could only say “tan”
-- problems forming sentences (spoken, written, and signed--but can draw and ----)
-- comprehension relatively normal, but may be affected
-- ----------- speech: nouns & verbs, but no function words
-- caused by damage in left frontal lobe
-- **---------- aphasia** (Carl Wernicke, 1874):
-- a.k.a. sensory or receptive aphasia
-- primarily a ------------- problem
-- lack of awareness that speech is incomprehensible; comprehension impaired in nonverbal tasks (e.g., pointing)
-- sentences may be fluent and grammatical, but gibberish: “---- -----”, neologisms
-- caused by damage in left -------- lobe
-- **---------- aphasia**:
-- a.k.a. associative aphasia
-- can comprehend language
-- have fluent speech, but show paraphasic errors (e.g., dropping syllables)
-- cannot ------ heard words; oral reading may also be poor
-- caused by damage to arcuate fasciculus (connects Wernicke’s area to Broca’s area)
+- **==aphasia==**: language difficulty due to brain damage
+	- **==anomia==**: loss of ability to name objects
+		- damage in left ==temporal== lobe
+		- can be specific (e.g., cannot name colours, animals, or fingers)
+	- **==Broca's== aphasia** (Paul Broca, 1865):
+		- a.k.a. *motor or expressive aphasia*
+		- severely impaired ==speech==; patient could only say “tan”
+		- problems forming sentences (spoken, written, and signed--but can draw and ==sing==)
+	- comprehension relatively normal, but may be affected
+	- ----------- speech: nouns & verbs, but no function words
+	- caused by damage in left frontal lobe
+	- **---------- aphasia** (Carl Wernicke, 1874):
+	- a.k.a. sensory or receptive aphasia
+	- primarily a ------------- problem
+	- lack of awareness that speech is incomprehensible; comprehension impaired in nonverbal tasks (e.g., pointing)
+	- sentences may be fluent and grammatical, but gibberish: “---- -----”, neologisms
+	- caused by damage in left -------- lobe
+	- **---------- aphasia**:
+	- a.k.a. associative aphasia
+	- can comprehend language
+	- have fluent speech, but show paraphasic errors (e.g., dropping syllables)
+	- cannot ------ heard words; oral reading may also be poor
+	- caused by damage to arcuate fasciculus (connects Wernicke’s area to Broca’s area)
 - **------- gyrus**:
 - recodes visual information into auditory form
 - damage causes breakdown in reading
