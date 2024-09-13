@@ -207,10 +207,10 @@
 - brain has many contralateral connections
 	- e.g., object in right visual field -> left occipital lobe (& vice-versa for object in left visual field)
 	- e.g., left side of brain damaged -> loss of function on right side
-- information shared across hemispheres via **------ --------**: about 200 million axons connecting the two cerebral hemispheres
-- when corpus callosum is surgically severed to treat extreme epilepsy, the result is **split-brain syndrome**: two ----------- brain hemispheres
+- information shared across hemispheres via **==corpus callosum==**: about 200 million axons connecting the two cerebral hemispheres
+- when corpus callosum is surgically severed to treat extreme epilepsy, the result is **split-brain syndrome**: two ==independent== brain hemispheres
 - studied by Roger Sperry (awarded 1981 Nobel Prize)
-	- left hemisphere: generally specialized for ------ and analysis
+	- left hemisphere: generally specialized for ==speech== and analysis
 	- right hemisphere: generally better at --------- tasks: idenfying faces, handling emotions, perceptual/spatial tasks
 
 ---
