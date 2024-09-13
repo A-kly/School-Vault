@@ -77,3 +77,33 @@ void vecAdd(float *h_A, float *h_B, float *h_C, int n)
 	cudaFree(d_A); cudaFree(d_B); cudaFree (d_C);
 }
 ```
+- d_x = device vector (GPU)
+- h_x = host vector (CPU)
+## In Practice, Check for API Errors in Host Code
+```c
+cudaError_t err = cudaMalloc((void **) &d_A, size);
+if (err != cudaSuccess) {
+	printf(“%s in %s at line %d\n”, cudaGetErrorString(err), __FILE__, __LINE__);
+	exit(EXIT_FAILURE);
+}
+```
+# Threads and Kernel Functions
+- Heterogeneous host (CPU) + device (GPU) application C program
+	- Serial parts in host C code
+	- Parallel parts in device Single Program Multiple Data (SPMD) kernel code
+
+![[Pasted image 20240913141554.png]]
+## Example: Vector Addition Kernel
+**Device Code**
+- THIS CODE RUNS ON GPU
+```c
+// Compute vector sum C = A + B
+// Each thread performs one pair-wise addition
+__global__ //THIS INDICATES THAT THIS RUNS ON THE GPU
+void vecAddKernel(float* A, float* B, float* C, int n)
+{
+	int i = threadIdx.x+blockDim.x*blockIdx.x;
+	if(i<n) C[i] = A[i] + B[i];
+}
+```
+## Example: Vector Addition Kernel Launch (Host Code)
