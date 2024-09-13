@@ -98,7 +98,7 @@
 ==LOOK A BRAIN DIAGRAM ON ECLASS==
 - spinal cord -> brainstem
 - **hindbrain**:
-	- **==cerebellum==**: planning, timing, and coordination of voluntary movements; control of ballistic movement
+	- **cerebellum**: planning, timing, and coordination of voluntary movements; control of ballistic movement
 		- translates to "little brain"
 		- regular neuron structure
 	- **pons**: sleep stages, arousal, consciousness
@@ -111,34 +111,40 @@
 	- **reticular formation**: attention, sleep & arousal, reflexes
 	- also motor function
 - **forebrain**:
-	- **--------**: “relay station” for incoming sensory information
-	- **------------**: mediator between brain & endocrine (hormone) system; regulates bodily functioning
-- **limbic system**:
-	- **-----------**: implicated in some kinds of memories
-	- **--------**: plays a role in anger & aggression, forming emotional memories; stimulation produces fear
-	- **------**: involved in anger & fear responses; specifically, produces “relief”
+	- **thalamus**: “relay station” for incoming sensory information
+		- Dead center in middle of brain
+		- Processing station for almost all sensory info
+	- **hypothalamus**: mediator between brain & endocrine (hormone) system; regulates bodily functioning
+		- Interface between nervous system and endocrine system
+	- **limbic system**:
+		- **hippocampus**: implicated in some kinds of memories
+			- Translates to seahorse (looks like one)
+			- important for formation of memories (not for storage)
+		- **amygdala**: plays a role in anger & aggression, forming emotional memories; stimulation produces fear
+		- **septum**: involved in anger & fear responses; specifically, produces “relief”
 - **basal ganglia**: controlling voluntary movements
-	- cerebral cortex
+	- Wrapped around thalamus
+- cerebral cortex
 
 ### Cerebral Cortex
 
 - responsible for “higher-order” functioning
 - structure:
-- 3-4 mm thick
-- ~30 billion neurons (~300 trillion synapses)
-- total surface area 2,500 cm2 (2.5 ft2)
-- comprises 80% of brain mass
-- ----- (Greek for “circle”): convoluted ridge between anatomical grooves in the cerebral cortex; these wrinkles increase surface area
-- ------ (Latin for “groove,” “furrow,” or “trench”): small groove in the cortex (vs. fissure: deeper; divides lobes)
+	- 3-4 mm thick
+	- ~30 billion neurons (~300 trillion synapses)
+	- total surface area 2,500 cm2 (2.5 ft2)
+	- comprises 80% of brain mass
+- giri (Greek for “circle”): convoluted ridge between anatomical grooves in the cerebral cortex; these wrinkles increase surface area
+- sulc (Latin for “groove,” “furrow,” or “trench”): small groove in the cortex (vs. fissure: deeper; divides lobes)
 - 2 hemispheres; 4 lobes
 - functions:
 
-|   |   |
-|---|---|
-|![frontal lobe](PSYCH%20258/Attachments/p258s03-2.jpg)|• **------- lobe**: contains motor cortex; also involved in planning, coordinating, controlling, and executing behavior; emotional control; judgment|
-|![parietal lobe](PSYCH%20258/Attachments/p258s03-3.jpg)|• **-------- lobe**: contains somatosensory cortex; also integrates sensory data from different modalities, handles spatial information, sense of “self”|
-|![temporal lobe](PSYCH%20258/Attachments/p258s03-4.jpg)|• **-------- lobe** contains auditory cortex; plays role in auditory processing, language, vision, memory formation; object categorization|
-|![occipital lobe](PSYCH%20258/Attachments/p258s03-5.jpg)|• **--------- lobe** contains visual cortex; handles visuospatial processing, colour, motion perception|
+|                                                          |                                                                                                                                                          |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![frontal lobe](PSYCH%20258/Attachments/p258s03-2.jpg)   | • **------- lobe**: contains motor cortex; also involved in planning, coordinating, controlling, and executing behavior; emotional control; judgment     |
+| ![parietal lobe](PSYCH%20258/Attachments/p258s03-3.jpg)  | • **-------- lobe**: contains somatosensory cortex; also integrates sensory data from different modalities, handles spatial information, sense of “self” |
+| ![temporal lobe](PSYCH%20258/Attachments/p258s03-4.jpg)  | • **-------- lobe** contains auditory cortex; plays role in auditory processing, language, vision, memory formation; object categorization               |
+| ![occipital lobe](PSYCH%20258/Attachments/p258s03-5.jpg) | • **--------- lobe** contains visual cortex; handles visuospatial processing, colour, motion perception                                                  |
 
 ---
 
