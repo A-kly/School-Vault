@@ -211,7 +211,7 @@
 - when corpus callosum is surgically severed to treat extreme epilepsy, the result is **split-brain syndrome**: two ==independent== brain hemispheres
 - studied by Roger Sperry (awarded 1981 Nobel Prize)
 	- left hemisphere: generally specialized for ==speech== and analysis
-	- right hemisphere: generally better at --------- tasks: idenfying faces, handling emotions, perceptual/spatial tasks
+	- right hemisphere: generally better at ==nonverbal== tasks: idenfying faces, handling emotions, perceptual/spatial tasks
 
 ---
 
