@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
-                "mode": "preview",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md"
               }
             }
           },
@@ -108,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md"
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md"
               }
             }
           }
@@ -169,6 +170,7 @@
   },
   "active": "0d3dc0df62ef882b",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "SOC 225/Topic 1.md",
     "SOC 225/AI TEXTBOOK SUMMARY.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
@@ -176,7 +178,6 @@
     "CMPUT 382/Media/Pasted image 20240911141747.png",
     "CMPUT 382/Media/Pasted image 20240911140835.png",
     "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
-    "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "CMPUT 382/Media/Pasted image 20240910160300.png",
     "CMPUT 382/Media/Pasted image 20240910160254.png",
     "CMPUT 382/Media/Pasted image 20240910160233.png",

@@ -80,11 +80,11 @@
 		- [*] activity produced in control (or baseline) condition is subtracted from the activity produced in experimental condition
 		- [*] result shows the difference due to experimental manipulation
 	- pros & cons of brain imaging:
-		- [ ] can -correlate- active area with function
-		- [ ] can only ----------- active area with function
-		- [ ] applications range from promising (neurodiagnosis)...
-		- [ ] ...to dodgy (neuromarketing, neurolaw, even neuropolitics)
-		- [ ]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience ------: “Brain scans indicate...” (Weisberg et al., 2008)
+		- [p] can -*correlate*- active area with function
+		- [c] can only ==*correlate*== active area with function
+		- [p] applications range from promising (neurodiagnosis)...
+		- [c] ...to dodgy (neuromarketing (irrelevant), neurolaw (impresise) , even neuropolitics (unclear goal))
+			- [c]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience : “Brain scans indicate...” (Weisberg et al., 2008)
 
 ---
 
