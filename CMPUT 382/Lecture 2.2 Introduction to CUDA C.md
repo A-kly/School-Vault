@@ -106,4 +106,20 @@ void vecAddKernel(float* A, float* B, float* C, int n)
 	if(i<n) C[i] = A[i] + B[i];
 }
 ```
+- The line `int i = threadIdx.x+blockDim.x*blockIdx.x;` is used to determine where in memory we are retrieving data
+- 
 ## Example: Vector Addition Kernel Launch (Host Code)
+**Host Code**
+- THIS CODE RUNS ON CPU
+```c
+void vecAdd(float* h_A, float* h_B, float* h_C, int n)
+{
+	// d_A, d_B, d_C allocations and copies omitted
+	// Run ceil(n/256.0) blocks of 256 threads each
+	vecAddKernel<<<ceil(n/256.0),256>>>(d_A, d_B, d_C, n);
+}
+```
+- Best way to think is that every element in the array has a block ID associated with it
+- `ceil(n/256.0),256` =256 warp per block
+## Kernel execution in a nutshell
+![[Pasted image 20240913142330.png]]
