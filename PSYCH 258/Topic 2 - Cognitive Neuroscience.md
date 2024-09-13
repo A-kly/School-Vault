@@ -84,7 +84,7 @@
 		- [c] can only ==*correlate*== active area with function
 		- [p] applications range from promising (neurodiagnosis)...
 		- [c] ...to dodgy (neuromarketing (irrelevant), neurolaw (impresise) , even neuropolitics (unclear goal))
-			- [c]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience : “Brain scans indicate...” (Weisberg et al., 2008)
+		- [c]  naïve adults and neuroscience students were more likely (than experts) to be convinced by evidence containing (irrelevant) neuroscience : “Brain scans indicate...” (Weisberg et al., 2008)
 
 ---
 
@@ -92,28 +92,28 @@
 
 ![divisions of the nervous system](PSYCH%20258/Attachments/p258s03-1.png)
 
-- ---------: self-governing; generally involuntary and unconscious
+- ==autonomic:== self-governing; generally involuntary and unconscious
 
 ## Brain Structures
-
+==LOOK A BRAIN DIAGRAM ON ECLASS==
 - spinal cord -> brainstem
 - **hindbrain**:
-- **----------**: planning, timing, and coordination of voluntary movements; control of ballistic movement
-- **----**: sleep stages, arousal, consciousness
-- **------- oblongata**: cardiorespiratory function
+	- ****: planning, timing, and coordination of voluntary movements; control of ballistic movement
+	- **----**: sleep stages, arousal, consciousness
+	- **------- oblongata**: cardiorespiratory function
 - **midbrain**:
-- **superior & inferior ---------**: process visual & auditory information, respectively
-- **--------- ---------**: attention, sleep & arousal, reflexes
-- also motor function
+	- **superior & inferior ---------**: process visual & auditory information, respectively
+	- **--------- ---------**: attention, sleep & arousal, reflexes
+	- also motor function
 - **forebrain**:
-- **--------**: “relay station” for incoming sensory information
-- **------------**: mediator between brain & endocrine (hormone) system; regulates bodily functioning
+	- **--------**: “relay station” for incoming sensory information
+	- **------------**: mediator between brain & endocrine (hormone) system; regulates bodily functioning
 - **limbic system**:
-- **-----------**: implicated in some kinds of memories
-- **--------**: plays a role in anger & aggression, forming emotional memories; stimulation produces fear
-- **------**: involved in anger & fear responses; specifically, produces “relief”
+	- **-----------**: implicated in some kinds of memories
+	- **--------**: plays a role in anger & aggression, forming emotional memories; stimulation produces fear
+	- **------**: involved in anger & fear responses; specifically, produces “relief”
 - **basal ganglia**: controlling voluntary movements
-- cerebral cortex
+	- cerebral cortex
 
 ### Cerebral Cortex
 
