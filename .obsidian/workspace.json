@@ -165,10 +165,11 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3dc0df62ef882b",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
     "PSYCH 258/Topic 1 - Introduction to Cognitive Psychology.md",
     "SOC 225/Topic 1.md",

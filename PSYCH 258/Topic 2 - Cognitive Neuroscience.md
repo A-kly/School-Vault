@@ -151,9 +151,15 @@
 ## Localization of Function
 
 - Franz Josef Gall (b.1758-d.1828):
-- discovered differences between grey matter (neuron cell bodies) and white matter (myelinated axons)
-- “cranioscopy” came to be known as “----------”
-- assumed that personality traits/abilities ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) -----, and brain ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) -----
+	- discovered differences between grey matter (neuron cell bodies) and white matter (myelinated axons)
+	- “cranioscopy” came to be known as “phrenology”
+	- assumed that:
+		- personality traits/abilities -> area in brain
+		- Strong personality trait -> brain area gets bigger
+		- and brain shape/size -> skull shape
+	- ZERO evidence to this
+		- Brain does not push out on skull
+		- brain has pudding texture, not possible to push
 
 ### Language
 
@@ -330,4 +336,4 @@ Conclusions:
 
 ---
 
-This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html
+This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html).
