@@ -125,6 +125,10 @@
 - **basal ganglia**: controlling voluntary movements
 	- Wrapped around thalamus
 - cerebral cortex
+- **angular gyrus**:
+	- recodes visual information into auditory form
+	- damage causes breakdown in reading
+
 
 ### Cerebral Cortex
 
@@ -189,27 +193,25 @@
 			- have fluent speech, but show paraphasic errors (e.g., dropping syllables)
 			- cannot ==repeat== heard words; oral reading may also be poor
 			- caused by damage to arcuate fasciculus (connects Wernicke’s area to Broca’s area)
-- **------- gyrus**:
-- recodes visual information into auditory form
-- damage causes breakdown in reading
-- aphasias imply distinct processing units that work --------
-- reading: visual cortex ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) angular gyrus ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) Wernicke’s
-- listening: auditory cortex ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) Wernicke’s (content) ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) Broca’s (syntax)
-- speaking: Wernicke’s (content) ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) Broca’s (syntax) ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) motor cortex
+- **angular gyrus**:
+	- recodes visual information into auditory form
+	- damage causes breakdown in reading
+---
+- **aphasias imply distinct processing units that work together**
+	- reading: visual cortex -> angular gyrus -> Wernicke’s
+	- listening: auditory cortex -> Wernicke’s (content) -> Broca’s (syntax)
+	- speaking: Wernicke’s (content) -> Broca’s (syntax) -> motor cortex
 
 ### Split-Brain Syndrome
 
 - brain has many contralateral connections
-
-e.g., object in right visual field ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) left occipital lobe (& vice-versa for object in left visual field)
-
-e.g., left side of brain damaged ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) loss of function on right side
-
+	- e.g., object in right visual field -> left occipital lobe (& vice-versa for object in left visual field)
+	- e.g., left side of brain damaged -> loss of function on right side
 - information shared across hemispheres via **------ --------**: about 200 million axons connecting the two cerebral hemispheres
 - when corpus callosum is surgically severed to treat extreme epilepsy, the result is **split-brain syndrome**: two ----------- brain hemispheres
 - studied by Roger Sperry (awarded 1981 Nobel Prize)
-- left hemisphere: generally specialized for ------ and analysis
-- right hemisphere: generally better at --------- tasks: idenfying faces, handling emotions, perceptual/spatial tasks
+	- left hemisphere: generally specialized for ------ and analysis
+	- right hemisphere: generally better at --------- tasks: idenfying faces, handling emotions, perceptual/spatial tasks
 
 ---
 
