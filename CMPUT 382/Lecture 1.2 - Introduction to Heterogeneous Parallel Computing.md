@@ -194,15 +194,13 @@ https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html#gs.ew
 - Each thread has an ID that it uses to compute memory addresses and make control decisions
 ![[Pasted image 20240911140835.png]]
 - A thread is described by c/cuda code
-- Each vector is associated with a thread, and executes code on vector elements
-- kernel defines the code, grid size, and block size
-- each kernel associated with one grid of data
-	- description of How the threads are distributed, example (256x256 pixel image)
-- each grid is divided into blocks
-- Each SM is assigned typically 32 blocks
-- Each Block uses up to 32 threads, with one PU per thread
-- Each SM executes one block at a time and manages order
-- SM divides each block into 32 in order to run on CUDA cores
+==FROM A PERSON ON DISCORD==:
+- Imagine you’re performing matrix multiplication with CUDA:
+    •    The grid contains many blocks, each responsible for computing a part of the matrix.
+    •    Each block contains several threads, with each thread computing a specific element in the result matrix.
+    •    Threads within a block are grouped into warps and execute together.
+    •    These warps are executed on a Streaming Multiprocessor (SM).
+    •    Each thread’s instructions are carried out on individual CUDA cores inside the SM.
 
 # CUDA Threads Execution
 ![[Pasted image 20240911141747.png]]
