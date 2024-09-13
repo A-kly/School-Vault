@@ -134,24 +134,23 @@
 	- ~30 billion neurons (~300 trillion synapses)
 	- total surface area 2,500 cm2 (2.5 ft2)
 	- comprises 80% of brain mass
-- giri (Greek for “circle”): convoluted ridge between anatomical grooves in the cerebral cortex; these wrinkles increase surface area
-- sulc (Latin for “groove,” “furrow,” or “trench”): small groove in the cortex (vs. fissure: deeper; divides lobes)
+- **Gyrus** (Greek for “circle”): convoluted ridge between anatomical grooves in the cerebral cortex; these wrinkles increase surface area
+- **Sulcus** (Latin for “groove,” “furrow,” or “trench”): small groove in the cortex (vs. fissure: deeper; divides lobes)
 - 2 hemispheres; 4 lobes
-- functions:
+#### Lobe functions:
 
-|                                                          |                                                                                                                                                          |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![frontal lobe](PSYCH%20258/Attachments/p258s03-2.jpg)   | • **------- lobe**: contains motor cortex; also involved in planning, coordinating, controlling, and executing behavior; emotional control; judgment     |
-| ![parietal lobe](PSYCH%20258/Attachments/p258s03-3.jpg)  | • **-------- lobe**: contains somatosensory cortex; also integrates sensory data from different modalities, handles spatial information, sense of “self” |
-| ![temporal lobe](PSYCH%20258/Attachments/p258s03-4.jpg)  | • **-------- lobe** contains auditory cortex; plays role in auditory processing, language, vision, memory formation; object categorization               |
-| ![occipital lobe](PSYCH%20258/Attachments/p258s03-5.jpg) | • **--------- lobe** contains visual cortex; handles visuospatial processing, colour, motion perception                                                  |
+| Location                                                 | Description                                                                                                                                                |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![frontal lobe](PSYCH%20258/Attachments/p258s03-2.jpg)   | • **Frontal lobe**: contains *motor cortex*; also involved in planning, coordinating, controlling, and executing behavior; emotional control; judgment     |
+| ![parietal lobe](PSYCH%20258/Attachments/p258s03-3.jpg)  | • **Parietal lobe**: contains *somatosensory* cortex; also integrates sensory data from different modalities, handles spatial information, sense of “self” |
+| ![temporal lobe](PSYCH%20258/Attachments/p258s03-4.jpg)  | • **temporal lobe** contains *auditory cortex*; plays role in auditory processing, language, vision, memory formation; object categorization               |
+| ![occipital lobe](PSYCH%20258/Attachments/p258s03-5.jpg) | • **occipital lobe** contains *visual cortex*; handles visuospatial processing, colour, motion perception                                                  |
 
 ---
 
 ## Localization of Function
 
-Franz Josef Gall (b.1758-d.1828):
-
+- Franz Josef Gall (b.1758-d.1828):
 - discovered differences between grey matter (neuron cell bodies) and white matter (myelinated axons)
 - “cranioscopy” came to be known as “----------”
 - assumed that personality traits/abilities ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) -----, and brain ![→](PSYCH%20258-%20Cognitive%20Neuroscience-files/right-new.png) -----
@@ -331,4 +330,4 @@ Conclusions:
 
 ---
 
-This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html).
+This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html
