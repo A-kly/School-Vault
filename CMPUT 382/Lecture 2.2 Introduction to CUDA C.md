@@ -123,3 +123,5 @@ void vecAdd(float* h_A, float* h_B, float* h_C, int n)
 - `ceil(n/256.0),256` =256 warp per block
 ## Kernel execution in a nutshell
 ![[Pasted image 20240913142330.png]]
+# CUDA Function Declarations
+![[Pasted image 20240913142512.png]]
