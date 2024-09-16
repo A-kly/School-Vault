@@ -219,23 +219,21 @@
 
 ### Neurogenesis
 
-- definition: creation of new neurons in an adult brain from adult ---- cells (neurons themselves do not reproduce)
-- through much of the 20th century, neurogenesis was believed -not- to exist
+- definition: creation of new neurons in an adult brain from adult ==brain== cells (neurons themselves do not reproduce)
+- through much of the 20th century, neurogenesis was believed **-not- to exist**
 - was observed in brains of adult animals in the 1960s
 - evidence in adult humans found, starting in late 1990s
-- these new neurons have been implicated in memory formation
-
-e.g., new hippocampal neurons exhibit long-term changes in response to experience during the first two weeks of “life” (Ge et al., 2007)
+- these new neurons have been implicated in *memory formation*
+	- e.g., new hippocampal neurons exhibit long-term changes in response to experience during the first two weeks of “life” (Ge et al., 2007)
 
 ### Neuroplasticity
 
-- definition: modifications to structure and function of neural -------- due to changes in neurons and their connections
+- definition: modifications to structure and function of neural ==networks== due to changes in neurons and their connections
 - generally accepted to occur in childhood:
-- neurons and connections initially proliferate (until about 8 months), probably forming ------ connections
-- this is followed by **-------**: synapses are eliminated (due to lack of use?)
-- the number of synapses in an adult brain is about 40% less than the peak in childhood
-
-e.g., evidence suggests pruning is complete in the visual cortex by age 10, but continues in the frontal cortex until adolescence
+	- neurons and connections initially proliferate (until about 8 months), probably forming ==random== connections
+	- this is followed by **==pruning==**: synapses are eliminated (due to lack of use?)
+	- the number of synapses in an adult brain is about 40% less than the peak in childhood
+		- e.g., evidence suggests pruning is complete in the visual cortex by age 10, but continues in the frontal cortex until adolescence
 
 - experience-dependent plasticity in the visual cortex:
 - with normal input, the visual cortex will develop to process visual information from the eyes
