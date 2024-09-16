@@ -297,34 +297,32 @@ Can neuroplasticity be harnessed to reverse the effects of age-related cognitive
 	- periodic ==booster== training resulted in reasoning-trained group showing better performance on daily activities after 5 years (Willis et al., 2006)
 	- 10-year follow-up: most reasoning- and speed-trained participants experienced less decline than controls (Rebok et al., 2014)
 	- also 29% reduced risk of ==dementia== (Edwards et al., 2017)
+- **Potential problem:** Are positive results due to ==practice== effects, or to lasting improvements in underlying cognitive function that generalize (transfer to other tasks)?
+	- Simons et al. (2016):
+		- comprehensive review of 132 studies
+		- many studies had ==design== problems (e.g., small sample size, inadequate control groups)
+		- generally, performance improved on training tasks
+		- *however, there is little evidence of ==transfer== from training tasks to general cognitive ability*
+	- Shah et al. (2017):
+		- systematic review of almost 8,000 studies
+		- excluded studies using video games, of patients with dementia, or of cognitively healthy older adults
+		- only two brain-training programs had multiple peer-reviewed supporting studies (BrainHQ and CogniFit)
+		- *both showed some generalization*
 
-Potential problem: Are positive results due to ==practice== effects, or to lasting improvements in underlying cognitive function that generalize (transfer to other tasks)?
+## Conclusions:
 
-- Simons et al. (2016):
-- comprehensive review of 132 studies
-- many studies had ------ problems (e.g., small sample size, inadequate control groups)
-- generally, performance improved on training tasks
-- however, there is little evidence of -------- from training tasks to general cognitive ability
-- Shah et al. (2017):
-- systematic review of almost 8,000 studies
-- excluded studies using video games, of patients with dementia, or of cognitively healthy older adults
-- only two brain-training programs had multiple peer-reviewed supporting studies (BrainHQ and CogniFit)
-- both showed some generalization
-
-Conclusions:
-
-- adult brains exhibit ----------
-- ---------- may change the brain via neurogenesis or neuroplasticity
+- adult brains exhibit plasticity
+- experiences may change the brain via neurogenesis or neuroplasticity
 - initial work suggested that the brain was undergoing wholesale rewiring
 - however, recent research has shown that the brain refines its existing abilities through intensive training and learning (Makin & Krakauer, 2023)
 - many factors may contribute, including:
-- type of training
-- age of participant
-- level of cognitive/physical health
-- number of sessions
-- length of sessions
-- duration of training period
-- performance on training task may improve, but there is little evidence of --------------
+	- type of training
+	- age of participant
+	- level of cognitive/physical health
+	- number of sessions
+	- length of sessions
+	- duration of training period
+	- performance on training task may improve, but there is little evidence of --------------
 
 ---
 
