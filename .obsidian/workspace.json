@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a16dd28b85c9514e",
+        "id": "8a448d96c943e015",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3dc0df62ef882b",
+            "id": "866dc22da9727047",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f70e8a45e1452c88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -83,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -100,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md"
               }
             }
           },
@@ -122,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md"
+                "file": "PSYCH 258/Topic 2 - Cognitive Neuroscience.md"
               }
             }
           }
@@ -182,13 +168,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d3dc0df62ef882b",
+  "active": "866dc22da9727047",
   "lastOpenFiles": [
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "CMPUT 382/Media/Pasted image 20240913142512.png",
     "CMPUT 382/Media/Pasted image 20240913142330.png",
     "CMPUT 382/Media/Pasted image 20240913141554.png",
-    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "CMPUT 382/Media/Pasted image 20240913140917.png",
     "CMPUT 382/Media/Pasted image 20240913140757.png",
     "CMPUT 382/Media/Pasted image 20240913140634.png",
