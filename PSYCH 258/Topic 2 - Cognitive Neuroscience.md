@@ -288,23 +288,17 @@ Can neuroplasticity be harnessed to reverse the effects of age-related cognitive
 	- experimental groups given regular practice in one of three modalities: reasoning, memory, and speed of processing
 	- used Posit Science’s computer-based Brain Fitness Program (now called BrainHQ) based on brain plasticity; developed by neuroscientist Michael Merzenich
 	- had 10 sessions of group training
-- results:
+	- results:
+		- reasoning: 87% of participants improved
+		- memory: 26% improved
+		- speed of processing: 74% improved
+		- results stable over 24 months
+		- **however, no generalization/transfer obtained; no improvement in non-trained modalities; gains vs. controls were small**
+	- periodic ==booster== training resulted in reasoning-trained group showing better performance on daily activities after 5 years (Willis et al., 2006)
+	- 10-year follow-up: most reasoning- and speed-trained participants experienced less decline than controls (Rebok et al., 2014)
+	- also 29% reduced risk of ==dementia== (Edwards et al., 2017)
 
-**▸** reasoning: 87% of participants improved
-
-**▸** memory: 26% improved
-
-**▸** speed of processing: 74% improved
-
-**▸** results stable over 24 months
-
-**▸** however, no generalization/transfer obtained; no improvement in non-trained modalities; gains vs. controls were small
-
-- periodic ------- training resulted in reasoning-trained group showing better performance on daily activities after 5 years (Willis et al., 2006)
-- 10-year follow-up: most reasoning- and speed-trained participants experienced less decline than controls (Rebok et al., 2014)
-- also 29% reduced risk of -------- (Edwards et al., 2017)
-
-Potential problem: Are positive results due to -------- effects, or to lasting improvements in underlying cognitive function that generalize (transfer to other tasks)?
+Potential problem: Are positive results due to ==practice== effects, or to lasting improvements in underlying cognitive function that generalize (transfer to other tasks)?
 
 - Simons et al. (2016):
 - comprehensive review of 132 studies
