@@ -234,16 +234,15 @@
 	- this is followed by **==pruning==**: synapses are eliminated (due to lack of use?)
 	- the number of synapses in an adult brain is about 40% less than the peak in childhood
 		- e.g., evidence suggests pruning is complete in the visual cortex by age 10, but continues in the frontal cortex until adolescence
-
 - experience-dependent plasticity in the visual cortex:
-- with normal input, the visual cortex will develop to process visual information from the eyes
-- animals deprived of visual experience will be functionally -----
-- animals selectively exposed to certain visual stimuli (e.g., vertical lines only) will develop vision sensitive to vertical lines (and insensitive to horizontal lines)
-- these effects obtain in response to visual deprivation during a **-------- period**: time during which particular visual experience is required to develop normal vision
+	- with normal input, the visual cortex will develop to process visual information from the eyes
+	- animals deprived of visual experience will be functionally ==blind==
+	- animals selectively exposed to certain visual stimuli (e.g., vertical lines only) will develop vision sensitive to vertical lines (and insensitive to horizontal lines)
+	- these effects obtain in response to visual deprivation during a **==critical== period**: time during which particular visual experience is required to develop normal vision
 - neuroplasticity was initially believed to occur only in young brains; however, evidence has accumulated to show that connections can continue to change in adult brains throughout the lifespan
-- visual cortex of blind people can change to respond to sound or other sensory input
-- body maps in the somatosensory cortex of adult monkeys changed to respond to adjacent fingers when one digit was amputated
-- (these changes may be due to brain remapping, or to an enhancement of existing pathways)
+	- visual cortex of blind people can change to respond to sound or other sensory input
+	- body maps in the somatosensory cortex of adult monkeys changed to respond to adjacent fingers when one digit was amputated
+	- (these changes may be due to brain remapping, or to an enhancement of existing pathways)
 - fMRI studies have demonstrated changes in patterns of brain activity in response to learning, skill acquisition, and environmental stimulation in adults (e.g., learning new motor skills, acquiring new languages, or mastering musical instruments)
 - possible mechanisms for plasticity in adulthood:
 - by changing the -------- of the existing connections: the more frequently a connection is used, the stronger it becomes (and vice-versa)
