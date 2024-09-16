@@ -276,15 +276,15 @@ Can neuroplasticity be harnessed to reverse the effects of age-related cognitive
 	- used -Rise of Nations- ®-: Gold Edition-,a real-time strategy game in which players manipulate troops and structures to capture territory and destroy opponents’ assets
 	- healthy elderly participants played “Quick Battle” games
 	- played 24 hours over 5 weeks; were cognitively tested before, during, and after training
-	- players -------- in game performance
+	- players ==improved== in game performance
 	- compared to controls, there was no change in word recall, enumeration (quickly counting dots), or functional field of view
-	- however, players improved in --------- control functions: task switching, working memory, visual short-term memory, and reasoning
+	- however, players improved in ==executive== control functions: task switching, working memory, visual short-term memory, and reasoning
 - action video games (Green & Bavelier, 2003; 2007; 2018):
 	- non-gamers played first-person-shooter games, like -Unreal Tournament 2004- ™, and -Medal of Honor: Allied Assault- ™
-	- resulted in enhanced visual attention, spatial cognition, and visual ----------
+	- resulted in enhanced visual attention, spatial cognition, and visual ==perception==
 	- meta-analysis found a one-third of a standard deviation improvement
 - ACTIVE (Advanced Cognitive Training for Independent and Vital Elderly) (Ball et al., 2002):
-	- nationwide clinical trial of 2,832 ------- elderly participants
+	- nationwide clinical trial of 2,832 ==healthy== elderly participants
 	- experimental groups given regular practice in one of three modalities: reasoning, memory, and speed of processing
 	- used Posit Science’s computer-based Brain Fitness Program (now called BrainHQ) based on brain plasticity; developed by neuroscientist Michael Merzenich
 	- had 10 sessions of group training
