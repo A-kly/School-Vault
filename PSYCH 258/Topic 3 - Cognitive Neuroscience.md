@@ -322,7 +322,7 @@ Can neuroplasticity be harnessed to reverse the effects of age-related cognitive
 	- number of sessions
 	- length of sessions
 	- duration of training period
-	- performance on training task may improve, but there is little evidence of --------------
+- performance on training task may improve, but there is little evidence of ==generalization==
 
 ---
 

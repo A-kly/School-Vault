@@ -1,96 +1,79 @@
-         
+
 
 # Perception
 
 ## Learning Outcomes
 
 1. What is sensation? What is perception?
-
 2. What is the difference between bottom-up and top-down processing?
-
 3. Describe the Gestalt approach to perception. What are some Gestalt laws of organization?
-
 4. Describe and evaluate these approaches to object perception:
 
-• template-matching models
-
-• distinctive-features models
-
-• structural theories
+- template-matching models
+- distinctive-features models
+- structural theories
 
 5. What are two categories of agnosia?
-
 6. What do agnosias reveal about object perception?
 
 ---
 
 ## What is Perception?
 
-• can be defined in terms of _______ processes, like receptor activation and neural firing
+- can be defined in terms of ------- processes, like receptor activation and neural firing
+- or in terms of ------ activity that mediates between sensation and awareness, interpreting what our senses tell us
 
-• or in terms of ______ activity that mediates between sensation and awareness, interpreting what our senses tell us
+**---------**:
 
-**_________**:
-
-- process of ________ energy or chemicals in the environment in terms of neural signals
-
+- process of -------- energy or chemicals in the environment in terms of neural signals
 - a basic experience elicited by a simple stimulus
+- more concerned with your own physical ----------
 
-- more concerned with your own physical __________
+e.g., feeling of ------ on your skin
 
-e.g., feeling of ______ on your skin
+**----------**:
 
-**__________**:
-
-- organization and interpretation of neural signals, making them __________
-
+- organization and interpretation of neural signals, making them ----------
 - more complex experiences produced by integrating sensations
+- more concerned with ----------- the stimulus
 
-- more concerned with ___________ the stimulus
-
-e.g., you see a hot _____ element, producing heat you feel; you know it is X cm away, and it can burn you
+e.g., you see a hot ----- element, producing heat you feel; you know it is X cm away, and it can burn you
 
 ---
 
 ## Bottom-Up vs. Top-Down Processing
 
-• **bottom-up** (**____-driven**) **processing**: low-level stimulus data from receptors is processed; may be combined to form patterns
+- **bottom-up** (**-----driven**) **processing**: low-level stimulus data from receptors is processed; may be combined to form patterns
 
 e.g., representation created via Gestalt laws
 
-• **top-down** (**____________ driven**) **processing**: higher-level cognitive processes like memories, beliefs, or expectations affect interpretations of (possibly ambiguous) stimulus input gathered by the senses
+- **top-down** (**------------ driven**) **processing**: higher-level cognitive processes like memories, beliefs, or expectations affect interpretations of (possibly ambiguous) stimulus input gathered by the senses
 
 e.g., may guide where to look or what to look for
 
 Biederman (1981):
 
 - observers cued to a location on a screen
-
 - scene then presented on screen
-
 - task: identify object at cued location
-
-- result: observers did _____ identifying familiar items in an impossible location than in an unlikely location or normal location
+- result: observers did ----- identifying familiar items in an impossible location than in an unlikely location or normal location
 
 e.g., fire hydrant on top of mailbox vs. on lunch counter vs. on street
 
 ![fire hydrant on top of mailbox](PSYCH%20258/Attachments/p258s04-01.png) ![fire hydrant on lunch counter](PSYCH%20258/Attachments/p258s04-02.png) ![fire hydrant on street](PSYCH%20258/Attachments/p258s04-03.png)
 
-- conclusion: __________ knowledge of context influences perception
+- conclusion: ---------- knowledge of context influences perception
 
 Palmer (1975):
 
 - observers shown contextual scene of a kitchen
-
 - then target object presented: a) loaf of bread, b) mailbox, or c) drum (none appeared in scene; only bread “belonged”)
 
 ![Palmer (1975)](PSYCH%20258/Attachments/p258s04-04.png)
 
 - task: identify target object
-
 - result: identification performance was best for the loaf of bread
-
-- _______ leads you to expect certain things to fit in, and can enhance performance
+- ------- leads you to expect certain things to fit in, and can enhance performance
 
 Coren, Porac, & Ward (1978): individual differences
 
@@ -100,19 +83,17 @@ Coren, Porac, & Ward (1978): individual differences
 
 - interpreted differently by males vs. females
 
-_______ needed between top-down and bottom-up processing:
+------- needed between top-down and bottom-up processing:
 
-• only top-down ![→](PSYCH%20258_%20Perception_files/right-new.png) see only what you ______ to see--even if it differs from reality!?
-
-• only bottom-up ![→](PSYCH%20258_%20Perception_files/right-new.png) you can’t use anything you’ve _______ about the (perceptual) world
+- only top-down ![→](PSYCH%20258-%20Perception-files/right-new.png) see only what you ------ to see--even if it differs from reality!?
+- only bottom-up ![→](PSYCH%20258-%20Perception-files/right-new.png) you can’t use anything you’ve ------- about the (perceptual) world
 
 ---
 
 ## Gestalt Psychology
 
-- basis: ________ could be produced by a succession of stationary stimuli (Max Wertheimer, 1912)
-
-- motto: “the _____ is different than the sum of its parts”
+- basis: -------- could be produced by a succession of stationary stimuli (Max Wertheimer, 1912)
+- motto: “the ----- is different than the sum of its parts”
 
 ### Figure-Ground Segregation
 
@@ -122,125 +103,112 @@ e.g., Rubin figure (1915):
 
 Generally, figures:
 
-• appear to be in _____
-
-• are smaller
-
-• have well-defined _____
-
-• are meaningful
-
-• have more ______
-
-• differ from background in brightness
+- appear to be in -----
+- are smaller
+- have well-defined -----
+- are meaningful
+- have more ------
+- differ from background in brightness
 
 ### Laws of Perceptual Organization
 
-• **_________**/**nearness**: things near to each other tend to be grouped together
+- **---------**/**nearness**: things near to each other tend to be grouped together
 
 ![proximity](PSYCH%20258/Attachments/p258s04-07.png)
 
-• **__________**: similar things tend to be grouped together
+- **----------**: similar things tend to be grouped together
 
 ![similarity](PSYCH%20258/Attachments/p258s04-08.png)
 
-• **____ ____________**: points that, if connected, would result in either straight or smoothly curving lines, tend to be seen as belonging together
+- **---- ------------**: points that, if connected, would result in either straight or smoothly curving lines, tend to be seen as belonging together
 
 ![good continuation](PSYCH%20258/Attachments/p258s04-09.png)
 
-• **_______**: a space enclosed by a contour (real or illusory) tends to appear as a figure
+- **-------**: a space enclosed by a contour (real or illusory) tends to appear as a figure
 
 ![closure](PSYCH%20258/Attachments/p258s04-10.png)   ![Kanizsa triangle](PSYCH%20258/Attachments/p258s04-11.png)
 
-• **______ ____**: things that are moving in the same direction tend to be grouped together
+- **------ ----**: things that are moving in the same direction tend to be grouped together
 
 ![common fate](PSYCH%20258/Attachments/p258s04-12.gif)
 
-• **______________**/**familiarity**: things that are meaningful or familiar tend to form groups
+- **--------------**/**familiarity**: things that are meaningful or familiar tend to form groups
 
 ![meaningfulness](PSYCH%20258/Attachments/p258s04-13.png)
 
-• **law of ________** (“good figure” or “simplicity”): every stimulus pattern is seen in such a way that the resulting structure is as simple as possible
+- **law of --------** (“good figure” or “simplicity”): every stimulus pattern is seen in such a way that the resulting structure is as simple as possible
 
 ![Prägnanz](PSYCH%20258/Attachments/p258s04-14.png)
 
 Pros & cons:
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) ________ approach
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) -------- approach
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) operates _post hoc_; not good for predictions
+![☒](PSYCH%20258-%20Perception-files/con-new.png) operates -post hoc-; not good for predictions
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) not good at ____________
+![☒](PSYCH%20258-%20Perception-files/con-new.png) not good at ------------
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) _____ definitions: “simplicity”?
+![☒](PSYCH%20258-%20Perception-files/con-new.png) ----- definitions: “simplicity”?
 
 ---
 
 ## Object Perception
 
-• **___________**: perceiving something as previously encountered
-
-• **______________**: naming or classifying an object
+- **-----------**: perceiving something as previously encountered
+- **--------------**: naming or classifying an object
 
 **Template-matching models**
 
 - assumptions:
-
-• represented as holistic, unanalyzed unit (________)
-
-• input pattern compared to stored representations
-
-• stimulus categorized by exact match
-
+- represented as holistic, unanalyzed unit (--------)
+- input pattern compared to stored representations
+- stimulus categorized by exact match
 - pros & cons:
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) successfully used by ________
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) successfully used by --------
 
 e.g., MICR numbers on cheques, barcodes
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) requires all-or-none judgment; intolerant to __________:
+![☒](PSYCH%20258-%20Perception-files/con-new.png) requires all-or-none judgment; intolerant to ----------:
 
 ![letter As](PSYCH%20258/Attachments/p258s04-15.png)
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) too many templates required
+![☒](PSYCH%20258-%20Perception-files/con-new.png) too many templates required
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) cannot handle _______:
+![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle -------:
 
 ![context effect](PSYCH%20258/Attachments/p258s04-16.png)
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) cannot handle _____ stimuli
+![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle ----- stimuli
 
 **Distinctive-features models**
 
 - assumptions:
+- represented as list of --------
+- inputs analyzed into small list of constituent features
+- identity determined by selecting feature list most similar to input
 
-• represented as list of ________
+**-----------** (Selfridge, 1959)
 
-• inputs analyzed into small list of constituent features
-
-• identity determined by selecting feature list most similar to input
-
-**___________** (Selfridge, 1959)
-
-Stage 1: “_____ Demon”
+Stage 1: “----- Demon”
 
 - gets sensory input
 
 e.g., **R**
 
-Stage 2: “_______ Demons”
+Stage 2: “------- Demons”
 
 - analyze input in terms of features
 
-e.g., ![component features](PSYCH%20258_%20Perception_files/p258s04-17.png)
+e.g., ![component features](PSYCH%20258-%20Perception-files/p258s04-17.png)
 
-Stage 3: “_________ Demons”
+Stage 3: “--------- Demons”
 
 - determine which groups of features are present; each activated by several particular features
 
 e.g, **P R T** more than **A** or **X**
 
-Stage 4: “________ Demon”
+Stage 4: “-------- Demon”
 
 - identifies the pattern by listening for the Cognitive Demon shouting loudest
 
@@ -248,95 +216,79 @@ e.g., **R**
 
 - pros & cons:
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) evidence:
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) evidence:
 
-Hubel & Wiesel (1962): visual _______ detectors
+Hubel & Wiesel (1962): visual ------- detectors
 
 Gibson, Schapiro, & Yonas (1968):
 
-• “Are letters same or different?”
+- “Are letters same or different?”
+- G vs. W, RT = 458 ms
+- P vs. R, RT = 571 ms
 
-• G vs. W, RT = 458 ms
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) can identify wide range of stimuli--just specify component --------
 
-• P vs. R, RT = 571 ms
+![☒](PSYCH%20258-%20Perception-files/con-new.png) doesn’t define “-------”: single line segment? two lines forming an angle? curved line?
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) can identify wide range of stimuli--just specify component ________
+![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle Gestalt organizational principles: when is a row of dots a line?
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) doesn’t define “_______”: single line segment? two lines forming an angle? curved line?
+![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle -------
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) cannot handle Gestalt organizational principles: when is a row of dots a line?
-
-![☒](PSYCH%20258_%20Perception_files/con-new.png) cannot handle _______
-
-![☒](PSYCH%20258_%20Perception_files/con-new.png) what about real-life/3-D objects?
+![☒](PSYCH%20258-%20Perception-files/con-new.png) what about real-life/3-D objects?
 
 ## Structural Theories
 
-**Recognition by __________** (Biederman, 1987)
+**Recognition by ----------** (Biederman, 1987)
 
 - assumptions:
-
-• visual scene can be decomposed into a constant set of basic elements: “**_____**” (geometric icons): 36 basic volumetric shapes that can be modified (length, width, etc.), yet remain identifiable (cylinder, brick, cone):
+- visual scene can be decomposed into a constant set of basic elements: “**-----**” (geometric icons): 36 basic volumetric shapes that can be modified (length, width, etc.), yet remain identifiable (cylinder, brick, cone):
 
 ![geons](PSYCH%20258/Attachments/p258s04-18.png)
 
-• **Principle of ____________ ________**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
-
+- **Principle of ------------ --------**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
 - pros & cons:
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) has well-defined features
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) has well-defined features
 
-![☑](PSYCH%20258_%20Perception_files/pro-new.png) can handle variation, novel stimuli
+![☑](PSYCH%20258-%20Perception-files/pro-new.png) can handle variation, novel stimuli
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) cannot handle context
+![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle context
 
-![☒](PSYCH%20258_%20Perception_files/con-new.png) may be too broad--objects also differ in their _______
+![☒](PSYCH%20258-%20Perception-files/con-new.png) may be too broad--objects also differ in their -------
 
 ---
 
 ## Visual Agnosia
 
-• from Greek, meaning “without knowledge”
+- from Greek, meaning “without knowledge”
+- failure or deficit in perceiving or identifying objects (Freud, 1891)
 
-• failure or deficit in perceiving or identifying objects (Freud, 1891)
-
-e.g., **_____________**: disruption of face perception; inability to recognize/identify friends and family; inability to read facial expressions/emotions
+e.g., **-------------**: disruption of face perception; inability to recognize/identify friends and family; inability to read facial expressions/emotions
 
 - may not be able to determine stimulus is a face
-
 - or may have intact perception of facial features but no holistic face perception
 
 Categories of agnosias (Lissauer, 1890):
 
-• **____________**: failure to form a holistic percept; deficit in perception of whole objects
-
+- **------------**: failure to form a holistic percept; deficit in perception of whole objects
 - inability to extract global structure, despite intact low-level sensory processing (acuity, colour, and brightness discrimination intact)
-
-- cannot identify, discriminate, or copy complex visual forms, like ______
-
+- cannot identify, discriminate, or copy complex visual forms, like ------
 - but they can grasp objects they cannot identify
-
 - a.k.a. **visual form agnosia**, or **visual space agnosia**
-
-• **___________**: deficit in associating pattern with meaning (“recognition without meaning”)
-
+- **-----------**: deficit in associating pattern with meaning (“recognition without meaning”)
 - cannot draw from memory
-
 - able to copy and draw pictures, but cannot identify them
-
 - can use other senses (e.g., touch, smell)
 
-e.g., **visual ______ agnosia**: “convoluted red form with a linear green attachment” = ____ (Sacks, 1970)
+e.g., **visual ------ agnosia**: “convoluted red form with a linear green attachment” = ---- (Sacks, 1970)
 
 Specific agnosias (Farah, 2004):
 
-• **________ specific** (or **semantic**) agnosia: inability to identify living (or nonliving) objects, metals, fruit, vegetables, musical instruments, fabrics, and/or gemstones
-
-• **________ syndrome**:
-
+- **-------- specific** (or **semantic**) agnosia: inability to identify living (or nonliving) objects, metals, fruit, vegetables, musical instruments, fabrics, and/or gemstones
+- **-------- syndrome**:
 - inability to perceive more than one aspect of a visual stimulus, or integrate details into a coherent whole
 
-e.g., “a man...and mountains” = scene of _____ (Tyler, 1968)
+e.g., “a man...and mountains” = scene of ----- (Tyler, 1968)
 
 - person can identify individual objects, but cannot tell where they are located, or reach for them
 
@@ -344,59 +296,45 @@ Two somewhat distinct visual pathways (Ungerleider & Mishkin, 1982):
 
 ![what vs. where pathways](PSYCH%20258/Attachments/p258s04-19.jpg)
 
-• **“____” pathway**
-
+- **“----” pathway**
 - concerned with object recognition and identification
-
 - from occipital lobe to temporal lobe; a.k.a. **ventral pathway**
-
-• **“_____” pathway**
-
+- **“-----” pathway**
 - involved in locating objects, motion, spatial relationships, depth
-
 - from occipital lobe to parietal lobe; a.k.a. **dorsal pathway**
-
-• supported by **______-dissociation**: in one case study, one ability is functioning, but another ability is not; and vice-versa in another case study
-
+- supported by **-------dissociation**: in one case study, one ability is functioning, but another ability is not; and vice-versa in another case study
 - visual form agnosia: damaged “what” pathway, but intact “where” pathway
-
 - Bálint’s syndrome: intact “what” pathway, but damaged “where” pathway
 
 Milner & Goodale (1996):
 
 - patient D.F. (“Diane”) had CO poisoning, which led to brain damage and visual form agnosia: unable to discriminate object identity, shape, orientation
-
 - cannot identify or draw an apple or a book by looking at them--but can draw them from memory or idenfity objects by holding them
-
 - can perceive colours and textures
 
 e.g., she can identify a banana from its yellow colour and texture of its surface)
 
-- to her own ________, she can accurately reach and grasp objects
+- to her own --------, she can accurately reach and grasp objects
 
 e.g., can reach out to appropriately grasp a banana
 
 - tested on two similar, but different tasks:
-
-• ___________ matching: “Hold the card at the same slant as the slot”; D.F. much worse than a control participant
+- ----------- matching: “Hold the card at the same slant as the slot”; D.F. much worse than a control participant
 
 ![orientation matching results](PSYCH%20258/Attachments/p258s04-20.png)
 
-• visuomotor _______: “Put the card into the slot”; D.F. about the same as a control participant (intact dorsal stream)
+- visuomotor -------: “Put the card into the slot”; D.F. about the same as a control participant (intact dorsal stream)
 
 ![visuomotor posting results](PSYCH%20258/Attachments/p258s04-21.png)
 
-- damaged “what” system, but intact “___” system (i.e., not just “where”, but _how_ to interact with objects in space)
+- damaged “what” system, but intact “---” system (i.e., not just “where”, but -how- to interact with objects in space)
 
 Implications:
 
-• detecting visual features is critical in constructing a _______
-
-• perceiving features of a visual stimulus is separate from higher-level processing
-
-• connecting _______ with a visual pattern is a separate step
-
-• there are multiple visual pathways that handle perception and action
+- detecting visual features is critical in constructing a -------
+- perceiving features of a visual stimulus is separate from higher-level processing
+- connecting ------- with a visual pattern is a separate step
+- there are multiple visual pathways that handle perception and action
 
 ---
 
