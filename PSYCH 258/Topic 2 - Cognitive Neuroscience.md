@@ -243,23 +243,21 @@
 	- visual cortex of blind people can change to respond to sound or other sensory input
 	- body maps in the somatosensory cortex of adult monkeys changed to respond to adjacent fingers when one digit was amputated
 	- (these changes may be due to brain remapping, or to an enhancement of existing pathways)
-- fMRI studies have demonstrated changes in patterns of brain activity in response to learning, skill acquisition, and environmental stimulation in adults (e.g., learning new motor skills, acquiring new languages, or mastering musical instruments)
+	- fMRI studies have demonstrated changes in patterns of brain activity in response to learning, skill acquisition, and environmental stimulation in adults (e.g., learning new motor skills, acquiring new languages, or mastering musical instruments)
 - possible mechanisms for plasticity in adulthood:
-- by changing the -------- of the existing connections: the more frequently a connection is used, the stronger it becomes (and vice-versa)
-- **--------------**: the formation of new synapses throughout the lifespan; may be more specific and selective, guided by experience
+	- by changing the ==strength== of the existing connections: the more frequently a connection is used, the stronger it becomes (and vice-versa)
+	- **==synaptogenesis==**: the formation of new synapses throughout the lifespan; may be more specific and selective, guided by experience
 
-Clinical/commercial ------------ of plasticity:
+#### Clinical/commercial applications of plasticity:
 
 - overcoming balance disorders (BrainPort®)
 - restoring vision (NovaVision®)
 - ADHD therapy (Cogmed Working Memory Training™, EndeavorRx®)
 - treating learning disorders (Arrowsmith Program®, Fast ForWord®)
-- “brain --------” programs
-- sales of brain training programs worth US$5.2 billion in 2023; projected to exceed US$40 billion by 2030 (Verified Market Research, 2024)
-
-e.g., Nintendo DS™ game Brain Age™ inspired by the work of neuroscientist Ryuta Kawashima (2005) at Tohoku University in Japan
-
-e.g., others include Lumos Labs’ Lumosity®, CogniFit®, and Posit Science’s BrainHQ
+- “brain Training” programs
+	- sales of brain training programs worth US$5.2 billion in 2023; projected to exceed US$40 billion by 2030 (Verified Market Research, 2024)
+	- e.g., Nintendo DS™ game Brain Age™ inspired by the work of neuroscientist Ryuta Kawashima (2005) at Tohoku University in Japan
+	- e.g., others include Lumos Labs’ Lumosity®, CogniFit®, and Posit Science’s BrainHQ
 
 ### Brain Training
 
