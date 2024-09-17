@@ -63,4 +63,12 @@
 ### Infamous studies that changed ethical standards
 - Tuskegee experiment (1932-1972)
 	- Why was it problematic, what ethical standards were violated?
+		- Voluntary Informed consent not collected
+			- Consent not given, hid the nature of their research
+			- Possible coercion due to free medical checkups, and meals
+		- No ability to withdraw
+		- Risks greatly outweighed the benefits
+		- No protection of participants from harm
+---
+		- Not only were there only 72/600 participants alive by the end, many of their wives and children contracted syphilis as well
 		- 
