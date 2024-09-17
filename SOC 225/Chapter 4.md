@@ -38,6 +38,10 @@
 				- No forcing participants
 		- Benefits must outweigh the risks
 		- This established the basics of university ethics
+- **When we are determining if a research project should be funded or accepted, the most important test should be to determine if the ==Benefits of the research outweigh the risks==**
+	- Risks to participants, Researcher, and Organization associated with the research (eg. uAlberta)
+	- Use the balance of probabilities
+		- Based on previous knowledge, chance that the research will produce more benefits than risks.
 ### 10 Standards of Nuremburg Code
 1. Volunteers freely consent to participate
 2. Volunteers are fully informed
@@ -56,3 +60,7 @@
 	- Informed consent from participants
 	- Research conducted by medically/scientifically qualified individuals
 	- Risks should not exceed benefits
+### Infamous studies that changed ethical standards
+- Tuskegee experiment (1932-1972)
+	- Why was it problematic, what ethical standards were violated?
+		- 
