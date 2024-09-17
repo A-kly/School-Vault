@@ -8,12 +8,12 @@
 - is the crime rate going up or down?
 - How do you know?
 - why does the perception of the amount of crime in Canada matter?
-# Ethics in research
+# Ethics in Research
 - When and where does Ethics find expression?
 - What research requires ethical clearance?
 	- Involving human subjects
 	- why?
-## History of ethics
+## History of Ethics
 - What are ethics?
 	-  "how we ought to be with others"
 	- How should we treat those that we research?
@@ -34,11 +34,11 @@
 			- No coercion
 				- Minimal monetary coercion
 					- Must be able to answer why we are giving them money, is it to coerced them to be involved?
-						- Most of the time, we are paying for their time, data and honesty
+						- Most of the time, we are paying for their time, data, honesty and "expertise" (as if they were a speaker, and this is a job)
 				- No forcing participants
 		- Benefits must outweigh the risks
 		- This established the basics of university ethics
-### 10 standards of Nuremburg code
+### 10 Standards of Nuremburg Code
 1. Volunteers freely consent to participate
 2. Volunteers are fully informed
 3. Risks reduced where possible
@@ -49,3 +49,10 @@
 8. Society should benefit from study findings
 9. Human research should be based off of previous animal studies or previous work
 10. Study should never begin if there is a reason to believe that death or injury may result
+### Declaration of Helsinki
+- In 1964, the World Medical Association established recommendations guiding research involving human subjects.
+- Issues addressed:
+	- Research protocols should be reviewed by independent committee prior to initiation
+	- Informed consent from participants
+	- Research conducted by medically/scientifically qualified individuals
+	- Risks should not exceed benefits
