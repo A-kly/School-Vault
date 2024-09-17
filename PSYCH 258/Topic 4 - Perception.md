@@ -8,11 +8,9 @@
 2. What is the difference between bottom-up and top-down processing?
 3. Describe the Gestalt approach to perception. What are some Gestalt laws of organization?
 4. Describe and evaluate these approaches to object perception:
-
-- template-matching models
-- distinctive-features models
-- structural theories
-
+	- template-matching models
+	- distinctive-features models
+	- structural theories
 5. What are two categories of agnosia?
 6. What do agnosias reveal about object perception?
 
