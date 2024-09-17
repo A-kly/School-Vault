@@ -10,8 +10,17 @@
 - why does the perception of the amount of crime in Canada matter?
 # Ethics in research
 - When and where does Ethics find expression?
-	- "how we ought to be with others"
-	- How should we treat those that we research?
+	
 - What research requires ethical clearance?
 	- Involving human subjects
 	- why?
+## History of ethics
+- What are ethics?
+	-  "how we ought to be with others"
+	- How should we treat those that we research?
+- Nuremburg trials
+	- Trials that happened after the war where Nazis were evaluated criminally
+	- Nazi scientists were also on trial
+	- Criminal proceedings against 23 German physicians
+	- Nuremburg Code established in 1948
+	- 
