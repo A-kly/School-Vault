@@ -72,6 +72,23 @@
 		- Not only were there only 72/600 participants alive by the end, many of their wives and children contracted syphilis as well
 		- Most marginalized people in society are the subjects, taken advantage of
 - Willowbrook School study (1956-1971)
-	- Hepititis deliberately given to children with intelectual dissabilities to track development of disease and develop a vaccine
+	- Hepatitis deliberately given to children with intellectual disabilities to track development of disease and develop a vaccine
 - Tearoom Trade Study (Laud Humphries)
-	- Public washrooms on side of highway used frequently for secret 
+	- Public washrooms on side of highway used frequently for secret gay sex between men
+	- Laud Humphries befriended men and acted as "lookout"
+		- Write down licence plate numbers after sexual acts happened
+		- Get a cop friend to get the personal info of these people
+	- A year later, he used the personal info to find participants, and interview them under the guise of a "study on health"
+		- Altered his appearance to do so
+	- **deception upon deception upon deception**
+	- **Lack of informed consent**
+#### Researchers must ensure anonymity
+- Anonymity
+	- Give pseudonym
+	- Alter non important demographic info
+- Confidentiality
+	- We protect the collected data of the participants, and we do not share it to anyone other those who are prior described
+- Research causes no undue harm to participants
+- Informed consent of Participants
+- not disguised the true nature/purpose of the research (manipulation)
+- Benefits outweigh the risks
