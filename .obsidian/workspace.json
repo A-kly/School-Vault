@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69be80d37106e69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC 225/Chapter 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/Topic 1.md"
+                "file": "SOC 225/Chapter 4.md"
               }
             }
           },
@@ -108,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/Topic 1.md",
+                "file": "SOC 225/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/Topic 1.md",
+                "file": "SOC 225/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/Topic 1.md"
+                "file": "SOC 225/Chapter 4.md"
               }
             }
           }
@@ -168,8 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "866dc22da9727047",
+  "active": "69be80d37106e69f",
   "lastOpenFiles": [
+    "SOC 225/Topic 1.md",
+    "SOC 225/Chapter 4.md",
     "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
@@ -185,7 +201,6 @@
     "PSYCH 258/Attachments/p258s04-11.png",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
-    "SOC 225/Topic 1.md",
     "SOC 225/AI TEXTBOOK SUMMARY.md",
     "Markdown Cheat Sheet.md",
     "SOC 225/Media",
@@ -215,7 +230,6 @@
     "PSYCH 239/ED Quiz.md",
     "PSYCH 239/PD Quiz.md",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
-    "PSYCH 239/7. Dissociative and Somatic Symptom Disorders.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
