@@ -25,8 +25,19 @@
 		- "The **Voluntary consent** of human subjects is absolutely essential"
 		- must have *consent*
 			- Have to make sure individuals are able to give it
-			- 
+			- Must be able to say "yes i wanna be involved in this research"
+			- Consent forms
+			- Understand the risks, benefits, and scope of the research
+			- must be *informed consent*
+			- Able to withdraw from the research at any time
 		- must be *voluntary*
 			- No coercion
+				- No Monetary coercion
+				- No forcing participants
 		- Benefits must outweigh the risks
 		- This established the basics of university ethics
+### 10 standards of Nuremburg code
+1. Volunteers freely consent to participate
+2. Volunteers are fully informed
+3. Risks reduced where possible
+4. Researchers responsible for protecting 
