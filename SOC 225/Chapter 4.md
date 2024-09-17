@@ -32,7 +32,9 @@
 			- Able to withdraw from the research at any time
 		- must be *voluntary*
 			- No coercion
-				- No Monetary coercion
+				- Minimal monetary coercion
+					- Must be able to answer why we are giving them money, is it to coerced them to be involved?
+						- Most of the time, we are paying for their time, data and honesty
 				- No forcing participants
 		- Benefits must outweigh the risks
 		- This established the basics of university ethics
@@ -40,4 +42,10 @@
 1. Volunteers freely consent to participate
 2. Volunteers are fully informed
 3. Risks reduced where possible
-4. Researchers responsible for protecting 
+4. Researchers responsible for protecting participants against remote harm
+5. Participants can withdraw from the study any time
+6. Qualified researchers
+7. Stop the study if adverse effects occur
+8. Society should benefit from study findings
+9. Human research should be based off of previous animal studies or previous work
+10. Study should never begin if there is a reason to believe that death or injury may result
