@@ -10,7 +10,6 @@
 - why does the perception of the amount of crime in Canada matter?
 # Ethics in research
 - When and where does Ethics find expression?
-	
 - What research requires ethical clearance?
 	- Involving human subjects
 	- why?
@@ -23,4 +22,11 @@
 	- Nazi scientists were also on trial
 	- Criminal proceedings against 23 German physicians
 	- Nuremburg Code established in 1948
-	- 
+		- "The **Voluntary consent** of human subjects is absolutely essential"
+		- must have *consent*
+			- Have to make sure individuals are able to give it
+			- 
+		- must be *voluntary*
+			- No coercion
+		- Benefits must outweigh the risks
+		- This established the basics of university ethics
