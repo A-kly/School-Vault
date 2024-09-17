@@ -162,8 +162,17 @@
                 "file": "SOC 225/Chapter 4.md"
               }
             }
+          },
+          {
+            "id": "c83605fe7c889ba6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
