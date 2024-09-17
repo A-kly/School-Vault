@@ -88,6 +88,11 @@
 	- Alter non important demographic info
 - Confidentiality
 	- We protect the collected data of the participants, and we do not share it to anyone other those who are prior described
+	- Difficult to do so in the criminological world
+		- Research has been sapinda by police in the past
+		- Anonymized data helps with this
+	- Caveats included to protect society and other people
+		- Eg. "You can tell me anything about past crimes, but if you tell me about planned future crimes or **any** crime involving children I will have to inform the police."
 - Research causes no undue harm to participants
 - Informed consent of Participants
 - not disguised the true nature/purpose of the research (manipulation)
