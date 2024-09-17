@@ -69,6 +69,9 @@
 		- No ability to withdraw
 		- Risks greatly outweighed the benefits
 		- No protection of participants from harm
----
 		- Not only were there only 72/600 participants alive by the end, many of their wives and children contracted syphilis as well
-		- 
+		- Most marginalized people in society are the subjects, taken advantage of
+- Willowbrook School study (1956-1971)
+	- Hepititis deliberately given to children with intelectual dissabilities to track development of disease and develop a vaccine
+- Tearoom Trade Study (Laud Humphries)
+	- Public washrooms on side of highway used frequently for secret 
