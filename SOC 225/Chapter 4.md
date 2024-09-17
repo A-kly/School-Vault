@@ -9,4 +9,9 @@
 - How do you know?
 - why does the perception of the amount of crime in Canada matter?
 # Ethics in research
-- 
+- When and where does Ethics find expression?
+	- "how we ought to be with others"
+	- How should we treat those that we research?
+- What research requires ethical clearance?
+	- Involving human subjects
+	- why?
