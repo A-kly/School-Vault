@@ -162,62 +162,38 @@ Pros & cons:
 		- [c] too many templates required
 		- [c] cannot handle ==context==:
 			- ![context effect](PSYCH%20258/Attachments/p258s04-16.png)
-		- [c] cannot handle ----- stimuli
+		- [c] cannot handle ==novel== stimuli
 
-**Distinctive-features models**
-
-- assumptions:
-- represented as list of --------
-- inputs analyzed into small list of constituent features
-- identity determined by selecting feature list most similar to input
-
-**-----------** (Selfridge, 1959)
-
-Stage 1: “----- Demon”
-
-- gets sensory input
-
-e.g., **R**
-
-Stage 2: “------- Demons”
-
-- analyze input in terms of features
-
-e.g., ![component features](PSYCH%20258-%20Perception-files/p258s04-17.png)
-
-Stage 3: “--------- Demons”
-
-- determine which groups of features are present; each activated by several particular features
-
-e.g, **P R T** more than **A** or **X**
-
-Stage 4: “-------- Demon”
-
-- identifies the pattern by listening for the Cognitive Demon shouting loudest
-
-e.g., **R**
-
-- pros & cons:
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) evidence:
-
-Hubel & Wiesel (1962): visual ------- detectors
-
-Gibson, Schapiro, & Yonas (1968):
-
-- “Are letters same or different?”
-- G vs. W, RT = 458 ms
-- P vs. R, RT = 571 ms
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) can identify wide range of stimuli--just specify component --------
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) doesn’t define “-------”: single line segment? two lines forming an angle? curved line?
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle Gestalt organizational principles: when is a row of dots a line?
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle -------
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) what about real-life/3-D objects?
+- **Distinctive-features models**
+	- assumptions:
+	- represented as list of features
+	- inputs analyzed into small list of constituent features
+	- identity determined by selecting feature list most similar to input
+	- **pandemonium** (Selfridge, 1959)
+		- Stage 1: “==Image== Demon”
+			- gets sensory input
+			- e.g., **R**
+		- Stage 2: “==Feature== Demons”
+			- analyze input in terms of features
+			- e.g., 
+		- Stage 3: “==cognitive== Demons”
+			- determine which groups of features are present; each activated by several particular features
+			- e.g, **P R T** more than **A** or **X**
+		- Stage 4: “-------- Demon”
+			- identifies the pattern by listening for the Cognitive Demon shouting loudest
+			- e.g., **R**
+	- pros & cons:
+		- evidence:
+			- Hubel & Wiesel (1962): visual ------- detectors
+			- Gibson, Schapiro, & Yonas (1968):
+				- “Are letters same or different?”
+				- G vs. W, RT = 458 ms
+				- P vs. R, RT = 571 ms
+		- [p] can identify wide range of stimuli--just specify component --------
+		- [c] doesn’t define “-------”: single line segment? two lines forming an angle? curved line?
+		- [c] cannot handle Gestalt organizational principles: when is a row of dots a line?
+		- [c] cannot handle -------
+		- [c] what about real-life/3-D objects?
 
 ## Structural Theories
 
