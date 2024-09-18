@@ -151,25 +151,18 @@ Pros & cons:
 
 - **Template-matching models**
 	- assumptions:
-		- represented as holistic, unanalyzed unit (--------)
+		- represented as holistic, unanalyzed unit (template)
 		- input pattern compared to stored representations
 		- stimulus categorized by exact match
 	- pros & cons:
--  successfully used by --------
-
-e.g., MICR numbers on cheques, barcodes
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) requires all-or-none judgment; intolerant to ----------:
-
-![letter As](PSYCH%20258/Attachments/p258s04-15.png)
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) too many templates required
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle -------:
-
-![context effect](PSYCH%20258/Attachments/p258s04-16.png)
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle ----- stimuli
+		- [p] successfully used by machines
+			-  e.g., MICR numbers on cheques, barcodes
+		- [c] requires all-or-none judgment; intolerant to ==variations==:
+			-  ![letter As](PSYCH%20258/Attachments/p258s04-15.png)
+		- [c] too many templates required
+		- [c] cannot handle ==context==:
+			- ![context effect](PSYCH%20258/Attachments/p258s04-16.png)
+		- [c] cannot handle ----- stimuli
 
 **Distinctive-features models**
 
