@@ -183,28 +183,27 @@ Pros & cons:
 			- identifies the pattern by listening for the Cognitive Demon shouting loudest
 			- e.g., **R**
 	- pros & cons:
-		- evidence:
-			- Hubel & Wiesel (1962): visual ------- detectors
+		- [p] evidence:
+			- Hubel & Wiesel (1962): visual ==feature== detectors
 			- Gibson, Schapiro, & Yonas (1968):
 				- “Are letters same or different?”
-				- G vs. W, RT = 458 ms
-				- P vs. R, RT = 571 ms
-		- [p] can identify wide range of stimuli--just specify component --------
-		- [c] doesn’t define “-------”: single line segment? two lines forming an angle? curved line?
+					- G vs. W, RT = 458 ms
+					- P vs. R, RT = 571 ms
+		- [p] can identify wide range of stimuli--just specify component ==features==
+		- [c] doesn’t define “feature”: single line segment? two lines forming an angle? curved line?
 		- [c] cannot handle Gestalt organizational principles: when is a row of dots a line?
-		- [c] cannot handle -------
+		- [c] cannot handle ==context==
 		- [c] what about real-life/3-D objects?
 
 ## Structural Theories
 
-**Recognition by ----------** (Biederman, 1987)
-
+**Recognition (he means identification) by Components** (Biederman, 1987)
 - assumptions:
-- visual scene can be decomposed into a constant set of basic elements: “**-----**” (geometric icons): 36 basic volumetric shapes that can be modified (length, width, etc.), yet remain identifiable (cylinder, brick, cone):
+	- visual scene can be decomposed into a constant set of basic elements: “**geons**” (geometric icons): 36 basic volumetric shapes that can be modified (length, width, etc.), yet remain identifiable (cylinder, brick, cone):
 
 ![geons](PSYCH%20258/Attachments/p258s04-18.png)
 
-- **Principle of ------------ --------**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
+- **Principle of componential --------**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
 - pros & cons:
 
 ![☑](PSYCH%20258-%20Perception-files/pro-new.png) has well-defined features
