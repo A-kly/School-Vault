@@ -80,15 +80,15 @@ Coren, Porac, & Ward (1978): individual differences
 
 Balance needed between top-down and bottom-up processing:
 
-- only top-down ![→](PSYCH%20258-%20Perception-files/right-new.png) see only what you ------ to see--even if it differs from reality!?
-- only bottom-up ![→](PSYCH%20258-%20Perception-files/right-new.png) you can’t use anything you’ve ------- about the (perceptual) world
+- only top-down ==> see only what you ==want== to see--*even if it differs from reality*!?
+- only bottom-up ==> you can’t use anything you’ve ==learned== about the (perceptual) world
 
 ---
 
 ## Gestalt Psychology
 
-- basis: -------- could be produced by a succession of stationary stimuli (Max Wertheimer, 1912)
-- motto: “the ----- is different than the sum of its parts”
+- basis: ==movement== could be produced by a succession of stationary stimuli (Max Wertheimer, 1912)
+- motto: “the ==whole== is different than the sum of its parts”
 
 ### Figure-Ground Segregation
 
