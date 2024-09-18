@@ -47,18 +47,16 @@ e.g., you see a hot ==stove== element, producing heat you feel; you know it is X
 - **top-down** (**conceptually driven**) **processing**: higher-level cognitive processes like memories, beliefs, or expectations affect interpretations of (possibly ambiguous) stimulus input gathered by the senses
 	- e.g., may guide where to look or what to look for
 
-Biederman (1981):
-
-- observers cued to a location on a screen
-- scene then presented on screen
-- task: identify object at cued location
-- result: observers did ----- identifying familiar items in an impossible location than in an unlikely location or normal location
-
-e.g., fire hydrant on top of mailbox vs. on lunch counter vs. on street
+	- Biederman (1981):
+		- observers cued to a location on a screen
+		- scene then presented on screen
+		- task: identify object at cued location
+		- result: observers did ==worse== identifying familiar items in an impossible location than in an unlikely location or normal location
+			- e.g., fire hydrant on top of mailbox vs. on lunch counter vs. on street
 
 ![fire hydrant on top of mailbox](PSYCH%20258/Attachments/p258s04-01.png) ![fire hydrant on lunch counter](PSYCH%20258/Attachments/p258s04-02.png) ![fire hydrant on street](PSYCH%20258/Attachments/p258s04-03.png)
 
-- conclusion: ---------- knowledge of context influences perception
+- conclusion: ==conceptual== knowledge of context influences perception
 
 Palmer (1975):
 
