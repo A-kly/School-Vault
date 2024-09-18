@@ -96,4 +96,5 @@
 - Research causes no undue harm to participants
 - Informed consent of Participants
 - not disguised the true nature/purpose of the research (manipulation)
-- Benefits outweigh the risks
+- **==Benefits outweigh the risks==**
+	- Most important thing
