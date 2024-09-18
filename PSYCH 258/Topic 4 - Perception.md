@@ -23,31 +23,29 @@
 
 **Sensation**:
 
-- process of ==endocing== energy or chemicals in the environment in terms of neural signals
+- process of ==encoding== energy or chemicals in the environment in terms of neural signals
 - a basic experience elicited by a simple stimulus
-- more concerned with your own physical ----------
+- more concerned with your own physical ==experience==
 
-e.g., feeling of ------ on your skin
+e.g., feeling of ==warmth== on your skin
 
-**----------**:
+**Perception**:
 
-- organization and interpretation of neural signals, making them ----------
+- organization and interpretation of neural signals, making them ==meaningful==
 - more complex experiences produced by integrating sensations
-- more concerned with ----------- the stimulus
+- more concerned with ==identifying== the stimulus
 
-e.g., you see a hot ----- element, producing heat you feel; you know it is X cm away, and it can burn you
+e.g., you see a hot ==stove== element, producing heat you feel; you know it is X cm away, and it can burn you
 
 ---
 
 ## Bottom-Up vs. Top-Down Processing
 
-- **bottom-up** (**-----driven**) **processing**: low-level stimulus data from receptors is processed; may be combined to form patterns
+- **bottom-up** (**data -driven**) **processing**: low-level stimulus data from receptors is processed; may be combined to form patterns
+	- e.g., representation created via Gestalt laws
 
-e.g., representation created via Gestalt laws
-
-- **top-down** (**------------ driven**) **processing**: higher-level cognitive processes like memories, beliefs, or expectations affect interpretations of (possibly ambiguous) stimulus input gathered by the senses
-
-e.g., may guide where to look or what to look for
+- **top-down** (**conceptually driven**) **processing**: higher-level cognitive processes like memories, beliefs, or expectations affect interpretations of (possibly ambiguous) stimulus input gathered by the senses
+	- e.g., may guide where to look or what to look for
 
 Biederman (1981):
 
