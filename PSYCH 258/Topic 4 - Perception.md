@@ -98,11 +98,11 @@ e.g., Rubin figure (1915):
 
 Generally, figures:
 
-- appear to be in -----
+- appear to be in ==front==
 - are smaller
-- have well-defined -----
+- have well-defined ==shapes==
 - are meaningful
-- have more ------
+- have more detail
 - differ from background in brightness
 
 ### Laws of Perceptual Organization
@@ -119,7 +119,7 @@ Generally, figures:
 
 ![good continuation](PSYCH%20258/Attachments/p258s04-09.png)
 
-- **-------**: a space enclosed by a contour (real or illusory) tends to appear as a figure
+- **closure**: a space enclosed by a contour (real or illusory) tends to appear as a figure
 
 ![closure](PSYCH%20258/Attachments/p258s04-10.png)   ![Kanizsa triangle](PSYCH%20258/Attachments/p258s04-11.png)
 
