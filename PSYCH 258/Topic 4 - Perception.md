@@ -59,7 +59,6 @@ e.g., you see a hot ==stove== element, producing heat you feel; you know it is X
 - conclusion: ==conceptual== knowledge of context influences perception
 
 Palmer (1975):
-
 - observers shown contextual scene of a kitchen
 - then target object presented: a) loaf of bread, b) mailbox, or c) drum (none appeared in scene; only bread “belonged”)
 
@@ -67,17 +66,19 @@ Palmer (1975):
 
 - task: identify target object
 - result: identification performance was best for the loaf of bread
-- ------- leads you to expect certain things to fit in, and can enhance performance
+- ==context== leads you to expect certain things to fit in, and can enhance performance
 
 Coren, Porac, & Ward (1978): individual differences
-
 - presented ambiguous doodle-like figures:
 
 ![ambiguous doodles](PSYCH%20258/Attachments/p258s04-05.png)
 
 - interpreted differently by males vs. females
+	- a) Males: brush, centipede; Females: comb, teeth
+	- b) males: target; females: dinner plate
+	- c) males: head; females: cup
 
-------- needed between top-down and bottom-up processing:
+Balance needed between top-down and bottom-up processing:
 
 - only top-down ![→](PSYCH%20258-%20Perception-files/right-new.png) see only what you ------ to see--even if it differs from reality!?
 - only bottom-up ![→](PSYCH%20258-%20Perception-files/right-new.png) you can’t use anything you’ve ------- about the (perceptual) world
