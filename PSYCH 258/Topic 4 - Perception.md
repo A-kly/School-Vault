@@ -18,12 +18,12 @@
 
 ## What is Perception?
 
-- can be defined in terms of ------- processes, like receptor activation and neural firing
-- or in terms of ------ activity that mediates between sensation and awareness, interpreting what our senses tell us
+- can be defined in terms of ==sensory== processes, like receptor activation and neural firing
+- or in terms of ==mental== activity that mediates between sensation and awareness, interpreting what our senses tell us
 
-**---------**:
+**Sensation**:
 
-- process of -------- energy or chemicals in the environment in terms of neural signals
+- process of ==endocing== energy or chemicals in the environment in terms of neural signals
 - a basic experience elicited by a simple stimulus
 - more concerned with your own physical ----------
 
