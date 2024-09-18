@@ -127,40 +127,35 @@ Generally, figures:
 
 ![common fate](PSYCH%20258/Attachments/p258s04-12.gif)
 
-- **--------------**/**familiarity**: things that are meaningful or familiar tend to form groups
+- **meaningfulness**/**familiarity**: things that are meaningful or familiar tend to form groups
 
 ![meaningfulness](PSYCH%20258/Attachments/p258s04-13.png)
 
-- **law of --------** (“good figure” or “simplicity”): every stimulus pattern is seen in such a way that the resulting structure is as simple as possible
+- **law of  pragnanz** (“good figure” or “simplicity”): every stimulus pattern is seen in such a way that the resulting structure is as simple as possible
 
 ![Prägnanz](PSYCH%20258/Attachments/p258s04-14.png)
 
 Pros & cons:
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) -------- approach
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) operates -post hoc-; not good for predictions
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) not good at ------------
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) ----- definitions: “simplicity”?
+- [p]  holistic approach
+- [c] operates -post hoc-; not good for predictions
+- [c] not good at explanations
+- [c] vague definitions: “simplicity”?
 
 ---
 
 ## Object Perception
 
-- **-----------**: perceiving something as previously encountered
-- **--------------**: naming or classifying an object
+- **recognition**: perceiving something as previously encountered
+	- Yes or no question
+- **identification**: naming or classifying an object
 
-**Template-matching models**
-
-- assumptions:
-- represented as holistic, unanalyzed unit (--------)
-- input pattern compared to stored representations
-- stimulus categorized by exact match
-- pros & cons:
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) successfully used by --------
+- **Template-matching models**
+	- assumptions:
+		- represented as holistic, unanalyzed unit (--------)
+		- input pattern compared to stored representations
+		- stimulus categorized by exact match
+	- pros & cons:
+-  successfully used by --------
 
 e.g., MICR numbers on cheques, barcodes
 
