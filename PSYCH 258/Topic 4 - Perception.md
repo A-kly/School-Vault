@@ -203,16 +203,12 @@ Pros & cons:
 
 ![geons](PSYCH%20258/Attachments/p258s04-18.png)
 
-- **Principle of componential --------**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
+- **Principle of ==componential recovery==**: if object’s geons can be determined, then it can be identified--even if object is partially obscured
 - pros & cons:
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) has well-defined features
-
-![☑](PSYCH%20258-%20Perception-files/pro-new.png) can handle variation, novel stimuli
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) cannot handle context
-
-![☒](PSYCH%20258-%20Perception-files/con-new.png) may be too broad--objects also differ in their -------
+	- [p] has well-defined features
+	- [p] can handle variation, novel stimuli
+	- [c] cannot handle context
+	- [c] may be too broad--objects also differ in their -------
 
 ---
 
