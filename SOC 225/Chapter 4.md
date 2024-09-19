@@ -105,3 +105,4 @@
 	- Not protected against harm
 	- Not able to withdraw
 	- Cessation of the study if adverse effects did not happen
+	- **Risks did not outweigh the benefits**
