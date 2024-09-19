@@ -103,4 +103,5 @@
 	- Consent but not fully informed on the severity of the situation
 	- Not informed on risks
 	- Not protected against harm
-	- 
+	- Not able to withdraw
+	- Cessation of the study if adverse effects did not happen
