@@ -98,3 +98,9 @@
 - not disguised the true nature/purpose of the research (manipulation)
 - **==Benefits outweigh the risks==**
 	- Most important thing
+# Stanford Prison Experiment
+- Ethical standards violated:
+	- Consent but not fully informed on the severity of the situation
+	- Not informed on risks
+	- Not protected against harm
+	- 
