@@ -107,7 +107,7 @@ Generally, figures:
 
 ### Laws of Perceptual Organization
 
-- **---------**/**nearness**: things near to each other tend to be grouped together
+- ****/**nearness**: things near to each other tend to be grouped together
 
 ![proximity](PSYCH%20258/Attachments/p258s04-07.png)
 
