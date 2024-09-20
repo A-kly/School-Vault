@@ -270,7 +270,7 @@ Implications:
 
 - detecting visual features is critical in constructing a percept
 - perceiving features of a visual stimulus is separate from higher-level processing
-- connecting ------- with a visual pattern is a separate step
+- connecting ==meaning== with a visual pattern is a separate step
 - there are multiple visual pathways that handle perception and action
 
 ---
