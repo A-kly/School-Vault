@@ -107,15 +107,15 @@ Generally, figures:
 
 ### Laws of Perceptual Organization
 
-- ****/**nearness**: things near to each other tend to be grouped together
+- **Proximity**/**nearness**: things near to each other tend to be grouped together
 
 ![proximity](PSYCH%20258/Attachments/p258s04-07.png)
 
-- **----------**: similar things tend to be grouped together
+- **Similarity**: similar things tend to be grouped together
 
 ![similarity](PSYCH%20258/Attachments/p258s04-08.png)
 
-- **---- ------------**: points that, if connected, would result in either straight or smoothly curving lines, tend to be seen as belonging together
+- **Good Continuation**: points that, if connected, would result in either straight or smoothly curving lines, tend to be seen as belonging together
 
 ![good continuation](PSYCH%20258/Attachments/p258s04-09.png)
 
@@ -123,7 +123,7 @@ Generally, figures:
 
 ![closure](PSYCH%20258/Attachments/p258s04-10.png)   ![Kanizsa triangle](PSYCH%20258/Attachments/p258s04-11.png)
 
-- **------ ----**: things that are moving in the same direction tend to be grouped together
+- **Common Fate**: things that are moving in the same direction tend to be grouped together
 
 ![common fate](PSYCH%20258/Attachments/p258s04-12.gif)
 
@@ -179,7 +179,7 @@ Pros & cons:
 		- Stage 3: “==cognitive== Demons”
 			- determine which groups of features are present; each activated by several particular features
 			- e.g, **P R T** more than **A** or **X**
-		- Stage 4: “-------- Demon”
+		- Stage 4: “==Decision== Demon”
 			- identifies the pattern by listening for the Cognitive Demon shouting loudest
 			- e.g., **R**
 	- pros & cons:
@@ -208,7 +208,7 @@ Pros & cons:
 	- [p] has well-defined features
 	- [p] can handle variation, novel stimuli
 	- [c] cannot handle context
-	- [c] may be too broad--objects also differ in their -------
+	- [c] may be too broad--objects also differ in their details
 
 ---
 
