@@ -216,23 +216,20 @@ Pros & cons:
 
 - from Greek, meaning “without knowledge”
 - failure or deficit in perceiving or identifying objects (Freud, 1891)
+	- e.g., **prosopagnosia**: disruption of face perception; inability to recognize/identify friends and family; inability to read facial expressions/emotions
+		- may not be able to determine stimulus is a face
+		- or may have intact perception of facial features but no holistic face perception
 
-e.g., **-------------**: disruption of face perception; inability to recognize/identify friends and family; inability to read facial expressions/emotions
-
-- may not be able to determine stimulus is a face
-- or may have intact perception of facial features but no holistic face perception
-
-Categories of agnosias (Lissauer, 1890):
-
-- **------------**: failure to form a holistic percept; deficit in perception of whole objects
-- inability to extract global structure, despite intact low-level sensory processing (acuity, colour, and brightness discrimination intact)
-- cannot identify, discriminate, or copy complex visual forms, like ------
-- but they can grasp objects they cannot identify
-- a.k.a. **visual form agnosia**, or **visual space agnosia**
-- **-----------**: deficit in associating pattern with meaning (“recognition without meaning”)
-- cannot draw from memory
-- able to copy and draw pictures, but cannot identify them
-- can use other senses (e.g., touch, smell)
+- Categories of agnosias (Lissauer, 1890):
+	- **apperceptive**: failure to form a holistic percept; deficit in perception of whole objects
+		- inability to extract global structure, despite intact low-level sensory processing (acuity, colour, and brightness discrimination intact)
+		- cannot identify, discriminate, or copy complex visual forms, like shapes
+		- but they can grasp objects they cannot identify
+	- a.k.a. **visual form agnosia**, or **visual space agnosia**
+	- **-----------**: deficit in associating pattern with meaning (“recognition without meaning”)
+	- cannot draw from memory
+	- able to copy and draw pictures, but cannot identify them
+	- can use other senses (e.g., touch, smell)
 
 e.g., **visual ------ agnosia**: “convoluted red form with a linear green attachment” = ---- (Sacks, 1970)
 
