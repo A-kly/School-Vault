@@ -235,23 +235,20 @@ Pros & cons:
 - Specific agnosias (Farah, 2004):
 	- **category specific** (or **semantic**) agnosia: inability to identify living (or nonliving) objects, metals, fruit, vegetables, musical instruments, fabrics, and/or gemstones
 	- **Balint's syndrome**:
-	- inability to perceive more than one aspect of a visual stimulus, or integrate details into a coherent whole
-
-e.g., “a man...and mountains” = scene of ----- (Tyler, 1968)
-
-- person can identify individual objects, but cannot tell where they are located, or reach for them
+		- inability to perceive more than one aspect of a visual stimulus, or integrate details into a coherent whole
+		- e.g., “a man...and mountains” = scene of Egypt (Tyler, 1968)
+		- person can identify individual objects, but cannot tell where they are located, or reach for them
 
 Two somewhat distinct visual pathways (Ungerleider & Mishkin, 1982):
 
 ![what vs. where pathways](PSYCH%20258/Attachments/p258s04-19.jpg)
-
-- **“----” pathway**
-- concerned with object recognition and identification
-- from occipital lobe to temporal lobe; a.k.a. **ventral pathway**
-- **“-----” pathway**
-- involved in locating objects, motion, spatial relationships, depth
-- from occipital lobe to parietal lobe; a.k.a. **dorsal pathway**
-- supported by **-------dissociation**: in one case study, one ability is functioning, but another ability is not; and vice-versa in another case study
+- **“what” pathway**
+	- concerned with object recognition and identification
+	- from occipital lobe to temporal lobe; a.k.a. **ventral pathway**
+- **“where” pathway**
+	- involved in locating objects, motion, spatial relationships, depth
+	- from occipital lobe to parietal lobe; a.k.a. **dorsal pathway**
+	- supported by **double-dissociation**: *in one case study, one ability is functioning, but another ability is not; and vice-versa in another case study*
 - visual form agnosia: damaged “what” pathway, but intact “where” pathway
 - Bálint’s syndrome: intact “what” pathway, but damaged “where” pathway
 
