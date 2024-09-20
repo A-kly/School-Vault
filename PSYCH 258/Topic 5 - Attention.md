@@ -31,7 +31,7 @@
 	- performance poor, but gradually improved
 	- after 6 weeks, people ==could== both read and take dictation as well as either task alone
 
-| **---------**                           | **----------**                               |
+| **Automatic**                           | **Controlled/Effortful**                     |
 | --------------------------------------- | -------------------------------------------- |
 | no attentional resources                | require resources                            |
 | occur without intention                 | require conscious intention                  |
@@ -45,58 +45,47 @@
 
 ## The Myth of Multitasking
 
-The myth: Like computers, people are more efficient at getting things done when they perform multiple tasks at the same time.
+- The myth: Like computers, people are more efficient at getting things done when they perform multiple tasks at the same time.
 
-Evidence:
+- Evidence:
+	- children perform worse on their homework if it is done while watching TV
+	- using a cell phone while driving degrades driving ability; even with practice, performance does not improve
+	- studies show that “multitaskers” actually just ==switch== rapidly between tasks (called task-switching, time-sharing, and multiplexing)
 
-- children perform worse on their homework if it is done while watching TV
-- using a cell phone while driving degrades driving ability; even with practice, performance does not improve
-- studies show that “multitaskers” actually just ------ rapidly between tasks (called task-switching, time-sharing, and multiplexing)
+- Rubinstein, Meyer, & Evans (2001): Is multitasking more efficient?
+	- Experiment 1:
+		- multitasking group told to write a report and check their email at the same time
+		- second group told to complete one task before doing the other
+		- multitaskers took about 50% ------ than second group
+	- Experiment 2:
+		- participants switched between solving math problems and classifying geometric figures
+		- the more difficult the problems and the more complex the rules used in sorting, the more time the participants lost in switching
+		- executive control has two distinct, complementary stages:
+		- **---- shifting**: “I want to do this now instead of that”
+		- **---- activation**: “I’m turning off the rules for that and turning on the rules for this”
+		- switching between tasks has a cost; repeated switching can add up--as much as 40% of a person’s productive time
 
-Rubinstein, Meyer, & Evans (2001): Is multitasking more efficient?
+- Ophir, Nass, & Wagner (2009): What’s the difference between heavy- and light-multitaskers?
+	- participants: students who frequently performed media multitasking, and non-multitaskers
+	- tasks: computer-based working memory and attentional processing tasks
+	- heavy multitaskers did significantly worse than light multitaskers:
+	- more susceptible to ----------- items, which caused more errors
+	- less able to filter out irrelevant interference from interruptions
+	- performed more ------ on tasks that required them to quickly switch between tasks
+	- high-multitaskers adopt a breadth-biased strategy of information processing: attention is driven by external cues (called **--------**, a form of bottom-up processing)
+	- in contrast, attention can be controlled by higher-level cognition in service of a specific goal (called **---------**; top-down processing)
+	- but does multitasking cause--or is it caused by--the weaknesses in cognitive control shown by heavy multitaskers?
+		- i.e., Does media-multitasking make people more distractible, or are people who are more easily distracted become media-multitaskers?
 
-Experiment 1:
-
-- multitasking group told to write a report and check their email at the same time
-- second group told to complete one task before doing the other
-- multitaskers took about 50% ------ than second group
-
-Experiment 2:
-
-- participants switched between solving math problems and classifying geometric figures
-- the more difficult the problems and the more complex the rules used in sorting, the more time the participants lost in switching
-- executive control has two distinct, complementary stages:
-- **---- shifting**: “I want to do this now instead of that”
-- **---- activation**: “I’m turning off the rules for that and turning on the rules for this”
-- switching between tasks has a cost; repeated switching can add up--as much as 40% of a person’s productive time
-
-Ophir, Nass, & Wagner (2009): What’s the difference between heavy- and light-multitaskers?
-
-- participants: students who frequently performed media multitasking, and non-multitaskers
-- tasks: computer-based working memory and attentional processing tasks
-- heavy multitaskers did significantly worse than light multitaskers:
-- more susceptible to ----------- items, which caused more errors
-- less able to filter out irrelevant interference from interruptions
-- performed more ------ on tasks that required them to quickly switch between tasks
-- high-multitaskers adopt a breadth-biased strategy of information processing: attention is driven by external cues (called **--------**, a form of bottom-up processing)
-- in contrast, attention can be controlled by higher-level cognition in service of a specific goal (called **---------**; top-down processing)
-- but does multitasking cause--or is it caused by--the weaknesses in cognitive control shown by heavy multitaskers?
-
-i.e., Does media-multitasking make people more distractible, or are people who are more easily distracted become media-multitaskers?
-
-Just & colleagues (2001): What happens in the brain during multitasking?
-
-- measured brain activity while participants:
-
-a) did an auditory sentence comprehension task
-
-b) mentally rotated a 3-D figure
-
-- showed minimal task similarity: regions activated by each task barely ----------
-- when doing both tasks simultaneously:
-- performance slowed down and errors increased
-- brain activity was two-thirds ---- than the total devoted to both tasks when performed separately
-- conclusion: the brain cannot simply double its efforts when there are two problems to solve at the same time
+- Just & colleagues (2001): What happens in the brain during multitasking?
+	- measured brain activity while participants:
+		- a) did an auditory sentence comprehension task
+		- b) mentally rotated a 3-D figure
+	- showed minimal task similarity: regions activated by each task barely ----------
+	- when doing both tasks simultaneously:
+	- performance slowed down and errors increased
+	- brain activity was two-thirds ---- than the total devoted to both tasks when performed separately
+	- conclusion: the brain cannot simply double its efforts when there are two problems to solve at the same time
 
 Dux, Marois, & colleagues (2009): What prevents the brain from multitasking?
 
