@@ -249,35 +249,26 @@ Two somewhat distinct visual pathways (Ungerleider & Mishkin, 1982):
 	- involved in locating objects, motion, spatial relationships, depth
 	- from occipital lobe to parietal lobe; a.k.a. **dorsal pathway**
 	- supported by **double-dissociation**: *in one case study, one ability is functioning, but another ability is not; and vice-versa in another case study*
-- visual form agnosia: damaged “what” pathway, but intact “where” pathway
-- Bálint’s syndrome: intact “what” pathway, but damaged “where” pathway
+		- visual form agnosia: damaged “what” pathway, but intact “where” pathway
+		- Bálint’s syndrome: intact “what” pathway, but damaged “where” pathway
 
 Milner & Goodale (1996):
-
 - patient D.F. (“Diane”) had CO poisoning, which led to brain damage and visual form agnosia: unable to discriminate object identity, shape, orientation
-- cannot identify or draw an apple or a book by looking at them--but can draw them from memory or idenfity objects by holding them
+- cannot identify or draw an apple or a book by looking at them--but can draw them from memory or identify objects by holding them
 - can perceive colours and textures
-
-e.g., she can identify a banana from its yellow colour and texture of its surface)
-
-- to her own --------, she can accurately reach and grasp objects
-
-e.g., can reach out to appropriately grasp a banana
-
+	- e.g., she can identify a banana from its yellow colour and texture of its surface)
+- to her own ==surprise==, she can accurately reach and grasp objects
+	- e.g., can reach out to appropriately grasp a banana
 - tested on two similar, but different tasks:
-- ----------- matching: “Hold the card at the same slant as the slot”; D.F. much worse than a control participant
-
-![orientation matching results](PSYCH%20258/Attachments/p258s04-20.png)
-
-- visuomotor -------: “Put the card into the slot”; D.F. about the same as a control participant (intact dorsal stream)
-
-![visuomotor posting results](PSYCH%20258/Attachments/p258s04-21.png)
-
-- damaged “what” system, but intact “---” system (i.e., not just “where”, but -how- to interact with objects in space)
+	- ==orientation== matching: “Hold the card at the same slant as the slot”; D.F. much worse than a control participant
+		- ![orientation matching results](PSYCH%20258/Attachments/p258s04-20.png)
+	- visuomotor ==posting:== “Put the card into the slot”; D.F. about the same as a control participant (intact dorsal stream)
+		- ![visuomotor posting results](PSYCH%20258/Attachments/p258s04-21.png)
+- damaged “what” system, but intact “==**how**==” system (i.e., not just “where”, but -how- to interact with objects in space)
 
 Implications:
 
-- detecting visual features is critical in constructing a -------
+- detecting visual features is critical in constructing a percept
 - perceiving features of a visual stimulus is separate from higher-level processing
 - connecting ------- with a visual pattern is a separate step
 - there are multiple visual pathways that handle perception and action
