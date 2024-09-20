@@ -225,19 +225,17 @@ Pros & cons:
 		- inability to extract global structure, despite intact low-level sensory processing (acuity, colour, and brightness discrimination intact)
 		- cannot identify, discriminate, or copy complex visual forms, like shapes
 		- but they can grasp objects they cannot identify
-	- a.k.a. **visual form agnosia**, or **visual space agnosia**
-	- **-----------**: deficit in associating pattern with meaning (“recognition without meaning”)
-	- cannot draw from memory
-	- able to copy and draw pictures, but cannot identify them
-	- can use other senses (e.g., touch, smell)
+		- a.k.a. **visual form agnosia**, or **visual space agnosia**
+	- **associative**: deficit in associating pattern with meaning (“recognition without meaning”)
+		- cannot draw from memory
+		- able to copy and draw pictures, but cannot identify them
+		- can use other senses (e.g., touch, smell)
+		- e.g., **visual ==object== agnosia**: “convoluted red form with a linear green attachment” = ==rose== (Sacks, 1970)
 
-e.g., **visual ------ agnosia**: “convoluted red form with a linear green attachment” = ---- (Sacks, 1970)
-
-Specific agnosias (Farah, 2004):
-
-- **-------- specific** (or **semantic**) agnosia: inability to identify living (or nonliving) objects, metals, fruit, vegetables, musical instruments, fabrics, and/or gemstones
-- **-------- syndrome**:
-- inability to perceive more than one aspect of a visual stimulus, or integrate details into a coherent whole
+- Specific agnosias (Farah, 2004):
+	- **category specific** (or **semantic**) agnosia: inability to identify living (or nonliving) objects, metals, fruit, vegetables, musical instruments, fabrics, and/or gemstones
+	- **Balint's syndrome**:
+	- inability to perceive more than one aspect of a visual stimulus, or integrate details into a coherent whole
 
 e.g., “a man...and mountains” = scene of ----- (Tyler, 1968)
 
