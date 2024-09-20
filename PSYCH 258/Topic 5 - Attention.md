@@ -56,7 +56,7 @@
 	- Experiment 1:
 		- multitasking group told to write a report and check their email at the same time
 		- second group told to complete one task before doing the other
-		- multitaskers took about 50% ------ than second group
+		- multitaskers took about 50% ==longer== than second group
 	- Experiment 2:
 		- participants switched between solving math problems and classifying geometric figures
 		- the more difficult the problems and the more complex the rules used in sorting, the more time the participants lost in switching
