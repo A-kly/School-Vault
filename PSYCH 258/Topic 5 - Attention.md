@@ -186,24 +186,24 @@ E. Colin Cherry (1953): How does attention process speech?
 
 ## Early or Late Selection?
 - Johnston & Wilson (1980):
-	- participants heard word pairs, one of which was occasionally a word from a target category (e.g., animals)
+	- participants heard word pairs, one of which was occasionally a word from a *target category* (e.g., animals)
 	- target words were ==homonyms== (e.g., “bear” vs "bare")
 	- simultaneously paired nontarget word was:
-		- appropriate (e.g., “hybernate”)
-		- inappropriate (e.g., “naked”)
+		- appropriate (e.g., “==hybernate==”)
+		- inappropriate (e.g., “==naked==”)
 		- or neutral (e.g., “luck”)
-	-  attention: observers not told which ear would get the target
-	- detection of targets improved with appropriate nontargets
-	- worse with inappropriate
-	- ------- (selective) attention: observers told which ear the target would appear in
-	- nontargets had no effect on target detection
+	- ==divided== attention: observers not told which ear would get the target
+		- detection of targets improved with appropriate nontargets
+		- worse with inappropriate
+	- ==focussed== (selective) attention: observers told which ear the target would appear in
+		- nontargets had no effect on target detection
 	- ![Johnston & Wilson graph](PSYCH%20258/Attachments/p258s05-06.png)
-	- amount of attention given to ---------- was as much as needed to accomplish the task
+	- amount of attention given to ==nontargets== was as much as needed to accomplish the task
 
-- **--------- Theory** (Johnston & Heinz, 1978):
-	- there may be ---------- filters (preattentive and attentive)
-	- to minimize demands on capacity, early selection may occur, filtering out unnecessary stimuli (--------- attention)
-	- to evaluate a broad range of incoming information, late selection may occur (------- attention)
+- **==Multimode== Theory** (Johnston & Heinz, 1978):
+	- there may be *multiple* filters (preattentive and attentive)
+	- to minimize demands on capacity, early selection may occur, filtering out unnecessary stimuli ( ==selective== attention)
+	- to evaluate a broad range of incoming information, late selection may occur (divided attention)
 
 ---
 ## Visual Attention
