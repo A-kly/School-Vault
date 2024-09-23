@@ -99,7 +99,7 @@
 	- no difference in classification performance
 	- however, experimental group was not able to ==extrapolate== their knowledge to new cards
 	- focused attention during learning activated the ==hippocampus== - used in declarative (explicit) memory formation
-	- learning while multitasking activated the str-used in habit learning, which is applied less flexibly in new situations
+	- learning while multitasking activated the ==striatum== -used in habit learning, which is applied less flexibly in new situations
 
 ---
 
@@ -107,20 +107,16 @@
 
 E. Colin Cherry (1953): How does attention process speech?
 
-- **-------- presentation**: two different messages presented simultaneously to both ears
-
-![binaural presentation](PSYCH%20258/Attachments/p258s05-01.png)
-
-- almost impossible to ------ a single message (repeat out loud what you have just heard)
-- practical problem: in the 1950s, air traffic controllers hearing multiple pilot messages over loudspeakers would get them mixed up
-- **-------- presentation**: two different messages; one presented to each ear
-
-![dichotic presentation](PSYCH%20258/Attachments/p258s05-02.png)
-
-- participants accurately **--------** messages
-- could tell ------- characteristics from unattended ear: music/noise/speech; male/female voice
-- no -------- (meaning-based) processing
-- **“-------- -----” effect**: the ability to selectively attend to one message while ignoring all other messages
+- **==binaural== presentation**: two different messages presented simultaneously to both ears
+	- ![binaural presentation](PSYCH%20258/Attachments/p258s05-01.png)
+	- almost impossible to ==shadow== a single message (repeat out loud what you have just heard)
+	- practical problem: in the 1950s, air traffic controllers hearing multiple pilot messages over loudspeakers would get them mixed up
+- **==dichotic== presentation**: two different messages; one presented to each ear
+	- ![dichotic presentation](PSYCH%20258/Attachments/p258s05-02.png)
+	- participants accurately **==shadowed==** messages
+	- could tell ==sensory== characteristics from unattended ear: music/noise/speech; male/female voice
+	- no ==semantic== (meaning-based) processing
+	- **“-------- -----” effect**: the ability to selectively attend to one message while ignoring all other messages
 
 e.g., having a conversation in the middle of a noisy party and not attending to others
 
