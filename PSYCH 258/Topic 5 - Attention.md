@@ -69,11 +69,11 @@
 	- participants: students who frequently performed media multitasking, and non-multitaskers
 	- tasks: computer-based working memory and attentional processing tasks
 	- heavy multitaskers did significantly worse than light multitaskers:
-	- more susceptible to distracting items, which caused more errors
+	- more susceptible to ==distracting== items, which caused more errors
 	- less able to filter out irrelevant interference from interruptions
-	- performed more ------ on tasks that required them to quickly switch between tasks
-	- high-multitaskers adopt a breadth-biased strategy of information processing: attention is driven by external cues (called **--------**, a form of bottom-up processing)
-	- in contrast, attention can be controlled by higher-level cognition in service of a specific goal (called **---------**; top-down processing)
+	- performed more ==slowly== on tasks that required them to quickly switch between tasks
+	- high-multitaskers adopt a breadth-biased strategy of information processing: attention is driven by external cues (called **==reactive==**, a form of bottom-up processing)
+	- in contrast, attention can be controlled by higher-level cognition in service of a specific goal (called **==proactive==**; top-down processing)
 	- but does multitasking cause--or is it caused by--the weaknesses in cognitive control shown by heavy multitaskers?
 		- i.e., Does media-multitasking make people more distractible, or are people who are more easily distracted become media-multitaskers?
 
@@ -81,19 +81,19 @@
 	- measured brain activity while participants:
 		- a) did an auditory sentence comprehension task
 		- b) mentally rotated a 3-D figure
-	- showed minimal task similarity: regions activated by each task barely ----------
+	- showed minimal task similarity: regions activated by each task barely ==overlapped==
 	- when doing both tasks simultaneously:
-	- performance slowed down and errors increased
-	- brain activity was two-thirds ---- than the total devoted to both tasks when performed separately
+		- performance slowed down and errors increased
+		- brain activity was two-thirds ---- than the total devoted to both tasks when performed separately
 	- conclusion: the brain cannot simply double its efforts when there are two problems to solve at the same time
 
-Dux, Marois, & colleagues (2009): What prevents the brain from multitasking?
+- Dux, Marois, & colleagues (2009): What prevents the brain from multitasking?
 
 - used fMRI scans when people were juggling two tasks
 - ---------- cortex appeared to deal with the tasks one by one, creating a mental bottleneck
 - thus, limits on processing arose from slow processing in the prefrontal cortex, the brain’s central executive
 
-Poldrack & colleagues (2006): How does multitasking affect learning?
+- Poldrack & colleagues (2006): How does multitasking affect learning?
 
 - participants learned a simple card classification task by trial and error, while in fMRI scanner:
 - control group learned without distractions
