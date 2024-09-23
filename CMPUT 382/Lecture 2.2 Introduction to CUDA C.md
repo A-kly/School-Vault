@@ -129,3 +129,12 @@ void vecAdd(float* h_A, float* h_B, float* h_C, int n)
 # CUDA Function Declarations
 ![[Pasted image 20240913142512.png]]
 # Arrays of Parallel Threads
+- A CUDA kernel is executed by a grid (array) of threads
+	- All threads in a grid run the same kernel code (Single Program Multiple Data)
+	- Each thread has indexes that it uses to compute memory addresses and make control decisions
+	- ![[Pasted image 20240923133800.png]]
+## Threads blocks are scalable
+- Divide thread array into multiple blocks
+	- Threads within a block cooperate via shared memory, *atomic operations and barrier synchronization*
+	- Threads in different blocks do not interact
+# ==I hope that it will be easi
