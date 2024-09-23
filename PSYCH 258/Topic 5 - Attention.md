@@ -61,15 +61,15 @@
 		- participants switched between solving math problems and classifying geometric figures
 		- the more difficult the problems and the more complex the rules used in sorting, the more time the participants lost in switching
 		- executive control has two distinct, complementary stages:
-		- **---- shifting**: “I want to do this now instead of that”
-		- **---- activation**: “I’m turning off the rules for that and turning on the rules for this”
-		- switching between tasks has a cost; repeated switching can add up--as much as 40% of a person’s productive time
+			- **==goal== shifting**: “I want to do this now instead of that”
+			- **==rule== activation**: “I’m turning off the rules for that and turning on the rules for this”
+			- switching between tasks has a cost; repeated switching can add up--as much as 40% of a person’s productive time
 
 - Ophir, Nass, & Wagner (2009): What’s the difference between heavy- and light-multitaskers?
 	- participants: students who frequently performed media multitasking, and non-multitaskers
 	- tasks: computer-based working memory and attentional processing tasks
 	- heavy multitaskers did significantly worse than light multitaskers:
-	- more susceptible to ----------- items, which caused more errors
+	- more susceptible to distracting items, which caused more errors
 	- less able to filter out irrelevant interference from interruptions
 	- performed more ------ on tasks that required them to quickly switch between tasks
 	- high-multitaskers adopt a breadth-biased strategy of information processing: attention is driven by external cues (called **--------**, a form of bottom-up processing)
