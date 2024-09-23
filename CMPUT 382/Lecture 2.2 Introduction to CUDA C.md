@@ -110,7 +110,7 @@ void vecAddKernel(float* A, float* B, float* C, int n)
 }
 ```
 - The line `int i = threadIdx.x+blockDim.x*blockIdx.x;` is used to determine where in memory we are retrieving data
-- 
+	- 
 ## Example: Vector Addition Kernel Launch (Host Code)
 **Host Code**
 - THIS CODE RUNS ON CPU
@@ -128,3 +128,4 @@ void vecAdd(float* h_A, float* h_B, float* h_C, int n)
 ![[Pasted image 20240913142330.png]]
 # CUDA Function Declarations
 ![[Pasted image 20240913142512.png]]
+# Arrays of Parallel Threads
