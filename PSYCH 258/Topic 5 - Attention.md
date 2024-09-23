@@ -116,54 +116,41 @@ E. Colin Cherry (1953): How does attention process speech?
 	- participants accurately **==shadowed==** messages
 	- could tell ==sensory== characteristics from unattended ear: music/noise/speech; male/female voice
 	- no ==semantic== (meaning-based) processing
-	- **“-------- -----” effect**: the ability to selectively attend to one message while ignoring all other messages
+	- **“==cocktail party==” effect**: the ability to selectively attend to one message while ignoring all other messages
+		- e.g., having a conversation in the middle of a noisy party and not attending to others
+	- how is one message selected over others?
+		- “how do we recognize what one person is saying when others are speaking at the same time (the ‘cocktail party problem’)?” (Cherry, 1953, pp. 975-976)
 
-e.g., having a conversation in the middle of a noisy party and not attending to others
+- **Filter Model** (Donald Broadbent, 1958):
+	- **==early== selection**: information filtered -*before*- semantic analysis
+		- ![Broadbent’s Filter Model](PSYCH%20258/Attachments/p258s05-03.png)
+	- **split-span (dichotic) experiment**:
 
-- how is one message selected over others?
-
-“how do we recognize what one person is saying when others are speaking at the same time (the ‘cocktail party problem’)?” (Cherry, 1953, pp. 975-976)
-
-**Filter Model** (Donald Broadbent, 1958):
-
-- **----- selection**: information filtered -before- semantic analysis
-
-![Broadbent’s Filter Model](PSYCH%20258/Attachments/p258s05-03.png)
-
-- split-span (dichotic) experiment:
-
-|   |   |
-|---|---|
-|**left ear:**|**right ear:**|
-|seven|four|
-|four|one|
-|three|nine|
+| **left ear:** | **right ear:** |
+| :-----------: | :------------: |
+|     seven     |      four      |
+|     four      |      one       |
+|     three     |      nine      |
 
 - recall digits by ear (7-4-3 or 4-1-9): --% correct
 - recall the digits by pairs (7-4 or 4-1 or 3-9): 20% correct
 - -------- attention uses energy, takes time; pairwise recall takes more attention
 - multiple tasks performed by attention switching back and forth between them
 - problems:
+	- [c] Moray (1959):
+		- found that important information from unattended ear was processed (e.g., hearing “Fire!” or your name)
+		- suggests ------------ relevant content is not filtered out early on
+	- [c] Gray & Wedderburn (1960):
+		- Oxford undergraduates found ------ occurred in dichotic shadowing experiments
 
-![☒](PSYCH%20258-%20Attention-files/con-new.png) Moray (1959):
-
-- found that important information from unattended ear was processed (e.g., hearing “Fire!” or your name)
-- suggests ------------ relevant content is not filtered out early on
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) Gray & Wedderburn (1960):
-
-- Oxford undergraduates found ------ occurred in dichotic shadowing experiments
-
-|   |   |
-|---|---|
-|**left ear:**|**right ear:**|
-|Dear|nine|
-|seven|Aunt|
-|Jane|six|
-
-- implies filtering not based on “--------,” but on semantic properties
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) Treisman (1960):
+| **left ear:** | **right ear:** |
+| ------------- | -------------- |
+| Dear          | nine           |
+| seven         | Aunt           |
+| Jane          | six            |
+- 
+	- implies filtering not based on “--------,” but on semantic properties
+		- [c] Treisman (1960):
 
 - similar shadowing experiment
 - message in attended ear was switched to unattended ear:
