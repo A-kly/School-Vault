@@ -91,8 +91,10 @@ if (err != cudaSuccess) {
 - Heterogeneous host (CPU) + device (GPU) application C program
 	- Serial parts in host C code
 	- Parallel parts in device Single Program Multiple Data (SPMD) kernel code
+	- **Each SM computes a block, sequentially in groups of 32**
 
 ![[Pasted image 20240913141554.png]]
+- nBlk = **Number of bloc**
 ## Example: Vector Addition Kernel
 **Device Code**
 - THIS CODE RUNS ON GPU
