@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+                "file": "PSYCH 258/Topic 5 - Attention.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md"
+                "file": "PSYCH 258/Topic 5 - Attention.md"
               }
             }
           },
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+                "file": "PSYCH 258/Topic 5 - Attention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+                "file": "PSYCH 258/Topic 5 - Attention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md"
+                "file": "PSYCH 258/Topic 5 - Attention.md"
               }
             }
           },
@@ -193,8 +193,8 @@
   },
   "active": "69be80d37106e69f",
   "lastOpenFiles": [
-    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
+    "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "PSYCH 258/Topic 5 - Attention.md",
     "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Attachments/p258s05-09.png",

@@ -94,7 +94,8 @@ if (err != cudaSuccess) {
 	- **Each SM computes a block, sequentially in groups of 32**
 
 ![[Pasted image 20240913141554.png]]
-- nBlk = **Number of bloc**
+- nBlk = **Number of blocks**
+- nTid = **Number of threads**
 ## Example: Vector Addition Kernel
 **Device Code**
 - THIS CODE RUNS ON GPU
