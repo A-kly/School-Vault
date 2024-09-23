@@ -174,9 +174,9 @@ E. Colin Cherry (1953): How does attention process speech?
 			- attended ear presented with sentence: “They threw stones toward the bank yesterday.”
 			- non-attended ear presented with words including “==money==” or “==river==”
 			- recognition task: 4.2% more likely to (incorrectly) recognize: “They threw stones toward the savings and loan association yesterday.” despite no memory for hearing “==money==”
-			- information from unattended ear processed to the level of meaning; implies -late- selection
+			- information from unattended ear processed to the level of meaning; implies -*late*- selection
 
-- **---- Selection Models** (Deutsch & Deutsch, 1963; Norman, 1968):
+- **Late Selection Models** (Deutsch & Deutsch, 1963; Norman, 1968):
 	- stimuli are filtered after processing based on their physical properties and meaning
 	- selection based on importance of recognized item, or meaning
 	- memory processes devoted to selected inputs
@@ -185,53 +185,40 @@ E. Colin Cherry (1953): How does attention process speech?
 		- [c] unlikely that all incoming stimuli are processed by deep semantic analysis
 
 ## Early or Late Selection?
+- Johnston & Wilson (1980):
+	- participants heard word pairs, one of which was occasionally a word from a target category (e.g., animals)
+	- target words were ==homonyms== (e.g., “bear” vs "bare")
+	- simultaneously paired nontarget word was:
+		- appropriate (e.g., “hybernate”)
+		- inappropriate (e.g., “naked”)
+		- or neutral (e.g., “luck”)
+	-  attention: observers not told which ear would get the target
+	- detection of targets improved with appropriate nontargets
+	- worse with inappropriate
+	- ------- (selective) attention: observers told which ear the target would appear in
+	- nontargets had no effect on target detection
+	- ![Johnston & Wilson graph](PSYCH%20258/Attachments/p258s05-06.png)
+	- amount of attention given to ---------- was as much as needed to accomplish the task
 
-Johnston & Wilson (1980):
-
-- participants heard word pairs, one of which was occasionally a word from a target category (e.g., animals)
-- target words were -------- (e.g., “bear”)
-- simultaneously paired nontarget word was:
-- appropriate (e.g., “---------”)
-- inappropriate (e.g., “-----”)
-- or neutral (e.g., “luck”)
-- ------- attention: observers not told which ear would get the target
-- detection of targets improved with appropriate nontargets
-- worse with inappropriate
-- ------- (selective) attention: observers told which ear the target would appear in
-- nontargets had no effect on target detection
-
-![Johnston & Wilson graph](PSYCH%20258/Attachments/p258s05-06.png)
-
-- amount of attention given to ---------- was as much as needed to accomplish the task
-
-**--------- Theory** (Johnston & Heinz, 1978):
-
-- there may be ---------- filters (preattentive and attentive)
-- to minimize demands on capacity, early selection may occur, filtering out unnecessary stimuli (--------- attention)
-- to evaluate a broad range of incoming information, late selection may occur (------- attention)
+- **--------- Theory** (Johnston & Heinz, 1978):
+	- there may be ---------- filters (preattentive and attentive)
+	- to minimize demands on capacity, early selection may occur, filtering out unnecessary stimuli (--------- attention)
+	- to evaluate a broad range of incoming information, late selection may occur (------- attention)
 
 ---
-
 ## Visual Attention
 
-**------- ----------- Theory** (Treisman, 1986; Treisman & Gelade, 1980)
-
-- Anne Treisman (b.1935, d.2018) won the 2009 Grawemeyer Award in Psychology, and received the 2011 US National Medal of Science
-- attention must be focused on particular stimulus attributes or parts in space to construct a representation or percept
-
-1. **------------ stage**:
-
-- rapid, automatic decomposition of stimulus into a number of basic properties (“primitives”)
-- processing is in parallel
-
-2. **------- attention stage**:
-
-- serial process
-- spatial location selected, and primitives existing at this spot are combined
-
-e.g., redness and X shape combined into red X
-
-- combination object is called ------ ----; only exists temporarily to be examined by focused attention
+- **------- ----------- Theory** (Treisman, 1986; Treisman & Gelade, 1980)
+	- Anne Treisman (b.1935, d.2018) won the 2009 Grawemeyer Award in Psychology, and received the 2011 US National Medal of Science
+	- attention must be focused on particular stimulus attributes or parts in space to construct a representation or percept
+	1. **------------ stage**:
+		- rapid, automatic decomposition of stimulus into a number of basic properties (“primitives”)
+		- processing is in parallel
+	1. **------- attention stage**:
+		- serial process
+		- spatial location selected, and primitives existing at this spot are combined
+			- e.g., redness and X shape combined into red X
+		- combination object is called ------ ----; only exists temporarily to be examined by focused attention
 
 Visual search:
 
