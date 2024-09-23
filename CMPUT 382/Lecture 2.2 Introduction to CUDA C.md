@@ -137,4 +137,4 @@ void vecAdd(float* h_A, float* h_B, float* h_C, int n)
 - Divide thread array into multiple blocks
 	- Threads within a block cooperate via shared memory, *atomic operations and barrier synchronization*
 	- Threads in different blocks do not interact
-# ==I hope that it will be easi
+# ==I hope that it will be easier to follow this class by watching lectures without taking notes, or taking minimal ones, and not copying slides. I'm starting that now
