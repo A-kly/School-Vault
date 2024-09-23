@@ -147,7 +147,7 @@ E. Colin Cherry (1953): How does attention process speech?
 | Dear          | nine           |
 | seven         | Aunt           |
 | Jane          | six            |
-- implies filtering not based on “--------,” but on semantic properties
+- implies filtering not based on “==location==,” but on semantic properties
 - [c] Treisman (1960):
 	- similar shadowing experiment
 	- message in attended ear was switched to unattended ear:
@@ -156,43 +156,33 @@ E. Colin Cherry (1953): How does attention process speech?
 | ------------------------------------------ | ---------------------------------------------- |
 | In the picnic basket she had peanut butter | cat, large, day, apple, friend, every, select, |
 | book, leaf, roof, sample, always           | sandwiches and chocolate brownies...           |
-- participants momentarily followed message to the other ear!
+- participants momentarily ==followed== message to the other ear!
 - conclusion: unattended signals are being analyzed
-- incoming stimuli other than the target are ---------- (weakened)
+- incoming stimuli other than the target are ==attenuated== (weakened)
 
-**Attenuation Model** (Treisman, 1964):
+- **Attenuation Model** (Treisman, 1964):
+	- attenuator analyzes stimuli on the basis of:
+		- physical characteristics
+		- language (syllables, words)
+		- meaning
+	- ![Treisman’s Attenuation Model](PSYCH%20258/Attachments/p258s05-04.png)
 
-- attenuator analyzes stimuli on the basis of:
-- physical characteristics
-- language (syllables, words)
-- meaning
+	- further processing occurs if information meets **==pattern== recognition threshold** in the “dictionary unit”
+	- e.g., common words, high importance (your name or “Help!”), relevance/expectations (words that fit the current context)
+	- problem:
+		- [c] MacKay (1973):
+			- attended ear presented with sentence: “They threw stones toward the bank yesterday.”
+			- non-attended ear presented with words including “==money==” or “==river==”
+			- recognition task: 4.2% more likely to (incorrectly) recognize: “They threw stones toward the savings and loan association yesterday.” despite no memory for hearing “==money==”
+			- information from unattended ear processed to the level of meaning; implies -late- selection
 
-![Treisman’s Attenuation Model](PSYCH%20258/Attachments/p258s05-04.png)
-
-- further processing occurs if information meets **------- recognition threshold** in the “dictionary unit”
-
-e.g., common words, high importance (your name or “Help!”), relevance/expectations (words that fit the current context)
-
-- problem:
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) MacKay (1973):
-
-- attended ear presented with sentence: “They threw stones toward the bank yesterday.”
-- non-attended ear presented with words including “-----” or “-----”
-- recognition task: 4.2% more likely to (incorrectly) recognize: “They threw stones toward the savings and loan association yesterday.” despite no memory for hearing “-----”
-- information from unattended ear processed to the level of meaning; implies -late- selection
-
-**---- Selection Models** (Deutsch & Deutsch, 1963; Norman, 1968):
-
-- stimuli are filtered after processing based on their physical properties and meaning
-- selection based on importance of recognized item, or meaning
-- memory processes devoted to selected inputs
-
-![Late Selection Model](PSYCH%20258/Attachments/p258s05-05.png)
-
-- problem:
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) unlikely that all incoming stimuli are processed by deep semantic analysis
+- **---- Selection Models** (Deutsch & Deutsch, 1963; Norman, 1968):
+	- stimuli are filtered after processing based on their physical properties and meaning
+	- selection based on importance of recognized item, or meaning
+	- memory processes devoted to selected inputs
+	- ![Late Selection Model](PSYCH%20258/Attachments/p258s05-05.png)
+	- problem:
+		- [c] unlikely that all incoming stimuli are processed by deep semantic analysis
 
 ## Early or Late Selection?
 
