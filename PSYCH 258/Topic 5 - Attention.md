@@ -84,24 +84,22 @@
 	- showed minimal task similarity: regions activated by each task barely ==overlapped==
 	- when doing both tasks simultaneously:
 		- performance slowed down and errors increased
-		- brain activity was two-thirds ---- than the total devoted to both tasks when performed separately
+		- brain activity was two-thirds ==less== than the total devoted to both tasks when performed separately
 	- conclusion: the brain cannot simply double its efforts when there are two problems to solve at the same time
 
 - Dux, Marois, & colleagues (2009): What prevents the brain from multitasking?
-
-- used fMRI scans when people were juggling two tasks
-- ---------- cortex appeared to deal with the tasks one by one, creating a mental bottleneck
-- thus, limits on processing arose from slow processing in the prefrontal cortex, the brain’s central executive
+	- used fMRI scans when people were juggling two tasks
+	- ==prefrontal== cortex appeared to deal with the tasks one by one, creating a mental bottleneck
+	- thus, limits on processing arose from slow processing in the prefrontal cortex, the brain’s central executive
 
 - Poldrack & colleagues (2006): How does multitasking affect learning?
-
-- participants learned a simple card classification task by trial and error, while in fMRI scanner:
-- control group learned without distractions
-- experimental group performed task while also listening to high and low beeps, counting the number of high beeps
-- no difference in classification performance
-- however, experimental group was not able to ----------- their knowledge to new cards
-- focused attention during learning activated the -------------used in declarative (explicit) memory formation
-- learning while multitasking activated the ----------used in habit learning, which is applied less flexibly in new situations
+	- participants learned a simple card classification task by trial and error, while in fMRI scanner:
+		- control group learned without distractions
+		- experimental group performed task while also listening to high and low beeps, counting the number of high beeps
+	- no difference in classification performance
+	- however, experimental group was not able to ==extrapolate== their knowledge to new cards
+	- focused attention during learning activated the ==hippocampus== - used in declarative (explicit) memory formation
+	- learning while multitasking activated the str-used in habit learning, which is applied less flexibly in new situations
 
 ---
 
