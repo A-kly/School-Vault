@@ -131,37 +131,32 @@ E. Colin Cherry (1953): How does attention process speech?
 |     seven     |      four      |
 |     four      |      one       |
 |     three     |      nine      |
-
-- recall digits by ear (7-4-3 or 4-1-9): --% correct
+- recall digits by ear (7-4-3 or 4-1-9): 65% correct
 - recall the digits by pairs (7-4 or 4-1 or 3-9): 20% correct
-- -------- attention uses energy, takes time; pairwise recall takes more attention
+- ==shifting== attention uses energy, takes time; pairwise recall takes more attention
 - multiple tasks performed by attention switching back and forth between them
 - problems:
-	- [c] Moray (1959):
-		- found that important information from unattended ear was processed (e.g., hearing “Fire!” or your name)
-		- suggests ------------ relevant content is not filtered out early on
-	- [c] Gray & Wedderburn (1960):
-		- Oxford undergraduates found ------ occurred in dichotic shadowing experiments
+- [c] Moray (1959):
+	- found that important information from unattended ear was processed (e.g., hearing “Fire!” or your name)
+		- suggests ==semantically== relevant content is **not filtered out early on**
+- [c] Gray & Wedderburn (1960):
+	- Oxford undergraduates found ==errors== occurred in dichotic shadowing experiments
 
 | **left ear:** | **right ear:** |
 | ------------- | -------------- |
 | Dear          | nine           |
 | seven         | Aunt           |
 | Jane          | six            |
-- 
-	- implies filtering not based on “--------,” but on semantic properties
-		- [c] Treisman (1960):
+- implies filtering not based on “--------,” but on semantic properties
+- [c] Treisman (1960):
+	- similar shadowing experiment
+	- message in attended ear was switched to unattended ear:
 
-- similar shadowing experiment
-- message in attended ear was switched to unattended ear:
-
-|   |   |
-|---|---|
-|**left ear:**|**right ear:**|
-|In the picnic basket she had peanut butter|cat, large, day, apple, friend, every, select,|
-|book, leaf, roof, sample, always|sandwiches and chocolate brownies...|
-
-- participants momentarily -------- message to the other ear!
+| **left ear:**                              | **right ear:**                                 |
+| ------------------------------------------ | ---------------------------------------------- |
+| In the picnic basket she had peanut butter | cat, large, day, apple, friend, every, select, |
+| book, leaf, roof, sample, always           | sandwiches and chocolate brownies...           |
+- participants momentarily followed message to the other ear!
 - conclusion: unattended signals are being analyzed
 - incoming stimuli other than the target are ---------- (weakened)
 
