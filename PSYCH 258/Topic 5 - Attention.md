@@ -208,17 +208,17 @@ E. Colin Cherry (1953): How does attention process speech?
 ---
 ## Visual Attention
 
-- **------- ----------- Theory** (Treisman, 1986; Treisman & Gelade, 1980)
+- **==Feature Integration== Theory** (Treisman, 1986; Treisman & Gelade, 1980)
 	- Anne Treisman (b.1935, d.2018) won the 2009 Grawemeyer Award in Psychology, and received the 2011 US National Medal of Science
-	- attention must be focused on particular stimulus attributes or parts in space to construct a representation or percept
-	1. **------------ stage**:
+	- ***attention must be focused on particular stimulus attributes or parts in space to construct a representation or percept***
+	1. **==Preattentive== stage**:
 		- rapid, automatic decomposition of stimulus into a number of basic properties (“primitives”)
 		- processing is in parallel
-	1. **------- attention stage**:
+	2. **==Focused== attention stage**:
 		- serial process
 		- spatial location selected, and primitives existing at this spot are combined
 			- e.g., redness and X shape combined into red X
-		- combination object is called ------ ----; only exists temporarily to be examined by focused attention
+		- combination object is called ==object file==; only exists temporarily to be examined by focused attention
 
 Visual search:
 
