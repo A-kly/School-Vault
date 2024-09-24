@@ -126,3 +126,11 @@
 	- Allows for comparisons between jurisdictions or over time, and 
 	- Is not influenced by differences in population size between jurisdictions, or changes in population size in one jurisdiction.
 - **Not accurate of accurate crime amount, simply can be used as a comparison tool over time and across jurisdictions**
+---
+- Crime rate is staying about the same
+- Young offenders commit ~20%$ of crime
+- ![[Pasted image 20240924100251.png]]
+- Youth crime rate fell dramatically between 2011 and 2021
+	- result of widespread decreases in the rates of nearly all reported property and some violent violations
+	- ![[Pasted image 20240924100549.png]]
+### What factors might influence the crime rate
