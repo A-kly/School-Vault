@@ -160,6 +160,7 @@
 - protecting offender
 - Revenge
 - Not sure if the behavior is criminal
+# Victimization surveys
 ## What have we learned from victimization studies
 - Victimization surveys cannot capture the entire "dark" figure missed by the UCR, but victimization data show that many more Canadians are victimized than is revealed by official statistics
 - Some categories of offenders (for example, family members) are less likely to be reported. Victimization surveys go beyond merely counting crime. 
@@ -168,3 +169,11 @@
 ### What age group is most at risk for violent crime
 ![[Pasted image 20240924103213.png]]
 - BUT elderly are the most scared of violent crime
+## Most common crimes according to the UCR
+1. Theft under $5000
+2. drug offences
+3. administration of justice issues
+	1. Refusing to face community service sentence for example
+4. common assault - level 1 (no use of weapon to cause bodily harm)
+
+![[Pasted image 20240924103549.png]]
