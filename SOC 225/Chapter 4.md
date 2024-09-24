@@ -98,7 +98,7 @@
 - not disguised the true nature/purpose of the research (manipulation)
 - **==Benefits outweigh the risks==**
 	- Most important thing
-# Stanford Prison Experiment
+## Stanford Prison Experiment
 - Ethical standards violated:
 	- Consent but not fully informed on the severity of the situation
 	- Not informed on risks
@@ -106,3 +106,9 @@
 	- Not able to withdraw
 	- Cessation of the study if adverse effects did not happen
 	- **Risks did not outweigh the benefits**
+# Challenges of Researching Crime
+- Police cannot record unreported crime or crime of which they are unaware
+- Deeper you go into the criminal justice system, the more obvious it becomes that you are collecting stats on the CSJ
+	- Prison population stats are more representative of how society responds to crime, but are not a valid measure of the scope and nature of crime
+- The crime funnel affects police-recorded crime rate.
+	- ![[Pasted image 20240924094550.png]]

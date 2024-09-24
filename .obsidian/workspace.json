@@ -11,8 +11,13 @@
             "id": "35f61afbca18bd45",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SOC 225/Chapter 4.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SOC 225/Chapter 4.md"
+              }
             }
           },
           {
@@ -101,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SOC 225/Chapter 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SOC 225/Chapter 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "SOC 225/Chapter 4.md"
+              }
             }
           },
           {
@@ -168,6 +179,7 @@
   },
   "active": "35f61afbca18bd45",
   "lastOpenFiles": [
+    "SOC 225/Media/Pasted image 20240924094550.png",
     "SOC 225/AI TEXTBOOK SUMMARY.md",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
     "SOC 225/Chapter 4.md",
@@ -212,7 +224,6 @@
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
     "PSYCH 239/8. Personality Disorders.md",
     "PSYCH 239/Sz quiz.md",
-    "PSYCH 239/GI Quiz.md",
     "PSYCH 239/antipsychotic psychopharmacology - Dr. Oskin.pdf",
     "Untitled.canvas",
     "The game/Map.canvas"
