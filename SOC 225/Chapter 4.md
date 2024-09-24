@@ -112,3 +112,10 @@
 	- Prison population stats are more representative of how society responds to crime, but are not a valid measure of the scope and nature of crime
 - The crime funnel affects police-recorded crime rate.
 	- ![[Pasted image 20240924094550.png]]
+## How can we get around the problems associated with the crime funnel
+
+## How much crime
+- Problematic to count, as it is in secret or goes unreported
+	- aka. abuse, domestic violence
+- major problem in stats = dark figure of crime
+	- crime remains unreported, unrecorded, and/or largely unknown
