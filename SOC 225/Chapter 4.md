@@ -112,10 +112,17 @@
 	- Prison population stats are more representative of how society responds to crime, but are not a valid measure of the scope and nature of crime
 - The crime funnel affects police-recorded crime rate.
 	- ![[Pasted image 20240924094550.png]]
-## How can we get around the problems associated with the crime funnel
+	- **How can we get around the problems associated with the crime funnel?**
 
 ## How much crime
 - Problematic to count, as it is in secret or goes unreported
 	- aka. abuse, domestic violence
 - major problem in stats = dark figure of crime
 	- crime remains unreported, unrecorded, and/or largely unknown
+## Official Statistics – Canadian Uniform Crime Reports
+- The goal of Uniform Crime Reports is to provide uniform and comparable national statistics.
+- Benefits because it is based on rates, not raw or total numbers
+	- **rate** = crime per population, eg: `crimes reported/100,000 people`
+	- Allows for comparisons between jurisdictions or over time, and 
+	- Is not influenced by differences in population size between jurisdictions, or changes in population size in one jurisdiction.
+- **Not accurate of accurate crime amount, simply can be used as a comparison tool over time and across jurisdictions**
