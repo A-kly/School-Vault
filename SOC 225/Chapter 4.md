@@ -137,6 +137,11 @@
 	- result of widespread decreases in the rates of nearly all reported property and some violent violations
 	- ![[Pasted image 20240924100549.png]]
 ### What Factors Might Influence the Crime Rate
+- economic fluctuations
+- administrative changes
+- demographic changes
+	- Less 18-24 y/o = less crime in that group = lower crime rate
+---
 - Dark Figure
 - What types of crime(s) do police tend to focus on?
 - Crime is a social construct.
