@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/AI TEXTBOOK SUMMARY.md"
+                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md"
               }
             }
           },
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/AI TEXTBOOK SUMMARY.md",
+                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/AI TEXTBOOK SUMMARY.md",
+                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/AI TEXTBOOK SUMMARY.md"
+                "file": "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md"
               }
             }
           },
@@ -191,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e8aa984517674f9",
+  "active": "866dc22da9727047",
   "lastOpenFiles": [
+    "SOC 225/AI TEXTBOOK SUMMARY.md",
     "SOC 225/Chapter 4.md",
     "CMPUT 382/Lecture 2.3 onwards.md",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
@@ -212,7 +212,6 @@
     "PSYCH 258/Attachments/p258s05-01.png",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
-    "SOC 225/AI TEXTBOOK SUMMARY.md",
     "Markdown Cheat Sheet.md",
     "SOC 225/Media",
     "SOC 225/Course intro.md",
