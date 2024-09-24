@@ -151,3 +151,12 @@
 	- Definitions
 	- Administration
 	- Media attention
+## Why People Do Not Report their Victimization
+- too minor
+- police won’t do anything
+- inconvenient
+- reported to another official
+- personal matter
+- protecting offender
+- Revenge
+- Not sure if the behavior is criminal
