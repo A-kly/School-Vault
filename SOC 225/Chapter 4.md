@@ -60,7 +60,7 @@
 	- Informed consent from participants
 	- Research conducted by medically/scientifically qualified individuals
 	- Risks should not exceed benefits
-### Infamous studies that changed ethical standards
+### Infamous Studies that Changed Ethical Standards
 - Tuskegee experiment (1932-1972)
 	- Why was it problematic, what ethical standards were violated?
 		- Voluntary Informed consent not collected
@@ -82,7 +82,7 @@
 		- Altered his appearance to do so
 	- **deception upon deception upon deception**
 	- **Lack of informed consent**
-#### Researchers must ensure anonymity
+#### Researchers Must Ensure Anonymity
 - Anonymity
 	- Give pseudonym
 	- Alter non important demographic info
@@ -114,7 +114,7 @@
 	- ![[Pasted image 20240924094550.png]]
 	- **How can we get around the problems associated with the crime funnel?**
 
-## How much crime
+## How much Crime
 - Problematic to count, as it is in secret or goes unreported
 	- aka. abuse, domestic violence
 - major problem in stats = dark figure of crime
@@ -131,6 +131,18 @@
 - Young offenders commit ~20%$ of crime
 - ![[Pasted image 20240924100251.png]]
 - Youth crime rate fell dramatically between 2011 and 2021
+	- **This does not mean that there is less youth crime necessarily**
+	- In 2002,  youth criminal justice act came into effect, and changed the mentality of governing youth crime, and therefore, rates plummeted.
+		- Separated violent offenders from non violent property offenders
 	- result of widespread decreases in the rates of nearly all reported property and some violent violations
 	- ![[Pasted image 20240924100549.png]]
-### What factors might influence the crime rate
+### What Factors Might Influence the Crime Rate
+- Dark Figure
+- What types of crime(s) do police tend to focus on?
+- Crime is a social construct.
+- As a social construct, the labelling of an act as crime is sensitive to variation in:
+	- Reporting
+	- Policing
+	- Definitions
+	- Administration
+	- Media attention
