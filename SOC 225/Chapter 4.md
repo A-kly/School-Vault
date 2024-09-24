@@ -160,3 +160,11 @@
 - protecting offender
 - Revenge
 - Not sure if the behavior is criminal
+## What have we learned from victimization studies
+- Victimization surveys cannot capture the entire "dark" figure missed by the UCR, but victimization data show that many more Canadians are victimized than is revealed by official statistics
+- Some categories of offenders (for example, family members) are less likely to be reported. Victimization surveys go beyond merely counting crime. 
+	- They provide data on costs of victimization, financial losses, physical injuries, and fear. 
+	- Data allow us to explore various dimensions of seriousness.
+### What age group is most at risk for violent crime
+![[Pasted image 20240924103213.png]]
+- BUT elderly are the most scared of violent crime
