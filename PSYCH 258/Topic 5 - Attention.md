@@ -263,29 +263,25 @@ E. Colin Cherry (1953): How does attention process speech?
 		- experiment simulated baggage screening: search images for targets (tools)
 			- a) 20 in 40 images had target: miss rate = 7%; ==slower== RTs
 			- b) 20 in 2000 images had target: miss rate = 30%; ==faster== RTs
-	- repeated negative responses (“no, no, no,...”) lead to speed/accuracy trade-off: repeated responses are faster, but produced more misses
-	- **the ---------- effect**: “if you don’t find it often, you often don’t find it”
-	- are the results the same in the real world, with real baggage screeners?
+		- repeated negative responses (“no, no, no,...”) lead to speed/accuracy trade-off: repeated responses are faster, but produced more misses
+		- **the prevalence effect**: “if you don’t find it often, you often don’t find it”
+		- are the results the same in the real world, with real baggage screeners?
 
 ---
 
 ## Inattention
 
-**Inattentional ---------**: if stimulus is presented, but is not -attended-, it is not perceived (coined by Mack & Rock, 1998; a.k.a. “looked-but-didn’t-see” problem)
+- **Inattentional blindness**: if stimulus is presented, but is not -attended-, it is not perceived (coined by Mack & Rock, 1998; a.k.a. “looked-but-didn’t-see” problem)
+	- Neisser (1979):
+		- showed videos of two overlapping basketball teams
+		- task: count the number of passes made by black-shirted team
+		- about 50% of viewers ------- the -----
+- Simons & Chabris (1999):
+	- showed participants a video of two teams of three basketball players
+	- task: count how many times the players wearing white pass the basketball
+	- 46% of observers ------ the -------
 
-Neisser (1979):
-
-- showed videos of two overlapping basketball teams
-- task: count the number of passes made by black-shirted team
-- about 50% of viewers ------- the -----
-
-Simons & Chabris (1999):
-
-- showed participants a video of two teams of three basketball players
-- task: count how many times the players wearing white pass the basketball
-- 46% of observers ------ the -------
-
-**Attentional -----**: when stimuli are presented in a series, one target stimulus interferes with the ability to detect a subsequent target
+- **Attentional -----**: when stimuli are presented in a series, one target stimulus interferes with the ability to detect a subsequent target
 
 Shapiro, Arnell, & Raymond (1997):
 
