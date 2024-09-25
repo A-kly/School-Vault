@@ -236,49 +236,34 @@ E. Colin Cherry (1953): How does attention process speech?
 			- e.g., find a 5 among 2s
 			- ![spatial configuration search](PSYCH%20258/Attachments/p258s05-09.png)
 	- “**==pop-out==**”: time needed to find the target is very short/constant
-	- RT not influenced by number of distractors
-	- primitives cause pop-out in feature search:
-
-e.g., colour, brightness, orientation, length, curvature, etc.
+		- RT not influenced by number of distractors
+		- primitives cause pop-out in feature search:
+			- e.g., colour, brightness, orientation, length, curvature, etc.
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Attention-files/pro-new.png) evidence: **-------- conjunctions** (conjunction errors): when attention is overtaxed, primitives may be incorrectly combined
-
-e.g., red Xs, blue Os: you may perceive a blue X
-
-e.g., Stroop effect (1935): shows attentional inhibition of automatic cognitive processes
-
-![☑](PSYCH%20258-%20Attention-files/pro-new.png) evidence: **feature present/feature absent effect**: target features that are present are better detected than target features that are absent (Treisman & Souther, 1985)
-
-![☑](PSYCH%20258-%20Attention-files/pro-new.png) explains **-------**: how separate aspects of a stimulus (colour, form, motion, location) are combined into a holistic percept
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) contrary evidence: Schneider & Shiffrin (1977)
-
-- visual search task
-- different-category: scan for a certain number in a field of letters
-- same-category: scan for a certain letter in a field of letters
-- same-category: took longer, more errors
-- however, with enough practice, participants could automatically discriminate:
-- arbitrary groups of letters
-- real letters vs. artificial letters
-- regular vs. mirror-image letters
-- with practice, conjunction search can become automatic/----------contrary to FIT
-
-![☒](PSYCH%20258-%20Attention-files/con-new.png) attention is more than just a binding agent
-
-Application of visual search (Wolfe & colleagues, 2005):
-
-- when targets in visual search are rare, do ------ increase?
-
-e.g., radiological screening for breast cancer, or airport baggage screening
-
-- experiment simulated baggage screening: search images for targets (tools)
-
-a) 20 in 40 images had target: miss rate = 7%; ------ RTs
-
-b) 20 in 2000 images had target: miss rate = 30%; ------ RTs
-
+- [p] evidence: **illusory conjunctions** (conjunction errors): when attention is overtaxed, primitives may be incorrectly combined
+	- e.g., red Xs, blue Os: you may perceive a blue X
+	- e.g., Stroop effect (1935): shows attentional inhibition of automatic cognitive processes
+- [p] evidence: **feature present/feature absent effect**: target features that are present are better detected than target features that are absent (Treisman & Souther, 1985)
+- [p] explains **-------**: how separate aspects of a stimulus (colour, form, motion, location) are combined into a holistic percept
+- [c] contrary evidence: Schneider & Shiffrin (1977)
+	- visual search task
+	- different-category: scan for a certain number in a field of letters
+	- same-category: scan for a certain letter in a field of letters
+	- same-category: took longer, more errors
+	- however, with enough practice, participants could automatically discriminate:
+	- arbitrary groups of letters
+	- real letters vs. artificial letters
+	- regular vs. mirror-image letters
+	- with practice, conjunction search can become automatic/----------contrary to FIT
+- [c] attention is more than just a binding agent
+	- Application of visual search (Wolfe & colleagues, 2005):
+	- when targets in visual search are rare, do ------ increase?
+	- e.g., radiological screening for breast cancer, or airport baggage screening
+	- experiment simulated baggage screening: search images for targets (tools)
+		- a) 20 in 40 images had target: miss rate = 7%; ------ RTs
+		- b) 20 in 2000 images had target: miss rate = 30%; ------ RTs
 - repeated negative responses (“no, no, no,...”) lead to speed/accuracy trade-off: repeated responses are faster, but produced more misses
 - **the ---------- effect**: “if you don’t find it often, you often don’t find it”
 - are the results the same in the real world, with real baggage screeners?
