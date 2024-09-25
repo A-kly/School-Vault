@@ -275,41 +275,31 @@ E. Colin Cherry (1953): How does attention process speech?
 	- Neisser (1979):
 		- showed videos of two overlapping basketball teams
 		- task: count the number of passes made by black-shirted team
-		- about 50% of viewers ------- the -----
+		- about 50% of viewers noticed the *girl with the umbrella*
 - Simons & Chabris (1999):
 	- showed participants a video of two teams of three basketball players
 	- task: count how many times the players wearing white pass the basketball
-	- 46% of observers ------ the -------
-
-- **Attentional -----**: when stimuli are presented in a series, one target stimulus interferes with the ability to detect a subsequent target
-
-Shapiro, Arnell, & Raymond (1997):
-
-- used rapid serial visual presentation (RSVP)
-- a string of stimuli presented briefly (100 ms each)
-- first target stimulus is presented (e.g., white letter)
-- second target stimulus follows (e.g., “X”)
-- second target unlikely to be --------
-- may be due to attention being “used up” for 500 ms after an event
-
-**------ blindness**: an inability to detect changes in an object or a scene
-
-Levin & Simons (1997):
-
-- participants told to “pay close attention” to a video of a conversation
-- only 1 of 10 participants noticed any -------
-
-Simons & Levin (1998):
-
-- only ---- of the participants noticed a change in the stranger
-- changes may be local or global, fast or slow
-- however, people -do- notice changed sex, race, or social group
-
-Implications:
-
-- attention is limited: ------- awareness
-- not everything presented to our senses is ---------
-- visual encoding must be ------
+	- 46% of observers ==missed== the ==gorillaa==
+- **Attentional blink**: when stimuli are presented in a series, one target stimulus interferes with the ability to detect a subsequent target
+	- Shapiro, Arnell, & Raymond (1997):
+		- used rapid serial visual presentation (RSVP)
+		- a string of stimuli presented briefly (100 ms each)
+		- first target stimulus is presented (e.g., white letter)
+		- second target stimulus follows (e.g., “X”)
+		- second target unlikely to be --------
+		- may be due to attention being “used up” for 500 ms after an event
+- **------ blindness**: an inability to detect changes in an object or a scene
+	- Levin & Simons (1997):
+		- participants told to “pay close attention” to a video of a conversation
+		- only 1 of 10 participants noticed any -------
+	- Simons & Levin (1998):
+		- only ---- of the participants noticed a change in the stranger
+		- changes may be local or global, fast or slow
+		- however, people -do- notice changed sex, race, or social group
+	- Implications:
+		- attention is limited: ------- awareness
+		- not everything presented to our senses is ---------
+		- visual encoding must be ------
 
 ---
 
