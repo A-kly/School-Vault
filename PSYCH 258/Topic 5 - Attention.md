@@ -291,15 +291,15 @@ E. Colin Cherry (1953): How does attention process speech?
 - **change blindness**: an inability to detect changes in an object or a scene
 	- Levin & Simons (1997):
 		- participants told to “pay close attention” to a video of a conversation
-		- only 1 of 10 participants noticed any -------
+		- only 1 of 10 participants noticed any ==changes==
 	- Simons & Levin (1998):
-		- only ---- of the participants noticed a change in the stranger
+		- only 50% of the participants noticed a change in the stranger
 		- changes may be local or global, fast or slow
-		- however, people -do- notice changed sex, race, or social group
+		- however, people -*do*- notice changed sex, race, or social group
 	- Implications:
-		- attention is limited: ------- awareness
-		- not everything presented to our senses is ---------
-		- visual encoding must be ------
+		- attention is limited: ==bounded== awareness
+		- not everything presented to our senses is processed
+		- visual encoding must be ==sparce==
 
 ---
 
