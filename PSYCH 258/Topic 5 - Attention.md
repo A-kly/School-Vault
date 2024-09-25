@@ -286,9 +286,9 @@ E. Colin Cherry (1953): How does attention process speech?
 		- a string of stimuli presented briefly (100 ms each)
 		- first target stimulus is presented (e.g., white letter)
 		- second target stimulus follows (e.g., “X”)
-		- second target unlikely to be --------
+		- second target unlikely to be ==detected==
 		- may be due to attention being “used up” for 500 ms after an event
-- **------ blindness**: an inability to detect changes in an object or a scene
+- **change blindness**: an inability to detect changes in an object or a scene
 	- Levin & Simons (1997):
 		- participants told to “pay close attention” to a video of a conversation
 		- only 1 of 10 participants noticed any -------
