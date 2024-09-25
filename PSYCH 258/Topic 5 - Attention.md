@@ -226,16 +226,16 @@ E. Colin Cherry (1953): How does attention process speech?
 	- observers asked whether a display contains target
 	- RT (& errors) are recorded
 	- types of visual search:
-	- **------- search**: target defined by one basic property/primitive
-		- e.g., find a green 2 among red 2s
-		- ![feature search](PSYCH%20258/Attachments/p258s05-07.png)
-	- **----------- search**: target defined by a combination of two or more basic properties/primitives
-		- e.g., find a green 5 among green and red 2s, and red 5s
-		- ![conjunction search](PSYCH%20258/Attachments/p258s05-08.png)
-	- **spatial configuration search**: target defined by arrangement of features
-		- e.g., find a 5 among 2s
-		- ![spatial configuration search](PSYCH%20258/Attachments/p258s05-09.png)
-	- “**-------**”: time needed to find the target is very short/constant
+		- **==Feature== search**: target defined by one basic property/primitive
+			- e.g., find a green 2 among red 2s
+			- ![feature search](PSYCH%20258/Attachments/p258s05-07.png)
+		- **==conjunction== search**: target defined by a combination of two or more basic properties/primitives
+			- e.g., find a green 5 among green and red 2s, and red 5s
+			- ![conjunction search](PSYCH%20258/Attachments/p258s05-08.png)
+		- **spatial configuration search**: target defined by arrangement of features
+			- e.g., find a 5 among 2s
+			- ![spatial configuration search](PSYCH%20258/Attachments/p258s05-09.png)
+	- “**==pop-out==**”: time needed to find the target is very short/constant
 	- RT not influenced by number of distractors
 	- primitives cause pop-out in feature search:
 
