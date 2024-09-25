@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "820ed4fe75d8f7f6",
+        "id": "041815d0c1c1c76a",
         "type": "tabs",
         "children": [
           {
-            "id": "35f61afbca18bd45",
+            "id": "e7d70f7482dd1bba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 5 - Attention.md",
+                "file": "CMPUT 382/Lecture 2.3 onwards.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 5 - Attention.md"
+                "file": "CMPUT 382/Lecture 2.3 onwards.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 5 - Attention.md",
+                "file": "CMPUT 382/Lecture 2.3 onwards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 5 - Attention.md",
+                "file": "CMPUT 382/Lecture 2.3 onwards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 5 - Attention.md"
+                "file": "CMPUT 382/Lecture 2.3 onwards.md"
               }
             }
           },
@@ -177,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35f61afbca18bd45",
+  "active": "e7d70f7482dd1bba",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 5 - Attention.md",
     "SOC 225/Chapter 4.md",
     "SOC 225/Media/Pasted image 20240924103549.png",
     "SOC 225/Media/Pasted image 20240924103213.png",
@@ -190,7 +191,6 @@
     "CMPUT 382/Lecture 2.3 onwards.md",
     "CMPUT 382/Media/Pasted image 20240923133800.png",
     "SOC 225/Chapter 1&3.md",
-    "PSYCH 258/Topic 5 - Attention.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Attachments/p258s05-09.png",
