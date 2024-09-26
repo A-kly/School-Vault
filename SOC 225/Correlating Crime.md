@@ -28,4 +28,5 @@
 	- sex then age
 - UNIVERSALLY, YOUNG MALES COMMIT MORE CRIME THAN OLDER PEOPLE.
 - “Young man’s game”
-# Write down a memory or esperience you had as a youth wh
+# Write down a memory or experience you had as a youth when an adult treated you differently/poorly
+- When I was in 7th grade, I misunderstood the directions for an English assignment and asked the teacher if the way that i had done it was acceptable. She ridiculed me in front of the class and had everyone who did the assignment "correctly" to raise their hand, and then asked people to raise their hand if they did it my way. 
