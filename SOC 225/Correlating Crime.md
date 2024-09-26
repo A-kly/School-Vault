@@ -10,3 +10,21 @@
 - The more ice cream that is consumed, the more crime there is. Thus, ice cream eating leads to crime.
 	- Both increased ice cream eating and increased crime rates can be explained by warmer weather.
 	- Canada day and crime
+# What is a correlation?
+- An association
+- A relationship between two (or more) variables
+	- Positive
+	- Negative
+- One THING is related to another THING
+
+## Knowing that poverty and crime are correlated, which of these can we conclude?
+- A. Crime is one of several causes of poverty.
+- B. Poverty is the main cause of crime.
+- C. Crime alone causes poverty.
+- D. Poverty alone causes crime.
+- **E. None of the above**
+# What are the STRONGEST CORRELATES?
+Age and Sex
+◼ UNIVERSALLY, YOUNG MALES COMMIT MORE CRIME
+THAN OLDER PEOPLE.
+◼ “Young man’s game”
