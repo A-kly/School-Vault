@@ -30,4 +30,14 @@
 - “Young man’s game”
 # Write down a memory or experience you had as a youth when an adult treated you differently/poorly
 - When I was in 7th grade, I misunderstood the directions for an English assignment and asked the teacher if the way that i had done it was acceptable. She ridiculed me in front of the class and had everyone who did the assignment "correctly" to raise their hand, and then asked people to raise their hand if they did it my way. 
-# How does the public explain 
+# How does the public perceive youth crime?
+- focus on young as offenders
+	- Victims of youth crime are move likely to be peers, not adults
+	- youth = 10% of Canadian pop, but 20% of victims
+- emphasizing youth offending
+	- 1. distorts thinking about relationship between youth and crime
+	- 2. social policies directed more towards punitive measures rather than remedial ones
+- Focus on criminal behaviours causes more punitive measures rather then focussing on the situation of the youth in order to improve their circumstance
+	- troubling kids vs troubled kids
+	- this issue creates policies that end up punishing youth
+	- 
