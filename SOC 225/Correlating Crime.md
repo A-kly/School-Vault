@@ -24,7 +24,8 @@
 - D. Poverty alone causes crime.
 - **E. None of the above**
 # What are the STRONGEST CORRELATES?
-Age and Sex
-◼ UNIVERSALLY, YOUNG MALES COMMIT MORE CRIME
-THAN OLDER PEOPLE.
-◼ “Young man’s game”
+- **Age and Sex**
+	- sex then age
+- UNIVERSALLY, YOUNG MALES COMMIT MORE CRIME THAN OLDER PEOPLE.
+- “Young man’s game”
+# Write down a memory or esperience you had as a youth wh
