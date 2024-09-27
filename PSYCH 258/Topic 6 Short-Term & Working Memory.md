@@ -115,25 +115,19 @@ Peterson & Peterson (1959; also Brown, 1958): How long is short-term storage?
 	- e.g. given “S B J, 394”, count 391, 388, 385,...
 - after a certain amount of time, recall the 3 letters
 	- ![decrease in STS over time](PSYCH%20258/Attachments/p258s06-03.png)
-
-- their conclusion: STS ------ in less than 20 seconds without active rehearsal
+	- their conclusion: STS ==decays== in less than 20 seconds without active rehearsal
 
 Problem:
-
-Keppel & Underwood (1962):
-
-- performance declined over trials
-- previously used letters ---------- with current memory!
+- Keppel & Underwood (1962):
+	- performance declined over trials
+	- previously used letters ==interfere== with current memory!
 
 ### Decay vs. Interference
 
 Waugh & Norman (1965)
-
 - list of 16 digits (last = “probe digit”), then a tone
 - what digit came after the probe the first time it occurred in the list?
-
-e.g., 7 9 5 1 2 9 3 8 0 4 6 3 7 6 0 2 (tone), respond: “9”
-
+	- e.g., 7 9 5 1 2 9 3 8 0 4 6 3 7 6 0 2 (tone), respond: “9”
 - presentation rate of 1/s or 4/s
 - decay prediction: less recall with slower rate
 - interference prediction: no difference due to rate
