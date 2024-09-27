@@ -132,40 +132,25 @@ Waugh & Norman (1965)
 - decay prediction: less recall with slower rate
 - interference prediction: no difference due to rate
 - results: presentation rate had little effect on recall
-
 ![interference effect in STS](PSYCH%20258/Attachments/p258s06-04.png)
-
 - conclusion: interference, not decay, is the primary cause of forgetting
-- **----------- interference**: new information replaces older information
-
-e.g., Windows 3.1 paste command was...?
-
+- **retroactive interference**: new information replaces older information
+	- e.g., Windows 3.1 paste command was...?
 - **--------- interference**: already-learned information makes it harder to remember new information
-
-e.g., Power 92.5 FM now called...?
+	- e.g., Power 92.5 FM now called...?
 
 Barnes & Underwood (1959):
-
 - participants learned a list of paired-associate words until perfect recall (A-B list)
-
-e.g., -chair-dog-
-
+	- e.g., -chair-dog-
 - then learned a second list with the first terms paired with new words (A-C list)
-
-e.g., -chair-tree-
-
-(studied this second list 1, 5, 10, or 20 times)
-
-- memory was tested for both associated terms
-
-e.g., given -chair-, respond with -dog- and -tree-
-
+	- e.g., -chair-tree-
+- (studied this second list 1, 5, 10, or 20 times)
+	- memory was tested for both associated terms
+	- e.g., given -chair-, respond with -dog- and -tree-
 ![retroactive interference](PSYCH%20258/Attachments/p258s06-05.png)
-
 - recall of A-B list is interfered with by the memory for A-C list (----------- interference)
 
 Wickens, Born & Allen (1963):
-
 - participants heard several lists of words from same category
 
 (dogs)
