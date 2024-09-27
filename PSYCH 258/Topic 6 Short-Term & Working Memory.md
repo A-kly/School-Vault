@@ -77,9 +77,9 @@ Pros & cons:
 - longer delay: poorer recall
 - “echoic store” duration ~2-4 s
 
-Sensory stores also exist for touch, smell, and taste
+**Sensory stores also exist for touch, smell, and taste**
 
-Function: allows extraction of limited amounts of information to ---
+**Function: allows extraction of limited amounts of information to STS (short term store)**
 
 ---
 
@@ -87,34 +87,24 @@ Function: allows extraction of limited amounts of information to ---
 
 ### STS Capacity
 
-George Miller (1956):
-
-- **---------- task**: try to recall a given a list of numbers
-- capacity: “The Magical Number -----, Plus or Minus Two: Some Limits on Our Capacity for Processing Information”
-
-However, more recent work (Baddeley, 1994; Cowan, 2001) indicates that STS capacity is four, plus or minus one.
-
-STS unit is a **-----**: well-learned unit of components, representing consistent or meaningful pattern
-
-- **chunking** combines units into a larger chunk, and reduces amount to be remembered
-- application: --------
-
-e.g., “Roy G. Biv” tells you the colours of the rainbow
-
-Chase & Simon (1973): How are expertise and STS related?
-
-- participants: chess masters, intermediates, novices
-- shown chess boards for 5 s:
-- ------ chess boards: masters’ recall superior
-- ------ pieces: equal performance
-- experts have better -domain---------- memories of patterns that form chunks
-
-Chase & Ericsson (1981):
-
-- trained long-distance ------ S.F. to expand digit span using chunking
-
-e.g., sequence 3 4 9 2 would be encoded as 3 min 49.2 s (near world-record time for the mile)
-
+- George Miller (1956):
+	- **==digit-span== task**: try to recall a given a list of numbers
+	- capacity: “The Magical Number ==seven==, Plus or Minus Two: Some Limits on Our Capacity for Processing Information”
+	- However, more recent work (Baddeley, 1994; Cowan, 2001) indicates that STS capacity is four, plus or minus one.
+- STS unit is a **==chunk==**: well-learned unit of components, representing consistent or meaningful pattern
+	- **chunking** combines units into a larger chunk, and reduces amount to be remembered
+	- application: ==acronyms==
+	- e.g., “Roy G. Biv” tells you the colours of the rainbow
+- Chase & Simon (1973): How are expertise and STS related?
+	- participants: chess masters, intermediates, novices
+	- shown chess boards for 5 s:
+	- ------ chess boards: masters’ recall superior
+	- ------ pieces: equal performance
+	- experts have better -domain---------- memories of patterns that form chunks
+- Chase & Ericsson (1981):
+	- trained long-distance ------ S.F. to expand digit span using chunking
+	- e.g., sequence 3 4 9 2 would be encoded as 3 min 49.2 s (near world-record time for the mile)
+	
 - expanded digit span from 7 to 79 digits with 230 hours of practice
 
 ![S.F.’s digit span](PSYCH%20258/Attachments/p258s06-02.png)
