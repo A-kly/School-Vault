@@ -42,47 +42,37 @@ Memory includes:
 		- e.g., remembering provincial capitals by starting with the west coast and working eastward
 
 Pros & cons:
-
-- [] division of memory is clear and intuitive
-
-![☑](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/pro-new.png) influential in guiding memory research
-
-![☒](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/con-new.png) oversimplified structures and processes of memory
-
-![☒](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/con-new.png) overstated the role of rehearsal in remembering
+- [p] division of memory is clear and intuitive
+- [p] influential in guiding memory research
+- [c] oversimplified structures and processes of memory
+- [c] overstated the role of rehearsal in remembering
 
 ---
 
 ## Sensory Store
 
-George Sperling (1960): What is the duration of the sensory store?
+- George Sperling (1960): What is the duration of the sensory store?
+	- Part I: ==whole== report method
+		- flashed matrix of letters on screen for 50 ms
+		- recall rate was 4.5 out of a 12-letter matrix (38%)
+	- Part II: ------- report method
+		- matrix flashed on screen
+		- delay
+		- cue tone presented, indicating which row should be recalled
+		- brief delay: tested recall for desired row was 3.3 out of 4 (82%)
+		- accuracy declined as delay period increased
+		- implied complete image was temporarily stored
+		- “**------ -----**” duration ~200-400 ms
+		- same result if cued to ------, when coloured letters were scattered in a matrix
 
-Part I: ----- report method
+- Darwin, Turvey, & Crowder (1972):
+	- three-------person task:
 
-- flashed matrix of letters on screen for 50 ms
-- recall rate was 4.5 out of a 12-letter matrix (38%)
-
-Part II: ------- report method
-
-- matrix flashed on screen
-- delay
-- cue tone presented, indicating which row should be recalled
-- brief delay: tested recall for desired row was 3.3 out of 4 (82%)
-- accuracy declined as delay period increased
-- implied complete image was temporarily stored
-- “**------ -----**” duration ~200-400 ms
-- same result if cued to ------, when coloured letters were scattered in a matrix
-
-Darwin, Turvey, & Crowder (1972):
-
-- three-------person task:
-
-|   |   |   |
-|---|---|---|
-|**left ear:**|**both ears:**|**right ear:**|
-|B|8|F|
-|2|6|R|
-|L|U|10|
+| **left ear:** | **both ears:** | **right ear:** |
+| ------------- | -------------- | -------------- |
+| B             | 8              | F              |
+| 2             | 6              | R              |
+| L             | U              | 10             |
 
 - partial report cue: visual bar on left, middle, or right
 - longer delay: poorer recall
