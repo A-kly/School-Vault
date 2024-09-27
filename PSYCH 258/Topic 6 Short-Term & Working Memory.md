@@ -98,29 +98,23 @@ Pros & cons:
 - Chase & Simon (1973): How are expertise and STS related?
 	- participants: chess masters, intermediates, novices
 	- shown chess boards for 5 s:
-	- ------ chess boards: masters’ recall superior
-	- ------ pieces: equal performance
-	- experts have better -domain---------- memories of patterns that form chunks
+		- ==actual== chess boards: masters’ recall superior
+		- ==random== pieces: equal performance
+	- experts have better -*domain-specific*- memories of patterns that form chunks
 - Chase & Ericsson (1981):
-	- trained long-distance ------ S.F. to expand digit span using chunking
-	- e.g., sequence 3 4 9 2 would be encoded as 3 min 49.2 s (near world-record time for the mile)
-	
-- expanded digit span from 7 to 79 digits with 230 hours of practice
-
-![S.F.’s digit span](PSYCH%20258/Attachments/p258s06-02.png)
+	- trained long-distance ==runner== S.F. to expand digit span using chunking
+		- e.g., sequence 3 4 9 2 would be encoded as 3 min 49.2 s (near world-record time for the mile)
+	- expanded digit span from 7 to 79 digits with 230 hours of practice
+	- ![S.F.’s digit span](PSYCH%20258/Attachments/p258s06-02.png)
 
 ### STS Duration
 
 Peterson & Peterson (1959; also Brown, 1958): How long is short-term storage?
-
 - participants told to remember 3 consonants & 3-digit number
 - during retention interval, had to count backwards by 3s
-
-e.g. given “S B J, 394”, count 391, 388, 385,...
-
+	- e.g. given “S B J, 394”, count 391, 388, 385,...
 - after a certain amount of time, recall the 3 letters
-
-![decrease in STS over time](PSYCH%20258/Attachments/p258s06-03.png)
+	- ![decrease in STS over time](PSYCH%20258/Attachments/p258s06-03.png)
 
 - their conclusion: STS ------ in less than 20 seconds without active rehearsal
 
