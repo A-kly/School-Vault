@@ -24,33 +24,26 @@ Memory includes:
 
 (Richard Atkinson & Richard Shiffrin, 1968, 1971)
 
-**Structural features**: stable memory stores
-
-- **sensory store**
-- **short-term store** (STS) represented acoustically
-- **long-term store** (LTS) is semantic
-- based on James’ (1890) primary and secondary memory
-- this distinction is similar to computers (RAM vs. hard drive)
+- **Structural features**: stable memory stores
+	- **sensory store**
+	- **short-term store** (STS) represented acoustically
+	- **long-term store** (LTS) is semantic
+	- based on James’ (1890) primary and secondary memory
+	- this distinction is similar to computers (RAM vs. hard drive)
 
 ![Modal Model](PSYCH%20258/Attachments/p258s06-01.png)
 
-**------- processes**: routines or strategies a person selects and uses depending on the situation; they include:
-
-- **---------**: repetition of information; helps transfer information from STS to LTS
-
-e.g., repeating a phone number over and over until you memorize it
-
-- **------**: associating to-be-remembered information with already known information
-
-e.g., imaging: using visual images to remember verbal information
-
-- **--------- strategies**: help focus on to-be-remembered information
-
-e.g., remembering provincial capitals by starting with the west coast and working eastward
+- **control processes**: routines or strategies a person selects and uses depending on the situation; they include:
+	- **rehearsal**: repetition of information; helps transfer information from STS to LTS
+		- e.g., repeating a phone number over and over until you memorize it
+	- **coding**: associating to-be-remembered information with already known information
+		- e.g., imaging: using visual images to remember verbal information
+	- **retrieval strategies**: help focus on to-be-remembered information
+		- e.g., remembering provincial capitals by starting with the west coast and working eastward
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/pro-new.png) division of memory is clear and intuitive
+- [] division of memory is clear and intuitive
 
 ![☑](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/pro-new.png) influential in guiding memory research
 
