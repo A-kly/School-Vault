@@ -55,15 +55,15 @@ Pros & cons:
 	- Part I: ==whole== report method
 		- flashed matrix of letters on screen for 50 ms
 		- recall rate was 4.5 out of a 12-letter matrix (38%)
-	- Part II: ------- report method
+	- Part II: ==delayed== report method
 		- matrix flashed on screen
 		- delay
 		- cue tone presented, indicating which row should be recalled
 		- brief delay: tested recall for desired row was 3.3 out of 4 (82%)
 		- accuracy declined as delay period increased
 		- implied complete image was temporarily stored
-		- “**------ -----**” duration ~200-400 ms
-		- same result if cued to ------, when coloured letters were scattered in a matrix
+		- “**iconic store**” duration ~200-400 ms
+		- same result if cued to colour, when coloured letters were scattered in a matrix
 
 - Darwin, Turvey, & Crowder (1972):
 	- three-------person task:
@@ -73,10 +73,9 @@ Pros & cons:
 | B             | 8              | F              |
 | 2             | 6              | R              |
 | L             | U              | 10             |
-
 - partial report cue: visual bar on left, middle, or right
 - longer delay: poorer recall
-- “------ -----” duration ~2-4 s
+- “echoic store” duration ~2-4 s
 
 Sensory stores also exist for touch, smell, and taste
 
