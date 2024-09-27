@@ -14,7 +14,7 @@
 
 Memory includes:
 
-- structures (called “------”) that hold knowledge
+- structures (called “stores”) that hold knowledge
 - processes that operate on knowledge
 - may also refer to the knowledge itself
 
@@ -24,7 +24,7 @@ Memory includes:
 
 (Richard Atkinson & Richard Shiffrin, 1968, 1971)
 
-**---------- features**: stable memory stores
+**Structural features**: stable memory stores
 
 - **sensory store**
 - **short-term store** (STS) represented acoustically
