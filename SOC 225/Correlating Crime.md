@@ -82,8 +82,18 @@
 - Females are less likely to be charged with criminal offences.
 - **RATES ARE CLOSEST FOR MINOR PROPERTY OFFENCES (SHOPLIFTING, BAD CHEQUES)**
 ## Women and Crime
-◼ 86% of those accused of homicide in 2016 were male.
-◼ 75% of homicide victims are males.
-◼ Of the 500 persons held in 2013 under the “dangerous offender” law, only one was a woman
-◼ 6% of Canadian federally incarcerated offenders are
-women (46% are Indigenous)
+- 86% of those accused of homicide in 2016 were male.
+- 75% of homicide victims are males.
+- Of the 500 persons held in 2013 under the “dangerous offender” law, only one was a woman
+- 6% of Canadian federally incarcerated offenders are women (46% are Indigenous)
+- Both males and females are more likely to be killed by males.
+- Victims of female acts of violence are typically:
+	- the spouse or some other intimate partner (36%),
+	- a family member (17%)
+## Why
+- Heimer and De Coster (1999): the gender gap in violent crime is the result of structural positions and cultural processes:
+	- Violent delinquency is a function of social learning of violent definitions by males and females.
+		- Where do boys learn these roles?
+		- https://www.ted.com/talks/colin_stokes_how_movies_teach_manhood
+	- Gender differences: boys learn more violent definitions and have more experience with physical violence.
+	- https://www.youtube.com/watch?v=YJuHkbL5Mao
