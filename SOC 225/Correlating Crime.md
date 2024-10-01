@@ -1,5 +1,5 @@
 - A **correlate** is “a phenomenon that accompanies another phenomenon & is related in some way to it” (Hartnagel, 2012)
-# Do Churches and Ice cream cause crime?
+# Do Churches and Ice Cream Cause Crime?
 - The more churches in a city, the more crime there is. Thus, churches lead to crime.
 - The more ice cream that is consumed, the more crime there is. Thus, ice cream eating leads to crime.
 - **third variable problem**
@@ -10,27 +10,27 @@
 - The more ice cream that is consumed, the more crime there is. Thus, ice cream eating leads to crime.
 	- Both increased ice cream eating and increased crime rates can be explained by warmer weather.
 	- Canada day and crime
-# What is a correlation?
+# What is a Correlation?
 - An association
 - A relationship between two (or more) variables
 	- Positive
 	- Negative
 - One THING is related to another THING
 
-## Knowing that poverty and crime are correlated, which of these can we conclude?
+## Knowing that Poverty and Crime Are Correlated, Which of These Can We Conclude?
 - A. Crime is one of several causes of poverty.
 - B. Poverty is the main cause of crime.
 - C. Crime alone causes poverty.
 - D. Poverty alone causes crime.
 - **E. None of the above**
-# What are the STRONGEST CORRELATES?
+# What Are the STRONGEST CORRELATES?
 - **Age and Sex**
 	- sex then age
 - UNIVERSALLY, YOUNG MALES COMMIT MORE CRIME THAN OLDER PEOPLE.
 - “Young man’s game”
-# Write down a memory or experience you had as a youth when an adult treated you differently/poorly
+# Write down a Memory or Experience You Had as a Youth when an Adult Treated You differently/poorly
 - When I was in 7th grade, I misunderstood the directions for an English assignment and asked the teacher if the way that i had done it was acceptable. She ridiculed me in front of the class and had everyone who did the assignment "correctly" to raise their hand, and then asked people to raise their hand if they did it my way. 
-# How does the public perceive youth crime?
+# How Does the Public Perceive Youth Crime?
 - focus on young as offenders
 	- Victims of youth crime are move likely to be peers, not adults
 	- youth = 10% of Canadian pop, but 20% of victims
@@ -40,7 +40,7 @@
 - Focus on criminal behaviours causes more punitive measures rather then focussing on the situation of the youth in order to improve their circumstance
 	- troubling kids vs troubled kids
 	- this issue creates policies that end up punishing youth
-# How can we explain age and crime correlation?
+# How Can We Explain Age and Crime Correlation?
 - Maturation reform:
 	- People are less likely to commit crime as they grow older, as conforming to societal norms increases life satisfaction
 - adolescence is a period of transition marked by ambiguity
@@ -121,4 +121,6 @@
 	- More likely to be charged with multiple offences
 	- More likely not to have representation at court proceedings
 	- More than twice as likely to be incarcerated than non-Indigenous offenders
-- 
+![[Pasted image 20241001101650.png]]
+# Why Are Black and Indigenous People Over-represented in the CJS
+![[Pasted image 20241001101714.png]]
