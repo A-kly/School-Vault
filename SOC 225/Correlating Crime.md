@@ -48,4 +48,11 @@
 - Adolescents are not kids or adults and may not be fully committed to conventional values
 - The confusion, marginality, and "in-between-ness" of adolescence may be conductive to criminal behaviour
 - adults have greater incentive to conform
-## Adolecence
+## Adolescence
+- transition time
+- develop attachments
+- commitments
+- more restraints
+- more status, crime “costs” more
+- added “stake” in conformity
+- more likely integrated into society
