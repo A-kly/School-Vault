@@ -97,3 +97,15 @@
 		- https://www.ted.com/talks/colin_stokes_how_movies_teach_manhood
 	- Gender differences: boys learn more violent definitions and have more experience with physical violence.
 	- https://www.youtube.com/watch?v=YJuHkbL5Mao
+# Poverty and Crime
+- Historically, the working and immigrant classes have been seen as responsible for crime. 
+- They have been referred to as the "dangerous class," "criminal class" or "underclass." There are explicit socio-economic correlations:
+	- people at the margins of society
+		- the unemployed, 
+		- people in poverty, with little education, dependency, etc.
+## Socio-Economic Status and Crime
+- The relationship between SES and crime is complex.
+- People with low SES are overrepresented in police-reported statistics.
+	- This is in part because the crimes of the “middle and upper crime class systematically escaped official notice” (Gaylord & Galliher, 1988, 68). (Types of Crimes)
+- “Relationship between class and crime is class and crime specific” (Hagan, 1992, 9)
+	- Different classes are involved in different crimes because they have different opportunities to commit crimes
