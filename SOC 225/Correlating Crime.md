@@ -40,4 +40,12 @@
 - Focus on criminal behaviours causes more punitive measures rather then focussing on the situation of the youth in order to improve their circumstance
 	- troubling kids vs troubled kids
 	- this issue creates policies that end up punishing youth
-	- 
+# How can we explain age and crime correlation?
+- Maturation reform:
+	- People are less likely to commit crime as they grow older, as conforming to societal norms increases life satisfaction
+- adolescence is a period of transition marked by ambiguity
+- More prosocial relationships
+- Adolescents are not kids or adults and may not be fully committed to conventional values
+- The confusion, marginality, and "in-between-ness" of adolescence may be conductive to criminal behaviour
+- adults have greater incentive to conform
+## Adolecence
