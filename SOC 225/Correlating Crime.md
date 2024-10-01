@@ -109,3 +109,16 @@
 	- This is in part because the crimes of the “middle and upper crime class systematically escaped official notice” (Gaylord & Galliher, 1988, 68). (Types of Crimes)
 - “Relationship between class and crime is class and crime specific” (Hagan, 1992, 9)
 	- Different classes are involved in different crimes because they have different opportunities to commit crimes
+# Race and Crime
+- Some minority groups are overrepresented in police- reported crime statistics in Canada. For example:
+	- ![[Pasted image 20241001101151.png]]
+## Incarceration Rates
+![[Pasted image 20241001101212.png]]
+## Indigenous People and the Canadian CJS
+- Problems facing Indigenous people in the Canadian CJS:
+	- More likely to be denied bail
+	- More time is spent in pretrial detention
+	- More likely to be charged with multiple offences
+	- More likely not to have representation at court proceedings
+	- More than twice as likely to be incarcerated than non-Indigenous offenders
+- 
