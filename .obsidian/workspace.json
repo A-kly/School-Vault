@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "541e1ab4067afbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 258/MIDTERM DETAILS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 6 Short-Term & Working Memory.md"
+                "file": "PSYCH 258/MIDTERM DETAILS.md"
               }
             }
           },
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 6 Short-Term & Working Memory.md",
+                "file": "PSYCH 258/MIDTERM DETAILS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 6 Short-Term & Working Memory.md",
+                "file": "PSYCH 258/MIDTERM DETAILS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 6 Short-Term & Working Memory.md"
+                "file": "PSYCH 258/MIDTERM DETAILS.md"
               }
             }
           },
@@ -191,11 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132482b94d5626e5",
+  "active": "541e1ab4067afbd7",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 6 Short-Term & Working Memory.md",
+    "PSYCH 258/MIDTERM DETAILS.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
-    "PSYCH 258/Topic 6 Short-Term & Working Memory.md",
     "PSYCH 258/Topic 5 - Attention.md",
     "PSYCH 258/Attachments/p258s06-10.png",
     "PSYCH 258/Attachments/p258s06-09.png",
@@ -238,7 +252,6 @@
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
     "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
     "PSYCH 239/9. Sleep-Wake Disorders AND Feeding & Eating Disorders.md",
-    "PSYCH 239/8. Personality Disorders.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]

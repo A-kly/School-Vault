@@ -136,7 +136,7 @@ Waugh & Norman (1965)
 - conclusion: interference, not decay, is the primary cause of forgetting
 - **retroactive interference**: new information replaces older information
 	- e.g., Windows 3.1 paste command was...?
-- **--------- interference**: already-learned information makes it harder to remember new information
+- **proactive interference**: already-learned information makes it harder to remember new information
 	- e.g., Power 92.5 FM now called...?
 
 Barnes & Underwood (1959):

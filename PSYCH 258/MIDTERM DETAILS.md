@@ -1,0 +1,7 @@
+- Question numbers proportional to topic length
+- 10~ questions for longer subjects
+- Half of the questions are from TOPHAT and half from lectures
+- Names and dates are not super important, most important things about studies are important
+	- Same for textbook studies
+- 50 questions, in classroom (ASC), Multiple choice 50 minutes
+- Scantron
