@@ -56,3 +56,34 @@
 - more status, crime “costs” more
 - added “stake” in conformity
 - more likely integrated into society
+# Terminology
+## Sex
+- biological
+- given
+- ambiguity ignored
+- physiological construct
+## Gender
+- cultural
+- “What it means to be male”
+- “What it means to be female”
+- social expectations
+	- masculinity
+	- femininity
+- social construct
+- Gender refers to the socially-derived constructs that describe the categories of "men" and "women" including expected behaviours, roles, and attributes the Western concept of gender recognizes that gender exists on a continuum with individuals identifying as women, men, neither, or both and may change or shift along the continuum over time Many Indigenous nations understand gender and sexuality differently from Western concepts. The term Two-Spirit person is an umbrella term for some Indigenous individuals who identify as having both a female and male spirit within them or whose gender identity, gender expression, sexual orientation, or spiritual identity is not limited by the binary classification of gender as woman or man
+# Gender as a Correlate of Crime
+- Males are overrepresented among offenders.
+- In Canada in 2014/15, males made up:
+	- 80% of defendants in adult criminal court
+	- 98% of the accused in sexual assaults
+	- 89% of robbery cases
+	- 86% of homicide cases
+	- 77% of major assault cases
+- Females are less likely to be charged with criminal offences.
+- **RATES ARE CLOSEST FOR MINOR PROPERTY OFFENCES (SHOPLIFTING, BAD CHEQUES)**
+## Women and Crime
+◼ 86% of those accused of homicide in 2016 were male.
+◼ 75% of homicide victims are males.
+◼ Of the 500 persons held in 2013 under the “dangerous offender” law, only one was a woman
+◼ 6% of Canadian federally incarcerated offenders are
+women (46% are Indigenous)
