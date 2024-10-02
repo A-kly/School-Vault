@@ -222,21 +222,20 @@ Alan Baddeley (1974, 1976, 2000, 2018):
 - In contrast to the storage-based view of STS, working memory includes the processing of information
 - Components:
 	- **==phonological== loop**:
-		- phonological store: passively stores speech sounds
-		- articulatory rehearsal process: actively processes items to prevent decay
-	- **------------ sketchpad**:
-		- visual cache: stores form and colour information
-		- inner scribe: handles spatial and movement information; rehearses visual information; also transfers information in visual cache to central executive
-	- **------- ---------**:
-		- controls attention
-		- coordinates other components
-		- transfers information to/from long-term memory
+		- *phonological store:* passively stores speech sounds
+		- *articulatory rehearsal process:* actively processes items to prevent decay
+	- **==visuospatial== sketchpad**:
+		- *visual cache:* stores form and colour information
+		- *inner scribe:* handles spatial and movement information; rehearses visual information; also transfers information in visual cache to central executive
+	- **==central executive==**:
+		- *controls attention*
+		- *coordinates other components*
+		- *transfers information to/from long-term memory*
 		- time sharing of multiple tasks
-e.g., generating random numbers is worse while alternating reciting alphabet and counting
-
-- **-------- buffer**:
-- interfaces with episodic long-term memory storage (holds personal life experiences)
-- integrates information into a single complex structure or experience
+			- e.g., generating random numbers is worse while alternating reciting alphabet and counting
+	- **==Episodic== buffer**:
+		- *interfaces with episodic long-term memory storage* (holds personal life experiences)
+		- *integrates information* into a single complex structure or experience
 
 ![working memory](PSYCH%20258/Attachments/p258s06-07.png)
 
