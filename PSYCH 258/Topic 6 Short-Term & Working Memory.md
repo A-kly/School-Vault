@@ -148,20 +148,14 @@ Barnes & Underwood (1959):
 	- memory was tested for both associated terms
 	- e.g., given -chair-, respond with -dog- and -tree-
 ![retroactive interference](PSYCH%20258/Attachments/p258s06-05.png)
-- recall of A-B list is interfered with by the memory for A-C list (----------- interference)
+- recall of A-B list is interfered with by the memory for A-C list (==retroactive== interference)
 
-Wickens, Born & Allen (1963):
-- participants heard several lists of words from same category
-
-(dogs)
-
-- recall declined after a number of trials
-- on the final trial, words were from a different category
-
-(flowers)
-
-- recall --------
-- **------- from proactive interference**
+- Wickens, Born & Allen (1963):
+	- participants heard several lists of words from same category (dogs)
+	- recall declined after a number of trials
+	- on the final trial, words were from a different category (flowers)
+	- recall --------
+	- **------- from proactive interference**
 
 ### STS Coding
 
