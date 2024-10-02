@@ -176,7 +176,6 @@ e.g., digit spans for different languages (Naveh-Benjamin & Ayres, 1986):
 - **articulatory supression**: repeating word (e.g., “the”) during retention interferes with memory
 
 Visual:
-
 - Posner & Keele (1967):
 	- showed letters, same or different in name and/or form:
 		- e.g., AA, Aa, AB, or Ab
@@ -184,45 +183,27 @@ Visual:
 		- e.g., AA (same), Aa (same), AB (different)
 	- took longer to decide same name/different form (Aa) than same name/same form (AA)
 		- implies ------ code in STS
-- Brooks (1968): ------------ effects
 
-Tasks:
-
-- sentence: read a sentence, then from memory, make judgments about each word (is it a noun?)
-- diagram: see block letter, then from memory, go around it clockwise and make judgments about each corner (is it at the ------- top or bottom of the letter?)
-
-Response modes:
-
-- verbal: say “yes” or “no”
-- pointing at spatial arrangement of Ys and Ns
-
-e.g., sentence task with verbal response mode:
-
-“A bird in the hand is not in the bush.” Is each word a ----?
-
-(correct sequence: N, Y, N, N, Y, N, N, N, N, Y)
-
-e.g., diagram task with pointing response mode:
-
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|***L**|||Y|N||
-|Y|||N|
-||Y|N||
-|Y|||N|
-||Y|N||
-|Y|||N|
-
-(correct sequence: Y, Y, Y, N, N, Y)
+- Brooks (1968): ==interference== effects
+	- Tasks:
+		- sentence: read a sentence, then from memory, make judgments about each word (is it a noun?)
+		- diagram: see block letter, then from memory, go around it clockwise and make judgments about each corner (is it at the ==extreme== top or bottom of the letter?)
+	- Response modes:
+		- verbal: say “yes” or “no”
+		- pointing at spatial arrangement of Ys and Ns
+	- e.g., sentence task with verbal response mode:
+		- “A bird in the hand is not in the bush.” Is each word a noun?
+			- (correct sequence: N, Y, N, N, Y, N, N, N, N, Y)
+	- e.g., diagram task with pointing response mode:
+		- Starting on the lower Left of a capital **L**, going clockwise
+			- (correct sequence: Y, Y, Y, N, N, Y)
 
 Results (time in seconds):
 
-|   |   |   |
-|---|---|---|
-||**Response mode:**|   |
-|**Task:**|**verbal**|**pointing**|
-|sentence|13.8|9.8|
-|diagram|11.3|28.2|
+|          |      |      |
+| -------- | ---- | ---- |
+| sentence | 13.8 | 9.8  |
+| diagram  | 11.3 | 28.2 |
 
 - spatial response mode (pointing) ---------- with imagery (diagram task)
 
