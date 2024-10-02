@@ -200,44 +200,38 @@ Visual:
 
 Results (time in seconds):
 
-|          |      |      |
-| -------- | ---- | ---- |
-| sentence | 13.8 | 9.8  |
-| diagram  | 11.3 | 28.2 |
+|           | **Response mode:** |              |
+| --------- | ------------------ | ------------ |
+| **Task:** | **verbal**         | **pointing** |
+| sentence  | 13.8               | 9.8          |
+| diagram   | 11.3               | 28.2         |
+- spatial response mode (pointing) ==interferes== with imagery (diagram task)
 
-- spatial response mode (pointing) ---------- with imagery (diagram task)
-
-Semantic: Shulman (1970):
-
-- participants viewed 10-word lists
-- given recognition test using visually represented “probe words”:
-- -------- (e.g. “bawl” for “ball”)
-- -------- (e.g. “talk” for “speak”)
-- identical to the original word
-- homonym and synonym probes produced similar error rates, suggesting an equal amount of acoustic and -------- coding in STS
+- Semantic: Shulman (1970):
+	- participants viewed 10-word lists
+	- given recognition test using visually represented “probe words”:
+		- ==homonyms== (e.g. “bawl” for “ball”)
+		- ==synonyms== (e.g. “talk” for “speak”)
+		- identical to the original word
+	- homonym and synonym probes produced similar error rates, suggesting an equal amount of acoustic and ==semantic== coding in STS
 
 ---
 
 ## Working Memory
-
 Alan Baddeley (1974, 1976, 2000, 2018):
-
-In contrast to the storage-based view of STS, working memory includes the processing of information
-
-Components:
-
-- **------------ loop**:
-- phonological store: passively stores speech sounds
-- articulatory rehearsal process: actively processes items to prevent decay
-- **------------ sketchpad**:
-- visual cache: stores form and colour information
-- inner scribe: handles spatial and movement information; rehearses visual information; also transfers information in visual cache to central executive
-- **------- ---------**:
-- controls attention
-- coordinates other components
-- transfers information to/from long-term memory
-- time sharing of multiple tasks
-
+- In contrast to the storage-based view of STS, working memory includes the processing of information
+- Components:
+	- **==phonological== loop**:
+		- phonological store: passively stores speech sounds
+		- articulatory rehearsal process: actively processes items to prevent decay
+	- **------------ sketchpad**:
+		- visual cache: stores form and colour information
+		- inner scribe: handles spatial and movement information; rehearses visual information; also transfers information in visual cache to central executive
+	- **------- ---------**:
+		- controls attention
+		- coordinates other components
+		- transfers information to/from long-term memory
+		- time sharing of multiple tasks
 e.g., generating random numbers is worse while alternating reciting alphabet and counting
 
 - **-------- buffer**:
