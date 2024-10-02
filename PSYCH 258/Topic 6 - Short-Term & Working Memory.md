@@ -256,22 +256,22 @@ Alan Baddeley (1974, 1976, 2000, 2018):
 
 ![diagram of verbal and spatial tasks](PSYCH%20258/Attachments/p258s06-08.png)
 
-- brain activation from a related control task not requiring working memory was ----------
+- brain activation from a related control task not requiring working memory was ==subtracted==
 - results:
-- verbal task: activated posterior parietal, Broca’s, premotor, and supplementary motor areas in left hemisphere
+	- *verbal task:* activated posterior parietal, Broca’s, premotor, and supplementary motor areas in left hemisphere
 
 ![left hemisphere activation](PSYCH%20258/Attachments/p258s06-09.png)
 
-- spatial task: activated posterior parietal and premotor areas in right hemisphere
+- *spatial task:* activated posterior parietal and premotor areas in right hemisphere
 
 ![left hemisphere activation](PSYCH%20258/Attachments/p258s06-10.png)
 
 - conclusions:
-- ------------------- evidence for different systems for verbal (left hemisphere) vs. spatial information (right hemisphere)
-- as memory load increased, corresponding brain regions showed increase in activity
-- may be -------- components for passive storage (generally located toward the back of the brain) vs. active processing (more in the frontal lobes)
+	- ==double-dissociation== evidence for different systems for verbal (left hemisphere) vs. spatial information (right hemisphere)
+	- as memory load increased, corresponding brain regions showed increase in activity
+		- may be ==separate== components for passive storage (generally located toward the back of the brain) vs. active processing (more in the frontal lobes)
 
-Other research has implicated the central executive as a function of the ---------- cortex, whereas the episodic buffer seems more broadly distributed.
+Other research has implicated the central executive as a function of the ==prefrontal== cortex, whereas the episodic buffer seems more broadly distributed.
 
 ---
 
