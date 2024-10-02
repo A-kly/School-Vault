@@ -154,25 +154,18 @@ Barnes & Underwood (1959):
 	- participants heard several lists of words from same category (dogs)
 	- recall declined after a number of trials
 	- on the final trial, words were from a different category (flowers)
-	- recall --------
-	- **------- from proactive interference**
+	- recall improved
+	- **released from proactive interference**
 
 ### STS Coding
 
 Acoustic:
-
-- **------------ similarity effect** (Conrad, 1964):
-- letters were presented --------
-- participants then wrote them down
-- more interference among similar-sounding letters
-
-(e.g., B C P T V vs. F M N S X)
-
-- 75% of errors from same acoustical class
-- few visual errors
-
-(e.g., E vs. F, O vs. Q, R vs. P)
-
+- **phonological similarity effect** (Conrad, 1964):
+	- letters were presented visually
+	- participants then wrote them down
+	- more interference among similar-sounding letters (e.g., B C P T V vs. F M N S X)
+	- 75% of errors from same acoustical class
+	- few visual errors (e.g., E vs. F, O vs. Q, R vs. P)
 - **---- ------ effect** memory for shorter words is better than for longer words
 
 e.g., digit spans for different languages (Naveh-Benjamin & Ayres, 1986):
@@ -180,24 +173,18 @@ e.g., digit spans for different languages (Naveh-Benjamin & Ayres, 1986):
 ![digit span as a function of language](PSYCH%20258/Attachments/p258s06-06.png)
 
 - this effect is a function of how long it takes to read the words out loud
-- **articulatory -----------**: repeating word (e.g., “the”) during retention interferes with memory
+- **articulatory supression**: repeating word (e.g., “the”) during retention interferes with memory
 
 Visual:
 
-Posner & Keele (1967):
-
-- showed letters, same or different in name and/or form:
-
-e.g., AA, Aa, AB, or Ab
-
-- measured RT to decide same name:
-
-e.g., AA (same), Aa (same), AB (different)
-
-- took longer to decide same name/different form (Aa) than same name/same form (AA)
-- implies ------ code in STS
-
-Brooks (1968): ------------ effects
+- Posner & Keele (1967):
+	- showed letters, same or different in name and/or form:
+		- e.g., AA, Aa, AB, or Ab
+	- measured RT to decide same name:
+		- e.g., AA (same), Aa (same), AB (different)
+	- took longer to decide same name/different form (Aa) than same name/same form (AA)
+		- implies ------ code in STS
+- Brooks (1968): ------------ effects
 
 Tasks:
 
