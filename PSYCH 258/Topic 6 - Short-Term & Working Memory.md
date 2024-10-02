@@ -238,28 +238,21 @@ Alan Baddeley (1974, 1976, 2000, 2018):
 		- *integrates information* into a single complex structure or experience
 
 ![working memory](PSYCH%20258/Attachments/p258s06-07.png)
+- General:
+	- fluid systems include attention and temporary storage, whereas crystallized systems accumulate long-term ==knowledge==
+	- all components have limited ==capacity==
+	- if two tasks use the same component, they cannot be performed successfully ==together==
 
-General:
+- Pros & cons:
+	- [p] conceptualizes active processing and transient storage of information
+	- [p] can be applied to ==complex== tasks
+	- [c] role of central executive is vague
+	- [c] it is unclear how components interact
 
-- fluid systems include attention and temporary storage, whereas crystallized systems accumulate long-term ---------
-- all components have limited --------
-- if two tasks use the same component, they cannot be performed successfully --------
-
-Pros & cons:
-
-![☑](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/pro-new.png) conceptualizes active processing and transient storage of information
-
-![☑](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/pro-new.png) can be applied to ------- tasks
-
-![☒](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/con-new.png) role of central executive is vague
-
-![☒](PSYCH%20258-%20Short-Term%20&%20Working%20Memory-files/con-new.png) it is unclear how components interact
-
-Smith & Jonides (1997): How is working memory related to the brain?
-
-- participants given verbal memory or spatial memory task while in a PET scanner
-- verbal task: presented 4 target letters; delay; probe letter presented: Did probe match any target letter?
-- spatial task: presented 3 dots at different locations; delay; circle presented: Was a dot located within the circle?
+- Smith & Jonides (1997): How is working memory related to the brain?
+	- participants given verbal memory or spatial memory task while in a PET scanner
+	- verbal task: presented 4 target letters; delay; probe letter presented: Did probe match any target letter?
+	- spatial task: presented 3 dots at different locations; delay; circle presented: Was a dot located within the circle?
 
 ![diagram of verbal and spatial tasks](PSYCH%20258/Attachments/p258s06-08.png)
 
