@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC 225/Chapter 4.md",
+                "file": "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/Chapter 4.md"
+                "file": "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/Chapter 4.md",
+                "file": "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/Chapter 4.md",
+                "file": "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/Chapter 4.md"
+                "file": "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "8c3b3b2dd71186f6",
   "lastOpenFiles": [
+    "SOC 225/Chapter 4.md",
     "SOC 225/Correlating Crime.md",
     "SOC 225/Chapter 1&3.md",
     "SOC 225/Course intro.md",
@@ -197,7 +198,6 @@
     "PSYCH 258/Attachments/p258s06-07.png",
     "PSYCH 258/Attachments/p258s06-06.png",
     "PSYCH 258/Attachments/p258s06-05.png",
-    "SOC 225/Chapter 4.md",
     "CMPUT 382/Lecture 2.3 onwards.md",
     "SOC 225/Readings",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
