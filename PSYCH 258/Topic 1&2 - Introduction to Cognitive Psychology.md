@@ -85,7 +85,7 @@
 	- opened first psychology lab, University of Leipzig (1879)
 	- **introspection**: analyze your own conscious experience into sensations, images, & affections
 	- problems:
-		-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently ==verifiable== )
+		-  introspection failed (low reliability; biased: trainer’s influence seen in observer’s results; not independently ==verifiable==)
 
 **Functionalism**
 
