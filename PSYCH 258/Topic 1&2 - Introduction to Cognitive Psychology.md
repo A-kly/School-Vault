@@ -251,7 +251,7 @@
 	1. **Computational Theory**
 		- What is the system doing?
 			- e.g., multiplication is the product of two numbers; repeated addition: the sum of X groups of Y items
-	1. **Representation and Algorithm**\
+	1. **Representation and Algorithm**
 		- "structure and process"
 		- How is the problem symbolized?
 		- What steps are being used to solve the problem?
