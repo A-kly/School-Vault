@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
+                "file": "PSYCH 258/Topic 4 - Perception.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md"
+                "file": "PSYCH 258/Topic 4 - Perception.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
+                "file": "PSYCH 258/Topic 4 - Perception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
+                "file": "PSYCH 258/Topic 4 - Perception.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md"
+                "file": "PSYCH 258/Topic 4 - Perception.md"
               }
             }
           },
@@ -174,11 +174,14 @@
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "aloud-tts:Aloud: text to speech": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
   "active": "8c3b3b2dd71186f6",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
     "SOC 225/Chapter 4.md",
     "SOC 225/Correlating Crime.md",
@@ -191,7 +194,6 @@
     "SOC 225/Media/Pasted image 20241001101650.png",
     "SOC 225/Media/Pasted image 20241001101212.png",
     "SOC 225/Media/Pasted image 20241001101151.png",
-    "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Attachments/p258s06-10.png",
     "PSYCH 258/Attachments/p258s06-09.png",
     "PSYCH 258/Attachments/p258s06-08.png",
