@@ -175,7 +175,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false,
-      "aloud-tts:Aloud: text to speech": false,
       "obsidian-tts:Text to Speech": false
     }
   },
