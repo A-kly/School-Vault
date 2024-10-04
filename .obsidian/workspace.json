@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 4 - Perception.md",
+                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 4 - Perception.md"
+                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 4 - Perception.md",
+                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 4 - Perception.md",
+                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 4 - Perception.md"
+                "file": "PSYCH 258/Topic 3 - Cognitive Neuroscience.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "8c3b3b2dd71186f6",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
     "SOC 225/Chapter 4.md",
@@ -204,7 +205,6 @@
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
     "SOC 225/Readings/AI TEXTBOOK SUMMARY.md",
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
-    "PSYCH 258/Topic 4 - Perception.md",
     "Markdown Cheat Sheet.md",
     "SOC 225/Media",
     "SOC 225/SOC 225.md",
