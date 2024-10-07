@@ -131,19 +131,18 @@ Evidence:
 - **==anterograde== amnesia**: inability to form new memories of events that occurred -after- a traumatic event
 
 The case of patient H.M. (Scoville & Milner, 1957; Corkin, 2013):
-
 - had progressive uncontrolled epilepsy since age 10
 - to control his seizures, had bilateral medial temporal lobe (MTL) resection at age 27 (in 1953)
-- -----------, parahippocampal gyrus, and amygdala removed
+- ==hippocampus==,  parahippocampal gyrus, and amygdala removed
 - surgery was successful (fewer seizures), but resulted in profound amnesia
 - normal IQ, STS (e.g., digit span), language (speech, writing, and reading)
-- could remember events/facts in his distant past, but had ---------- ------ retrograde amnesia for events 11 years before the surgery
+- could remember events/facts in his distant past, but had temporally graded retrograde amnesia for events 11 years before the surgery
 - could not learn new facts or remember information about events since his surgery:
-- could not find new home, even after 10 months
-- language frozen in the -----
-- forgot who he was talking to if he turned away
-- however, he could form new ---------- memories (e.g., mirror tracing task), but had no conscious recollection of previous training episodes
-- see also -Memory’s Ghost: The Strange Tale of Mr. M. and the Nature of Memory- (Hilts, 1995) and -Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.- (Corkin, 2013)
+	- could not find new home, even after 10 months
+	- language frozen in the 1950s
+	- forgot who he was talking to if he turned away
+	- however, he could form new ==procedural== memories (e.g., mirror tracing task), but had no conscious recollection of previous training episodes
+	- see also -Memory’s Ghost: The Strange Tale of Mr. M. and the Nature of Memory- (Hilts, 1995) and -Permanent Present Tense: The Unforgettable Life of the Amnesic Patient, H.M.- (Corkin, 2013)
 
 The case of patient K.C. (Moscovitch, Schacter, Tulving & colleagues, 2005):
 
