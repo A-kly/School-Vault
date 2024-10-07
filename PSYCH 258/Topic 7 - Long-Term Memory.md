@@ -87,18 +87,21 @@ Problems:
 ### LTS Coding
 
 - Shulman (1972):
-	- found that falsely recalled words had a similar -------
+	- found that falsely recalled words had a similar meaning
 	- e.g., “baby” for “infant”, or “ship” for “boat”
-	- depended on position of list item: semantic confusions at ----- (words in LTM), acoustic confusions at --- (words in STM)
+	- depended on position of list item: semantic confusions at ==start== (words in LTM), acoustic confusions at ==end== (words in STM)
 	- words that were held in LTS were coded by meaning
 
 ---
 
 ## Types of Memories
 
-- **-------- memory** (a.k.a. **declarative memory**): conscious, intentional remembering of knowledge or an event
-- **------**: reproducing previously encountered information from memory
-- **-----------**: identifying previously learned information
+- **==explicit== memory** (a.k.a. **declarative memory**): conscious, intentional remembering of knowledge or an event
+	- Able to declare it in words, aka, "Ottawa is the capital of Canada"
+- **==recall==**: reproducing previously encountered information from memory
+	- Just remember it, nothing more, aka written essay e
+- **==recognition==**: identifying previously learned information
+	- 
 - **-------- memory** (a.k.a. **nondeclarative memory**): unconscious retention due to previous experience
 - **---------- ------- effect**: previous experience with a stimulus facilitates later response to the same (or similar) stimulus
 
