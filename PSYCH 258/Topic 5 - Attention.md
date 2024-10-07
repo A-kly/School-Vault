@@ -166,7 +166,6 @@ E. Colin Cherry (1953): How does attention process speech?
 		- language (syllables, words)
 		- meaning
 	- ![Treisman’s Attenuation Model](PSYCH%20258/Attachments/p258s05-04.png)
-
 	- further processing occurs if information meets **==pattern== recognition threshold** in the “dictionary unit”
 	- e.g., common words, high importance (your name or “Help!”), relevance/expectations (words that fit the current context)
 	- problem:
