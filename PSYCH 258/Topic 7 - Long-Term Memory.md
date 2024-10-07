@@ -116,20 +116,19 @@ Endel Tulving (1972, 1985):
 - **==episodic== memory**
 	- memory for events that occurred in your life
 	- tied to specific learning episode or experience
-- **-------- memory**
+- **==semantic== memory**
 	- stores words, concepts, rules, abstract ideas
 	- general knowledge not tied to any experience
-- **---------- memory**
-- underlies motor & cognitive skills
-- e.g., doing math, playing chess, riding a bike
+- **==procedural== memory**
+	- underlies motor & cognitive skills
+	- e.g., doing math, playing chess, riding a bike
 
 ![long-term memory](PSYCH%20258/Attachments/p258s07-03.jpg)
 
 Evidence:
-
-- certain patients with amnesia may have damaged one kind of memory system but have other ones intact (this is a **------------ effect**: one specific ability is affected, but another is not)
-- **---------- amnesia**: inability to remember events that occurred -before- a traumatic event
-- **----------- amnesia**: inability to form new memories of events that occurred -after- a traumatic event
+- certain patients with amnesia may have damaged one kind of memory system but have other ones intact (this is a **==dissociation== effect**: one specific ability is affected, but another is not)
+- **==retrograde== amnesia**: inability to remember events that occurred -before- a traumatic event
+- **==anterograde== amnesia**: inability to form new memories of events that occurred -after- a traumatic event
 
 The case of patient H.M. (Scoville & Milner, 1957; Corkin, 2013):
 
