@@ -99,26 +99,26 @@ Problems:
 - **==explicit== memory** (a.k.a. **declarative memory**): conscious, intentional remembering of knowledge or an event
 	- Able to declare it in words, aka, "Ottawa is the capital of Canada"
 - **==recall==**: reproducing previously encountered information from memory
-	- Just remember it, nothing more, aka written essay e
+	- Just remember it, nothing more, aka written essay exam
 - **==recognition==**: identifying previously learned information
-	- 
-- **-------- memory** (a.k.a. **nondeclarative memory**): unconscious retention due to previous experience
-- **---------- ------- effect**: previous experience with a stimulus facilitates later response to the same (or similar) stimulus
-
-e.g., word-fragment completion: fill in missing letters from a word: P--M-S--RE
-
-e.g., word-stem completion: given the first few letters in a word, complete the word as fast as possible: “per...”
+	- aka multiple choice exam
+- **==implicit== memory** (a.k.a. **nondeclarative memory**): unconscious retention due to previous experience
+	- eg. remembering a experience in it's entirety, muscle memory
+- **repetition priming effect**: previous experience with a stimulus facilitates later response to the same (or similar) stimulus
+	- e.g., word-fragment completion: fill in missing letters from a word: P--M-S--RE
+		- (PERMASTORE)
+	- e.g., word-stem completion: given the first few letters in a word, complete the word as fast as possible: “per...”
 
 ### Theory of Memory Systems
 
 Endel Tulving (1972, 1985):
 
+- **==episodic== memory**
+	- memory for events that occurred in your life
+	- tied to specific learning episode or experience
 - **-------- memory**
-- memory for events that occurred in your life
-- tied to specific learning episode or experience
-- **-------- memory**
-- stores words, concepts, rules, abstract ideas
-- general knowledge not tied to any experience
+	- stores words, concepts, rules, abstract ideas
+	- general knowledge not tied to any experience
 - **---------- memory**
 - underlies motor & cognitive skills
 - e.g., doing math, playing chess, riding a bike
