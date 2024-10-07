@@ -42,17 +42,18 @@ Problems:
 		- e.g., daughter, oil, rifle, garden, grain, table, football, anchor, giraffe
 	- words differed in opportunities for rehearsal
 		- e.g., -giraffe- value = 0; -grain- value = 4; -garden- value = 1
+		- (number of opportunities for rehearsal)
 	- participants did math task, then free recall of all words
 - memory for “g” words:
 
 ![recall as a function of repetition](PSYCH%20258/Attachments/p258s07-02.png)
 
-- no advantage for greater ---------
+- no advantage for greater ==rehersal==
 
 - [c]  Bekerian & Baddeley (1980): role of repetition
 	- BBC advertised new radio frequencies 10×/hour
 	- casual listener exposed to message 1,000×
-	- most listeners didn’t -------- the message
+	- most listeners didn’t ==remember== the message
 	- repetition ≠ retention
 
 ---
