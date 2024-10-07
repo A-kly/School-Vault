@@ -67,34 +67,30 @@ Problems:
 ### LTS Capacity
 
 - Von Neumann (1958):
-- calculation based on neural firing rate, estimated number of neurons, and a lifetime of 60 years
-- 2.8 × 1020 bits, or about 1 exabyte (1 billion gigabytes)
+	- calculation based on neural firing rate, estimated number of neurons, and a lifetime of 60 years
+	- 2.8 × 1020 bits, or about 1 exabyte (1 billion gigabytes)
 - Landauer (1986):
-- estimated “functional information content”: amount of information adults need to do normal tasks
-- compared rate of information processing vs. forgetting on a number of tasks
-
-e.g., reading, pictures, nonsense syllables
-
-- people retain 2 bits/sec
-- conclusion: adult LTS contains 109 bits, or 125 megabytes
-- not the same as storage --------
+	- estimated “functional information content”: amount of information adults need to do normal tasks
+	- compared rate of information processing vs. forgetting on a number of tasks
+		- e.g., reading, pictures, nonsense syllables
+	- people retain 2 bits/sec
+	- conclusion: adult LTS contains 109 bits, or 125 megabytes
+	- not the same as storage capacity
 - Reber (2010):
-- the brain has ~100 billion neurons--but not all are involved in forming long-term memories
-- ~1 billion neurons likely participate in memory × ~1,000 synapses each = 1012 (1 trillion) total synapses
-- but each synapse does not store one memory
-- rather, memories are ----------- across our brain’s neural networks, exponentially increasing capacity
-- memory capacity estimated to be 2.5 petabytes (2.5 million gigabytes)
-- bottom line: LTS capacity unknown; practically ---------
+	- the brain has ~100 billion neurons--but not all are involved in forming long-term memories
+	- ~1 billion neurons likely participate in memory × ~1,000 synapses each = 1012 (1 trillion) total synapses
+	- but each synapse does not store one memory
+	- rather, memories are distributed across our brain’s neural networks, exponentially increasing capacity
+	- memory capacity estimated to be 2.5 petabytes (2.5 million gigabytes)
+	- bottom line: LTS capacity unknown; practically ==unlimited==
 
 ### LTS Coding
 
 - Shulman (1972):
-- found that falsely recalled words had a similar -------
-
-e.g., “baby” for “infant”, or “ship” for “boat”
-
-- depended on position of list item: semantic confusions at ----- (words in LTM), acoustic confusions at --- (words in STM)
-- words that were held in LTS were coded by meaning
+	- found that falsely recalled words had a similar -------
+	- e.g., “baby” for “infant”, or “ship” for “boat”
+	- depended on position of list item: semantic confusions at ----- (words in LTM), acoustic confusions at --- (words in STM)
+	- words that were held in LTS were coded by meaning
 
 ---
 
