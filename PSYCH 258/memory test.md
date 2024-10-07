@@ -1,0 +1,1 @@
+hot , wet, winter, snow, cold, chilly, artichoke, air, frost, frigid, warm, heat 

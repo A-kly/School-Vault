@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
+                "file": "PSYCH 258/memory test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "368b2e5597f64fb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/Topic 6 - Short-Term & Working Memory.md"
+                "file": "PSYCH 258/memory test.md"
               }
             }
           },
@@ -108,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
+                "file": "PSYCH 258/memory test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
+                "file": "PSYCH 258/memory test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +158,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/Topic 6 - Short-Term & Working Memory.md"
+                "file": "PSYCH 258/memory test.md"
               }
             }
           },
@@ -180,6 +193,19 @@
   },
   "active": "8c3b3b2dd71186f6",
   "lastOpenFiles": [
+    "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
+    "PSYCH 258/Topic 7 - Long-Term Memory.md",
+    "PSYCH 258/memory test.md",
+    "PSYCH 258/Attachments/p258s07-18.jpg",
+    "PSYCH 258/Attachments/p258s07-17.jpg",
+    "PSYCH 258/Attachments/p258s07-16.jpg",
+    "PSYCH 258/Attachments/p258s07-15.png",
+    "PSYCH 258/Attachments/p258s07-14.png",
+    "PSYCH 258/Attachments/p258s07-13.png",
+    "PSYCH 258/Attachments/p258s07-12.png",
+    "PSYCH 258/Attachments/p258s07-11.png",
+    "PSYCH 258/Attachments/p258s07-10.png",
+    "PSYCH 258/Attachments/p258s07-09.png",
     "PSYCH 258/Topic 5 - Attention.md",
     "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
@@ -188,18 +214,7 @@
     "SOC 225/Correlating Crime.md",
     "SOC 225/Chapter 1&3.md",
     "SOC 225/Course intro.md",
-    "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
     "PSYCH 258/MIDTERM DETAILS.md",
-    "SOC 225/Media/Pasted image 20241001101714.png",
-    "SOC 225/Media/Pasted image 20241001101650.png",
-    "SOC 225/Media/Pasted image 20241001101212.png",
-    "SOC 225/Media/Pasted image 20241001101151.png",
-    "PSYCH 258/Attachments/p258s06-10.png",
-    "PSYCH 258/Attachments/p258s06-09.png",
-    "PSYCH 258/Attachments/p258s06-08.png",
-    "PSYCH 258/Attachments/p258s06-07.png",
-    "PSYCH 258/Attachments/p258s06-06.png",
-    "PSYCH 258/Attachments/p258s06-05.png",
     "CMPUT 382/Lecture 2.3 onwards.md",
     "SOC 225/Readings",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
@@ -224,7 +239,6 @@
     "PSYCH 258",
     "CMPUT 267",
     "PSYCH 239/11. Schizophrenia Spectrum and Other Psychotic Disorders.md",
-    "PSYCH 239/10. Gender Identity Disorder, Paraphilias, and Sexual Dysfunctions.md",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
