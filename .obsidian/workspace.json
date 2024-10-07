@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PSYCH 258/memory test.md"
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md"
               }
             }
           },
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PSYCH 258/memory test.md",
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PSYCH 258/memory test.md",
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "PSYCH 258/memory test.md"
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md"
               }
             }
           },
@@ -191,9 +192,10 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "8c3b3b2dd71186f6",
+  "active": "368b2e5597f64fb6",
   "lastOpenFiles": [
     "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
+    "PSYCH 258/MIDTERM DETAILS.md",
     "PSYCH 258/Topic 7 - Long-Term Memory.md",
     "PSYCH 258/memory test.md",
     "PSYCH 258/Attachments/p258s07-18.jpg",
@@ -214,7 +216,6 @@
     "SOC 225/Correlating Crime.md",
     "SOC 225/Chapter 1&3.md",
     "SOC 225/Course intro.md",
-    "PSYCH 258/MIDTERM DETAILS.md",
     "CMPUT 382/Lecture 2.3 onwards.md",
     "SOC 225/Readings",
     "CMPUT 382/Lecture 2.2 Introduction to CUDA C.md",
