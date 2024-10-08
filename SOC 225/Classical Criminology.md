@@ -12,7 +12,7 @@
 - People were afraid of changing value from the women in their community, and when they attempted to push against these roles, chaos ensued
 - Response to this was through the experience of their religion, and therefore they were posessed
 ![[Criminology Week Four and five (2024) - Classical-8.png]]
-
+- Nowadays, some politicians attempt to blame immigrants, queer people, and people of color for many of the wrongs in the world, and in doing so, attempt to use these "facts" to change policy and restrict immigration, reduce the amount of resounces available for those who need it and increase the amount of policing in order to "keep these people in check".
 ![[Criminology Week Four and five (2024) - Classical-9.png]]
 
 ![[Criminology Week Four and five (2024) - Classical-26.png]]
