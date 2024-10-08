@@ -9,7 +9,8 @@
 ![[Criminology Week Four and five (2024) - Classical-6.png]]
 
 ![[Criminology Week Four and five (2024) - Classical-7.png]]
-
+- People were afraid of changing value from the women in their community, and when they attempted to push against these roles, chaos ensued
+- Response to this was through the experience of their religion, and therefore they were posessed
 ![[Criminology Week Four and five (2024) - Classical-8.png]]
 
 ![[Criminology Week Four and five (2024) - Classical-9.png]]
