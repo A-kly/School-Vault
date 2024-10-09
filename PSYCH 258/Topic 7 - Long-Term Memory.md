@@ -178,36 +178,33 @@ Conclusions:
 - “Deeper” encoding enhances memory. Why?
 	- **==maintenance== rehearsal**: repetitive processing
 		- e.g., repeating a phone number over and over
-	- **----------- rehearsal**: more meaningful processing, relating item to other knowledge
+	- **==elaborative== rehearsal**: more meaningful processing, relating item to other knowledge
 		- e.g., grouping digits in a phone number into meaningful patterns
-	- may work by organizing, connecting, or integrating memories (Bellezza et al., 1977; Mandler, 1979)
+		- may work by organizing, connecting, or integrating memories (Bellezza et al., 1977; Mandler, 1979)
 
 - Evidence:
 	- Craik & Tulving (1975):
 		- participants given a list of words; asked to do one of three tasks:
 		- case: Is the word in capital letters?
 		- rhyme: Does the word rhyme with weight?
-		- sentence: Does the word fit in this sentence: “He met a ----- in the street”?
+		- sentence: Does the word fit in this sentence: “He met a \_\_\_\_ in the street”?
 		- measured recognition performance and latency on incidental (surprise) memory test
 
 ![recognition as a function of task type](PSYCH%20258/Attachments/p258s07-04.png)         ![latency as a function of task type](PSYCH%20258/Attachments/p258s07-05.png)
 
-- is performance due to processing ----?
+- is performance due to processing ==time==?
 - structural task: Does word match this pattern of consonants and vowels?
-
-e.g. CCVVC
+	- e.g. CCVVC
 
 - semantic task: Does word fit in this sentence?
-
-e.g., “The man threw a ball to the ------.”
-
+	- e.g., “The man threw a ball to the ------.”
 - results:
 
-|   |   |   |
-|---|---|---|
-|**Task:**|**Time**|**Recognition**|
-|structural|1.70 s|57%|
-|semantic|0.83 s|82%|
+|            |          |                 |
+| ---------- | -------- | --------------- |
+| **Task:**  | **Time** | **Recognition** |
+| structural | 1.70 s   | 57%             |
+| semantic   | 0.83 s   | 82%             |
 
 - depth of processing more important than processing ----
 
