@@ -224,7 +224,7 @@ Problems:
  ![remembering as a function of encoding and retrieval](PSYCH%20258/Attachments/p258s07-06.png)
 
 - memory performance not dependent on depth alone
-- also depends on ----- between encoding processes and type of test
+- also depends on ==match== between encoding processes and type of test
 
 - [c]  Kapur, Craik, Tulving, & colleagues (1994):
 	- shallow task: Does the word contain the letter -a- ?
@@ -233,27 +233,23 @@ Problems:
 
 ![cortical activation](PSYCH%20258/Attachments/p258s07-07.png)
 
-- greater activation in left inferior ---------- cortex during a deep task
-- shows -more- activity, not -deeper- activity
+- greater activation in left inferior ==prefrontal== cortex during a deep task
+	- shows -*more*- activity, not -*deeper*- activity
 
 ### Other Encoding Factors
 
-**-------------- effect** (Rogers, Kuiper, & Kirker, 1977): memory is enhanced by relating items to one’s self
-
+**==self-reference== effect** (Rogers, Kuiper, & Kirker, 1977): memory is enhanced by relating items to one’s self
 - presented 40 adjectives to participants
-
-e.g., -kind-, -rigid-, -brave-, etc.
+	- e.g., -*kind*-, -*rigid*-, -*brave*-, etc.
 
 - words evaluated one of four ways:
-- structural, phonemic, or semantic tasks
-- -------------- group asked if each adjective described them
+	- structural, phonemic, or semantic tasks
+	- ==self-reference== group asked if each adjective described them
 - results of incidental recall test:
-
 ![self-reference effect](PSYCH%20258/Attachments/p258s07-08.png)
-
 - self-reference group surpassed semantic encoding group
 
-**---------- effect** (Mäntylä, 1986): memory is enhanced for items that are actively produced
+**----------- effect** (Mäntylä, 1986): memory is enhanced for items that are actively produced
 
 - presented 600 nouns (e.g., -banana-, -freedom-, -tree-)
 - task: generate 3 cue words associated with each noun (e.g., -yellow-, -bunches-, -edible- for -banana-)
