@@ -170,33 +170,25 @@ Conclusions:
 
 **Levels of Processing Theory** (Fergus I.M. Craik & Lockhart, 1972):
 
-Encoding processes:
+- Encoding processes:
+	- **shallow** (e.g., ==structural:== based on appearance of a word)
+	- **intermediate** (e.g., ==phonemic:== based on sound of a word)
+	- **deep** (e.g., ==semantic==: based on meaning of a word)
 
-- **shallow** (e.g., ----------: based on appearance of a word)
-- **intermediate** (e.g., --------: based on sound of a word)
-- **deep** (e.g., --------: based on meaning of a word)
+- “Deeper” encoding enhances memory. Why?
+	- **==maintenance== rehearsal**: repetitive processing
+		- e.g., repeating a phone number over and over
+	- **----------- rehearsal**: more meaningful processing, relating item to other knowledge
+		- e.g., grouping digits in a phone number into meaningful patterns
+	- may work by organizing, connecting, or integrating memories (Bellezza et al., 1977; Mandler, 1979)
 
-“Deeper” encoding enhances memory. Why?
-
-- **----------- rehearsal**: repetitive processing
-
-e.g., repeating a phone number over and over
-
-- **----------- rehearsal**: more meaningful processing, relating item to other knowledge
-
-e.g., grouping digits in a phone number into meaningful patterns
-
-- may work by organizing, connecting, or integrating memories (Bellezza et al., 1977; Mandler, 1979)
-
-Evidence:
-
-Craik & Tulving (1975):
-
-- participants given a list of words; asked to do one of three tasks:
-- case: Is the word in capital letters?
-- rhyme: Does the word rhyme with weight?
-- sentence: Does the word fit in this sentence: “He met a ----- in the street”?
-- measured recognition performance and latency on incidental (surprise) memory test
+- Evidence:
+	- Craik & Tulving (1975):
+		- participants given a list of words; asked to do one of three tasks:
+		- case: Is the word in capital letters?
+		- rhyme: Does the word rhyme with weight?
+		- sentence: Does the word fit in this sentence: “He met a ----- in the street”?
+		- measured recognition performance and latency on incidental (surprise) memory test
 
 ![recognition as a function of task type](PSYCH%20258/Attachments/p258s07-04.png)         ![latency as a function of task type](PSYCH%20258/Attachments/p258s07-05.png)
 
