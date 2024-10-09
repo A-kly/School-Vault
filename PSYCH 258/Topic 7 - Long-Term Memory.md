@@ -159,7 +159,7 @@ The case of patient K.C. (Moscovitch, Schacter, Tulving & colleagues, 2005):
 
 Conclusions:
 
-- unimpaired STS implies it is biologically --------- from LTS
+- unimpaired STS implies it is biologically ==different== from LTS
 - hippocampus (and MTL?) not a storage site, but important for ------------- of explicit memories (STS to LTS transfer)
 - H.M. provides evidence that implicit memory is ----------- from explicit memory
 - K.C. provides evidence that, within -------- memory, semantic memory is dissociated from episodic memory
