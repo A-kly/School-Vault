@@ -147,15 +147,15 @@ The case of patient H.M. (Scoville & Milner, 1957; Corkin, 2013):
 The case of patient K.C. (Moscovitch, Schacter, Tulving & colleagues, 2005):
 
 - suffered a closed-head injury in a motorcycle collision in Toronto at age 30
-- severe damage to MTLs and almost complete bilateral ----------- loss
+- severe damage to MTLs and almost complete bilateral ==hippocampal== loss
 - left-hemisphere lesions to posterior occipital-temporal and anterior frontal-parietal cortices
 - personality changed from outgoing to more tranquil
-- had retrograde amnesia for episodic memory, although -------- knowledge was intact
-- also had some anterograde amnesia: no episodic memories formed after the accident (**-------- amnesia**)
+- had retrograde amnesia for episodic memory, although ==semantic== knowledge was intact
+- also had some anterograde amnesia: no episodic memories formed after the accident (**==episodic== amnesia**)
 - but could form new semantic and procedural memories:
-- played chess but did not remember playing a game
-- knew where family cottage was but did not remember ever going there
-- learned the Dewey decimal system for his job at the library, but did not know when he learned it
+	- played chess but did not remember playing a game
+	- knew where family cottage was but did not remember ever going there
+	- learned the Dewey decimal system for his job at the library, but did not know when he learned it
 
 Conclusions:
 
