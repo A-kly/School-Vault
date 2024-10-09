@@ -195,54 +195,41 @@ Conclusions:
 - is performance due to processing ==time==?
 - structural task: Does word match this pattern of consonants and vowels?
 	- e.g. CCVVC
-
 - semantic task: Does word fit in this sentence?
-	- e.g., “The man threw a ball to the ------.”
+	- e.g., “The man threw a ball to the \_\_\_\_\_.”
 - results:
 
-|            |          |                 |
-| ---------- | -------- | --------------- |
 | **Task:**  | **Time** | **Recognition** |
+| ---------- | -------- | --------------- |
 | structural | 1.70 s   | 57%             |
 | semantic   | 0.83 s   | 82%             |
-
 - depth of processing more important than processing ----
 
 Problems:
 
-- [c]  What does “------” mean?
-
-- -------- definition: deeper ![→](PSYCH%20258-%20Long-Term%20Memory-files/right-new.png) better memory
+- [c]  What does "deeper" mean?
+	- circular definition: deeper -> better memory
 
 - [c]  Morris, Bransford, & Franks (1977): marching encoding and retrieval
-
-- encoding task: given the word -table-
-- phonetic/rhyming: Does it rhyme with -cable-?
-- semantic: Does it fit in this sentence?
-
-“Put the dish on the -----.”
-
+	- encoding task: given the word -table-
+	- phonetic/rhyming: Does it rhyme with -cable-?
+	- semantic: Does it fit in this sentence?
+		- “Put the dish on the \_\_\_\_\_.”
 - incidental recognition tests:
-- phonetic/rhyming: Circle what rhymes with word presented earlier:
-
-Fable    Desk    Window
-
-- semantic: Circle word presented earlier:
-
-Table    Desk    Window
-
+	- phonetic/rhyming: Circle what rhymes with word presented earlier:
+		- Fable    Desk    Window
+	- semantic: Circle word presented earlier:
+		- Table    Desk    Window
 - results:
-
  ![remembering as a function of encoding and retrieval](PSYCH%20258/Attachments/p258s07-06.png)
 
 - memory performance not dependent on depth alone
 - also depends on ----- between encoding processes and type of test
 
 - [c]  Kapur, Craik, Tulving, & colleagues (1994):
-
-- shallow task: Does the word contain the letter -a- ?
-- deep task: Does word represent a living thing?
-- better recognition for deep task
+	- shallow task: Does the word contain the letter -a- ?
+	- deep task: Does word represent a living thing?
+	- better recognition for deep task
 
 ![cortical activation](PSYCH%20258/Attachments/p258s07-07.png)
 
