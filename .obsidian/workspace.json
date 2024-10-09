@@ -8,46 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8c3b3b2dd71186f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PSYCH 258/memory test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "368b2e5597f64fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOC 225/Correlating Crime.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d4ebbe5809b43632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC 225/Classical Criminology.md",
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC 225/Classical Criminology.md"
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md"
               }
             }
           },
@@ -135,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC 225/Classical Criminology.md",
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC 225/Classical Criminology.md",
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +145,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "SOC 225/Classical Criminology.md"
+                "file": "PSYCH 258/Topic 7 - Long-Term Memory.md"
               }
             }
           },
@@ -207,6 +180,9 @@
   },
   "active": "d4ebbe5809b43632",
   "lastOpenFiles": [
+    "SOC 225/Classical Criminology.md",
+    "SOC 225/Correlating Crime.md",
+    "PSYCH 258/memory test.md",
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-10.png",
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-1.png",
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-25.png",
@@ -217,13 +193,9 @@
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-20.png",
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-19.png",
     "SOC 225/Media/Criminology Week Four and five (2024) - Classical-18.png",
-    "SOC 225/Media/Criminology Week Four and five (2024) - Classical-17.png",
-    "SOC 225/Correlating Crime.md",
-    "SOC 225/Classical Criminology.md",
     "PSYCH 258/Topic 7 - Long-Term Memory.md",
     "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
     "PSYCH 258/MIDTERM DETAILS.md",
-    "PSYCH 258/memory test.md",
     "PSYCH 258/Topic 5 - Attention.md",
     "PSYCH 258/Topic 4 - Perception.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",

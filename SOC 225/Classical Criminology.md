@@ -1,9 +1,12 @@
 ![[Criminology Week Four and five (2024) - Classical-11.png]]
-- Fairness
-- Proportionality
-- Trials should be public
-- The law should be public
-- Outlaw capital pun
+- First criminologist, had some thoughts:
+	- *Fairness*
+	- *Proportionality*
+	- *Trials should be public*
+	- *The law should be public*
+	- *Outlaw capital punishment*
+	- *everyone is equal before the law*
+
 ![[Criminology Week Four and five (2024) - Classical-3.png]]
 
 ![[Criminology Week Four and five (2024) - Classical-4.png]]
