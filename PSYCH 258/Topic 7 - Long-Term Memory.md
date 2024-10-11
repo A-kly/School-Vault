@@ -249,8 +249,7 @@ Problems:
 ![self-reference effect](PSYCH%20258/Attachments/p258s07-08.png)
 - self-reference group surpassed semantic encoding group
 
-**----------- effect** (Mäntylä, 1986): memory is enhanced for items that are actively produced
-
+**==Generation== effect** (Mäntylä, 1986): memory is enhanced for items that are actively produced
 - presented 600 nouns (e.g., -banana-, -freedom-, -tree-)
 - task: generate 3 cue words associated with each noun (e.g., -yellow-, -bunches-, -edible- for -banana-)
 - Gp1: generated cue words
@@ -261,9 +260,9 @@ Problems:
 ![generation effect](PSYCH%20258/Attachments/p258s07-09.png)
 
 - self-generated cues lead to better remembering
-- cues were most helpful when they were both ---------- with the target word and -----------
+- cues were most helpful when they were both ==compatible== with the target word and ==distinctive==
 
-e.g., given the noun -coat-, the cue -jacket- is compatible and distinctive, but -wool- is not (it may cue other nouns like -fabric- and -sheep-)
+e.g., given the noun -*coat*-, the cue -*jacket*- is compatible and distinctive, but -*wool*- is not (it may cue other nouns like -*fabric*- and -*sheep*-)
 
 ---
 
