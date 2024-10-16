@@ -476,10 +476,11 @@ Conclusions:
 ![Standard Model of Systems Consolidation](PSYCH%20258/Attachments/p258s07-16.jpg)
 
 - predicts that retrograde amnesia (due to damaged hippocampus) should be temporally graded: memories formed closest in time to the traumatic event are most likely to be lost
+	- This is shown with HM case study, and thus is accurate!
 
 **Multiple Trace Theory of Consolidation** (Nadel & Moscovitch, 1997)
 
-- proposes that semantic memories stored in the cortex gradually become ----------- of the hippocampus (as in the Standard Model)
+- proposes that semantic memories stored in the cortex gradually become ==independent== of the hippocampus (as in the Standard Model)
 
 ![Multiple Trace Theory of Consolidation](PSYCH%20258/Attachments/p258s07-17.jpg)
 
@@ -488,5 +489,6 @@ Conclusions:
 ![Multiple Trace Theory of Consolidation](PSYCH%20258/Attachments/p258s07-18.jpg)
 
 - predicts that complete lesions of the hippocampus should impair all episodic memories--whether recent or remote
+	- 
 
 This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html).
