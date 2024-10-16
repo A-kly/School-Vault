@@ -489,6 +489,6 @@ Conclusions:
 ![Multiple Trace Theory of Consolidation](PSYCH%20258/Attachments/p258s07-18.jpg)
 
 - predicts that complete lesions of the hippocampus should impair all episodic memories--whether recent or remote
-	- 
+	- Shown also in KC case study. 
 
 This document copyright © 2000-2024 Karsten A. Loepelmann. All rights reserved. Viewing this page is taken as acceptance of the [copyright agreement](https://sites.ualberta.ca/~kloepelm/copy.html).
