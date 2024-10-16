@@ -444,7 +444,7 @@ What about the effects of sleep overall?
 Conclusions:
 
 - sleep has an important role in memory, attention, and executive function (Lowe et al., 2017)
-- sleep actively promotes ---------- of information learned during wakefulness
+- sleep actively promotes ==processing=- of information learned during wakefulness
 - sleep is important, not only for memory consolidation, but also for memory -----------
 
 ---
