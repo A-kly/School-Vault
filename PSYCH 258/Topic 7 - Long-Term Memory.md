@@ -459,13 +459,14 @@ Conclusions:
 - found in **Long term potentiation** (**LTP**): electrically induced changes in neural response (Hawkins & Kandel, 1984)
 - kinds of neural change found to support learning:
 - increased ==neurotransmitter== released
-- increased ---- of postsynaptic region
-- ---- synapses formed
+- increased ==size== of postsynaptic region
+	- Receiving neuron turns on dormant receptor sites
+- ==more== synapses formed
 
 **Standard Model of Systems Consolidation** (Squire & Alvarez, 1995):
 
 - initially, incoming information activates cortical areas (e.g., for vision, audition, etc.), and is integrated and coordinated by the hippocampus into a memory trace
-- consolidation occurs via **------------**:
+- consolidation occurs via **==reactivation==**:
 - hippocampus reactivates connections to the cortex associated with a memory
 - occurs during sleep or by conscious rehearsal of a memory
 - after repeated reactivation, long-lasting cortical interconnections are strengthened and/or new connections established
