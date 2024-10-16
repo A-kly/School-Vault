@@ -444,24 +444,21 @@ What about the effects of sleep overall?
 Conclusions:
 
 - sleep has an important role in memory, attention, and executive function (Lowe et al., 2017)
-- sleep actively promotes ==processing=- of information learned during wakefulness
-- sleep is important, not only for memory consolidation, but also for memory -----------
+- sleep actively promotes ==processing== of information learned during wakefulness
+- sleep is important, not only for memory consolidation, but also for memory ==enhancement==
 
 ---
 
 ## Neurons, the Brain, and Memory
 
 **Dual trace hypothesis** (Donald Hebb, 1949):
-
 - memory formation (synaptic consolidation) requires two processes:
-
-1. short term: experience causes activity in certain neural --------
-2. longer term: continuous or repeated activity creates ------ change in nervous system
-
+	1. short term: experience causes activity in certain neural ==circuits==
+	2. longer term: continuous or repeated activity creates ------ change in nervous system
 - “neurons that fire together, wire together”
-- found in **--------- potentiation** (**LTP**): electrically induced changes in neural response (Hawkins & Kandel, 1984)
+- found in **Long term potentiation** (**LTP**): electrically induced changes in neural response (Hawkins & Kandel, 1984)
 - kinds of neural change found to support learning:
-- increased ---------------- released
+- increased ==neurotransmitter== released
 - increased ---- of postsynaptic region
 - ---- synapses formed
 
