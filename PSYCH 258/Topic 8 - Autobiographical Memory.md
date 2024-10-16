@@ -32,24 +32,19 @@
 
 ## Lifespan Autobiographical Memory
 
-- **---------** (or **infantile**) **amnesia**: adults’ inability to remember events before ages 3-5
-- average age of earliest memory is ˜3.5 years of age
+- **==childhood==** (or **infantile**) **amnesia**: adults’ inability to remember events before ages 3-5
+- average age of earliest memory is ~3.5 years of age
 - females report earlier memories than males
 - recall of memories over the lifespan falls off before age 8 compared to other periods
 - Freud (1916): “the remarkable amnesia of childhood” is due to repression of traumatic experiences of early psychosexual development
 - contemporary theories:
-
-▸ ----------- (involved in storage of long-term memories) not sufficiently mature before age 2
-
-▸ incomplete language development is a barrier to encoding autobiographical memories (which include episodic and semantic components)
-
-▸ episodic memories are tied to one’s sense of ----, which develops later in life
+	-  ==hippocampus== (involved in storage of long-term memories) not sufficiently mature before age 2
+	-  incomplete language development is a barrier to encoding autobiographical memories (which include episodic and semantic components)
+	-  episodic memories are tied to one’s sense of ==self==, which develops later in life
 
 - Bahrick, Bahrick, & Wittinger (1975):
-- studied retention of names and faces of people’s high school classmates (vs. strangers)
-
+	- studied retention of names and faces of people’s high school classmates (vs. strangers)
 ![permastore](PSYCH%20258/Attachments/p258s08-01.png)
-
 - **----------**: very long-term storage that can last your entire life
 
 ---
