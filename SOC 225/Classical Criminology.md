@@ -1,3 +1,4 @@
+# ==Missed a lecture, Catch up somehow==
 ![[Criminology Week Four and five (2024) - Classical-11.png]]
 - First criminologist, had some thoughts:
 	- *Fairness*
