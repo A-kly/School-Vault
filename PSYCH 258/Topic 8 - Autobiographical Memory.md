@@ -46,9 +46,7 @@
 	- studied retention of names and faces of people’s high school classmates (vs. strangers)
 ![permastore](PSYCH%20258/Attachments/p258s08-01.png)
 - **----------**: very long-term storage that can last your entire life
-
 ---
-
 ## Distinctiveness
 
 Distinctiveness can help to make the relationship between cue and item unique
