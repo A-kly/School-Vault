@@ -56,28 +56,27 @@ Unique item activates fewer memories in LTS and reduces interference
 - **==primary== distinctiveness**: incongruity defined with respect to the immediate context
 
 Rabinowitz & Andrews (1973):
-
 - **==isolation== effect** (**von Restorff effect**, 1933): a distinctive stimulus is more likely to be remembered
 - control list: words printed in black capital letters
 - isolated list: one item printed in red capital letters
 
 ![isloation effect](PSYCH%20258/Attachments/p258s08-02.png)
 
-- **--------- distinctiveness**: incongruity is defined with respect to past experience
+- **==Secondary== distinctiveness**: incongruity is defined with respect to past experience
 
 e.g., first day of university, first time in a big city
 
 Hunt & Elliott (1980):
 
-- **------------ distinctiveness**: word having unusual letter and spelling patterns
+- **==orthographic== distinctiveness**: word having unusual letter and spelling patterns
 - better remembered than more typical words
 
 e.g., llama, khaki, afghan (vs. leaky, kennel, airway)
 
-- due to unusual lower-case word ----- (no effect when in CAPITALS)
-- **--------- distinctiveness**: emotional events are remembered in greater detail
+- due to unusual lower-case word ==shape== (no effect when in CAPITALS)
+- **==emotional== distinctiveness**: emotional events are remembered in greater detail
 
-**--------- memories**: detailed, vivid recollection of circumstances surrounding hearing about a surprising/emotional event
+**==flashbulb== memories**: detailed, vivid recollection of circumstances surrounding hearing about a surprising/emotional event
 
 Brown & Kulik (1977):
 
