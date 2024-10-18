@@ -95,21 +95,20 @@ Bohannon (1988)/Bohannon & Schmidt (1989):
 - measure of emotion:
 	- How upset were you (1-7)?
 
-- shuttle -----:
+- shuttle facts:
 	- How many were on board?
 	- How long into the flight did it explode?
 
 ![emotional distinctiveness vs. memory](PSYCH%20258/Attachments/p258s08-03.png)
-
-- personal ---------:
-
-Where were you when you heard of the explosion?
-
-What were you doing?
+- Not a big difference
+---
+- personal ==discovery==:
+	- Where were you when you heard of the explosion?
+	- What were you doing?
 
 ![emotional distinctiveness vs. memory](PSYCH%20258/Attachments/p258s08-04.png)
 
-- emotion appeared to ------- memory, but memory was not perfect
+- emotion appeared to ==enhance== memory, but memory was not perfect
 
 ---
 
