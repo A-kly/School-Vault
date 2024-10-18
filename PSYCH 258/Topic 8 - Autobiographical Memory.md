@@ -114,30 +114,27 @@ Bohannon (1988)/Bohannon & Schmidt (1989):
 
 ## The Constructive Nature of Memory
 
-- **------ illusions**: mismatches between percept and objective stimulus
-- sensory data available
-- persist even when we know our interpretation is incorrect
-- **------ illusions**: erroneous judgments based on memories
-- sensory data no longer available
-- difficult to become aware of; we often cannot compare our memory to the actual event
+- **==visual== illusions**: mismatches between percept and objective stimulus
+	- sensory data available
+	- persist even when we know our interpretation is incorrect
+- **==memory== illusions**: erroneous judgments based on memories
+	- sensory data no longer available
+	- difficult to become aware of; we often cannot compare our memory to the actual event
 
 ### False Memories
 
 Roediger & McDermott (1995, based on Deese, 1959):
 
 - participants studied 15-word list
-
-e.g., -water-, -stream-, -lake-, -Mississippi-, -boat-, -tide-, -swim-, -flow-, -run-, -barge-, -creek-, -brook-, -fish-, -bridge-, -winding-
-
+	- e.g., -water-, -stream-, -lake-, -Mississippi-, -boat-, -tide-, -swim-, -flow-, -run-, -barge-, -creek-, -brook-, -fish-, -bridge-, -winding-
 - recall of studied words: 65%
 - recall of strongly semantically related critical lure (-------): 40%
 - confidence measured in recognition task (4-point scale)
 - results:
 
-|   |   |   |   |
-|---|---|---|---|
-||studied<br><br>items|unrelated<br><br>lure|critical lure<br><br>(-river-)|
-|confidence:|3.6|1.2|3.3|
+|             | studied<br><br>items | unrelated<br><br>lure | critical lure<br><br>(-river-) |
+| ----------- | -------------------- | --------------------- | ------------------------------ |
+| confidence: | 3.6                  | 1.2                   | 3.3                            |
 
 - shows memory is associative
 
