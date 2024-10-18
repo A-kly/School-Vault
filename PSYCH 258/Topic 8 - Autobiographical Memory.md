@@ -45,19 +45,19 @@
 - Bahrick, Bahrick, & Wittinger (1975):
 	- studied retention of names and faces of people’s high school classmates (vs. strangers)
 ![permastore](PSYCH%20258/Attachments/p258s08-01.png)
-- **----------**: very long-term storage that can last your entire life
+- **==permastore==**: very long-term storage that can last your entire life
 ---
 ## Distinctiveness
 
 Distinctiveness can help to make the relationship between cue and item unique
 
-Unique item activates fewer memories in LTS and reduces ------------
+Unique item activates fewer memories in LTS and reduces interference
 
-- **------- distinctiveness**: incongruity defined with respect to the immediate context
+- **==primary== distinctiveness**: incongruity defined with respect to the immediate context
 
 Rabinowitz & Andrews (1973):
 
-- **--------- effect** (**von Restorff effect**, 1933): a distinctive stimulus is more likely to be remembered
+- **==isolation== effect** (**von Restorff effect**, 1933): a distinctive stimulus is more likely to be remembered
 - control list: words printed in black capital letters
 - isolated list: one item printed in red capital letters
 
