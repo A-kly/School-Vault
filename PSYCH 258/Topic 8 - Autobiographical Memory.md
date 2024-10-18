@@ -128,7 +128,7 @@ Roediger & McDermott (1995, based on Deese, 1959):
 - participants studied 15-word list
 	- e.g., -water-, -stream-, -lake-, -Mississippi-, -boat-, -tide-, -swim-, -flow-, -run-, -barge-, -creek-, -brook-, -fish-, -bridge-, -winding-
 - recall of studied words: 65%
-- recall of strongly semantically related critical lure (-------): 40%
+- recall of strongly semantically related critical lure ==(river):== 40%
 - confidence measured in recognition task (4-point scale)
 - results:
 
