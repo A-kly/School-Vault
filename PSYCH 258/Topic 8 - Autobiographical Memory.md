@@ -140,23 +140,19 @@ Roediger & McDermott (1995, based on Deese, 1959):
 
 Freud (1901):
 
-- **----------**: active submerging of a painful memory without conscious awareness
-- considered this to be the most powerful defence mechanism used by the ego to reduce anxiety
-- -not- confirmed experimentally
+- **==repression==**: active submerging of a painful memory without conscious awareness
+	- considered this to be the most powerful defence mechanism used by the ego to reduce anxiety
+	- -not- confirmed experimentally
 
-**----- ------ syndrome**: memory of traumatic experience which is objectively false, but in which the person strongly believes it to be true
-
-- “recovered” memories may be false memories, based on events that never occurred. How?
-- FMS can be elicited by “recovered memory therapy,” in which a therapist encourages a client to identify repressed memories (e.g., of abuse), despite the lack of evidence or memory of any past abuse
-- psychotherapists ask ------- questions that may elicit compliance with generation of false memory
-- this approach (often using hypnosis) can cause false memories to be ---------
-
-e.g., one woman believed she had endured ritualistic abuse, was forced into a pregnancy, and the baby was cut from her uterus--but there were no physical scars or any other physical evidence
-
-- led to the “memory wars” debate over the existence of repressed memories of abuse
+- **==False memory== syndrome**: memory of traumatic experience which is objectively false, but in which the person strongly believes it to be true
+	- “recovered” memories may be false memories, based on events that never occurred. How?
+	- FMS can be elicited by “recovered memory therapy,” in which a therapist encourages a client to identify repressed memories (e.g., of abuse), despite the lack of evidence or memory of any past abuse
+	- psychotherapists ask ------- questions that may elicit compliance with generation of false memory
+	- this approach (often using hypnosis) can cause false memories to be ---------
+		- e.g., one woman believed she had endured ritualistic abuse, was forced into a pregnancy, and the baby was cut from her uterus--but there were no physical scars or any other physical evidence
+	- led to the “memory wars” debate over the existence of repressed memories of abuse
 
 Loftus & Pickrell (1995):
-
 - can people be made to (incorrectly) remember that they were lost in a mall in childhood?
 - experimenter interviewed relatives of participants
 - participants were given paragraphs describing four events from their childhood (three true events and one -------but plausible--event)
