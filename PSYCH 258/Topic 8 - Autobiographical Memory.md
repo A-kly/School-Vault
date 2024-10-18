@@ -83,24 +83,21 @@ Brown & Kulik (1977):
 - asked people about their personal circumstances when they heard about the assassination of John F. Kennedy
 - people gave many details, and were confident in their memories
 - this effect is linked to the release of adrenaline, causing greater amygdala activity (McGaugh, 2004; 2013)
-- seems intuitive; much --------- evidence
+- seems intuitive; much ==anecdotal== evidence
 - problem: were the reported memories accurate?
 
-Solution is **-------- recall**: record person’s memories and experiences immediately following an emotional event and compare to later surprise reassessment.
+Solution is **==repeated== recall**: record person’s memories and experiences immediately following an emotional event and compare to later surprise reassessment.
 
 Bohannon (1988)/Bohannon & Schmidt (1989):
 
 - tested students’ memory for events surrounding explosion of space shuttle -Challenger-
 - 3 groups: tested 2 weeks, 8 months, or 15 months later
-- measure of -------:
-
-How upset were you (1-7)?
+- measure of emotion:
+	- How upset were you (1-7)?
 
 - shuttle -----:
-
-How many were on board?
-
-How long into the flight did it explode?
+	- How many were on board?
+	- How long into the flight did it explode?
 
 ![emotional distinctiveness vs. memory](PSYCH%20258/Attachments/p258s08-03.png)
 
