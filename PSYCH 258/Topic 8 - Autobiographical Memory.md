@@ -291,7 +291,7 @@ Why do people believe misinformation?
 - **confirmation bias**: tendency to seek evidence that confirms one’s existing beliefs (and disregard contrary information)
 	- e.g., if you believe that Macs are better than Windows, you focus only on cases in which they are better
 
-- **-------- ----- effect**: repeated exposure to misinformation may make people more likely to believe it (partly due to **processing fluency**: when information is repeated, it becomes more familiar and easier to process)
+- **==illusory truth== effect**: repeated exposure to misinformation may make people more likely to believe it (partly due to **processing fluency**: when information is repeated, it becomes more familiar and easier to process)
 	- e.g., seeing false postings about a miracle cure on social media can increase belief in it
 
 How can misinformation be combated?
@@ -314,15 +314,11 @@ How can misinformation be combated?
 - dependent variable: 0-100 agreement whether humans are causing global warming
 - over 2,000 participants then randomized into independent variable conditions:
 
-**▸** facts-only group: told there was 97% consensus among climate scientists about human-caused climate change
-
-**▸** misinformation only: shown “Global Warming Petition Project”
-
-**▸** -------------: got facts and misinformation
-
-**▸** inoculation: given forewarning about misinformation, and facts
-
-**▸** full inoculation: received forewarning, facts, and prebunk about the bogus petition
+	- facts-only group: told there was 97% consensus among climate scientists about human-caused climate change
+	- misinformation only: shown “Global Warming Petition Project”
+	- -------------: got facts and misinformation
+	- inoculation: given forewarning about misinformation, and facts
+	- full inoculation: received forewarning, facts, and prebunk about the bogus petition
 
 - latter two groups were then exposed to the misinformation
 - results: change in dependent variable pre- vs. post
