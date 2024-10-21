@@ -244,47 +244,37 @@ Lindsay & Johnson (1989):
 - showed evidence of suggestibility
 - source-monitoring test: was item in picture, text, or both?
 - much fewer errors; suggestibility effect gone
-- conclusion: source monitoring occurs at ---------
+- conclusion: source monitoring occurs at ==retrieval==
 
 Affected by:
 
-- **---------- information**
+- **==Contextual== information**
+	- e.g., where were you when you last had your wallet?
+- **sensory information**
+	- e.g., do you remember the feel of your wallet when you put it into your pocket?
+- fewer **cognitive ==operations==** (i.e., memory retrieved with little effort)
+	- e.g., remembering where you put your wallet
 
-e.g., where were you when you last had your wallet?
-
-- **------- information**
-
-e.g., do you remember the feel of your wallet when you put it into your pocket?
-
-- fewer **cognitive ----------** (i.e., memory retrieved with little effort)
-
-e.g., remembering where you put your wallet
-
-Although memory may be ---------, eyewitness testimony may be reliable under proper conditions (Wixted et al., 2018):
+Although memory may be ==malleable==, eyewitness testimony may be reliable under proper conditions (Wixted et al., 2018):
 
 - an initial memory test is least likely to be contaminated (subsequent tests are more likely to be contaminated)
-- police lineups should be ---- (e.g., suspect does not stand out)
-- eyewitness’ ---------- should be recorded (it is correlated with accuracy)
+- police lineups should be ==fair== (e.g., suspect does not stand out)
+- eyewitness’ ==confidence== should be recorded (it is correlated with accuracy)
 
 ---
 
 ## Misinformation and the Infodemic
 
 What is it?
-
 - **misinformation**: misleading or incorrect information
-- **--------------**: intentionally misleading or incorrect information
+- **==disinformation==**: intentionally misleading or incorrect information
 
 Why is it a problem?
-
 - WHO declared a “massive infodemic” of misinformation about COVID-19 in March, 2020
 - this included false claims that:
-
-![☒](PSYCH%20258-%20Autobiographical%20Memory-files/con-new.png) you could do a self-test for the SARS-CoV2 virus by holding your breath
-
-![☒](PSYCH%20258-%20Autobiographical%20Memory-files/con-new.png) drinking large amounts of water protects against the virus
-
-![☒](PSYCH%20258-%20Autobiographical%20Memory-files/con-new.png) gargling salt water prevents infection
+	- [c]  you could do a self-test for the SARS-CoV2 virus by holding your breath
+	- [c] drinking large amounts of water protects against the virus
+	- [c] gargling salt water prevents infection
 
 - social media played a large role in this, with millions of posts of COVID-19 misinformation on online platforms including Twitter, Instagram, and YouTube (Cinelli et al., 2020)
 - this has led to harm: misinformation has been blamed for vaccine hesitancy and a decrease in life expectancy in the USA of 3-5 years
@@ -292,21 +282,17 @@ Why is it a problem?
 Why do people believe misinformation?
 
 - when experiencing emotional motivators, including heightened fear or anger
-
-e.g., during a global pandemic
+	- e.g., during a global pandemic
 
 - if they are frequent users of social media, less educated, and on the political extremes
 - **motivated reasoning**: tendency to accept information based on its desirability, rather than its accuracy, because of your emotions, values, and preferences
-
-e.g., students from two colleges were shown film of a football game between the colleges’ teams; they only agreed with the referees’ calls when the decision favoured their team
+	- e.g., students from two colleges were shown film of a football game between the colleges’ teams; they only agreed with the referees’ calls when the decision favoured their team
 
 - **confirmation bias**: tendency to seek evidence that confirms one’s existing beliefs (and disregard contrary information)
-
-e.g., if you believe that Macs are better than Windows, you focus only on cases in which they are better
+	- e.g., if you believe that Macs are better than Windows, you focus only on cases in which they are better
 
 - **-------- ----- effect**: repeated exposure to misinformation may make people more likely to believe it (partly due to **processing fluency**: when information is repeated, it becomes more familiar and easier to process)
-
-e.g., seeing false postings about a miracle cure on social media can increase belief in it
+	- e.g., seeing false postings about a miracle cure on social media can increase belief in it
 
 How can misinformation be combated?
 
