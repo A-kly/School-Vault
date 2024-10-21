@@ -190,34 +190,33 @@ Loftus & Palmer (1974):
 
 Expt. 1: participants saw film of a collision
 
-- were asked, “How fast were the cars going when they -------?”
+- were asked, “How fast were the cars going when they \_\_\_\_\_\_?”
 - word affected speed estimates:
 
-|   |   |
-|---|---|
-|**Descriptive word**|**Speed estimates**|
-|“smashed”|40.8 mph|
-|“collided”|39.3 mph|
-|“bumped”|38.1 mph|
-|“hit”|34.0 mph|
-|“contacted”|31.8 mph|
+| **Descriptive word** | **Speed estimates** |
+| -------------------- | ------------------- |
+| “smashed”            | 40.8 mph            |
+| “collided”           | 39.3 mph            |
+| “bumped”             | 38.1 mph            |
+| “hit”                | 34.0 mph            |
+| “contacted”          | 31.8 mph            |
 
 - could participants judge the speed properly?
-- film of car crash at -- mph estimated to be 37.7 mph
-- -- mph estimated to be 36.2 mph
-- two films crash at -- mph estimated to be 39.7 and 36.1 mph
+- film of car crash at ==20== mph estimated to be 37.7 mph
+- ==30== mph estimated to be 36.2 mph
+- two films crash at ==40== mph estimated to be 39.7 and 36.1 mph
 
 Expt. 2: participants saw film of a multiple-car crash
 
-- were asked about ------ -----
+- were asked about ==Broken glass==
 - “smashed” = 32% yes
 - “hit” = 14% yes
 
-**-------------- effect**: exposure to misleading information after witnessing an event can lead people to believe that they have seen or experienced something they never did; possible causes:
+**==Misinformation== effect**: exposure to misleading information after witnessing an event can lead people to believe that they have seen or experienced something they never did; possible causes:
 
-- overwriting: misleading information -------- memory trace of the actual experience
-- misinformation acceptance: people believe the post-event information is true because questioner is a person of ---------
-- ------ confusion: memory of the question is confused with memory of the experience
+- overwriting: misleading information ==replaces== memory trace of the actual experience
+- misinformation acceptance: people believe the post-event information is true because questioner is a person of ==authority==
+- ==source== confusion: memory of the question is confused with memory of the experience
 
 Contrasting false memory with misinformation:
 
