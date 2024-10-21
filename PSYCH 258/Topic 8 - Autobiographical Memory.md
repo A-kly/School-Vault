@@ -296,13 +296,12 @@ Why do people believe misinformation?
 
 How can misinformation be combated?
 
-- **---------**: correcting the effects of misinformation post-exposure; like fact-checking (Lewandowsky et al., 2022)
-- truth sandwich technique:
-
-1. **Fact**: give the truth first
-2. **Warn** about the myth: describe the misinformation
-3. **Explain** fallacy: explain why the misinformation is wrong
-4. **Fact**: repeat the truth again, with credible alternative explanation
+- **==debunking==**: correcting the effects of misinformation post-exposure; like fact-checking (Lewandowsky et al., 2022)
+	- truth sandwich technique:
+		1. **Fact**: give the truth first
+		2. **Warn** about the myth: describe the misinformation
+		3. **Explain** fallacy: explain why the misinformation is wrong
+		4. **Fact**: repeat the truth again, with credible alternative explanation
 
 - **----------**: developing immunity to misinformation in the future by using psychological inoculation techniques
 - based on **inoculation theory** (McGuire, 1961), which uses the metaphor of protection against disease by immunization
