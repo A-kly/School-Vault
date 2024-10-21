@@ -237,7 +237,6 @@ Contrasting false memory with misinformation:
 			- e.g., George Harrison’s “My Sweet Lord” (1970) (inadvertently?) plagiarised the Chiffons’ “He’s So Fine” (1962)
 
 Lindsay & Johnson (1989):
-
 - showed picture of office, then read text describing the office
 - some text was misleading (described typical things in an office which were absent)
 	- e.g., “... a filing cabinet behind the woman...”
