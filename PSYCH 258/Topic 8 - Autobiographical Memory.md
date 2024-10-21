@@ -221,29 +221,26 @@ Expt. 2: participants saw film of a multiple-car crash
 Contrasting false memory with misinformation:
 
 - an analogy: think of your memory like a document
-- false memories are like creating a new document from scratch, or editing an existing one with fictional details
-- the misinformation effect is like someone taking your document, making changes to it, and then you mistakenly believing the altered version is the original
+	- false memories are like creating a new document from scratch, or editing an existing one with fictional details
+	- the misinformation effect is like someone taking your document, making changes to it, and then you mistakenly believing the altered version is the original
 
 **Source Monitoring Framework**
 
-- **------- monitoring**: “processes by which people discriminate between memories derived from perception and those that were reflectively generated via thought, imagination, dreams, and fantasy” (Marcia Johnson, 1991)
-- **------ monitoring**: process of making attributions about the source of memories
+- **==reality== monitoring**: “processes by which people discriminate between memories derived from perception and those that were reflectively generated via thought, imagination, dreams, and fantasy” (Marcia Johnson, 1991)
+- **==source== monitoring**: process of making attributions about the source of memories
 - memories are not “tagged” with source information
-- attribution occurs during retrieval; may be incorrect
-- source monitoring errors:
-- **source ---------** (or **source misattribution**): believing the source of a memory is different than what it actually is
-- **source -------**: not remembering the source of a memory
-- **------------** (“hidden memory”): remembering a previously forgotten memory, but believing it to be new and original
-
-e.g., George Harrison’s “My Sweet Lord” (1970) (inadvertently?) plagiarised the Chiffons’ “He’s So Fine” (1962)
+	- attribution occurs during retrieval; may be incorrect
+	- source monitoring errors:
+		- **source ==confusion==** (or **source misattribution**): believing the source of a memory is different than what it actually is
+		- **source ==failure==**: not remembering the source of a memory
+		- **==cryptomnesia==** (“hidden memory”): remembering a previously forgotten memory, but believing it to be new and original
+			- e.g., George Harrison’s “My Sweet Lord” (1970) (inadvertently?) plagiarised the Chiffons’ “He’s So Fine” (1962)
 
 Lindsay & Johnson (1989):
 
 - showed picture of office, then read text describing the office
 - some text was misleading (described typical things in an office which were absent)
-
-e.g., “... a filing cabinet behind the woman...”
-
+	- e.g., “... a filing cabinet behind the woman...”
 - recognition test: was item in the picture?
 - showed evidence of suggestibility
 - source-monitoring test: was item in picture, text, or both?
