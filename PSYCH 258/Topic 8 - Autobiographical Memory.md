@@ -171,7 +171,7 @@ Other implanted false memories:
 - being a victim of a vicious animal attack in childhood, facilitated by an interviewer using “guided imagery” (26%; Porter et al., 1999)
 - believing they committed a crime (theft, assault, or assault with a weapon) that led to police contact (70%; Shaw & Porter, 2015)
 - going on a hot-air balloon ride after seeing a Photoshopped photo (50%; Wade et al., 2002)
-- meeting ---- ----- at Disneyland after seeing a fake print ad (16%; Braun et al., 2002)
+- meeting ==Bugs bunny== at Disneyland after seeing a fake print ad (16%; Braun et al., 2002)
 - liking asparagus as a child (Laney et al., 2008)
 
 ### Eyewitness Identification
