@@ -303,24 +303,22 @@ How can misinformation be combated?
 		3. **Explain** fallacy: explain why the misinformation is wrong
 		4. **Fact**: repeat the truth again, with credible alternative explanation
 
-- **----------**: developing immunity to misinformation in the future by using psychological inoculation techniques
-- based on **inoculation theory** (McGuire, 1961), which uses the metaphor of protection against disease by immunization
-- pre-exposure to weakened versions of a stronger, future threat can safeguard an attitude or belief from influence or persuasion
-- includes a forewarning about harmful misinformation, and pre-emptive disproof of the falsehood
-- prebunking found to be more effective than debunking (Jolley & Douglas, 2017)
-- evidence (van der Linden et al., 2017):
-- asked people’s beliefs about topics including climate change
-- dependent variable: 0-100 agreement whether humans are causing global warming
-- over 2,000 participants then randomized into independent variable conditions:
-
-	- facts-only group: told there was 97% consensus among climate scientists about human-caused climate change
-	- misinformation only: shown “Global Warming Petition Project”
-	- -------------: got facts and misinformation
-	- inoculation: given forewarning about misinformation, and facts
-	- full inoculation: received forewarning, facts, and prebunk about the bogus petition
-
-- latter two groups were then exposed to the misinformation
-- results: change in dependent variable pre- vs. post
+- **==prebunking==**: developing immunity to misinformation in the future by using psychological inoculation techniques
+	- based on **inoculation theory** (McGuire, 1961), which uses the metaphor of protection against disease by immunization
+	- pre-exposure to weakened versions of a stronger, future threat can safeguard an attitude or belief from influence or persuasion
+	- includes a forewarning about harmful misinformation, and pre-emptive disproof of the falsehood
+	- prebunking found to be more effective than debunking (Jolley & Douglas, 2017)
+	- evidence (van der Linden et al., 2017):
+		- asked people’s beliefs about topics including climate change
+		- dependent variable: 0-100 agreement whether humans are causing global warming
+		- over 2,000 participants then randomized into independent variable conditions:
+			- facts-only group: told there was 97% consensus among climate scientists about human-caused climate change
+			- misinformation only: shown “Global Warming Petition Project”
+			- ==false-balance:== got facts and misinformation
+			- inoculation: given forewarning about misinformation, and facts
+			- full inoculation: received forewarning, facts, and prebunk about the bogus petition
+		- latter two groups were then exposed to the misinformation
+		- results: change in dependent variable pre- vs. post
 
 ![effects of prebunking graph](PSYCH%20258/Attachments/p258s08-05.png)
 
@@ -330,17 +328,11 @@ How can this research be applied?
 
 - --------- other people (Garcia & Shane, 2021):
 - **fact-based**: correcting a specific false claim by communicating accurate information
-
-e.g., explaining that it is not possible to get the flu from the flu vaccines because most of them contain inactivated strains of the virus
-
+	- e.g., explaining that it is not possible to get the flu from the flu vaccines because most of them contain inactivated strains of the virus
 - **logic-based**: explaining misleading tactics used to manipulate people, and refuting logical fallacies
-
-e.g., pointing out inherently contradictory claims like “global temperatures cannot be accurately measured” and “temperature records show the climate has been cooling”
-
+	- e.g., pointing out inherently contradictory claims like “global temperatures cannot be accurately measured” and “temperature records show the climate has been cooling”
 - **source-based**: undermining the credibility of bad sources of information
-
-e.g., ridiculing people who believe that reptilian “lizard people” are controlling the world reduced others’ beliefs in it
-
+	- e.g., ridiculing people who believe that reptilian “lizard people” are controlling the world reduced others’ beliefs in it
 - [YouTube video campaign](https://www.youtube.com/watch?v=f6-I-KQBGXg&list=PL12X50gJBPRouaAVd1RopSSJ74J5-1zVL) by Truth Labs for Education
 - online games: -[Bad News](https://www.getbadnews.com/en)- (about “fake news”), -[Harmony Square](https://harmonysquare.game/en)- (about political disinformation), and -[Go Viral!](https://www.goviralgame.com/en)- (about COVID-19 misinformation)
 
