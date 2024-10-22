@@ -37,7 +37,17 @@
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-9 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-10 1.png]]
-
+- Factors
+	- vulnerable target
+	- not likely to be seen/caught
+	- minimal social interaction
+	- minimal physical harm to self and others/property
+	- "richness" of target
+- What are they looking to steal
+	- expensive items
+	- easy to access items
+- Differences
+	- 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-11 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-12 1.png]]
