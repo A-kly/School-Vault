@@ -9,7 +9,12 @@
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-4 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-5 1.png]]
-
+- Why?
+	- Originally thought to be genetically inferior, aka. feeble minded.
+	- Lower order crimes committed by "feeble minded", higher order committed by geniuses.
+	- Actually more complicated
+- What factors?
+	- 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-6 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-7 1.png]]
