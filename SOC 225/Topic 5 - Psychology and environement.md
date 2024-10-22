@@ -14,9 +14,15 @@
 	- Lower order crimes committed by "feeble minded", higher order committed by geniuses.
 	- Actually more complicated
 - What factors?
-	- 
+	- State of the economy
+	- Poverty
+	- Oppression
+	- rearing environment
+	- odds of being caught
+	- deterrents
+	- previous criminal history
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-6 1.png]]
-
+- 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-7 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-8 1.png]]
