@@ -22,7 +22,14 @@
 	- deterrents
 	- previous criminal history
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-6 1.png]]
-- 
+- Dominant approach in policy in criminology
+- Motivated offender
+	- "i need X"
+	- "I want x"
+- Suitable target
+	- "Where am i gonna find it?"
+- Guardianship of target
+	- Passive or active
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-7 1.png]]
 
 ![[Criminology week 5 the psychology and environment of committing a crime(2)-8 1.png]]
