@@ -22,24 +22,22 @@
 	- **discrimination**: notice differences between conceptual categories
 
 Bruner, Goodnow, & Austin (1956): benefits of categorization:
-
-- reduces ---------- of the environment
-- means by which objects of the world are ----------
-- reduces need for constant --------
-- allows us to decide what constitutes an appropriate ------
-- enables us to order and relate ------- of objects and events
+- reduces ==complexity== of the environment
+- means by which objects of the world are ==identified==
+- reduces need for constant ==learning==
+- allows us to decide what constitutes an appropriate ==action==
+- enables us to order and relate ==classes== of objects and events
 
 ### Classical Approach
 
 Assumptions:
-
-- categorization based on lists of **-------- --------**: those that are necessary to the meaning of the item
+- categorization based on lists of **defining features**: those that are necessary to the meaning of the item
 	- e.g., a triangle is a closed, three-sided figure
 - features are individually necessary and collectively sufficient
 
 Pros & cons:
 - [p] distinction between different categories is clear and logical
-- [p] works for ------- categories:
+- [p] works for ==logical== categories:
 	- e.g., geometric shapes, prime numbers
 - [c] implies that all members are created -----
 
