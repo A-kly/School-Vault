@@ -39,15 +39,14 @@ Pros & cons:
 - [p] distinction between different categories is clear and logical
 - [p] works for ==logical== categories:
 	- e.g., geometric shapes, prime numbers
-- [c] implies that all members are created -----
+- [c] implies that all members are created ==equal==
 
 ### Natural Categories
 
 Assumptions:
-
 - groupings or clustering of objects or concepts that occur naturally in the real world
-- ----- borders; membership may overlap
-	- e.g., what are the defining features for the concept ---------?
+- ==fuzzy== borders; membership may overlap
+	- e.g., what are the defining features for the concept ==vehicle==?
 
 ---
 
