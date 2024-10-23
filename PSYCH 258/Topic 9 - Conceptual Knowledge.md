@@ -5,26 +5,21 @@
 
 1. How are natural categories different from the classical approach?
 2. Describe the components of the following approaches to knowledge representation:
-
-- prototypes
-- exemplars
-- feature comparison model
-- semantic network models
-- connectionist approach
-
+	- prototypes
+	- exemplars
+	- feature comparison model
+	- semantic network models
+	- connectionist approach
 3. Explain the pros and cons of each model.
 4. What are some kinds of schemas? How do scripts and schemas affect memory?
 
 ---
 
 ## Categorization
-
-**--------**: class of objects, associated on the basis of some relationship
-
-**-------**: mental representations of a category
-
-- depends on **--------------**: identifying features common to all members of a conceptual class
-- **--------------**: notice differences between conceptual categories
+- **category**: class of objects, associated on the basis of some relationship
+- **concept**: mental representations of a category
+	- depends on **generalization**: identifying features common to all members of a conceptual class
+	- **discrimination**: notice differences between conceptual categories
 
 Bruner, Goodnow, & Austin (1956): benefits of categorization:
 
@@ -39,20 +34,14 @@ Bruner, Goodnow, & Austin (1956): benefits of categorization:
 Assumptions:
 
 - categorization based on lists of **-------- --------**: those that are necessary to the meaning of the item
-
-e.g., a triangle is a closed, three-sided figure
-
+	- e.g., a triangle is a closed, three-sided figure
 - features are individually necessary and collectively sufficient
 
 Pros & cons:
-
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) distinction between different categories is clear and logical
-
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) works for ------- categories:
-
-e.g., geometric shapes, prime numbers
-
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) implies that all members are created -----
+- [p] distinction between different categories is clear and logical
+- [p] works for ------- categories:
+	- e.g., geometric shapes, prime numbers
+- [c] implies that all members are created -----
 
 ### Natural Categories
 
@@ -60,8 +49,7 @@ Assumptions:
 
 - groupings or clustering of objects or concepts that occur naturally in the real world
 - ----- borders; membership may overlap
-
-e.g., what are the defining features for the concept ---------?
+	- e.g., what are the defining features for the concept ---------?
 
 ---
 
@@ -77,13 +65,13 @@ Assumptions:
 - categorization of items is based on similarity to the prototype
 - concepts are -------------- organized:
 
-|                                                                    | animals                                                             |                                                                     |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-|                                                                    | ![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png)  | ![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png) |
-| birds                                                              |                                                                     | fish                                                                |
-| ![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png) | ![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png) |                                                                     |
-| robin                                                              | bluejay                                                             |                                                                     |
-|                                                                    |                                                                     |                                                                     |
+|       | animals | animals |
+| ----- | ------- | ------- |
+|       | ↙       | ↘       |
+| birds | birds   | fish    |
+| ↙     | ↘       |         |
+| robin | bluejay |         |
+|       |         |         |
 
 - **------------- level** (e.g., -fruit-, -animals-)
 
