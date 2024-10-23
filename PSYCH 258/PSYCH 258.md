@@ -11,5 +11,6 @@
 - [[Topic 6 - Short-Term & Working Memory]]
 - [[Topic 7 - Long-Term Memory]]
 - [[Topic 8 - Autobiographical Memory]]
+- [[Topic 9 - Conceptual Knowledge]]
 
 %% End Waypoint %%
