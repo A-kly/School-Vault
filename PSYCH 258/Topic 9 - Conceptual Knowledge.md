@@ -77,13 +77,13 @@ Assumptions:
 - categorization of items is based on similarity to the prototype
 - concepts are -------------- organized:
 
-|   |   |   |
-|---|---|---|
-||animals|   |
-||![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png)|![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png)|
-|birds|   |fish|
-|![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png)|![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png)||
-|robin|bluejay||
+|                                                                    | animals                                                             |                                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------- |
+|                                                                    | ![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png)  | ![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png) |
+| birds                                                              |                                                                     | fish                                                                |
+| ![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png) | ![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png) |                                                                     |
+| robin                                                              | bluejay                                                             |                                                                     |
+|                                                                    |                                                                     |                                                                     |
 
 - **------------- level** (e.g., -fruit-, -animals-)
 
