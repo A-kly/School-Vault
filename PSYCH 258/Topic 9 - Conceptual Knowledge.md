@@ -55,10 +55,9 @@ Assumptions:
 Eleanor Rosch [née Heider] (1973)
 
 Assumptions:
-
 - items are comprised of a list of features or attributes
-- concept organization based on **---------**: abstract, idealized item that is most typical category member
-- **-------------- features**: describe the prototype, but are not necessary
+- concept organization based on **prototype**: abstract, idealized item that is most typical category member
+- **characteristic features**: describe the prototype, but are not necessary
 - categorization of items is based on similarity to the prototype
 - concepts are -------------- organized:
 
