@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **Attachments**
 
+- [[Exemplar test]]
 - [[memory test]]
 - [[MIDTERM DETAILS]]
 - [[Number of vowels test]]
@@ -12,6 +13,5 @@
 - [[Topic 7 - Long-Term Memory]]
 - [[Topic 8 - Autobiographical Memory]]
 - [[Topic 9 - Conceptual Knowledge]]
-- [[Untitled]]
 
 %% End Waypoint %%

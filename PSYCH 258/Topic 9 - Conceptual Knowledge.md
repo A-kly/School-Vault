@@ -143,12 +143,10 @@ Heit & Barsalou (1996):
 - asked participants for exemplars of various categories of animals
 - measured exemplars’ typicality, and how typical the categories were of animals
 - strongly correlated: -r- = .92
-	- (------- are most typical; -------------- the least)
-
+	- (==mammals== are most typical; ==microorganisms== the least)
 - implication: our concepts are based on the most typical (i.e., exemplary) items
 
 Pros & cons:
-
 - [p]  accounts for typicality effect
 - [p]  no lists of features needed
 - [p]  no abstraction process needed
