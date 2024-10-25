@@ -150,9 +150,9 @@ Pros & cons:
 - [p]  accounts for typicality effect
 - [p]  no lists of features needed
 - [p]  no abstraction process needed
-- [p]  allows for “----------” to categories
+- [p]  allows for “==exceptions==” to categories
 	- e.g., penguins as birds
-- [p]  good for categories with --- members
+- [p]  good for categories with ==few== members
 - [c]  requires vast storage for individual members of large categories
 
 ---
@@ -171,12 +171,9 @@ Assumptions:
 | feathers  | feathers   |
 | ...       | red breast |
 | ...       | ...        |
-
 - **-------- features**: essential, required features of a concept; are at the top of the feature list
 - **-------------- features**: descriptive, but not essential (“loosely speaking”); are at the bottom of the list
-
-e.g., birds:
-
+	- e.g., birds:
 - defining features = wings, feathers,...
 - characteristic features = fly, sing,...
 - **-------- ------------ task**: measure RT to correctly respond, “A robin is a bird.”
