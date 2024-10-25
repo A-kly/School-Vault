@@ -103,28 +103,27 @@ Evidence:
 Rosch & Mervis (1975):
 
 - generated list of category members
-	- e.g., -fruit-: apple, banana, coconut, olive, orange, tomato
+	- e.g., -*fruit*-: apple, banana, coconut, olive, orange, tomato
 - asked participants to rate typicality of each member within category
-	- e.g., apple as a member of -fruit-
+	- e.g., apple as a member of -*fruit*-
 - others listed attributes of category members
 	- e.g., apple: red, sweet, crunchy, round
 - strong correlations found between typicality rating and number of attributes shared by other category members
-	- e.g., -r- = .85 for -fruit- (also, -r- = .88 for -furniture-, -r- = .91 for -clothing-)
-- ------ ----------- is important to typicality
-- brain activity
+	- e.g., -*r*- = .85 for -*fruit*- (also, -*r*- = .88 for -furniture-, -*r*- = .91 for -*clothing*-)
+- ==family resemblance== is important to typicality
 
-Kosslyn, Alpert, & Thompson (1995):
+
+brain activity : Kosslyn, Alpert, & Thompson (1995):
 
 - participants placed in PET scanner
 - saw picture of an item, and heard a word (e.g., “toy,” “doll,” or “rag doll”
-- superordinate terms more likely to activate part of the ---------- cortex (language, associative memory)
+- superordinate terms more likely to activate part of the ==prefrontal== cortex (language, associative memory)
 - subordinate terms more likely to activate visual attention areas
 
 Pros & cons:
 
 - [p]  accounts for concepts representing ----- groups
-
-e.g., -games---merely share a family resemblance
+	- e.g., -games---merely share a family resemblance
 
 - [p]  allows for -----------
 
