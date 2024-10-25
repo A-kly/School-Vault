@@ -135,12 +135,11 @@ Pros & cons:
 ## The Exemplar Approach
 
 Assumptions:
-- **---------**: members of a category that you have previously encountered (vs. prototypes, which are idealized)
-	- e.g., -dog- concept is based on actual dogs you’ve seen
+- **==exemplars==**: members of a category that you have previously encountered (vs. prototypes, which are idealized)
+	- e.g., -*dog*- concept is based on actual dogs you’ve seen
 - first you learn specific exemplars of a category, then you classify new items based on their similarity to the exemplars
 
 Heit & Barsalou (1996):
-
 - asked participants for exemplars of various categories of animals
 - measured exemplars’ typicality, and how typical the categories were of animals
 - strongly correlated: -r- = .92
