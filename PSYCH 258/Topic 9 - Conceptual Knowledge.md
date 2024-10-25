@@ -59,7 +59,7 @@ Assumptions:
 - concept organization based on **prototype**: abstract, idealized item that is most typical category member
 - **characteristic features**: describe the prototype, but are not necessary
 - categorization of items is based on similarity to the prototype
-- concepts are -------------- organized:
+- concepts are ==hirearchically== organized:
 
 |       | animals | animals |
 | ----- | ------- | ------- |
@@ -69,37 +69,26 @@ Assumptions:
 | robin | bluejay |         |
 |       |         |         |
 
-- **------------- level** (e.g., -fruit-, -animals-)
+- **==Superordinate== level** (e.g., -*fruit*-, -*animals*-)
+	- largest categories
+	- members of a category have few attributes in common
+		- e.g., musical instruments
+	- tends to be abstract
 
-- largest categories
-- members of a category have few attributes in common
+- **==Basic== level** (e.g., -*grapes*-, -*apples*-)
+	- prototypes formed to represent the category
+	- members of a category share many attributes, and are highly differentiated from other basic categories
+		- e.g., guitar, piano
+	- shows **------- ------**: response is faster if item is preceded by a similar item
+		- e.g., judgments about specific apples are faster if preceded by -apple-, than by -fruit-
+	- in general, people prefer to use basic-level names for things
+	- -------- learn basic level objects first (-dogs-), before they categorize in superordinate (-animal-) or subordinate (-collie-, -hound-)
 
-e.g., musical instruments
-
-- tends to be abstract
-
-- **----- level** (e.g., -grapes-, -apples-)
-
-- prototypes formed to represent the category
-- members of a category share many attributes, and are highly differentiated from other basic categories
-
-e.g., guitar, piano
-
-- shows **------- ------**: response is faster if item is preceded by a similar item
-
-e.g., judgments about specific apples are faster if preceded by -apple-, than by -fruit-
-
-- in general, people prefer to use basic-level names for things
-- -------- learn basic level objects first (-dogs-), before they categorize in superordinate (-animal-) or subordinate (-collie-, -hound-)
-
-**▸ ----------- level** (e.g., -Thompson seedless-, -Concord-)
-
-- narrowest categories
-- less -------- than basic categories
-
-e.g., classical guitar, folk guitar
-
-- ------- prefer to use subordinate-level terms; greater expertise ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) greater use of sub-subordinate terms (Johnson & Mervis, 1997)
+-  **==Subordinate== level** (e.g., -*Thompson seedless*-, -*Concord*-)
+	- narrowest categories
+	- less -------- than basic categories
+		- e.g., classical guitar, folk guitar
+	- ------- prefer to use subordinate-level terms; greater expertise -> greater use of sub-subordinate terms (Johnson & Mervis, 1997)
 
 Evidence:
 
