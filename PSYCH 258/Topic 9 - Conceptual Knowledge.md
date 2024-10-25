@@ -96,7 +96,7 @@ Evidence:
 	- e.g., rank order these items in their category:
 		- -vehicles-: car, elevator, sled, tractor, train
 		- -clothes-: jacket, mittens, necklace, pajamas, pants
-- **------ -----------**: each item has at least one shared attribute with another item in the category; is a kind of typicality
+- **==family resemblance==**: each item has at least one shared attribute with another item in the category; is a kind of typicality
 	- good members of a category share many attributes with members of the same category
 	- but share few attributes with members of other categories
 
