@@ -79,49 +79,37 @@ Assumptions:
 	- prototypes formed to represent the category
 	- members of a category share many attributes, and are highly differentiated from other basic categories
 		- e.g., guitar, piano
-	- shows **------- ------**: response is faster if item is preceded by a similar item
-		- e.g., judgments about specific apples are faster if preceded by -apple-, than by -fruit-
+	- shows **==priming effect==**: response is faster if item is preceded by a similar item
+		- e.g., judgments about specific apples are faster if preceded by -*apple*-, than by -*fruit*-
 	- in general, people prefer to use basic-level names for things
-	- -------- learn basic level objects first (-dogs-), before they categorize in superordinate (-animal-) or subordinate (-collie-, -hound-)
+	- ==Children== learn basic level objects first (-*dogs*-), before they categorize in superordinate (-*animal*-) or subordinate (-*collie*-, -*hound*-)
 
 -  **==Subordinate== level** (e.g., -*Thompson seedless*-, -*Concord*-)
 	- narrowest categories
-	- less -------- than basic categories
+	- less ==distinct== than basic categories
 		- e.g., classical guitar, folk guitar
-	- ------- prefer to use subordinate-level terms; greater expertise -> greater use of sub-subordinate terms (Johnson & Mervis, 1997)
+	- ==experts== prefer to use subordinate-level terms; greater expertise -> greater use of sub-subordinate terms (Johnson & Mervis, 1997)
 
 Evidence:
 
-- **---------- effect**: items differ in how well they represent a category
-
-e.g., rank order these items in their category:
-
--vehicles-: car, elevator, sled, tractor, train
-
--clothes-: jacket, mittens, necklace, pajamas, pants
-
+- **==typicality== effect**: items differ in how well they represent a category
+	- e.g., rank order these items in their category:
+		- -vehicles-: car, elevator, sled, tractor, train
+		- -clothes-: jacket, mittens, necklace, pajamas, pants
 - **------ -----------**: each item has at least one shared attribute with another item in the category; is a kind of typicality
-- good members of a category share many attributes with members of the same category
-- but share few attributes with members of other categories
+	- good members of a category share many attributes with members of the same category
+	- but share few attributes with members of other categories
 
 Rosch & Mervis (1975):
 
 - generated list of category members
-
-e.g., -fruit-: apple, banana, coconut, olive, orange, tomato
-
+	- e.g., -fruit-: apple, banana, coconut, olive, orange, tomato
 - asked participants to rate typicality of each member within category
-
-e.g., apple as a member of -fruit-
-
+	- e.g., apple as a member of -fruit-
 - others listed attributes of category members
-
-e.g., apple: red, sweet, crunchy, round
-
+	- e.g., apple: red, sweet, crunchy, round
 - strong correlations found between typicality rating and number of attributes shared by other category members
-
-e.g., -r- = .85 for -fruit- (also, -r- = .88 for -furniture-, -r- = .91 for -clothing-)
-
+	- e.g., -r- = .85 for -fruit- (also, -r- = .88 for -furniture-, -r- = .91 for -clothing-)
 - ------ ----------- is important to typicality
 - brain activity
 
@@ -134,23 +122,23 @@ Kosslyn, Alpert, & Thompson (1995):
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) accounts for concepts representing ----- groups
+- [p]  accounts for concepts representing ----- groups
 
 e.g., -games---merely share a family resemblance
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) allows for -----------
+- [p]  allows for -----------
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) explains how information is ------- to a single, idealized abstraction
+- [p]  explains how information is ------- to a single, idealized abstraction
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) but we also store -------- information about individual examples
+- [c]  but we also store -------- information about individual examples
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) number of potential -------- is very large (infinite?)
+- [c]  number of potential -------- is very large (infinite?)
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) what determines feature weights?
+- [c]  what determines feature weights?
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) how does expertise change categories?
+- [c]  how does expertise change categories?
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) counterintuitively implies categories have fuzzy boundaries
+- [c]  counterintuitively implies categories have fuzzy boundaries
 
 ---
 
@@ -176,19 +164,19 @@ Heit & Barsalou (1996):
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) accounts for typicality effect
+- [p]  accounts for typicality effect
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) no lists of features needed
+- [p]  no lists of features needed
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) no abstraction process needed
+- [p]  no abstraction process needed
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) allows for “----------” to categories
+- [p]  allows for “----------” to categories
 
 e.g., penguins as birds
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) good for categories with --- members
+- [p]  good for categories with --- members
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) requires vast storage for individual members of large categories
+- [c]  requires vast storage for individual members of large categories
 
 ---
 
@@ -231,29 +219,29 @@ e.g., birds:
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) typicality effects: faster RT when item is a typical member of a category
+- [p]  typicality effects: faster RT when item is a typical member of a category
 
 e.g., “A robin is a bird.” (faster than) “A penguin is a bird.”
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) **----/----- effect**: quick rejection of false sentences
+- [p]  **----/----- effect**: quick rejection of false sentences
 
 e.g., “A pencil is a bird.” (faster than) “A bat is a bird.”
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) doesn’t explain **-------- ---- effect**: faster RT when item is member of a small category
+- [c]  doesn’t explain **-------- ---- effect**: faster RT when item is member of a small category
 
 e.g., “A robin is a bird.” (faster than) “A robin is an animal.”
 
 - small categories have -more- defining features ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) -more- stage 2 processing ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) -slower-
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) can account for ---------- of category size effect:
+- [p]  can account for ---------- of category size effect:
 
 e.g., “Scotch is a liquor.” (slower than) “Scotch is a drink.”
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) not all defining features of a category are necessary
+- [c]  not all defining features of a category are necessary
 
 e.g., “Is a robin with no wings still a bird?”
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) features poorly -------; characteristic features have circular definition
+- [c]  features poorly -------; characteristic features have circular definition
 
 ---
 
@@ -283,11 +271,11 @@ Assumptions:
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) cognitive economy:
+- [p]  cognitive economy:
 
 e.g., “A bird has feathers.” (faster than) “A bird has skin.”
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) corresponds well with category size effect:
+- [p]  corresponds well with category size effect:
 
 e.g. “A canary...”
 
@@ -298,11 +286,11 @@ e.g. “A canary...”
 |“...is a bird.”|1,200 ms|“...can fly.”|1,400 ms|
 |“...is an animal.”|1,300 ms|“...has skin.”|1,500 ms|
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) doesn’t explain violations of category size effect:
+- [c]  doesn’t explain violations of category size effect:
 
 e.g., “A dog is a mammal.” (slower than) “A dog is an animal.”
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) typicality effects (model predicts they should -not- be obtained):
+- [c]  typicality effects (model predicts they should -not- be obtained):
 
 e.g., “A robin is a bird.” (faster than) “An ostrich is a bird.”
 
@@ -320,9 +308,9 @@ Assumptions:
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) accounts for: category size effects (& violations), typicality effects
+- [p]  accounts for: category size effects (& violations), typicality effects
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) Meyer & Schvaneveldt (1976):
+- [p]  Meyer & Schvaneveldt (1976):
 
 - **------- -------- task** (word/nonword):
 
@@ -335,7 +323,7 @@ Pros & cons:
 - closely related concepts have shorter RTs
 - **-------- ------- effect**: activation of a conceptual node facilitates retrieval of associated concepts or words
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) difficult to falsify: what determines link length?
+- [c]  difficult to falsify: what determines link length?
 
 ---
 
@@ -385,11 +373,11 @@ Components:
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Conceptual%20Knowledge-files/pro-new.png) biologically ---------
+- [p]  biologically ---------
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) so far, fairly ------ (but increasing in complexity)
+- [c]  so far, fairly ------ (but increasing in complexity)
 
-![☒](PSYCH%20258-%20Conceptual%20Knowledge-files/con-new.png) as a model of a complex system becomes more complete, it becomes less understandable (------’s Paradox, 1963)
+- [c]  as a model of a complex system becomes more complete, it becomes less understandable (------’s Paradox, 1963)
 
 ---
 
