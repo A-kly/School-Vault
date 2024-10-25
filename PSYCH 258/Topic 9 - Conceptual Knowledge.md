@@ -121,34 +121,22 @@ brain activity : Kosslyn, Alpert, & Thompson (1995):
 - subordinate terms more likely to activate visual attention areas
 
 Pros & cons:
-
-- [p]  accounts for concepts representing ----- groups
-	- e.g., -games---merely share a family resemblance
-
-- [p]  allows for -----------
-
-- [p]  explains how information is ------- to a single, idealized abstraction
-
-- [c]  but we also store -------- information about individual examples
-
-- [c]  number of potential -------- is very large (infinite?)
-
+- [p]  accounts for concepts representing loose groups
+	- e.g., -*games*- - merely share a family resemblance
+- [p]  allows for ==variability==
+- [p]  explains how information is ==reduced== to a single, idealized abstraction
+- [c]  but we also store ==specific== information about individual examples
+- [c]  number of potential ==features== is very large (infinite?)
 - [c]  what determines feature weights?
-
 - [c]  how does expertise change categories?
-
 - [c]  counterintuitively implies categories have fuzzy boundaries
-
 ---
 
 ## The Exemplar Approach
 
 Assumptions:
-
 - **---------**: members of a category that you have previously encountered (vs. prototypes, which are idealized)
-
-e.g., -dog- concept is based on actual dogs you’ve seen
-
+	- e.g., -dog- concept is based on actual dogs you’ve seen
 - first you learn specific exemplars of a category, then you classify new items based on their similarity to the exemplars
 
 Heit & Barsalou (1996):
@@ -156,25 +144,18 @@ Heit & Barsalou (1996):
 - asked participants for exemplars of various categories of animals
 - measured exemplars’ typicality, and how typical the categories were of animals
 - strongly correlated: -r- = .92
-
-(------- are most typical; -------------- the least)
+	- (------- are most typical; -------------- the least)
 
 - implication: our concepts are based on the most typical (i.e., exemplary) items
 
 Pros & cons:
 
 - [p]  accounts for typicality effect
-
 - [p]  no lists of features needed
-
 - [p]  no abstraction process needed
-
 - [p]  allows for “----------” to categories
-
-e.g., penguins as birds
-
+	- e.g., penguins as birds
 - [p]  good for categories with --- members
-
 - [c]  requires vast storage for individual members of large categories
 
 ---
@@ -187,13 +168,12 @@ Assumptions:
 
 - concepts represented as a set of features:
 
-|   |   |
-|---|---|
-|**bird:**|**robin:**|
-|wings|wings|
-|feathers|feathers|
-|...|red breast|
-|...|...|
+| **bird:** | **robin:** |
+| --------- | ---------- |
+| wings     | wings      |
+| feathers  | feathers   |
+| ...       | red breast |
+| ...       | ...        |
 
 - **-------- features**: essential, required features of a concept; are at the top of the feature list
 - **-------------- features**: descriptive, but not essential (“loosely speaking”); are at the bottom of the list
