@@ -171,24 +171,24 @@ Assumptions:
 | feathers  | feathers   |
 | ...       | red breast |
 | ...       | ...        |
-- **-------- features**: essential, required features of a concept; are at the top of the feature list
-- **-------------- features**: descriptive, but not essential (“loosely speaking”); are at the bottom of the list
+- **==defining== features**: essential, required features of a concept; are at the top of the feature list
+- **==characteristic== features**: descriptive, but not essential (“loosely speaking”); are at the bottom of the list
 	- e.g., birds:
-- defining features = wings, feathers,...
-- characteristic features = fly, sing,...
-- **-------- ------------ task**: measure RT to correctly respond, “A robin is a bird.”
-- relations between concepts are computed based on shared features; more features ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) slower RTs
+		- defining features = wings, feathers,...
+		- characteristic features = fly, sing,...
+- **==sentence verification== task**: measure RT to correctly respond, “A robin is a bird.”
+- relations between concepts are computed based on shared features; more features -> slower RTs
 - two-stage model:
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-||Stage 1: compare --- features<br><br>(fast comparison)|   |   |   |   ||
-|![↙](PSYCH%20258-%20Conceptual%20Knowledge-files/downleft-new.png)|![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|   |   |   |   |![↘](PSYCH%20258-%20Conceptual%20Knowledge-files/downright-new.png)|
-|low overlap||medium overlap|   |   ||high overlap|
-|![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|   |   |   |   |![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|
-|![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|Stage 2: compare -------- features<br><br>(slow comparison)|   |   |   |   |![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|
-|![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)||![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)||![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)||![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png)|
-|“false”|![←](PSYCH%20258-%20Conceptual%20Knowledge-files/left-new.png)|mismatch||match|![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png)|“true”|
+|     |             |     |                                                                |     |                                                                |                                                                 |              |
+| --- | ----------- | --- | -------------------------------------------------------------- | --- | -------------------------------------------------------------- | --------------------------------------------------------------- | ------------ |
+|     |             |     | Stage 1: compare --- features<br><br>(fast comparison)         |     |                                                                |                                                                 |              |
+|     |             | ↙   | ↓                                                              | ↘   |                                                                |                                                                 |              |
+|     | low overlap |     | medium overlap                                                 |     | high overlap                                                   |                                                                 | high overlap |
+|     | ↓           |     | ![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png) |     |                                                                |                                                                 | ↓            |
+|     | ↓           |     | Stage 2: compare -------- features<br><br>(slow comparison)    |     |                                                                |                                                                 | ↓            |
+|     | ↓           |     |                                                                |     | ![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png) |                                                                 | ↓            |
+|     | “false”     |     | ![←](PSYCH%20258-%20Conceptual%20Knowledge-files/left-new.png) |     | mismatch                                                       | ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) | “true”       |
 
 Pros & cons:
 
