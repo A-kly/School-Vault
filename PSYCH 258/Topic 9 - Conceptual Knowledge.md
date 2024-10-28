@@ -313,7 +313,6 @@ Jets & Sharks Example (McClelland, 1981):
 | Ralph    | Jets     | 30s     | jr. high      | single             | pusher         |
 | Rick     | Sharks   | 30s     | high school   | divorced           | burglar        |
 | Sam      | Jets     | 20s     | college       | single             | bookie         |
-
 - or distributed in a network:
 
 ![network](PSYCH%20258/Attachments/p258s09-03.png)
