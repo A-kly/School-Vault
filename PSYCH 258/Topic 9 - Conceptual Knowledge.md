@@ -270,17 +270,13 @@ Assumptions:
 Pros & cons:
 
 - [p]  accounts for: category size effects (& violations), typicality effects
-
 - [p]  Meyer & Schvaneveldt (1976):
+	- **==lexical decision== task** (word/nonword):
 
-- **------- -------- task** (word/nonword):
-
-|   |   |   |   |
-|---|---|---|---|
-|**Type of trial:**|**Prime**|**Target**|**RT**|
-|related prime|“bread”|“butter”|600 ms|
-|unrelated prime|“nurse”|“butter”|--- ms|
-
+| **Type of trial:** | **Prime** | **Target** | **RT**     |
+| ------------------ | --------- | ---------- | ---------- |
+| related prime      | “bread”   | “butter”   | 600 ms     |
+| unrelated prime    | “nurse”   | “butter”   | ==670== ms |
 - closely related concepts have shorter RTs
 - **-------- ------- effect**: activation of a conceptual node facilitates retrieval of associated concepts or words
 
@@ -292,33 +288,31 @@ Pros & cons:
 
 - a.k.a. Parallel Distributed Processing (PDP) or artificial neural network models
 - classical approach: based on information & rules (serial approach)
-
-e.g., mind is like a computer: data & programs
+	- e.g., mind is like a computer: data & programs
 
 - --------:
-- many (simple) processors working simultaneously
-- models are artificial neural networks, analogous to human brain
+	- many (simple) processors working simultaneously
+	- models are artificial neural networks, analogous to human brain
 - -----------:
-- memory and information processing occur in the connections, not in storage locations (“connectionism”)
-- information is distributed across the entire network, not localized
+	- memory and information processing occur in the connections, not in storage locations (“connectionism”)
+	- information is distributed across the entire network, not localized
 - ----------:
-- processing units = neurons; are interconnected
-- active unit may pass along its activity via connections,  excitatory vs. inhibitory
-- strength of connections may be modified--learning!
-- damage resistant: partial network may still solve problem
+	- processing units = neurons; are interconnected
+	- active unit may pass along its activity via connections,  excitatory vs. inhibitory
+	- strength of connections may be modified--learning!
+	- damage resistant: partial network may still solve problem
 
 Jets & Sharks Example (McClelland, 1981):
 
 - information can be stored in a table:
 
-|   |   |   |   |   |   |
-|---|---|---|---|---|---|
-|**name**|**gang**|**age**|**education**|**marital status**|**occupation**|
-|Art|Jets|40s|jr. high|single|pusher|
-|Lance|Jets|20s|jr. high|married|burglar|
-|Ralph|Jets|30s|jr. high|single|pusher|
-|Rick|Sharks|30s|high school|divorced|burglar|
-|Sam|Jets|20s|college|single|bookie|
+| **name** | **gang** | **age** | **education** | **marital status** | **occupation** |
+| -------- | -------- | ------- | ------------- | ------------------ | -------------- |
+| Art      | Jets     | 40s     | jr. high      | single             | pusher         |
+| Lance    | Jets     | 20s     | jr. high      | married            | burglar        |
+| Ralph    | Jets     | 30s     | jr. high      | single             | pusher         |
+| Rick     | Sharks   | 30s     | high school   | divorced           | burglar        |
+| Sam      | Jets     | 20s     | college       | single             | bookie         |
 
 - or distributed in a network:
 
