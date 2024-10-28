@@ -328,9 +328,7 @@ Components:
 Pros & cons:
 
 - [p]  biologically ==plausible==
-
 - [c]  so far, fairly ==simple== (but increasing in complexity)
-
 - [c]  as a model of a complex system becomes more complete, it becomes less understandable (==Bonini==’s Paradox, 1963)
 
 ---
@@ -340,10 +338,10 @@ Pros & cons:
 - contain generalized knowledge about things or events
 - allow organization of objects & experiences
 - kinds:
-- **-------**: sequences of actions for complex situations and events
-- **------**: for physical objects (room, desk, house)
-- **----- schemas**: setting, conflict, resolution, closing
-- **------- schemas**: for typical structure of problems
+- **==scripts==**: sequences of actions for complex situations and events
+- **==frames==**: for physical objects (room, desk, house)
+- **==story== schemas**: setting, conflict, resolution, closing
+- **==problem== schemas**: for typical structure of problems
 
 ### Scripts
 
