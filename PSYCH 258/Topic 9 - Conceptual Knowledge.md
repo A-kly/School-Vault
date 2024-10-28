@@ -264,7 +264,7 @@ Assumptions:
 - not hierarchical
 - link length represents degree of relatedness; search time depends on link length
 - passive concepts not in working memory; active ones are
-- **--------- ----------**: activation of one node leads to (partial) activation of connected nodes
+- **==spreading activation==**: activation of one node leads to (partial) activation of connected nodes
 - degree of activation decreases over distance and time
 
 Pros & cons:
