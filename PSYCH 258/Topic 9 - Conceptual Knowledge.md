@@ -228,38 +228,32 @@ Assumptions:
 - ==node== represents a single concept
 - concepts organized hierarchically
 - pathways represent associations between concepts
-- “isa” pathways: express category membership
-- “----” pathways: express properties
+- “==isa==” pathways: express category membership
+- “==hasa==” pathways: express properties
 - properties stored at the most general (“highest”) level possible, with no redundancy (**cognitive economy**)
-- sentence verification via **------------ ------**:
-- “A canary is a bird.”
-- “canary” and “bird” activated; activity spreads to neighbours
-- both spreads eventually intersect, allowing answer to be made
+- sentence verification via **==intersection search==**:
+	- “A canary is a bird.”
+	- “canary” and “bird” activated; activity spreads to neighbours
+	- both spreads eventually intersect, allowing answer to be made
 
 Pros & cons:
 
 - [p]  cognitive economy:
-
-e.g., “A bird has feathers.” (faster than) “A bird has skin.”
+	- e.g., “A bird has feathers.” (faster than) “A bird has skin.”
 
 - [p]  corresponds well with category size effect:
+	- e.g. “A canary...”
 
-e.g. “A canary...”
-
-|   |   |   |   |
-|---|---|---|---|
-|**Category**|   |**Property**|   |
-|“...is a canary.”|1,000 ms|“...can sing.”|1,350 ms|
-|“...is a bird.”|1,200 ms|“...can fly.”|1,400 ms|
-|“...is an animal.”|1,300 ms|“...has skin.”|1,500 ms|
-
+| **Category**       |          | **Property**   |          |
+| ------------------ | -------- | -------------- | -------- |
+| “...is a canary.”  | 1,000 ms | “...can sing.” | 1,350 ms |
+| “...is a bird.”    | 1,200 ms | “...can fly.”  | 1,400 ms |
+| “...is an animal.” | 1,300 ms | “...has skin.” | 1,500 ms |
 - [c]  doesn’t explain violations of category size effect:
-
-e.g., “A dog is a mammal.” (slower than) “A dog is an animal.”
+	- e.g., “A dog is a mammal.” (slower than) “A dog is an animal.”
 
 - [c]  typicality effects (model predicts they should -not- be obtained):
-
-e.g., “A robin is a bird.” (faster than) “An ostrich is a bird.”
+	- e.g., “A robin is a bird.” (faster than) “An ostrich is a bird.”
 
 **Spreading Activation Model** (Collins & Loftus, 1975)
 
