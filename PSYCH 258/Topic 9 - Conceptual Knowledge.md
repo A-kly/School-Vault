@@ -1,4 +1,5 @@
 
+
 # Conceptual Knowledge
 
 ## Learning Outcomes
@@ -193,28 +194,21 @@ Assumptions:
 Pros & cons:
 
 - [p]  typicality effects: faster RT when item is a typical member of a category
+	- e.g., “A robin is a bird.” (faster than) “A penguin is a bird.”
 
-e.g., “A robin is a bird.” (faster than) “A penguin is a bird.”
+- [p]  **==true/false== effect**: quick rejection of false sentences e.g., “A pencil is a bird.” (faster than) “A bat is a bird.”
 
-- [p]  **----/----- effect**: quick rejection of false sentences
+- [c]  doesn’t explain **==category size== effect**: faster RT when item is member of a small category
+	- e.g., “A robin is a bird.” (faster than) “A robin is an animal.”
+	- small categories have -more- defining features -> -more- stage 2 processing -> -slower-
 
-e.g., “A pencil is a bird.” (faster than) “A bat is a bird.”
-
-- [c]  doesn’t explain **-------- ---- effect**: faster RT when item is member of a small category
-
-e.g., “A robin is a bird.” (faster than) “A robin is an animal.”
-
-- small categories have -more- defining features ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) -more- stage 2 processing ![→](PSYCH%20258-%20Conceptual%20Knowledge-files/right-new.png) -slower-
-
-- [p]  can account for ---------- of category size effect:
-
-e.g., “Scotch is a liquor.” (slower than) “Scotch is a drink.”
+- [p]  can account for ==violations== of category size effect:
+	- e.g., “Scotch is a liquor.” (slower than) “Scotch is a drink.”
 
 - [c]  not all defining features of a category are necessary
+	- e.g., “Is a robin with no wings still a bird?”
 
-e.g., “Is a robin with no wings still a bird?”
-
-- [c]  features poorly -------; characteristic features have circular definition
+- [c]  features poorly ==Defined==; characteristic features have circular definition
 
 ---
 
@@ -222,8 +216,8 @@ e.g., “Is a robin with no wings still a bird?”
 
 Common assumptions:
 
-- concepts represented in network of interconnected -----
-- concept defined in terms of ----------- to other concepts
+- concepts represented in network of interconnected ==nodes==
+- concept defined in terms of ==connections== to other concepts
 
 **Hierarchical-Network Model** (Collins & Quillian, 1969)
 
@@ -231,10 +225,10 @@ Common assumptions:
 
 Assumptions:
 
-- ---- represents a single concept
+- ==node== represents a single concept
 - concepts organized hierarchically
 - pathways represent associations between concepts
-- “---” pathways: express category membership
+- “isa” pathways: express category membership
 - “----” pathways: express properties
 - properties stored at the most general (“highest”) level possible, with no redundancy (**cognitive economy**)
 - sentence verification via **------------ ------**:
