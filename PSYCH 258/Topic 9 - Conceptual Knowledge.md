@@ -322,16 +322,16 @@ Components:
 - neuronally inspired
 - **nodes**: processing units like neurons
 - excitatory/inhibitory connections among nodes
-- **---------- rules**: specify conditions for activating a node
-- **-------- rule**: describes how connections can be changed, to improve performance
+- **==activation== rules**: specify conditions for activating a node
+- **==learning== rule**: describes how connections can be changed, to improve performance
 
 Pros & cons:
 
-- [p]  biologically ---------
+- [p]  biologically ==plausible==
 
-- [c]  so far, fairly ------ (but increasing in complexity)
+- [c]  so far, fairly ==simple== (but increasing in complexity)
 
-- [c]  as a model of a complex system becomes more complete, it becomes less understandable (------’s Paradox, 1963)
+- [c]  as a model of a complex system becomes more complete, it becomes less understandable (==Bonini==’s Paradox, 1963)
 
 ---
 
