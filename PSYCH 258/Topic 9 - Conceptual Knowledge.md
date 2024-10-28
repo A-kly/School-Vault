@@ -290,13 +290,13 @@ Pros & cons:
 - classical approach: based on information & rules (serial approach)
 	- e.g., mind is like a computer: data & programs
 
-- --------:
+- ==Parallel==:
 	- many (simple) processors working simultaneously
 	- models are artificial neural networks, analogous to human brain
-- -----------:
+- ==Distributed==:
 	- memory and information processing occur in the connections, not in storage locations (“connectionism”)
 	- information is distributed across the entire network, not localized
-- ----------:
+- ==Processing==:
 	- processing units = neurons; are interconnected
 	- active unit may pass along its activity via connections,  excitatory vs. inhibitory
 	- strength of connections may be modified--learning!
