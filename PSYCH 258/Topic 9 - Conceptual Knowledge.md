@@ -364,8 +364,7 @@ Bower & colleagues (1979):
 Bransford & Johnson (1972): encoding
 
 - participants read (vaguely written) paragraphs
-
-e.g., about doing -------, ------ a ----
+	- e.g., about doing Laundry, Flying a Kite
 
 - some were given topic sentence beforehand; had much better recall
 - schemas add meaning, which aids encoding & remembering
