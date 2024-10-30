@@ -369,20 +369,20 @@ Bransford & Johnson (1972): encoding
 - some were given topic sentence beforehand; had much better recall
 - schemas add meaning, which aids encoding & remembering
 
-Bartlett (1932): ----------
+Bartlett (1932): ==inferences==
 
 - “The war of the ghosts” Native American story read by students in England
 - reproductive memory was poor, because story/structure were unfamiliar
 - recall included many reconstructive errors: story was combined with (or interpreted by) students’ existing schemas
-- schemas show **----------**: logical interpretations/conclusions made that are not part of original stimulus material
+- schemas show **==inferences==**: logical interpretations/conclusions made that are not part of original stimulus material
 
-Brewer & Treyens (1981): ------ selection
+Brewer & Treyens (1981): ==memory== selection
 
 - participants visited office for 35 seconds
 - free recall of “everything you can remember about the room you were just in”
 - good recall of objects consistent with “office” schema (e.g., desk, chairs)
-- poor recall of inconsistent objects (e.g., picnic basket, ---- ------)
-- some false recall of consistent objects that were not present (e.g., -----, filing cabinet)
+- poor recall of inconsistent objects (e.g., picnic basket, ==wine bottle==)
+- some false recall of consistent objects that were not present (e.g., ==books==, filing cabinet)
 - schemas provide enhanced memory--for schema-consistent items
 
 ### Schemas Summary
