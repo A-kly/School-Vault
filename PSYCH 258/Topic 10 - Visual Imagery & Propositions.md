@@ -35,30 +35,30 @@ Metaphor:
 
 Processes:
 
-- generation: images reconstructed from --- stores
-- retention: images are maintained in ---
-- inspection: generated images can be ------- by “mind’s eye”
-- transformation: mental images can be manipulated like ---- objects
+- generation: images reconstructed from ==LTS== stores
+- retention: images are maintained in ==STS==
+- inspection: generated images can be ==scanned== by “mind’s eye”
+- transformation: mental images can be manipulated like ==real== objects
 
 Evidence:
 
-Shepard & Metzler (1971): --------
+Shepard & Metzler (1971): ==rotation==
 
 - same/different task using pairs of “3-D” objects:
 
 | ![3-D blocks](PSYCH%20258/Attachments/p258s10-1.jpg) | <br><br>same (rotation in picture-plane)<br><br><br><br>same (rotation in depth)<br><br><br><br><br><br>same (rotation in depth) |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-- RT to decide “same” is a ------ function of angle of rotation:
+- RT to decide “same” is a ==linear== function of angle of rotation:
 
 ![RT as a function of angle](PSYCH%20258/Attachments/p258s10-2.png)
 
 - RT for rotation in depth comparable to RT for rotation in picture-plane
 
-Kosslyn (1975): ----
+Kosslyn (1975): ==size==
 
-- imagine a ------ next to (a) a fly or (b) an elephant
+- imagine a ==rabbit== next to (a) a fly or (b) an elephant
 - participants asked “Does a rabbit have ears?”
-- RT 211 ms longer when target was beside ------ animal; participants reported that the size of “imagined” rabbit was smaller
+- RT 211 ms longer when target was beside ==larger== animal; participants reported that the size of “imagined” rabbit was smaller
 - possible confounding produced by -------- level
 - imagine target beside (a) ----- fly or (b) ---- elephant
 - longer RT when target beside larger animal
