@@ -389,8 +389,8 @@ Brewer & Treyens (1981): ==memory== selection
 
 - based on our general world knowledge and experiences
 - active, constructive process for comprehension
-- used at encoding, they -------- details remembered
-- may ---- interpretation of ambiguous information
+- used at encoding, they ==increase== details remembered
+- may ==bias== interpretation of ambiguous information
 - may cause us to ------ inconsistent information
 
 ---

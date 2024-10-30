@@ -13,5 +13,6 @@
 - [[Topic 7 - Long-Term Memory]]
 - [[Topic 8 - Autobiographical Memory]]
 - [[Topic 9 - Conceptual Knowledge]]
+- [[Topic 10 - Visual Imagery & Propositions]]
 
 %% End Waypoint %%
