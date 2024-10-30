@@ -112,17 +112,14 @@ Roland & Friberg (1985): physiological evidence
 
 ![propositional representation](PSYCH%20258/Attachments/p258s10-6.png)
 
-- mind represents concepts; may form images as an epiphenomenal ----------
-
-e.g., book represents information in words, which generate images when read
+- mind represents concepts; may form images as an epiphenomenal ==by-product==
+	- e.g., book represents information in words, which generate images when read
 
 Evidence:
 
 - certain operations possible for real images are not possible for mental images
-
-e.g., ------ or negative images of faces (Phillips, 1972)
-
-e.g., rotation of images (Slezak, 1991)
+	- e.g., ==mirrored== or negative images of faces (Phillips, 1972)
+	- e.g., rotation of images (Slezak, 1991)
 
 - images are limited
 
