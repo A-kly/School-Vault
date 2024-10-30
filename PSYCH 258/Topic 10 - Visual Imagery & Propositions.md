@@ -85,8 +85,8 @@ Kosslyn (1973): distance
 - visualized it from memory, and focused on one ==end==
 - was a named component in the drawing?
 	- e.g., “motor” or “porthole” or “anchor”
-- named object farther from place of focus -> ------ RTs
-- lag time implied ---- of mental image
+- named object farther from place of focus -> ==longer== RTs
+- lag time implied ==scan== of mental image
 
 Roland & Friberg (1985): physiological evidence
 
@@ -94,7 +94,7 @@ Roland & Friberg (1985): physiological evidence
 - performed mental arithmetic
 - thought of a musical jingle
 - visually imaged a walk through their neighbourhood
-- results: increased cerebral blood flow in visual cortex--only with ------- task
+- results: increased cerebral blood flow in visual cortex--only with ==imagery== task
 
 ---
 
@@ -102,13 +102,11 @@ Roland & Friberg (1985): physiological evidence
 
 (Zenon Pylyshyn, 1973, 2006; Peter Slezak, 1995)
 
-- uses metaphor of --------, not perception
+- uses metaphor of ==language==, not perception
 - images are represented by abstract, symbolic, “descriptions” of visual scenes
-- **-----------**: smallest piece of information that can be judged true or false
-
-e.g., “The dog is brown.” has 1
-
-“The small dog is brown.” has 2
+- **==proposition==**: smallest piece of information that can be judged true or false
+	- e.g., “The dog is brown.” has 1
+	- “The small dog is brown.” has 2
 
 - propositions formed by connections between nodes of a network:
 
