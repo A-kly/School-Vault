@@ -59,11 +59,11 @@ Kosslyn (1975): ==size==
 - imagine a ==rabbit== next to (a) a fly or (b) an elephant
 - participants asked “Does a rabbit have ears?”
 - RT 211 ms longer when target was beside ==larger== animal; participants reported that the size of “imagined” rabbit was smaller
-- possible confounding produced by -------- level
-- imagine target beside (a) ----- fly or (b) ---- elephant
+- possible confounding produced by ==interest== level
+- imagine target beside (a) ==giant== fly or (b) ==tiny== elephant
 - longer RT when target beside larger animal
 
-Kosslyn, Ball, & Reiser (1978): --------
+Kosslyn, Ball, & Reiser (1978): ==distance==
 
 - participants memorized map:
 
@@ -74,7 +74,7 @@ Kosslyn, Ball, & Reiser (1978): --------
 
 ![RT as a function of distance](PSYCH%20258/Attachments/p258s10-4.png)
 
-- time to scan between imagined objects correlates with -------- between those objects on a map
+- time to scan between imagined objects correlates with ==distance== between those objects on a map
 
 Kosslyn (1973): distance
 
@@ -82,12 +82,10 @@ Kosslyn (1973): distance
 
 ![image of boat](PSYCH%20258/Attachments/p258s10-5.png)
 
-- visualized it from memory, and focused on one ---
+- visualized it from memory, and focused on one ==end==
 - was a named component in the drawing?
-
-e.g., “motor” or “porthole” or “anchor”
-
-- named object farther from place of focus ![→](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/right-new.png) ------ RTs
+	- e.g., “motor” or “porthole” or “anchor”
+- named object farther from place of focus -> ------ RTs
 - lag time implied ---- of mental image
 
 Roland & Friberg (1985): physiological evidence
