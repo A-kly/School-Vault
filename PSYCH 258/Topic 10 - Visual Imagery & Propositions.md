@@ -121,7 +121,7 @@ Evidence:
 	- e.g., ==mirrored== or negative images of faces (Phillips, 1972)
 	- e.g., rotation of images (Slezak, 1991)
 
-- images are limited
+- *images are limited*
 
 Nickerson & Adams (1979):
 
