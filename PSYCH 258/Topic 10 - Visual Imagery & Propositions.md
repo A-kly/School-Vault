@@ -131,8 +131,8 @@ Nickerson & Adams (1979):
 - experimenter expectancy, demand characteristics, and participants’ ==expectations== may be influencing results
 - predictions of scanning time across island matched “mental scanning” (Mitchell & Richman, 1980)
 - but this breaks down when predictions more difficult (scanning along a spiral vs. straight line)
-- **---------- relationships**: finding particular shapes in a whole figure ![→](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/right-new.png) chance level (Reed, 1974)
-- semantic (verbal) information may ------- recall of visual images
+- **==Whole-part== relationships**: finding particular shapes in a whole figure -> chance level (Reed, 1974)
+- semantic (verbal) information may ==distort== recall of visual images
 
 Carmichael, Hogan, & Walter (1932):
 
@@ -148,8 +148,8 @@ Carmichael, Hogan, & Walter (1932):
 
 Storage: two independent but interacting systems:
 
-- **------- system**: stores images (“**-------**”); right hemisphere processing
-- **------ system**: stores linguistic information or verbal descriptions (“**--------**”); left hemisphere processing
+- **==imagery== system**: stores images (“**==imagens==**”); right hemisphere processing
+- **==verbal== system**: stores linguistic information or verbal descriptions (“**==logogens==**”); left hemisphere processing
 
 Processing: in one or both systems:
 
