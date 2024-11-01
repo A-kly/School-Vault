@@ -236,12 +236,12 @@ Barbara Tversky (1981, 1993):
 - **==symmetry== heuristic**: representing shapes as more symmetrical than they actually are
 - **==right-angle== bias**: representing intersections as forming 90° angles more than the angles actually do
 - **==rotation== heuristic**: representing slanted figures or boundaries as more vertical or horizontal then they actually are
-- **==rotation== heuristic**: representing geographical features as more lined up with each other than they really are
-- **==alignment== heuristic**: representing relative positions of landmarks and boundaries by distorting cognitive maps to reflect conceptual knowledge, rather than actual spatial configurations
+- **==alignment== heuristic**: representing geographical features as more lined up with each other than they really are
+- **==relative-position== heuristic**: representing relative positions of landmarks and boundaries by distorting cognitive maps to reflect conceptual knowledge, rather than actual spatial configurations
 
 Why does our navigational fallibility persist?
 
-Likely because we don’t often encounter -------- about our geographical or travel-time inaccuracy.
+Likely because we don’t often encounter ==feedback== about our geographical or travel-time inaccuracy.
 
 ## Wayfinding
 
@@ -249,12 +249,12 @@ Cornell, Sorenson, & Mio (2003):
 
 - measured self-reports of “sense of direction” (SOD)
 - also assessed wayfinding:
-- pointing to nonvisible ---------
-- --------- a route with a detour
-- devising a --------
-- locate site within a building
-- found small-moderate correlations between these and ---
-- ------ for past performance ![→](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/right-new.png) SOD
+	- pointing to nonvisible ==landmarks==
+	- --------- a route with a detour
+	- devising a --------
+	- locate site within a building
+	- found small-moderate correlations between these and ---
+	- ------ for past performance -> SOD
 - compared genders:
 - males predominantly used **------ knowledge**: based on comparisons among landmarks; like bird’s eye view
 - females relied on **----- knowledge**: based on a series of directions; like “vectors”
