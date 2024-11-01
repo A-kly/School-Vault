@@ -190,19 +190,18 @@ Schooler & Engstler-Schooler (1990):
 - procedure: participants shown videotaped robbery (creates visual memory)
 - task:
 	- ==imagine== the robber
-	- -------- the robber
+	- ==describe== the robber
 	- do a series of math problems
 	- then given recognition memory test (pick robber out of line-up of 8 people)
 - results:
 
-|   |   |
-|---|---|
-|**Task:**|**Recognition:**|
-|imagine|55%|
-|describe|15%|
-|math|42%|
+| **Task:** | **Recognition:** |
+| --------- | ---------------- |
+| imagine   | 55%              |
+| describe  | 15%              |
+| math      | 42%              |
 
-- **verbal overshadowing effect**: verbalizing previously seen visual stimuli ---------- with the original visual memory
+- **verbal overshadowing effect**: verbalizing previously seen visual stimuli ==interferes== with the original visual memory
 
 ---
 
@@ -211,9 +210,9 @@ Schooler & Engstler-Schooler (1990):
 Have both metrical and structural components
 
 - **metrical**: includes information about distances and directions; three types of knowledge:
-- **--------**: information about particular features at a location
-- **----------**: specific pathways for moving from one location to another
-- **------**: estimated distances between landmarks
+	- **==landmark==**: information about particular features at a location
+	- **==route-road==**: specific pathways for moving from one location to another
+	- **==survey==**: estimated distances between landmarks
 - **structural**: includes information about regions and clusters
 
 Hirtle & Jonides (1985):
