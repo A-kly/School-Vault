@@ -219,18 +219,17 @@ Hirtle & Jonides (1985):
 
 - distance between landmarks judged
 - members of the same cluster judged to be closer than any member of another cluster
-
-e.g., Is it farther to Chapters in St. Albert or 99 Ave./170 St.?
+	- e.g., Is it farther to Chapters in St. Albert or 99 Ave./170 St.?
 
 Milgram & Jodelet (1976):
 
 - asked 215 Parisians to draw a map of the Seine river
-- over 90% drew it ---------- than it actually is
+- over 90% drew it ==Straighter== than it actually is
 - cognitive maps do not always correspond to physical locations
 
 Barbara Tversky (1981, 1993):
 
-- when navigating space, people use ----------: methods that sometimes lead to a correct solution, but often oversimplify reality
+- when navigating space, people use ==heuristics:== methods that sometimes lead to a correct solution, but often oversimplify reality
 
 e.g., Which is farther north, Rome or Philadelphia?
 
