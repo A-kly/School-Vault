@@ -230,15 +230,14 @@ Milgram & Jodelet (1976):
 Barbara Tversky (1981, 1993):
 
 - when navigating space, people use ==heuristics:== methods that sometimes lead to a correct solution, but often oversimplify reality
+	- e.g., Which is farther north, Rome or Philadelphia?
 
-e.g., Which is farther north, Rome or Philadelphia?
-
-- **------- heuristic**: greater number of landmarks on a route makes it seem longer
-- **-------- heuristic**: representing shapes as more symmetrical than they actually are
-- **----------- bias**: representing intersections as forming 90° angles more than the angles actually do
-- **-------- heuristic**: representing slanted figures or boundaries as more vertical or horizontal then they actually are
-- **--------- heuristic**: representing geographical features as more lined up with each other than they really are
-- **----------------- heuristic**: representing relative positions of landmarks and boundaries by distorting cognitive maps to reflect conceptual knowledge, rather than actual spatial configurations
+- **==density== heuristic**: greater number of landmarks on a route makes it seem longer
+- **==symmetry== heuristic**: representing shapes as more symmetrical than they actually are
+- **==right-angle== bias**: representing intersections as forming 90° angles more than the angles actually do
+- **==rotation== heuristic**: representing slanted figures or boundaries as more vertical or horizontal then they actually are
+- **==rotation== heuristic**: representing geographical features as more lined up with each other than they really are
+- **==alignment== heuristic**: representing relative positions of landmarks and boundaries by distorting cognitive maps to reflect conceptual knowledge, rather than actual spatial configurations
 
 Why does our navigational fallibility persist?
 
