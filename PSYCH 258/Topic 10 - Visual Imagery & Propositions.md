@@ -173,7 +173,7 @@ Pros & cons:
 
 ![recall as a function of presentation rate](PSYCH%20258/Attachments/p258s10-7.png)
 
-- two codes -------- likelihood of later retrieval
+- two codes ==increase== likelihood of later retrieval
 - imagen system superior to logogen system
 
 - [p] Kounios & Holcomb (1994): EEG evidence
@@ -181,18 +181,18 @@ Pros & cons:
 	- concrete words activated both hemispheres equally (dual coding)
 	- abstract words activated the left hemisphere more than the right (single code)
 
-- [c] criticism: there is no need for two representational systems; all memories are stored one way (**------ ------ theory**)
+- [c] criticism: there is no need for two representational systems; all memories are stored one way (**==common coding== theory**)
 
-Can using multiple coding --------- with memory?
+Can using multiple coding ==interfere== with memory?
 
 Schooler & Engstler-Schooler (1990):
 
 - procedure: participants shown videotaped robbery (creates visual memory)
 - task:
-- ------- the robber
-- -------- the robber
-- do a series of math problems
-- then given recognition memory test (pick robber out of line-up of 8 people)
+	- ==imagine== the robber
+	- -------- the robber
+	- do a series of math problems
+	- then given recognition memory test (pick robber out of line-up of 8 people)
 - results:
 
 |   |   |
