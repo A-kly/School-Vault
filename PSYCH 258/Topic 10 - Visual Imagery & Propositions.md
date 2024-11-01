@@ -159,31 +159,29 @@ Processing: in one or both systems:
 
 Connections:
 
-- a concept is --------- to other related concepts in the same system (associative connections), and the other system (referential connections)
+- a concept is ==connected== to other related concepts in the same system (associative connections), and the other system (referential connections)
 - activating any one concept also leads to activation of closely related concepts
 
 Pros & cons:
 
-![☑](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/pro-new.png) Paivio & Csapo (1969): experimental support
-
-- stimuli: pictures, concrete words, and abstract words
-- varied rate of presentation:
-- fast = 5.3 items/s (limits participants to one code)
-- slow = 2 items/s (opportunity for ---- codes)
-- results on free recall task:
+- [p] Paivio & Csapo (1969): experimental support
+	- stimuli: pictures, concrete words, and abstract words
+	- varied rate of presentation:
+	- fast = 5.3 items/s (limits participants to one code)
+	- slow = 2 items/s (opportunity for ---- codes)
+	- results on free recall task:
 
 ![recall as a function of presentation rate](PSYCH%20258/Attachments/p258s10-7.png)
 
 - two codes -------- likelihood of later retrieval
 - imagen system superior to logogen system
 
-![☑](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/pro-new.png) Kounios & Holcomb (1994): EEG evidence
+- [p] Kounios & Holcomb (1994): EEG evidence
+	- concrete words elicited greater activity than abstract words (dual coding)
+	- concrete words activated both hemispheres equally (dual coding)
+	- abstract words activated the left hemisphere more than the right (single code)
 
-- concrete words elicited greater activity than abstract words (dual coding)
-- concrete words activated both hemispheres equally (dual coding)
-- abstract words activated the left hemisphere more than the right (single code)
-
-![☒](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/con-new.png) criticism: there is no need for two representational systems; all memories are stored one way (**------ ------ theory**)
+- [c] criticism: there is no need for two representational systems; all memories are stored one way (**------ ------ theory**)
 
 Can using multiple coding --------- with memory?
 

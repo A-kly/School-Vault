@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "4466f9817100e77e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PSYCH 258/Untitled.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "208e1625fdbc3a08",
             "type": "leaf",
             "state": {
@@ -53,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,9 +246,10 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "bb305376d8ecf05d",
+  "active": "4466f9817100e77e",
   "lastOpenFiles": [
     "PSYCH 258/Topic 10 - Visual Imagery & Propositions.md",
+    "PSYCH 258/Untitled.md",
     "PSYCH 258/Topic 9 - Conceptual Knowledge.md",
     "PSYCH 258/Attachments/p258s10-7.png",
     "PSYCH 258/Attachments/p258s10-6.png",
@@ -270,7 +286,6 @@
     "CMPUT 382/Lecture 1.2 - Introduction to Heterogeneous Parallel Computing.md",
     "Markdown Cheat Sheet.md",
     "SOC 225/Media",
-    "SOC 225/SOC 225.md",
     "CMPUT 382/Media",
     "PSYCH 258/Attachments",
     "HTML import",
