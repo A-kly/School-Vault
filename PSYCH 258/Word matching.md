@@ -1,0 +1,14 @@
+Apple 
+Cause
+Bottle 
+Duty
+Concern
+Bicycle
+?
+?
+Calendar
+meaning(?)
+leaf
+antelope
+concept
+newspaper

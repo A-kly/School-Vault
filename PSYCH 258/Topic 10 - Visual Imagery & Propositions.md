@@ -168,7 +168,7 @@ Pros & cons:
 	- stimuli: pictures, concrete words, and abstract words
 	- varied rate of presentation:
 	- fast = 5.3 items/s (limits participants to one code)
-	- slow = 2 items/s (opportunity for ---- codes)
+	- slow = 2 items/s (opportunity for ==dual== codes)
 	- results on free recall task:
 
 ![recall as a function of presentation rate](PSYCH%20258/Attachments/p258s10-7.png)
