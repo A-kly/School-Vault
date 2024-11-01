@@ -125,10 +125,10 @@ Evidence:
 
 Nickerson & Adams (1979):
 
-- showed 15 “-------”, including an unmodified one
-- most people (84%) could not identify the real -----
+- showed 15 “pennies”, including an unmodified one
+- most people (84%) could not identify the real penny
 - images must be lacking in details
-- experimenter expectancy, demand characteristics, and participants’ ------------ may be influencing results
+- experimenter expectancy, demand characteristics, and participants’ ==expectations== may be influencing results
 - predictions of scanning time across island matched “mental scanning” (Mitchell & Richman, 1980)
 - but this breaks down when predictions more difficult (scanning along a spiral vs. straight line)
 - **---------- relationships**: finding particular shapes in a whole figure ![→](PSYCH%20258-%20Visual%20Imagery%20&%20Propositions-files/right-new.png) chance level (Reed, 1974)
