@@ -418,21 +418,21 @@ Kornell & Bjork (2008): interleaved practice
 - David Hartley (1791) was the first to suggest ==dreaming== might alter the strength of associative memories
 - ==REM== sleep was discovered by Aserinski & Kleitman (1953); linked it to dreaming
 - REM sleep has been found to improve learning complex ==logic== games, foreign ==language== acquisition, visual discrimination tasks, and intensive --------
-- may be due to ==synchronous== brain activity, neuronal replay, changes in ---------------, or regional brain activation (Stickgold, Hobson, Fosse, & Fosse, 2001)
+- may be due to ==synchronous== brain activity, neuronal replay, changes inneuromodulators, or regional brain activation (Stickgold, Hobson, Fosse, & Fosse, 2001)
 
 Contradictory evidence (Siegel, 2001; Vertes & Eastman, 2000):
 
 - results of animal studies are equivocal: REM deprivation does not necessarily impair learning/memory
-- REM deprivation confounded with ------
-- some --------------- suppress REM sleep, but learning/memory is not disrupted
-- bilateral lesions of ---- abolish REM sleep, but patients led normal lives
-- conclusion: REM sleep has no role in -------------
+- REM deprivation confounded with ==stress==
+- some ==antidepressants== suppress REM sleep, but learning/memory is not disrupted
+- bilateral lesions of ==pons== abolish REM sleep, but patients led normal lives
+- conclusion: REM sleep has no role in ==consolidation==
 
 What about the effects of sleep overall?
 
-- sleep deprivation reduces ------- memory by 38%
+- sleep deprivation reduces ==reduced== memory by 38%
 - sleep increases performance of procedural memories, like motor skill learning
-- daytime ---- enhance declarative memories, maze learning, complex visual stimuli, paired words); performance correlated with the amount of NREM (non-REM) sleep
+- daytime ==naps== enhance declarative memories, maze learning, complex visual stimuli, paired words); performance correlated with the amount of NREM (non-REM) sleep
 
 Conclusions:
 
@@ -447,7 +447,7 @@ Conclusions:
 **Dual trace hypothesis** (Donald Hebb, 1949):
 - memory formation (synaptic consolidation) requires two processes:
 	1. short term: experience causes activity in certain neural ==circuits==
-	2. longer term: continuous or repeated activity creates ------ change in nervous system
+	2. longer term: continuous or repeated activity creates ==stable== change in nervous system
 - “neurons that fire together, wire together”
 - found in **Long term potentiation** (**LTP**): electrically induced changes in neural response (Hawkins & Kandel, 1984)
 - kinds of neural change found to support learning:
