@@ -298,18 +298,17 @@ Miller & Peacock (1982):
 | ------------------------------------- | ----------- | ----------- |
 | recall of picture details:            | 6.3         | 4.9         |
 | dot fusion (number correct out of 18) | 13          | 3           |
-
-- eidetic more susceptible to ------------ from a second stimulus than controls
+- eidetic more susceptible to ==interference== from a second stimulus than controls
 - eidetic memories lasted longer (25-180 s) than images of control group (0-13 s)
 
 Conclusions:
 
 - relatively rare ability to maintain vivid, detailed images; etiology unknown
-- quantitatively and qualitatively --------- from non-eidetic memory
+- quantitatively and qualitatively ==different== from non-eidetic memory
 - not really “photographic memory”:
-- recall far from -------
-- memories ---- in a few minutes
-- images easily disrupted by new visual stimulation
+	- recall far from ==perfect==
+	- memories ---- in a few minutes
+	- images easily disrupted by new visual stimulation
 
 ---
 
