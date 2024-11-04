@@ -307,7 +307,7 @@ Conclusions:
 - quantitatively and qualitatively ==different== from non-eidetic memory
 - not really “photographic memory”:
 	- recall far from ==perfect==
-	- memories ---- in a few minutes
+	- memories ==fade== in a few minutes
 	- images easily disrupted by new visual stimulation
 
 ---
@@ -319,26 +319,21 @@ Conclusions:
 
 Kinds of mnemonics:
 
-- **method of ----**: associate to-be-recalled items with familiar locations (a “memory palace” or “Roman room”)
-- **--- ---- system**: associate items with “pegs”
-
-e.g., 1 is a bun, 2 is a shoe, 3 is a tree, etc.
+- **method of ==loci==**: associate to-be-recalled items with familiar locations (a “memory palace” or “Roman room”)
+- **==peg word== system**: associate items with “pegs”
+	- e.g., 1 is a bun, 2 is a shoe, 3 is a tree, etc.
 
 - **--- ----**: connect sound of word with familiar word
-
-e.g., -pato- (Spanish for “duck”) pronounced “pot-oh,” so picture a duck wearing a pot
+	- e.g., -pato- (Spanish for “duck”) pronounced “pot-oh,” so picture a duck wearing a pot
 
 - **------------**: hierarchically, or story, or rhyme
-
-e.g., chunking
+	- e.g., chunking
 
 - **-------**: use first letter of each word to create pronounceable word
-
-e.g. **POLKA** (=**P**egword, etc...)
+	- e.g. **POLKA** (=**P**egword, etc...)
 
 - **--------**: use phrase made with first letters
-
-e.g., **P**a **O**bserved **L**ice **K**issing **A**nts
+	- e.g., **P**a **O**bserved **L**ice **K**issing **A**nts
 
 Why do mnemonics work?
 
