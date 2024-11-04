@@ -115,5 +115,8 @@
   "neo-style@@accent-affect-bg": false,
   "encore-settings@@encore-translucency-background": "encore-bg-sapphire",
   "encore-settings@@encore-translucency-strength": 0.3,
-  "encore-settings@@encore-translucency-blur-amount": 10
+  "encore-settings@@encore-translucency-blur-amount": 10,
+  "anuppuccin-theme-settings@@anp-file-label-align": "0",
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false
 }
