@@ -323,23 +323,23 @@ Kinds of mnemonics:
 - **==peg word== system**: associate items with “pegs”
 	- e.g., 1 is a bun, 2 is a shoe, 3 is a tree, etc.
 
-- **--- ----**: connect sound of word with familiar word
-	- e.g., -pato- (Spanish for “duck”) pronounced “pot-oh,” so picture a duck wearing a pot
+- **==key word==**: connect sound of word with familiar word
+	- e.g., -*pato*- (Spanish for “duck”) pronounced “pot-oh,” so picture a duck wearing a pot
 
-- **------------**: hierarchically, or story, or rhyme
+- **==organization==**: hierarchically, or story, or rhyme
 	- e.g., chunking
 
-- **-------**: use first letter of each word to create pronounceable word
+- **==acronym==**: use first letter of each word to create pronounceable word
 	- e.g. **POLKA** (=**P**egword, etc...)
 
-- **--------**: use phrase made with first letters
+- **==acrostic==**: use phrase made with first letters
 	- e.g., **P**a **O**bserved **L**ice **K**issing **A**nts
 
 Why do mnemonics work?
 
 - provide structure for encoding and cues for retrieval
 - apply multiple codes (verbal and imagery)
-- form vivid, durable trace less subject to ------------
+- form vivid, durable trace less subject to ==interference==
 
 ---
 
