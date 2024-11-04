@@ -273,31 +273,31 @@ Haber & Haber (1964, 1988):
 - showed pictures on an easel for 30 s, then removed them and asked questions about them
 - 8% of children performed significantly differently from the rest
 - criteria for eidetic memory: images...
-- must be reported
-- must be positively coloured (not negative image)
-- are projected onto space (not just “in the head”)
-- described in the ------- tense
-- associated with eye movements appropriate to the location of objects in the scene
+	- must be reported
+	- must be positively coloured (not negative image)
+	- are projected onto space (not just “in the head”)
+		- Not like a list but like a map physically on a blank page
+	- described in the present tense
+	- associated with eye movements appropriate to the location of objects in the scene
 - images lasted at least 40 s
-- this ability is equally likely in males and females, but is less common in ------
+- this ability is equally likely in males and females, but is less common in ==adults==
 
 Stromeyer & Psotka (1970):
 
 - case study of eideteker named Elizabeth
 - could reproduce a poem written in a foreign language that she did not understand, from bottom to top, as fast as she could write--even years later
-- could fuse two-part random dot patterns, each containing --------- dots, presented 4 hours apart
+- could fuse two-part random dot patterns, each containing 1,000,000 dots, presented 4 hours apart
 - could also fuse two patterns presented a day apart into stereoscopic images
-- however, no one else has passed such a test, Elizabeth refused to repeat any tests, and ended up -------- Stromeyer
+- however, no one else has passed such a test, Elizabeth refused to repeat any tests, and ended up ==marrying== Stromeyer
 
 Miller & Peacock (1982):
 
 - compared eidetic 12-14 year old boys to control group
 
-|   |   |   |
-|---|---|---|
-||**eidetic**|**control**|
-|recall of picture details:|6.3|4.9|
-|dot fusion (number correct out of 18)|13|3|
+|                                       | **eidetic** | **control** |
+| ------------------------------------- | ----------- | ----------- |
+| recall of picture details:            | 6.3         | 4.9         |
+| dot fusion (number correct out of 18) | 13          | 3           |
 
 - eidetic more susceptible to ------------ from a second stimulus than controls
 - eidetic memories lasted longer (25-180 s) than images of control group (0-13 s)
