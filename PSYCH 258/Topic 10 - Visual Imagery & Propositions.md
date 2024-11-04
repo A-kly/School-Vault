@@ -250,8 +250,8 @@ Cornell, Sorenson, & Mio (2003):
 - measured self-reports of “sense of direction” (SOD)
 - also assessed wayfinding:
 	- pointing to nonvisible ==landmarks==
-	- --------- a route with a detour
-	- devising a --------
+	- ==revising== a route with a detour
+	- devising a ==shortcut==
 	- locate site within a building
 	- found small-moderate correlations between these and ---
 	- ------ for past performance -> SOD
