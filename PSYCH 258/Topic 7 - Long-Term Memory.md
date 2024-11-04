@@ -378,38 +378,36 @@ Bjork & colleagues (1978):
 
 - follow-up study 8 years later showed 30-day spacing group outperformed the other two (Bahrick & Phelps, 1987)
 
-- **------- effect**: distributed practice produces better remembering than massed practice
+- **==spacing== effect**: distributed practice produces better remembering than massed practice
 - why?
 
-**▸ multiple -------- -------- theory**: multiple study sessions lead to multiple types of encoding, thus greater chance of matching during test conditions
+- **multiple ==encoding contexts== theory**: multiple study sessions lead to multiple types of encoding, thus greater chance of matching during test conditions
 
-**▸ --- theory**: the more rapid eye movement sessions following study sessions, the more consolidation that occurs
+- **==REM== theory**: the more rapid eye movement sessions following study sessions, the more consolidation that occurs
 
 Kornell & Bjork (2008): interleaved practice
 
-- goal: identify painting styles of different artists by inductive learning (observing ---------)
+- goal: identify painting styles of different artists by inductive learning (observing ==exemplars==)
 - stimuli were multiple landscape paintings by relatively unfamiliar artists, including Henri-Edmond Cross, Marilyn Mylrea, and YeiMei
 - independent variable was the nature of practice
 
-**▸** ------- practice: participants studied artists one at a time (e.g., 6 paintings by Cross presented consecutively, followed by 6 by Mylrea, etc.)
+-  ==blocked== practice: participants studied artists one at a time (e.g., 6 paintings by Cross presented consecutively, followed by 6 by Mylrea, etc.)
 
-**▸** ----------- practice: participants studied artists mixed up (e.g., 1 painting by Cross, then 1 by YeiMei, then 1 by Mylrea, etc.)
+-  ==interleaved== practice: participants studied artists mixed up (e.g., 1 painting by Cross, then 1 by YeiMei, then 1 by Mylrea, etc.)
 
 - both groups studied 6 paintings by each of 12 artists, then were tested with 4 previously unseen paintings each of the 12 artists
 - results:
-
-**▸** blocked: 50% correct
-
-**▸** interleaved: --- correct
+	-  blocked: 50% correct
+	-  interleaved: ==65==% correct
 
 - in one experiment, participants experienced both blocked and interleaved practice: 78% of participants did better with interleaved practice
-- but when asked to rate practice effectiveness, --- rated blocking as good as (or better than) interleaving
-- conclusion: ------------ enhances inductive learning of concepts and categories
+- but when asked to rate practice effectiveness, ==78==% rated blocking as good as (or better than) interleaving
+- conclusion: ==interleaving== enhances inductive learning of concepts and categories
 - implications: even though it may seem less effective, to maximize learning of different concepts, multiple examples should be presented and practiced interleaved
 - interleaving has been shown to work in basketball, baseball, identifying birds, electrocardiogram interpretation, learning microsurgery, and assessing complex legal scenarios
 - may work by requiring the learner to differentiate among related concepts, or to retrieve the correct strategy for each different type of problem
 - spaced vs. interleaved practice:
-- interleaving can be seen as a subtype of spacing
+	- interleaving can be seen as a subtype of spacing
 
 ![spaced vs. massed diagram](PSYCH%20258/Attachments/p258s07-14.png)
 
@@ -417,10 +415,10 @@ Kornell & Bjork (2008): interleaved practice
 
 ### REM/Sleep Effects
 
-- David Hartley (1791) was the first to suggest -------- might alter the strength of associative memories
-- --- sleep was discovered by Aserinski & Kleitman (1953); linked it to dreaming
-- REM sleep has been found to improve learning complex ----- games, foreign -------- acquisition, visual discrimination tasks, and intensive --------
-- may be due to ----------- brain activity, neuronal replay, changes in ---------------, or regional brain activation (Stickgold, Hobson, Fosse, & Fosse, 2001)
+- David Hartley (1791) was the first to suggest ==dreaming== might alter the strength of associative memories
+- ==REM== sleep was discovered by Aserinski & Kleitman (1953); linked it to dreaming
+- REM sleep has been found to improve learning complex ==logic== games, foreign ==language== acquisition, visual discrimination tasks, and intensive --------
+- may be due to ==synchronous== brain activity, neuronal replay, changes in ---------------, or regional brain activation (Stickgold, Hobson, Fosse, & Fosse, 2001)
 
 Contradictory evidence (Siegel, 2001; Vertes & Eastman, 2000):
 
