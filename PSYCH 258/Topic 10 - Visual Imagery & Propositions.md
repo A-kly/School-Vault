@@ -253,19 +253,19 @@ Cornell, Sorenson, & Mio (2003):
 	- ==revising== a route with a detour
 	- devising a ==shortcut==
 	- locate site within a building
-	- found small-moderate correlations between these and ---
-	- ------ for past performance -> SOD
+	- found small-moderate correlations between these and ==SOD==
+	- ==memory== for past performance -> SOD
 - compared genders:
-- males predominantly used **------ knowledge**: based on comparisons among landmarks; like bird’s eye view
-- females relied on **----- knowledge**: based on a series of directions; like “vectors”
-- females rated their SOD as ----- than males, but no gender differences obtained in ------ wayfinding
-- problems may arise if typical ---- is given route knowledge, or if typical ------ is survey knowledge
+	- males predominantly used **==survey== knowledge**: based on comparisons among landmarks; like bird’s eye view
+	- females relied on **==route== knowledge**: based on a series of directions; like “vectors”
+	- females rated their SOD as ==worse== than males, but no gender differences obtained in ==actual== wayfinding
+	- problems may arise if typical ==male== is given route knowledge, or if typical ==female== is survey knowledge
 
 ---
 
 ## Eidetic Memory
 
-- definition: detailed, vivid recollections of a complex visual scene; a.k.a. “------------ memory”
+- definition: detailed, vivid recollections of a complex visual scene; a.k.a. “==photographic== memory”
 
 Haber & Haber (1964, 1988):
 
