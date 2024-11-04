@@ -181,15 +181,15 @@ Assumptions:
 - relations between concepts are computed based on shared features; more features -> slower RTs
 - two-stage model:
 
-|     |             |          |                                                                |       |              |
-| --- | ----------- | -------- | -------------------------------------------------------------- | ----- | ------------ |
-|     |             |          | Stage 1: compare --- features<br><br>(fast comparison)         |       |              |
-|     |             | ↙        | ↓                                                              | ↘     |              |
-|     | low overlap |          | medium overlap                                                 |       | high overlap |
-|     | ↓           |          | ![↓](PSYCH%20258-%20Conceptual%20Knowledge-files/down-new.png) |       | ↓            |
-|     | ↓           |          | Stage 2: compare -------- features<br><br>(slow comparison)    |       | ↓            |
-|     | ↓           | ↙        |                                                                | ↘     | ↓            |
-|     | “false”     | mismatch |                                                                | match | “true”       |
+|     |             |          |                                                             |       |              |
+| --- | ----------- | -------- | ----------------------------------------------------------- | ----- | ------------ |
+|     |             |          | Stage 1: compare --- features<br><br>(fast comparison)      |       |              |
+|     |             | ↙        | ↓                                                           | ↘     |              |
+|     | low overlap |          | medium overlap                                              |       | high overlap |
+|     | ↓           |          | ↓                                                           |       | ↓            |
+|     | ↓           |          | Stage 2: compare -------- features<br><br>(slow comparison) |       | ↓            |
+|     | ↓           | ↙        |                                                             | ↘     | ↓            |
+|     | “false”     | mismatch |                                                             | match | “true”       |
 
 Pros & cons:
 

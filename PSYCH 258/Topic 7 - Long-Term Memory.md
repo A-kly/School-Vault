@@ -203,7 +203,7 @@ Conclusions:
 | ---------- | -------- | --------------- |
 | structural | 1.70 s   | 57%             |
 | semantic   | 0.83 s   | 82%             |
-- depth of processing more important than processing ----
+- depth of processing more important than processing ==time==
 
 Problems:
 
@@ -280,13 +280,13 @@ e.g., given the noun -*coat*-, the cue -*jacket*- is compatible and distinctive,
 
 ![testing effect](PSYCH%20258/Attachments/p258s07-10.png)
 
-- conclusion: ------- (via retrieval practice) improves long-term retention
+- conclusion: ==testing== (via retrieval practice) improves long-term retention
 
 How does the testing effect work?
 
 - additional (focused) presentation of material
-- --------- itself is a memory modifier, with increasing retrieval demand/effort enhancing later retention
-- processes applied during an initial test are also used during the final test, resulting in positive transfer (i.e., a -------- effect)
+- ==retrieval== itself is a memory modifier, with increasing retrieval demand/effort enhancing later retention
+- processes applied during an initial test are also used during the final test, resulting in positive transfer (i.e., a ==practice== effect)
 
 ---
 
@@ -296,7 +296,7 @@ How does the testing effect work?
 
 ### External Cues
 
-- **----------------- memory**: memory enhancement that occurs when retrieval context matches encoding context
+- **==context-dependent== memory**: memory enhancement that occurs when retrieval context matches encoding context
 
 Godden & Baddeley (1975):
 
