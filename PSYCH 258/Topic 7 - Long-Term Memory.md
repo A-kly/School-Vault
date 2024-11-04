@@ -312,36 +312,34 @@ a) underwater, or b) on land
 - different contexts: 24% correct
 - same context: 35% correct
 - evidence for context-dependent memory
-- strong ------------ for scuba divers & remembering!
+- strong ==implications== for scuba divers & remembering!
 
 Context effects obtained for:
 
 - music: Mozart vs. jazz vs. quiet (Smith, 1985)
 - background colours (Dulsky, 1935)
-- smell of --------- (Schab, 1990), but not unpleasant odours (Rotton, 1983)
+- smell of ==chocolate== (Schab, 1990), but not unpleasant odours (Rotton, 1983)
 
 Bjork & colleagues (1978):
 
 - participants given a list of 40 four-letter nouns, studied in two sessions
-- sessions were held in the same room -----, or in two different rooms:
+- sessions were held in the same room ==twice==, or in two different rooms:
 - context 1: small, cluttered, windowless room
 - context 2: room in a modern building with windows overlooking a courtyard
 - students were tested in a third, “neutral” room
 - results:
 - students who studied in the same room twice: 40% correct
 - students who studied in two different rooms: 61% correct
-- implication: studying in a variety of contexts leads to better remembering, greater stability and “----------------” of knowledge
+- implication: studying in a variety of contexts leads to better remembering, greater stability and “==generalization==” of knowledge
 
 ### Internal States
 
-- **--------------- memory**: if internal state during retrieval matches that during encoding, memory may be enhanced
+- **==state-dependent== memory**: if internal state during retrieval matches that during encoding, memory may be enhanced
+	- e.g., mood or emotional state, physiological arousal, sober/==drunk== states (Eich, 1980)
 
-e.g., mood or emotional state, physiological arousal, sober/----- states (Eich, 1980)
-
-- **mood ----------**: when mood at retrieval matches the mood at encoding, memory is facilitated--however, the memories themselves are typically not emotional in nature (Lewis & Critchley, 2003)
-- **mood ----------**: mood at retrieval influences the kind of memories retrieved
-
-e.g., in a sad mood, you’re more likely to remember sad events
+- **mood ==dependence==**: when mood at retrieval matches the mood at encoding, memory is facilitated--however, the memories themselves are typically not emotional in nature (Lewis & Critchley, 2003)
+- **mood ==congruence==**: mood at retrieval influences the kind of memories retrieved
+	- e.g., in a sad mood, you’re more likely to remember sad events
 
 - implicated in vicious cycle of depression (Baddeley, 1993)
 
@@ -349,12 +347,12 @@ e.g., in a sad mood, you’re more likely to remember sad events
 
 ## Transfer of Information
 
-**-------------**: process of integrating new information into stored knowledge
+**==Consolidation==**: process of integrating new information into stored knowledge
 
 ### Practice Effects
 
 - savings curve (Ebbinghaus, 1885):
-- more initial -------- ![→](PSYCH%20258-%20Long-Term%20Memory-files/right-new.png) less time to relearn list of nonsense syllables the next day (savings)
+- more initial ==practice== -> less time to relearn list of nonsense syllables the next day (savings)
 
 ![Ebbinghaus (1885)](PSYCH%20258/Attachments/p258s07-12.png)
 
@@ -362,26 +360,23 @@ e.g., in a sad mood, you’re more likely to remember sad events
 - participants learned English translations for 50 Spanish words by completing six training sessions
 - kinds of training:
 
-**▸ ------ practice**: information studied repeatedly at one time
+- **==massed== practice**: information studied repeatedly at one time
 
-**▸ ----------- practice** (or **spaced repetition**): information studied repeatedly in separate sessions over a longer period of time
+- **==distributed== practice** (or **spaced repetition**): information studied repeatedly in separate sessions over a longer period of time
 
 - independent variable: spacing gap
-
-**▸** 0 days (massed practice)
-
-**▸** 1 day (distributed practice)
-
-**▸** 30 days (distributed practice)
+	- 0 days (massed practice)
+	- 1 day (distributed practice)
+	- 30 days (distributed practice)
 
 - participants were given a final test 1 month after the last training session
 - results:
 
 ![spacing effect](PSYCH%20258/Attachments/p258s07-13.png)
 
-**▸** greater spacing between training sessions produced better remembering
+- greater spacing between training sessions produced better remembering
 
-**▸** follow-up study 8 years later showed 30-day spacing group outperformed the other two (Bahrick & Phelps, 1987)
+- follow-up study 8 years later showed 30-day spacing group outperformed the other two (Bahrick & Phelps, 1987)
 
 - **------- effect**: distributed practice produces better remembering than massed practice
 - why?
