@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "Topic 8 - Autobiographical Memory"
             }
+          },
+          {
+            "id": "2afd36cfe632e24b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "9ef9c16a777406c2",
+  "active": "2afd36cfe632e24b",
   "lastOpenFiles": [
     "PSYCH 258/Word matching.md",
     "PSYCH 258/Exemplar test.md",
