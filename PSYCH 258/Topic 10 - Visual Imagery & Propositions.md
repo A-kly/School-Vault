@@ -18,8 +18,8 @@
 
 What is the nature of the representation?
 
-- analogical (“---------”)
-- propositional (“-----------”)
+- analogical (“==depictive==”)
+- propositional (“descriptive”)
 - multiple coding
 
 ---
