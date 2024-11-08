@@ -88,13 +88,13 @@ Newell & Simon (1972): -Human Problem Solving-
 - pros & cons:
 
 - [p] successfully applied to Tower of Hanoi, logic proofs
-- [c] requires ------------ goals/problem spaces to function
+- [c] requires ==well-defined== goals/problem spaces to function
 - [c] poor simulation of human problem solving:
 
 - people inadvertently move backward, make illegal moves
 	- e.g., Hobbits & Orcs Problem
 
-- does not draw on stored ---------
+- does not draw on stored ==knowledge==
 - short-term memory limits the number of subgoals (3 steps?)
 
 ---
