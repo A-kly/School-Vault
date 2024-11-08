@@ -157,29 +157,26 @@ Ellen Langer (1989; Langer & Piper, 1987):
 
 - participants shown three unfamiliar objects: dog’s rubber chew toy, polygraph pen, hair dryer attachment
 - half the participants given unconditional description:
+	- e.g., “This is a dog’s chew toy.”
 
-e.g., “This is a dog’s chew toy.”
-
-- other half given ----------- description:
-
-e.g., “This could be a dog’s chew toy.”
+- other half given ==conditional== description:
+	- e.g., “This could be a dog’s chew toy.”
 
 - experimenter pretended to need an eraser; asked participants for help
 - results:
-- 40% of participants in conditional group gave a ------- response (use chew toy as eraser)
-- 0% of other group did
+	- 40% of participants in conditional group gave a ==mindful== response (use chew toy as eraser)
+	- 0% of other group did
 
 **Mental Set** (Gestaltists: -Einstellung- or “attitude”): predisposition to solve a problem in a certain way
 
 Luchins (1942): water jars problem
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|**Jar A**|**Jar B**|**Jar C**|**Want**|**Answer**|
-|29|3|-|20|----|
-|21|127|3|100|------|
-|20|59|4|31|------|
-|23|49|3|20|------|
+| **Jar A** | **Jar B** | **Jar C** | **Want** | **Answer** |
+| --------- | --------- | --------- | -------- | ---------- |
+| 29        | 3         | -         | 20       | ----       |
+| 21        | 127       | 3         | 100      | ------     |
+| 20        | 59        | 4         | 31       | ------     |
+| 23        | 49        | 3         | 20       | ------     |
 
 **Functional Fixedness**: inability to use objects for other than their most common purpose
 
