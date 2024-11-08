@@ -141,7 +141,7 @@ Gick & Holyoak (1980):
 | short      | 32%         |
 | long       | 12%         |
 
-- abstraction: participants given -------- similar analogies were more likely to use analogy
+- abstraction: participants given ==multiple== similar analogies were more likely to use analogy
 
 ---
 
@@ -149,9 +149,9 @@ Gick & Holyoak (1980):
 
 **Mindlessness**: thoughtless application of old ways of thinking to new situations without completely considering whether they are suitable
 
-- **entrapment by ----------**: thinking of objects only in terms of the categories they fit into
-- **--------- behaviour**: doing things without thinking about them
-- **acting from a single -----------**: thinking of only one way to accomplish a goal
+- **entrapment by ==categories==**: thinking of objects only in terms of the categories they fit into
+- **==automatic== behaviour**: doing things without thinking about them
+- **acting from a single ==perspective==**: thinking of only one way to accomplish a goal
 
 Ellen Langer (1989; Langer & Piper, 1987):
 
