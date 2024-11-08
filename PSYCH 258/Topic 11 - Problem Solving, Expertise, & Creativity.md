@@ -49,30 +49,28 @@ Forms of problems (Greeno, 1978):
 
 Three requirements for understanding a problem (Greeno, 1991):
 
-1. ---------: representation comprised of parts connected in a way that makes sense
-2. --------------: internal representation “maps well” onto elements of the problem
-3. relationship to ---------- knowledge: problem elements linked to existing knowledge
+1. ==coherence:== representation comprised of parts connected in a way that makes sense
+2. ==correspondence:== internal representation “maps well” onto elements of the problem
+3. relationship to ==background== knowledge: problem elements linked to existing knowledge
 
 ---
 
 ## Problem Solving
 
-- **---------**: set of operations that systematically and exhaustively generates a solution
+- **==algorithm==**: set of operations that systematically and exhaustively generates a solution
+	- e.g., What’s the mean of 3, 4, 2, 5, 3, and 7?
 
-e.g., What’s the mean of 3, 4, 2, 5, 3, and 7?
-
-- **---------**: strategy that often helps generate a solution; do not guarantee success
-
-e.g., When do you take another card in blackjack?
+- **==heuristic==**: strategy that often helps generate a solution; do not guarantee success
+	- e.g., When do you take another card in blackjack?
 
 Newell & Simon (1972): -Human Problem Solving-
 
 - **------- -----**: collection of nodes, each representing a state of knowledge or possible action
 - problem solving seen as search through problem space
 - states:
-- initial
-- intermediate
-- goal
+	- initial
+	- intermediate
+	- goal
 
 ![Tower of Hanoi](PSYCH%20258/Attachments/p258s12-01.png)
 
