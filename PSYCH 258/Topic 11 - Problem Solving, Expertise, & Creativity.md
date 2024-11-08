@@ -103,13 +103,13 @@ Newell & Simon (1972): -Human Problem Solving-
 
 - solving a problem by using a solution to a related problem
 - requires:
-- seeing similarity in basic structure of the problems
-- inferring appropriate solution for current problem from analogous problem
+	- seeing similarity in basic structure of the problems
+	- inferring appropriate solution for current problem from analogous problem
 
 Duncker (1945): the radiation problem
 
 - patient has inoperable stomach tumour
-- can be destroyed by high ---------
+- can be destroyed by high ==radiation==
 - will also destroy any healthy tissue it passes through
 - low radiation is ineffective
 - what to do?
@@ -118,30 +118,28 @@ Gick & Holyoak (1980):
 
 - control group: given radiation problem
 - analogy group: also given analogous fortress problem:
-- goal: use army to capture fortress
-- resources: sufficiently large army
-- constraint: unable to move army along road all at once, due to mines triggered by large numbers of troops
-- operators: divide army; move army; attack using army
-- solution: send ----- groups along -------- roads --------------
+	- goal: use army to capture fortress
+	- resources: sufficiently large army
+	- constraint: unable to move army along road all at once, due to mines triggered by large numbers of troops
+	- operators: divide army; move army; attack using army
+- solution: send ==small== groups along ==multiple== roads ==simultaneously==
 - analogy + hint group: also given hint that second problem would help with the first
 - results:
 
-|   |   |
-|---|---|
-|**Group:**|**Solved:**|
-|control|8%|
-|analogy|30%|
-|analogy + hint|92%|
+| **Group:**     | **Solved:** |
+| -------------- | ----------- |
+| control        | 8%          |
+| analogy        | 30%         |
+| analogy + hint | 92%         |
 
 - people can infer solutions from analogies--if they realize the analogy is appropriate (difficult to do)
 - also important: time between 1st and 2nd problems:
 
-|   |   |
-|---|---|
-|**Delay:**|**Solved:**|
-|none|10%|
-|short|32%|
-|long|12%|
+| **Delay:** | **Solved:** |
+| ---------- | ----------- |
+| none       | 10%         |
+| short      | 32%         |
+| long       | 12%         |
 
 - abstraction: participants given -------- similar analogies were more likely to use analogy
 
