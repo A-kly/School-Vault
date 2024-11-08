@@ -18,23 +18,22 @@
 
 ## Problems
 
-- **-----defined**: initial state, goal state, and permissible operations completely specified
+- **==well==-defined**: initial state, goal state, and permissible operations completely specified
 	- e.g., (3x-2)(2x+5)=(3x-2)(x+4), solve for x
 
-- **----defined**: uncertainty in one or more components
-	- e.g., write a -----
+- **==ill==-defined**: uncertainty in one or more components
+	- e.g., write a ==novel==
 
 Forms of problems (Greeno, 1978):
 
-- **Problems of Inducing ---------**: determine relationship among several given elements
+- **Problems of Inducing ==Structure==**: determine relationship among several given elements
 	- e.g., analogy problems (Miller Analogies Test)
 
 - four steps required to solve:
-
-1. encoding: identify appropriate attributes
-2. ---------: relate 1st and 2nd elements
-3. -------: relate 1st and 3rd elements
-4. application: relate 3rd and 4th elements
+	1. encoding: identify appropriate attributes
+	2. ---------: relate 1st and 2nd elements
+	3. -------: relate 1st and 3rd elements
+	4. application: relate 3rd and 4th elements
 
 - **Problems of --------------**: find sequence of operations to transform initial state into goal state
 	- e.g., Tower of Hanoi (Édouard Lucas, 1883)
