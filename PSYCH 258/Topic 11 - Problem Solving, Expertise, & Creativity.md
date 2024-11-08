@@ -31,24 +31,21 @@ Forms of problems (Greeno, 1978):
 
 - four steps required to solve:
 	1. encoding: identify appropriate attributes
-	2. ---------: relate 1st and 2nd elements
-	3. -------: relate 1st and 3rd elements
+	2. ==inference:== relate 1st and 2nd elements
+	3. ==mapping:== relate 1st and 3rd elements
 	4. application: relate 3rd and 4th elements
 
-- **Problems of --------------**: find sequence of operations to transform initial state into goal state
+- **Problems of ==transformation==**: find sequence of operations to transform initial state into goal state
 	- e.g., Tower of Hanoi (Édouard Lucas, 1883)
 
 - skill required: means-end analysis?
-- **Problems of -----------**: arrange elements according to a criterion
-	- e.g., --------: arrange the letters AIFMA to make a word
+- **Problems of Arrangement**: arrange elements according to a criterion
+	- e.g., ==anagrams:== arrange the letters AIFMA to make a word
 
 - skills required:
-
--  generate possibilities/reject impossibles
-
--  constrain search
-
--  retrieve solution patterns
+	-  generate possibilities/reject impossibles
+	-  constrain search
+	-  retrieve solution patterns
 
 Three requirements for understanding a problem (Greeno, 1991):
 
