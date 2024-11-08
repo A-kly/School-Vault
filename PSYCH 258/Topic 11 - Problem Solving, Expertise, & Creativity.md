@@ -65,7 +65,7 @@ Three requirements for understanding a problem (Greeno, 1991):
 
 Newell & Simon (1972): -Human Problem Solving-
 
-- **------- -----**: collection of nodes, each representing a state of knowledge or possible action
+- **==problem space==**: collection of nodes, each representing a state of knowledge or possible action
 - problem solving seen as search through problem space
 - states:
 	- initial
@@ -74,28 +74,25 @@ Newell & Simon (1972): -Human Problem Solving-
 
 ![Tower of Hanoi](PSYCH%20258/Attachments/p258s12-01.png)
 
-- **---------**: links between nodes; consist of functions selected to solve problems
+- **==operators==**: links between nodes; consist of functions selected to solve problems
 - there may be path constraints ruling out some possibilities
 
 **General Problem Solver** (Newell, Shaw, & Simon, 1959):
 
 - computer program intended to simulate human problem solving
-- applied **--------- analysis**:
-- transform: compare current state and goal state; note any differences
-- reduce: find operator that most reduces the difference
-- apply: apply operator to current state
+- applied **==means-end== analysis**:
+	- transform: compare current state and goal state; note any differences
+	- reduce: find operator that most reduces the difference
+	- apply: apply operator to current state
 - subgoals create intermediate states that are closer to the goal state
 - pros & cons:
 
 - [p] successfully applied to Tower of Hanoi, logic proofs
-
 - [c] requires ------------ goals/problem spaces to function
-
 - [c] poor simulation of human problem solving:
 
 - people inadvertently move backward, make illegal moves
-
-e.g., Hobbits & Orcs Problem
+	- e.g., Hobbits & Orcs Problem
 
 - does not draw on stored ---------
 - short-term memory limits the number of subgoals (3 steps?)
