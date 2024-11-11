@@ -171,12 +171,12 @@ Ellen Langer (1989; Langer & Piper, 1987):
 
 Luchins (1942): water jars problem
 
-| **Jar A** | **Jar B** | **Jar C** | **Want** | **Answer** |
-| --------- | --------- | --------- | -------- | ---------- |
-| 29        | 3         | -         | 20       | ----       |
-| 21        | 127       | 3         | 100      | ------     |
-| 20        | 59        | 4         | 31       | ------     |
-| 23        | 49        | 3         | 20       | ------     |
+| **Jar A** | **Jar B** | **Jar C** | **Want** | **Answer**    |
+| --------- | --------- | --------- | -------- | ------------- |
+| 29        | 3         | -         | 20       | A-3B          |
+| 21        | 127       | 3         | 100      | B-A-2c        |
+| 20        | 59        | 4         | 31       | B-A-2c        |
+| 23        | 49        | 3         | 20       | B-A-2c OR A-C |
 
 **Functional Fixedness**: inability to use objects for other than their most common purpose
 
