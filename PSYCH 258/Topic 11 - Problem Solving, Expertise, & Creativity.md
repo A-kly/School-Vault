@@ -184,7 +184,7 @@ Duncker (1945): candle problem
 
 - participants were given candle, book of matches, box of tacks
 - task: affix candle to the wall
-- solution: ---- --- to wall, use as candle holder
+- solution: ==tack box== to wall, use as candle holder
 
 Causes of mindlessness:
 
