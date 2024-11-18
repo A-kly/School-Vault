@@ -273,37 +273,29 @@ Neo-Gestaltist View (Janet Metcalfe, 1986):
 	- for insight problems, successful problem solvers were pessimistic about their ability; unsuccessful people were optimistic
 	- participants rated closeness to solution on 10-point scale (“cold” to “warm” to “hot”) at 15 s intervals
 - routine problems: warmth increased gradually
-- insight problems: mostly ------then problem solved
+- insight problems: mostly ==cold== - then problem solved
 
 Three-Process View (Davidson & Sternberg, 1984):
-
 - there are three kinds of insight, involving three different processes
-
-1. **selective--------- insights**: involve distinguishing relevant from irrelevant information
-
-e.g., taking notes during a lecture: what’s important?
-
-2. **selective----------- insights**: involve novel perception of how new information relates to old
-
-e.g., creative use of analogies; learning new definitions
-
-3. **selective------------ insights**: involve combining selectively encoded and compared information in a novel way
-
-e.g., writing a term paper; solving the candle problem
+	1. **selective-==encoding== insights**: involve distinguishing relevant from irrelevant information
+		- e.g., taking notes during a lecture: what’s important?
+	2. **selective-==comparison== insights**: involve novel perception of how new information relates to old
+		- e.g., creative use of analogies; learning new definitions
+	3. **selective-==combination== insights**: involve combining selectively encoded and compared information in a novel way
+		- e.g., writing a term paper; solving the candle problem
 
 Schooler, Ohlsson & Brooks (1993):
 
 - task: a series of insight and logic problems
-- gp1: required to --------- strategies while solving problem
+- gp1: required to ==verbalize== strategies while solving problem
 - gp2: did not
 - results:
 
-|   |   |   |
-|---|---|---|
-|**% Correct**|**Type of Problem**|   |
-|**Group**|**Insight**|**Logic**|
-|verbal|55|63|
-|control|80|67|
+| **% Correct** | **Type of Problem** |           |
+| ------------- | ------------------- | --------- |
+| **Group**     | **Insight**         | **Logic** |
+| verbal        | 55                  | 63        |
+| control       | 80                  | 67        |
 
 - **verbal overshadowing effect**: “------ system” processing interferes with insight problem solving ability
 
