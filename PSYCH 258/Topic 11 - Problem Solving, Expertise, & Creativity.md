@@ -289,16 +289,15 @@ Schooler, Ohlsson & Brooks (1993):
 - task: a series of insight and logic problems
 - gp1: required to ==verbalize== strategies while solving problem
 - gp2: did not
-- results:
+- results (**% Correct**):
 
-| **% Correct** | **Type of Problem** |           |
-| ------------- | ------------------- | --------- |
-| **Group**     | **Insight**         | **Logic** |
-| verbal        | 55                  | 63        |
-| control       | 80                  | 67        |
+|           | **Type of Problem** | **Type of Problem** |
+| --------- | ------------------- | ------------------- |
+| **Group** | **Insight**         | **Logic**           |
+| verbal    | 55                  | 63                  |
+| control   | 80                  | 67                  |
 
-- **verbal overshadowing effect**: “------ system” processing interferes with insight problem solving ability
-
+- **verbal overshadowing effect**: “==verbal== system” processing interferes with insight problem solving ability
 ---
 
 ## Expertise
@@ -307,8 +306,8 @@ Schooler, Ohlsson & Brooks (1993):
 
 Norman, Brooks, & Allen (1989):
 
-- compared medical ----------- & med students
-- task 1: interpret/diagnose patient data; recall as much as possible (---------- memory)
+- compared medical ==specialists== & med students
+- task 1: interpret/diagnose patient data; recall as much as possible (==incidental== memory)
 - task 2: given patient data, try to remember as much as possible (----------- memory)
 - experts over twice as good on task 1; no difference on task 2
 - experts have domain-specific schemas that aid remembering
