@@ -220,19 +220,14 @@ Smith & Blankenship (1989):
 -  incubation gp: 30 s / interruption / 30 s
 
 - prediction: incubation gp should -*benefit*- from interruption
-- incubation gp performed ------; were also less likely to remember clues
+- incubation gp performed ==better==; were also less likely to remember clues
 - but: incubation effects not consistently found
 - if found, may be due to:
-
--  release (----------) from mental set/functional fixedness
-
--  retrieval of new information by changing context
-
--  recovery from -------
-
--  conscious problem solving in the interim
-
--  ----------- processes
+	-  release ==(forgetting)== from mental set/functional fixedness
+	-  retrieval of new information by changing context
+	-  recovery from fatigue
+	-  conscious problem solving in the interim
+	-  ==unconscious== processes
 
 ---
 
@@ -241,11 +236,11 @@ Smith & Blankenship (1989):
 - definition: a kind of problem solving characterized by:
 - suddenness/surprisingness
 - ease
-- positive ------
+- positive ==affect==
 - feeling of being correct/confidence
-- the entire solution enters awareness at once (as opposed to a stepwise solution); a.k.a. the “-Aha!- ” moment
+- the entire solution enters awareness at once (as opposed to a stepwise solution); a.k.a. the “-*Aha*!- ” moment
 
-Wolfgang Köhler (1927): -The Mentality of Apes-
+Wolfgang Köhler (1927): -*The Mentality of Apes*-
 
 - stranded in Tenerife, Canary Islands during World War I
 - observed Sultan, a caged chimpanzee in a scientific station
