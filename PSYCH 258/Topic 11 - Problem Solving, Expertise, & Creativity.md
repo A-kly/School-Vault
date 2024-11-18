@@ -244,10 +244,10 @@ Wolfgang Köhler (1927): -*The Mentality of Apes*-
 
 - stranded in Tenerife, Canary Islands during World War I
 - observed Sultan, a caged chimpanzee in a scientific station
-- Sultan used bamboo sticks as tools to reach ------ just outside of his cage
+- Sultan used bamboo sticks as tools to reach ==bananas== just outside of his cage
 - also moved box underneath banana suspended from ceiling
 - Rana, even after observing Sultan, was unable to do this
-- Köhler’s book influenced writing of -2001: A Space Odyssey-, and -Planet of the Apes-
+- Köhler’s book influenced writing of -*2001: A Space Odyssey*-, and -*Planet of the Apes*-
 
 Gestalt View:
 
