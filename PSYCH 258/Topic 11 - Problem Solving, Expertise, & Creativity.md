@@ -252,26 +252,26 @@ Wolfgang Köhler (1927): -*The Mentality of Apes*-
 Gestalt View:
 
 - insight problems require perception of the problem as a whole
-- **------------ thinking**: based on existing associations involving what is already known
-- **---------- thinking**: insights that go beyond the bounds of existing associations
+- **==reproductive== thinking**: based on existing associations involving what is already known
+- **==productive== thinking**: insights that go beyond the bounds of existing associations
 - causes of insight:
-- extended (unconscious) leaps in thinking
-- accelerated mental processing
-- short-circuiting of ------ reasoning processes
+	- extended (unconscious) leaps in thinking
+	- accelerated mental processing
+	- short-circuiting of ==normal== reasoning processes
 - but: no evidence for this; poor definition of insight
 
 Nothing-Special View:
 
 - “insight” does not exist
-- “insight” problems solved --------- sudden mental restructuring
-- and routine problems solved -with- sudden mental restructuring
+- “insight” problems solved ==*without*== sudden mental restructuring
+- and routine problems solved -*with*- sudden mental restructuring
 
 Neo-Gestaltist View (Janet Metcalfe, 1986):
 
 - insightful problem solving distinguished by:
-- low -------- in predicting success on insight problems; high accuracy for routine problems
-- for insight problems, successful problem solvers were pessimistic about their ability; unsuccessful people were optimistic
-- participants rated closeness to solution on 10-point scale (“cold” to “warm” to “hot”) at 15 s intervals
+	- low ==accuracy== in predicting success on insight problems; high accuracy for routine problems
+	- for insight problems, successful problem solvers were pessimistic about their ability; unsuccessful people were optimistic
+	- participants rated closeness to solution on 10-point scale (“cold” to “warm” to “hot”) at 15 s intervals
 - routine problems: warmth increased gradually
 - insight problems: mostly ------then problem solved
 
