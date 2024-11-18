@@ -219,7 +219,7 @@ Smith & Blankenship (1989):
 
 -  incubation gp: 30 s / interruption / 30 s
 
-- prediction: incubation gp should -benefit- from interruption
+- prediction: incubation gp should -*benefit*- from interruption
 - incubation gp performed ------; were also less likely to remember clues
 - but: incubation effects not consistently found
 - if found, may be due to:
