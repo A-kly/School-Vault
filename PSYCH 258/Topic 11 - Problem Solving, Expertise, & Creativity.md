@@ -197,16 +197,15 @@ Causes of mindlessness:
 Feather (1966):
 
 - women asked to solve 15 anagram puzzles
-- were given either easy or ---------- anagrams
+- were given either easy or ==impossible== anagrams
 - estimated their chances before attempting each one
 - last puzzle was moderate difficulty
 - results:
 
-|   |   |   |
-|---|---|---|
-|**Puzzle group:**|**Estimate of success:**|**Success on last puzzle:**|
-|easy|increased|good|
-|impossible|decreased|poor|
+| **Puzzle group:** | **Estimate of success:** | **Success on last puzzle:** |
+| ----------------- | ------------------------ | --------------------------- |
+| easy              | increased                | good                        |
+| impossible        | decreased                | poor                        |
 
 - success may be a self-fulfilling prophesy
 
