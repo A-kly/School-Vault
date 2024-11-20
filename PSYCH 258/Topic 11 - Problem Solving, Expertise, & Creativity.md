@@ -444,9 +444,8 @@ poke go molasses : ==slow==
 surprise line birthday : ==party==
 
 - ==weak== correlation between graduate students judged creative by their advisors, and RAT
-- **---------- assessment**: done by expert panel
-
-e.g., artists judge creativity of kids’ drawings
+- **==consensual== assessment**: done by expert panel
+	- e.g., artists judge creativity of kids’ drawings
 
 ### Contributing Factors
 
@@ -454,11 +453,11 @@ Amabile (1983): motivation
 
 - kids told: a) be as creative as possible; or b) their work would be evaluated, most creative wins
 - creativity greater in group a), who were intrinsically motivated
-- creativity lesser in group b) due to **--------- motivation**: external rewards and incentives
+- creativity lesser in group b) due to **==extrinsic== motivation**: external rewards and incentives
 
 Roe (1953): intelligence
 
-- creativity generally related to IQ scores (but only up to IQ of ~---)
+- creativity generally related to IQ scores (but only up to IQ of ~120)
 
 Mihály Csíkszentmihályi (1996): context
 
