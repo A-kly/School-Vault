@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Topic 11 - Problem Solving, Expertise, & Creativity"
             }
-          },
-          {
-            "id": "2650de9bb167b5ce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,7 +200,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "2650de9bb167b5ce",
+  "active": "bb305376d8ecf05d",
   "lastOpenFiles": [
     "PSYCH 258/Word matching.md",
     "PSYCH 258/Topic 11 - Problem Solving, Expertise, & Creativity.md",
