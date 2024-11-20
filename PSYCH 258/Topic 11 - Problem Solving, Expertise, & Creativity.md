@@ -366,19 +366,16 @@ Anderson (1983):
 
 Anderson (1988):
 
-- novices use **-----method** procedures:
-- domain------------ (can be applied to any domain)
-- require substantial mental effort to perform
-- virtually identical to means-end analysis
-
-e.g., driving from Toronto to Vancouver by just heading west
-
-- experts use **domain---------** procedures:
-- combinations of specific problem-solving situations and a series of -------- actions leading to solutions
-- relatively automatically triggered
-- created by successful repetitions
-
-e.g., driving from Toronto to Vancouver after developing a plan using a map, researching historic traffic conditions, and considering speed limits to find the most efficient route
+- novices use **==weak==-method** procedures:
+	- domain-==independent== (can be applied to any domain)
+	- require substantial mental effort to perform
+	- virtually identical to means-end analysis
+		- e.g., driving from Toronto to Vancouver by just heading west
+- experts use **domain-==specific==** procedures:
+	- combinations of specific problem-solving situations and a series of ==compiled== actions leading to solutions
+	- relatively automatically triggered
+	- created by successful repetitions
+		- e.g., driving from Toronto to Vancouver after developing a plan using a map, researching historic traffic conditions, and considering speed limits to find the most efficient route
 
 K. Anders Ericsson (& Pool, 2016; Ericsson & Charness, 1994):
 
@@ -390,12 +387,9 @@ K. Anders Ericsson (& Pool, 2016; Ericsson & Charness, 1994):
 - requires immediate feedback
 - requires ----------- oneself
 - the specific amount varies, depending on the skill
-
-e.g., S.F. practiced digit span for about 200 hours
-
-e.g., virtuoso pianists: about 25,000 hours
-
-e.g., chess masters and Olympic medallists: 10,000 hours
+	- e.g., S.F. practiced digit span for about 200 hours
+	- e.g., virtuoso pianists: about 25,000 hours
+	- e.g., chess masters and Olympic medallists: 10,000 hours
 
 - oversimpified as “10,000 hours” of full-time practice (the “10-year-rule”) by journalist Malcolm Gladwell (2008)
 
