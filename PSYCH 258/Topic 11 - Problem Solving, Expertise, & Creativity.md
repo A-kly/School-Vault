@@ -336,29 +336,29 @@ Eylon & Reif (1984):
 
 ### Problem Solving
 
-- **proce**: converting declarative knowledge into procedural knowledge
-
+- **==proceduralization==**: converting declarative knowledge into procedural knowledge
 Sweller, Mawer, & Ward (1983):
 
 - studied novices solving kinematics problems
-- explicitly wrote formula first: -v- = -at-
-- eventually just wrote the ------: -v- = 2 × 10 (formula implicit)
-- **-------- learning**: specific rules learned for specific problems
+- explicitly wrote formula first: -*v*- = -*at*-
+- eventually just wrote the ==values:== -*v*- = 2 × 10 (formula implicit)
 
+
+- **==tactical== learning**: specific rules learned for specific problems
 Greeno (1974):
 
 - four repetitions needed to solve Hobbits & Orcs perfectly
-- experts don’t solve problems all over from -------
-- **--------- learning**: problem solving organized in an optimal way for problems in that domain
+- experts don’t solve problems all over from ==scratch==
 
+- **==strategic== learning**: problem solving organized in an optimal way for problems in that domain
 Anderson (1983):
 
 - studied computer programmers
-- experts developed solutions ------- first: worked out sub-problems recursively before coding
+- experts developed solutions ==bredth== first: worked out sub-problems recursively before coding
 
 ![breadth first](PSYCH%20258/Attachments/p258s12-03.jpg)
 
-- novices went ----- first: identified first problem and solved it (i.e., typed code) before moving on
+- novices went ==depth== first: identified first problem and solved it (i.e., typed code) before moving on
 
 ![depth first](PSYCH%20258/Attachments/p258s12-04.jpg)
 
