@@ -308,7 +308,7 @@ Norman, Brooks, & Allen (1989):
 
 - compared medical ==specialists== & med students
 - task 1: interpret/diagnose patient data; recall as much as possible (==incidental== memory)
-- task 2: given patient data, try to remember as much as possible (----------- memory)
+- task 2: given patient data, try to remember as much as possible (==intentional== memory)
 - experts over twice as good on task 1; no difference on task 2
 - experts have domain-specific schemas that aid remembering
 
