@@ -398,10 +398,10 @@ But practice doesn’t always make perfect (Macnamara et al., 2014):
 - meta-analysis of 157 studies of sports, music, education, games, and professions
 - related time spent practicing to ability
 - on average, practice time accounted for just 12% of the variation in performance
-- practice had almost nothing to do with ability in -------- classes or professions such as computer programming
+- practice had almost nothing to do with ability in ==academic== classes or professions such as computer programming
 - practice had the biggest effect on games such as chess (it explained 26% of performance differences), but it varied greatly (to reach “master” status, one person needed 728 hours whereas another took 16,120 hours)
 - however, most of these studies did not measure deliberate practice
-- success likely due to other factors like natural talent, general intelligence and ------- memory
+- success likely due to other factors like natural talent, general intelligence and ==working== memory
 
 ---
 
