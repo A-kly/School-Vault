@@ -319,25 +319,24 @@ Eylon & Reif (1984):
 - developed two versions of a physics chapter
 - one had traditional historical organization; other was hierarchical, based on physics principles and developed by experts
 - high-school students using hierarchical text had:
-- 40% improvement in retention
-- 25% better scores in problem solving
-- better structure and -------------- resulted in better performance
+	- 40% improvement in retention
+	- 25% better scores in problem solving
+- better structure and ==representation== resulted in better performance
 - interrelationships of knowledge is important
+	- e.g., specific categories subsumed under more general ones
 
-e.g., specific categories subsumed under more general ones
-
-- ------------ organization:
+- ==hierarchical== organization:
 
 ![hierarchical representation](PSYCH%20258/Attachments/p258s12-02.png)
 
-(dotted lines represent mental ---------)
+(dotted lines represent mental ==shortcuts==)
 
 - experts are better able to extract underlying structure from problems and sort them into categories
-- novices are poorer at differentiation (representation is -------), and tend to sort problems by surface details
+- novices are poorer at differentiation (representation is ==flatter==), and tend to sort problems by surface details
 
 ### Problem Solving
 
-- **-----------------**: converting declarative knowledge into procedural knowledge
+- **proce**: converting declarative knowledge into procedural knowledge
 
 Sweller, Mawer, & Ward (1983):
 
