@@ -407,19 +407,17 @@ But practice doesn’t always make perfect (Macnamara et al., 2014):
 
 ## Creativity
 
-- definition: the ability to produce novel, ------ ideas
-- **---------- thinking**: thinking that proceeds toward a single correct answer
+- definition: the ability to produce novel, ==useful== ideas
+- **==convergent== thinking**: thinking that proceeds toward a single correct answer
+	- e.g., uses for a brick: to create a bridge, to make a house (all involve using a brick for building)
 
-e.g., uses for a brick: to create a bridge, to make a house (all involve using a brick for building)
-
-- **--------- thinking**: generating ideas that are different from one another; moving outward from a problem in many different directions
-
-e.g., uses for a brick: as a doorstop, to smash a window, to cast a shadow, as a topic of conversation (each idea differs from the other)
+- **==divergent== thinking**: generating ideas that are different from one another; moving outward from a problem in many different directions
+	- e.g., uses for a brick: as a doorstop, to smash a window, to cast a shadow, as a topic of conversation (each idea differs from the other)
 
 Wallas (1926): stages of creative thought:
 
-1. **-----------**: gathering information about the problem; characterized by painstaking work, with little progress
-2. **----------**: problem set aside; solution may continue to develop unconsciously
+1. **==preparation==**: gathering information about the problem; characterized by painstaking work, with little progress
+2. **==incubation==**: problem set aside; solution may continue to develop unconsciously
 3. **------------**: key insight/new idea emerges
 4. **verification**: confirmation that new idea leads to a solution
 
