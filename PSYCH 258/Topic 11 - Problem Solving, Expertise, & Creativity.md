@@ -435,15 +435,15 @@ Wallas (1926): stages of creative thought:
 
 - Mednick & Mednick (1967): creativity depends on finding new connections among ideas
 
-**------ Associates Test**: link 3 words with a common word:
+**==remote== Associates Test**: link 3 words with a common word:
 
-cookies sixteen heart ------
+cookies sixteen heart : ==sweet==
 
-poke go molasses ------
+poke go molasses : ==slow==
 
-surprise line birthday ------
+surprise line birthday : ==party==
 
-- ---- correlation between graduate students judged creative by their advisors, and RAT
+- ==weak== correlation between graduate students judged creative by their advisors, and RAT
 - **---------- assessment**: done by expert panel
 
 e.g., artists judge creativity of kids’ drawings
