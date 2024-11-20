@@ -381,11 +381,11 @@ K. Anders Ericsson (& Pool, 2016; Ericsson & Charness, 1994):
 
 - studied expert performers in many different domains, like chess, medicine, music, and sports
 - expertise is not due to innate talent, extended intense training, or intelligence
-- but extended, sustained **deliberate --------**: four general principles underlying performance improvement:
-- has well-defined, specific goals
-- is focused
-- requires immediate feedback
-- requires ----------- oneself
+- but extended, sustained **deliberate ==practice==**: four general principles underlying performance improvement:
+	- has well-defined, specific goals
+	- is focused
+	- requires immediate feedback
+	- requires ==challenging== oneself
 - the specific amount varies, depending on the skill
 	- e.g., S.F. practiced digit span for about 200 hours
 	- e.g., virtuoso pianists: about 25,000 hours
