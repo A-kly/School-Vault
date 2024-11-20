@@ -418,20 +418,21 @@ Wallas (1926): stages of creative thought:
 
 1. **==preparation==**: gathering information about the problem; characterized by painstaking work, with little progress
 2. **==incubation==**: problem set aside; solution may continue to develop unconsciously
-3. **------------**: key insight/new idea emerges
+3. **==illumination==**: key insight/new idea emerges
 4. **verification**: confirmation that new idea leads to a solution
 
-- evidence is equivocal
+- evidence is equivocal (meh)
 
 ### Measurement
 
 - J.P. Guilford (1967): creativity is discovering new, unanticipated approaches to a problem (more = better)
 
-**--------- Production Test**: make as many and as varied responses to test item as possible
+**==Divergent== Production Test**: make as many and as varied responses to test item as possible
 
-“Many words begin with an L and end with an N. In one minute, list as many words as possible that have the form L-------N.”
+“Many words begin with an L and end with an N. In one minute, list as many words as possible that have the form L \_\_\_\_\_\_ N.”
+- ==weak== correlation between individuals judged more creative by coworkers, and score on this test
 
-- ---- correlation between individuals judged more creative by coworkers, and score on this test
+
 - Mednick & Mednick (1967): creativity depends on finding new connections among ideas
 
 **------ Associates Test**: link 3 words with a common word:
