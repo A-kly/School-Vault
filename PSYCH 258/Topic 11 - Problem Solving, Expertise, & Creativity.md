@@ -461,13 +461,11 @@ Roe (1953): intelligence
 
 Mihály Csíkszentmihályi (1996): context
 
-- ------: existing knowledge in a particular area
+- ==domain:== existing knowledge in a particular area
+	- e.g., physics, music
 
-e.g., physics, music
-
-- -----: social context, including social & public institutions
-
-e.g., collaborators, mentors, rivals
+- ==field:== social context, including social & public institutions
+	- e.g., collaborators, mentors, rivals
 
 ### Integrative Approaches
 
