@@ -26,28 +26,23 @@
 ### Logical Rules
 
 - apply logical relations to relate stimulus attributes, to determine whether a given item is a category member
-- **----------- rule**: applies AND operator
+- **==Conjunction== rule**: applies AND operator
+	- e.g., child safety seat must be rear-facing until child is 1 year old AND weighs 10 kg
 
-e.g., child safety seat must be rear-facing until child is 1 year old AND weighs 10 kg
-
-- **----------- rule**: applies OR operator
-
-e.g., Archie can marry either Betty OR Veronica
+- **==Disjunction== rule**: applies OR operator
+	- e.g., Archie can marry either Betty OR Veronica
 
 - **----------- rule**: applies IF, THEN operator
-
-e.g., IF a man is a bachelor, THEN he is unmarried
+	- e.g., IF a man is a bachelor, THEN he is unmarried
 
 - **------------- rule**: applies conditional rule in both directions; IFF (“IF AND ONLY IF” or XNOR)
 - an item is a member of the category if it has both attributes, or neither attribute
-
-e.g., J.D. has the flu IF AND ONLY IF Turk has it
+	- e.g., J.D. has the flu IF AND ONLY IF Turk has it
 
 ### Conditional Reasoning
 
 - states relation between conditions: **----------** and a **----------** (“IF -p-, THEN -q-.”)
-
-e.g., “If the Oilers win the game, then I will cheer.”
+	- e.g., “If the Oilers win the game, then I will cheer.”
 
 - may be affirmed (true) or denied (false): is the conclusion true, false, or indeterminate?
 - **the ------------- --------**: system for categorizing conditional reasoning statements
@@ -129,16 +124,13 @@ Daniel Kahneman (b.1934-d.2024, won Nobel prize in Economics, 2002) & Amos Tvers
 - describes how potential gains and losses are evaluated, using heuristics and biases
 - cognitive features (Kahneman, 2011):
 - evaluation is made with respect to a reference point or baseline
-
-e.g., winning $10 is worth more to you than to a billionaire
+	- e.g., winning $10 is worth more to you than to a billionaire
 
 - principle of diminishing sensitivity
-
-e.g., winning $1,000 is good; winning $1,010 is not much better
+	- e.g., winning $1,000 is good; winning $1,010 is not much better
 
 - loss aversion: people are more sensitive to losses than gains
-
-e.g., winning $10 is good; losing $10 is really, really bad
+	- e.g., winning $10 is good; losing $10 is really, really bad
 
 - value function:
 
@@ -151,14 +143,12 @@ e.g., energy conservation appeals that focus on savings (gains) are less powerfu
 **Framing Effect** (Tversky & Kahneman, 1981)
 
 - judgments can be affected by the way information is presented
-
-e.g., Which would you choose?
+	- e.g., Which would you choose?
 
 a) sure ---- of $10,000
 
 b) 50% chance of ------- $20,000 and 50% chance of getting $0
-
-e.g., Which would you choose?
+	- e.g., Which would you choose?
 
 a) sure ---- of $10,000
 
@@ -181,14 +171,12 @@ Which would you prefer, saving $500 on tuition, or saving $500 on a new ---?
 **Representativeness Heuristic** (Kahneman & Tversky, 1972)
 
 - judging likelihood by how well something matches the ---------
-
-e.g., Is (a) finding 600 boys in a sample of ----- children as likely as (b) finding 60 boys in a sample of --- children?
+	- e.g., Is (a) finding 600 boys in a sample of ----- children as likely as (b) finding 60 boys in a sample of --- children?
 
 (assuming even distribution of sexes, --- is far less likely)
 
 - **------------ fallacy**: assuming that small samples will be representative of population; this violates the law of large numbers
-
-e.g., There is a disease that has an incidence of 1 in 1,000. A test to detect it has a false positive rate of 5%. What are the chances that someone with a positive result actually has the disease?
+	- e.g., There is a disease that has an incidence of 1 in 1,000. A test to detect it has a false positive rate of 5%. What are the chances that someone with a positive result actually has the disease?
 
 (mean response = ----%; mode = --%; correct = --%)
 
@@ -197,16 +185,14 @@ e.g., There is a disease that has an incidence of 1 in 1,000. A test to detect i
  -- test positive; only ---- actually has disease = --%)
 
 - **---- rate fallacy**: reasoning based on distinctive features, not probability in the population
-
-e.g., Linda is 31 years old, single, outspoken, and very bright. As a student, she majored in philosophy, and was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
+	- e.g., Linda is 31 years old, single, outspoken, and very bright. As a student, she majored in philosophy, and was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
 
 Which is more probable, that she is a bank teller, or that she is a bank teller who is an ------ --------?
 
 (there are ---- bank tellers than -------- bank tellers)
 
 - **----------- fallacy**: probability of a conjunction is less than that for a single condition
-
-e.g., Flip a coin: H T H H H H H H
+	- e.g., Flip a coin: H T H H H H H H
 
 What will come up next?
 
@@ -217,8 +203,7 @@ What will come up next?
 **Availability Heuristic** (Tversky & Kahneman, 1973)
 
 - judging probability by how ------ examples are retrieved
-
-e.g., Are there more words that begin with “k,” or have “k” as the third letter?
+	- e.g., Are there more words that begin with “k,” or have “k” as the third letter?
 
 - causes:
 - **-----------**: more familiar items more easily retrieved
@@ -228,8 +213,7 @@ e.g., Are there more words that begin with “k,” or have “k” as the third
 **Anchoring and Adjustment Heuristic** (Tversky & Kahneman, 1974)
 
 - initial approximation (------) may affect later judgments (----------)
-
-e.g., How long is the Mississippi?
+	- e.g., How long is the Mississippi?
 
 |   |   |
 |---|---|
@@ -242,8 +226,7 @@ e.g., How long is the Mississippi?
 **Overconfidence** (Fischhoff, Slovic, & Lichtenstein, 1977)
 
 - overestimating the accuracy of one’s knowledge and judgments
-
-e.g., weaker tournament chess players believe they can beat someone with the same skill level more than two-thirds of the time (Chabris et al., 2014)
+	- e.g., weaker tournament chess players believe they can beat someone with the same skill level more than two-thirds of the time (Chabris et al., 2014)
 
 - causes:
 - people unaware their knowledge is based on unreliable information
@@ -253,8 +236,7 @@ e.g., weaker tournament chess players believe they can beat someone with the sam
 **Hindsight Bias** (Fischhoff & Beyth, 1975)
 
 - tendency to consistently exaggerate what could have been anticipated in foresight, when looking back in hindsight
-
-e.g., physicians were given a clinical case history
+	- e.g., physicians were given a clinical case history
 
 - foresight group had to make a diagnosis
 - hindsight group were given a plausible diagnosis in advance
@@ -267,8 +249,7 @@ e.g., physicians were given a clinical case history
 **Illusory Correlation** (Chapman, 1967)
 
 - judging a correlation where none exists (or vice-versa)
-
-e.g., Is there a relationship between height and temperament?
+	- e.g., Is there a relationship between height and temperament?
 
 |   |   |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|---|---|
