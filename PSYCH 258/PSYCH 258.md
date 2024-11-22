@@ -15,6 +15,7 @@
 - [[Topic 9 - Conceptual Knowledge]]
 - [[Topic 10 - Visual Imagery & Propositions]]
 - [[Topic 11 - Problem Solving, Expertise, & Creativity]]
+- [[Topic 12 - Reasoning & Decision Making]]
 - [[Word matching]]
 
 %% End Waypoint %%
