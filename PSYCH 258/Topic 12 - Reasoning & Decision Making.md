@@ -85,22 +85,22 @@
 - **==normative== model**: how a decision -*should*- be made, given unlimited resources (e.g., memory, time, information) to devote to the decision
 	- -*homo economicus*- (“economic human”) concept in neoclassical economics views humans as rational decision-makers
 - **==descriptive== model**: how people -*really*- reach decisions, given limited memory abilities, time, information, etc.
-- **behavioural economics** includes social, emotional, and cognitive factors
+	- **behavioural economics** includes social, emotional, and cognitive factors
 
 “I’m going to roll a die. If a 6 appears, you win $5, otherwise you win nothing. It costs $1 to play.”
 
 Is it worth it to play?
 
-- **expected -----**: objective, statistical value of outcome
+- **expected ==value==**: objective, statistical value of outcome
 
-= (-p- (W) × -v- (W)) + (-p- (L) × -v- (L))
+= (*p* (W) × *v* (W)) + (*p* (L) × *v* (L))
 
 = ((1/6) × $4) + ((5/6) × -$1) = -$1/6 (average loss of ~17¢ each roll)
 
-- does not always ---------- predict behaviour
-- **expected -------**: subjective value of an outcome
+- does not always ==accurately== predict behaviour
+- **expected ==utility==**: subjective value of an outcome
 
-= (-p- (W) × -u- (W)) + (-p- (L) × -u- (L))
+= (*p*** (W) × *u* (W)) + (*p* (L) × *u* (L))
 
 = ((1/6) × $6) + ((5/6) × -$1) = +$1/6 (average gain of ~17¢ each roll)
 
