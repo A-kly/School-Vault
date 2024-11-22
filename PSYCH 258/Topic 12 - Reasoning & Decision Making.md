@@ -59,7 +59,7 @@
 “I am cheering.”
 
 - produces invalid conclusion: (antecedent=indeterminate): you don’t know if the Oilers won the game or not
-- maybe I’m cheering because I found ---!
+- maybe I’m cheering because I found $20!
 - next easiest to evaluate
 
 3. denying the ==antecedent==:
@@ -67,24 +67,24 @@
 “The Oilers did not win the game.”
 
 - produces invalid conclusion: (consequent=indeterminate): you don’t know if I’m cheering or not
-- maybe I’m cheering anyway, because I found ---!
+- maybe I’m cheering anyway, because I found $20!
 
 4. denying the ==consequent== (-modus tollens-: “mode that denies”):
 
 “I am not cheering.”
 
-- produces valid conclusion: (antecedent=false): “The Oilers did not --- the game.”
+- produces valid conclusion: (antecedent=false): “The Oilers did not ==not== the game.”
 - most difficult to evaluate
-- try: “If there is a ----- -------, then the streets will be ----.”
+- try: “If there is a solar eclipse, then the streets will be dark".
 - problems with negatives more difficult to solve
 
 ---
 
 ## Perspectives on Decision Making
 
-- **--------- model**: how a decision -should- be made, given unlimited resources (e.g., memory, time, information) to devote to the decision
-- -homo economicus- (“economic human”) concept in neoclassical economics views humans as rational decision-makers
-- **----------- model**: how people -really- reach decisions, given limited memory abilities, time, information, etc.
+- **==normative== model**: how a decision -*should*- be made, given unlimited resources (e.g., memory, time, information) to devote to the decision
+	- -*homo economicus*- (“economic human”) concept in neoclassical economics views humans as rational decision-makers
+- **==descriptive== model**: how people -*really*- reach decisions, given limited memory abilities, time, information, etc.
 - **behavioural economics** includes social, emotional, and cognitive factors
 
 “I’m going to roll a die. If a 6 appears, you win $5, otherwise you win nothing. It costs $1 to play.”
