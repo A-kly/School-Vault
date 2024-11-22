@@ -32,29 +32,29 @@
 - **==Disjunction== rule**: applies OR operator
 	- e.g., Archie can marry either Betty OR Veronica
 
-- **----------- rule**: applies IF, THEN operator
+- **==conditional== rule**: applies IF, THEN operator
 	- e.g., IF a man is a bachelor, THEN he is unmarried
 
-- **------------- rule**: applies conditional rule in both directions; IFF (“IF AND ONLY IF” or XNOR)
+- **==biconditional== rule**: applies conditional rule in both directions; IFF (“IF AND ONLY IF” or XNOR)
 - an item is a member of the category if it has both attributes, or neither attribute
 	- e.g., J.D. has the flu IF AND ONLY IF Turk has it
 
 ### Conditional Reasoning
 
-- states relation between conditions: **----------** and a **----------** (“IF -p-, THEN -q-.”)
+- states relation between conditions: **==antecedent==** and a **==consequent==** (“IF -p-, THEN -q-.”)
 	- e.g., “If the Oilers win the game, then I will cheer.”
 
 - may be affirmed (true) or denied (false): is the conclusion true, false, or indeterminate?
-- **the ------------- --------**: system for categorizing conditional reasoning statements
+- **the ==propositional calculus==**: system for categorizing conditional reasoning statements
 
-1. affirming the ---------- (-modus ponens-: “mode that affirms”):
+1. affirming the ==antecedent== (-modus ponens-: “mode that affirms”):
 
 “The Oilers won the game.”
 
 - produces valid conclusion: (consequent=true) “I am cheering.”
 - easiest to evaluate
 
-2. affirming the ----------:
+2. affirming the ==consequent==:
 
 “I am cheering.”
 
@@ -62,14 +62,14 @@
 - maybe I’m cheering because I found ---!
 - next easiest to evaluate
 
-3. denying the ----------:
+3. denying the ==antecedent==:
 
 “The Oilers did not win the game.”
 
 - produces invalid conclusion: (consequent=indeterminate): you don’t know if I’m cheering or not
 - maybe I’m cheering anyway, because I found ---!
 
-4. denying the ---------- (-modus tollens-: “mode that denies”):
+4. denying the ==consequent== (-modus tollens-: “mode that denies”):
 
 “I am not cheering.”
 
