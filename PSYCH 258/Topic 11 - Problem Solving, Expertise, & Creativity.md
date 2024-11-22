@@ -471,22 +471,22 @@ Mihály Csíkszentmihályi (1996): context
 
 **Investment theory** (Sternberg & Lubart, 1995):
 
-- “--- ---”: see hidden potential of ideas presumed by others to have little value
+- “==buy low==”: see hidden potential of ideas presumed by others to have little value
 - person creatively develops potential of idea to be meaningful
-- “---- ----”: value of contribution is recognized; move on
+- “==Sell high==”: value of contribution is recognized; move on
 - person has influence by being a step ahead
 - component factors:
 - processes of intelligence: ability to redefine problems, and think insightfully
 - expertise: background knowledge to draw upon
-- imaginative -------- skills: recognize patterns/use new perspectives
+- imaginative ==thinking== skills: recognize patterns/use new perspectives
 - venturesome personality: persistent, willing to take risks
-- --------- motivation: creativity greater when not for pay
+- ==intrinsic== motivation: creativity greater when not for pay
 - creative environment: encourages creativity
 
 Gardner (2011a):
 
 - studied biographies of creative individuals
-- concluded ----- of the above are important
+- concluded ALL of the above are important
 
 ---
 
