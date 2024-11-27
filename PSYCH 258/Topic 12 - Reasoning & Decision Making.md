@@ -375,11 +375,11 @@ e.g., Strawberry & Champagne, Cranberry & Cointreau, Rhubarb & Ginger
 - gave samples of 6 or 24 jams on different days; all 24 available for purchase
 - tasters were given $1-off coupons
 - more customers attracted to larger tasting array, but same number of tastings in both conditions (about 1.5/person)
-- results: --% of customers exposed to small array made a purchase versus 4% of those exposed to large array
+- results: ==30==% of customers exposed to small array made a purchase versus 4% of those exposed to large array
 
 Why does greater choice make people miserable?
 
-- **------ opportunities**: options not chosen have positive qualities
+- **==Missed== opportunities**: options not chosen have positive qualities
 - **The curse of high ------------**: with many options, your final selection should be perfect (or at least extraordinary)
 - **------**: if your final selection is not perfect, disappointment results
 - **----------**: in a world of abundant choice, disappointing results attributed to your poor selection
