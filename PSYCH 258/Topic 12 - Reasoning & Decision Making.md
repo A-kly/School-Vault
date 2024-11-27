@@ -380,14 +380,14 @@ e.g., Strawberry & Champagne, Cranberry & Cointreau, Rhubarb & Ginger
 Why does greater choice make people miserable?
 
 - **==Missed== opportunities**: options not chosen have positive qualities
-- **The curse of high ------------**: with many options, your final selection should be perfect (or at least extraordinary)
-- **------**: if your final selection is not perfect, disappointment results
-- **----------**: in a world of abundant choice, disappointing results attributed to your poor selection
+- **The curse of high ==expectations==**: with many options, your final selection should be perfect (or at least extraordinary)
+- **==regret==**: if your final selection is not perfect, disappointment results
+- **==self-blame==**: in a world of abundant choice, disappointing results attributed to your poor selection
 
 How do you make decisions?
 
-- **----------**: choose the optimal alternative by evaluating pros and cons of every option
-- **-----------** (“satisfy” and “suffice”): choose the alternative sufficiently good to satisfy you
+- **==maximizing==**: choose the optimal alternative by evaluating pros and cons of every option
+- **==satisficing==** (“satisfy” and “suffice”): choose the alternative sufficiently good to satisfy you
 - career decisions made by college seniors: maximizers got better salaries, but felt worse about their selection (Iyengar, Wells, & Schwartz, 2006)
 - maximization correlated with ---------- (-r- = .34)
 
