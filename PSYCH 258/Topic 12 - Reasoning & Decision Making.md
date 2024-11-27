@@ -327,8 +327,8 @@ Fong, Krantz, & Nisbett (1986):
 
 - students in statistics course called for phone survey
 - asked question about sports, not “statistics” (e.g., why baseball Rookie of the Year tends to do worse in his second year)
-- non-statistical answer: -------- causes poorer performance
-- statistical answer: conjunction of talent and ----
+- non-statistical answer: ==pressure== causes poorer performance
+- statistical answer: conjunction of talent and ==luck==
 - students contacted early in term: 16% gave statistical answer; those contacted later: 37%
 
 Mill, Gray, & Mandel (1994):
