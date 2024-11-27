@@ -280,7 +280,7 @@ Criticisms of Prospect Theory:
 
 - [c] “demonstration approach” seems designed to show flaws in decision making; are we really that bad?
 
-- [c] lacks ----------- of underlying mechanisms
+- [c] lacks ==explanation== of underlying mechanisms
 
 ---
 
@@ -290,11 +290,11 @@ Criticisms of Prospect Theory:
 
 Principles of unconscious thought:
 
-- occurs outside of ---------
+- occurs outside of ==attention==
 - capacity not limited by working memory
 - applies bottom-up processing
 - superior at weighting importance of choice attributes
-- uses ----------- thinking, not rule-based thinking
+- uses ==associative== thinking, not rule-based thinking
 - is divergent, not convergent
 
 Dijksterhuis (2006):
