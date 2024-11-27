@@ -100,14 +100,14 @@ Is it worth it to play?
 - does not always ==accurately== predict behaviour
 - **expected ==utility==**: subjective value of an outcome
 
-= (*p*** (W) × *u* (W)) + (*p* (L) × *u* (L))
+= (*p* (W) × *u* (W)) + (*p* (L) × *u* (L))
 
 = ((1/6) × $6) + ((5/6) × -$1) = +$1/6 (average gain of ~17¢ each roll)
 
-- better at predicting/explaining behaviour (gambling is ---, --------- protects you against high potential loss)
-- **subjective expected -------**: subjective value of an outcome according to subjective assessment of probability
+- better at predicting/explaining behaviour (gambling is fun,  ==insurance== protects you against high potential loss)
+- **subjective expected ==utility==**: subjective value of an outcome according to subjective assessment of probability
 
-= (-sp- (W) × -u- (W)) + (-sp- (L) × -u- (L))
+= (*sp* (W) × *u* (W)) + (*sp* (L) × *u* (L))
 
 = ((6/6) × $6) + ((0/6) × -$1) = +$6 (average gain of $6 each roll)
 
