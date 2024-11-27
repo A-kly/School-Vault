@@ -389,14 +389,14 @@ How do you make decisions?
 - **==maximizing==**: choose the optimal alternative by evaluating pros and cons of every option
 - **==satisficing==** (“satisfy” and “suffice”): choose the alternative sufficiently good to satisfy you
 - career decisions made by college seniors: maximizers got better salaries, but felt worse about their selection (Iyengar, Wells, & Schwartz, 2006)
-- maximization correlated with ---------- (-r- = .34)
+- maximization correlated with ==depression== (-==r==- = .34)
 
 Lessons on choice (Schwartz, 2004; 2016):
 
-- choose when to ------: restrict your options when decisions are not crucial
-- learn to accept “---- ------”: pick an alternative that meets your core requirements, not the elusive “best”
-- don’t worry about what you’re -------: forget about the attractive features of the alternative you reject; focus on the positives of your selection
-- control ------------: lower expectations mean less disappointment
+- choose when to ==choose:== restrict your options when decisions are not crucial
+- learn to accept “==good enough==”: pick an alternative that meets your core requirements, not the elusive “best”
+- don’t worry about what you’re ==missing:== forget about the attractive features of the alternative you reject; focus on the positives of your selection
+- control ==expectations:== lower expectations mean less disappointment
 
 ---
 
