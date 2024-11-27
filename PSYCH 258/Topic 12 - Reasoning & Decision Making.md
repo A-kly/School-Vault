@@ -258,7 +258,7 @@ What will come up next?
 
 (correlation: -r- = -----; -p- = .08)
 
-**Confirmation Bias** (Wason, 1960)
+**Confirmation Bias** (Wason, 1960) ==IMPORTANT++
 
 - seeking evidence confirming a belief--even to the exclusion of contradictory information
 
