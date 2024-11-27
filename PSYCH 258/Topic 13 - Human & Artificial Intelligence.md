@@ -18,8 +18,8 @@
 
 ## What is Intelligence?
 
-- “------ -----”?
-- “------------ as a measurable capacity must at the start be defined as the capacity to do well in an intelligence test. Intelligence is what the tests test” (Boring, 1923, p.35)
+- “==common sense==”?
+- “==intelligence== as a measurable capacity must at the start be defined as the capacity to do well in an intelligence test. Intelligence is what the tests test” (Boring, 1923, p.35)
 - an inferred trait, representing the abilities to learn from experience, acquire knowledge, think abstractlly, and adapt to changes
 
 ## The First Tests
@@ -31,13 +31,13 @@ Francis Galton (1822-1911):
 - tests mostly ----------
 - pros & cons:
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) pioneer in the study of intelligence
+- [p] pioneer in the study of intelligence
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) contributed much to statistics
+- [p] contributed much to statistics
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) concluded success was due to --------
+- [c] concluded success was due to --------
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) started the -------- movement: improving humanity’s physical and mental composition by selective parenthood
+- [c] started the -------- movement: improving humanity’s physical and mental composition by selective parenthood
 
 Alfred Binet & Theodore Simon (1905/1916):
 
@@ -64,13 +64,13 @@ IQ = (MA / CA) × 100
 - test fine-tuned to make mean score = 100, standard deviation = 15
 - pros & cons:
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) easy to administer and score
+- [p] easy to administer and score
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) hard to ------- children of different chronological ages
+- [c] hard to ------- children of different chronological ages
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) could not be applied to ------
+- [c] could not be applied to ------
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) test was largely language-based
+- [c] test was largely language-based
 
 David Wechsler (1939):
 
@@ -150,9 +150,9 @@ Charles Spearman (1927):
 - correlations are not perfect; there are specific factors affecting each subtest
 - pros & cons:
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) more ------- tasks (e.g., academic achievement, job performance) highly correlated with -g-
+- [p] more ------- tasks (e.g., academic achievement, job performance) highly correlated with -g-
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) other theorists have proposed other intellectual abilities that are uncorrelated with each other
+- [c] other theorists have proposed other intellectual abilities that are uncorrelated with each other
 
 **Theory of Multiple Intelligences** (Howard Gardner, 2008, 2011b):
 
@@ -183,11 +183,11 @@ Charles Spearman (1927):
 
 - criticisms:
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) lacks empirical --------; rather, many of Gardner’s intelligences correlate with -g-
+- [c] lacks empirical --------; rather, many of Gardner’s intelligences correlate with -g-
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) there is no test of multiple intelligences; assessment relies on subjective judgment
+- [c] there is no test of multiple intelligences; assessment relies on subjective judgment
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) “intelligences” are more like “---------” or “aptitudes” (what’s the difference?)
+- [c] “intelligences” are more like “---------” or “aptitudes” (what’s the difference?)
 
 **Triarchic Theory of Successful Intelligence** (Robert Sternberg, 1985):
 
@@ -211,7 +211,7 @@ c) **----------acquisition components**: learning how to solve a problem
 - intelligence is more a matter of using what you’ve got, not how much you’ve got
 - criticisms:
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) traditional intelligence tests correlate with income, occupational prestige, and ability to stay out of jail, which are supposedly measures of practical intelligence
+- [c] traditional intelligence tests correlate with income, occupational prestige, and ability to stay out of jail, which are supposedly measures of practical intelligence
 
 ## Other Factors
 
@@ -335,13 +335,13 @@ Shortliffe & colleagues (1973): MYCIN
 
 Pros & Cons:
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) highly specialized and accurate
+- [p] highly specialized and accurate
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) difficult to --------- knowledge of experts
+- [c] difficult to --------- knowledge of experts
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) no intuition; could not ----- from mistakes
+- [c] no intuition; could not ----- from mistakes
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) limited to domain of expertise (“weak” or “narrow” AI)
+- [c] limited to domain of expertise (“weak” or “narrow” AI)
 
 ## AI & Common Sense
 
@@ -361,9 +361,9 @@ e.g., “On January 2, Abraham Lincoln was in Washington” implies that:
 - he was in Washington for the whole day
 - pros & cons:
 
-![☑](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/pro-new.png) successful applications include Terrorism Knowledge Base, natural-language database of medical information, and financial analysis
+- [p] successful applications include Terrorism Knowledge Base, natural-language database of medical information, and financial analysis
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) still a work in progress (cannot separate fact from fiction; hand-entering knowledge is slow and tedious; expensive to develop)
+- [c] still a work in progress (cannot separate fact from fiction; hand-entering knowledge is slow and tedious; expensive to develop)
 
 ---
 
@@ -425,9 +425,9 @@ Real-World Applications:
 - autonomous technologies increasingly available in consumer vehicles (e.g., automatic parking, collision avoidance systems, autonomous cruise control, etc.)
 - limitations:
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) cannot drive on an area not yet ------
+- [c] cannot drive on an area not yet ------
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) cannot detect lane markings in wet/snowy conditions
+- [c] cannot detect lane markings in wet/snowy conditions
 
 - Large language model chatbots: OpenAI’s ChatGPT
 - ANN based on statistical relationships of words in its training data
@@ -442,9 +442,9 @@ Real-World Applications:
 - GPT-4o estimated to have 1.76 trillion “----------” or variables; these include weights of connections between ANN neurons
 - limitations:
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) often gives plausible but --------- answers
+- [c] often gives plausible but --------- answers
 
-![☒](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/con-new.png) subject to algorithmic bias present in the training data, including gender and racial biases
+- [c] subject to algorithmic bias present in the training data, including gender and racial biases
 
 ---
 
