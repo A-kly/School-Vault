@@ -258,7 +258,7 @@ What will come up next?
 
 (correlation: -r- = -----; -p- = .08)
 
-**Confirmation Bias** (Wason, 1960) ==IMPORTANT++
+**Confirmation Bias** (Wason, 1960) ==IMPORTANT==
 
 - seeking evidence confirming a belief--even to the exclusion of contradictory information
 
@@ -274,13 +274,13 @@ Assuming that each card has a letter on one side and a number on the other, whic
 
 Criticisms of Prospect Theory:
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) runs counter to traditional economic view of people as rational
+- [c] runs counter to traditional economic view of people as rational
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) relies on “stated preferences” in surveys, not “revealed preferences” of behaviours
+- [c] relies on “stated preferences” in surveys, not “revealed preferences” of behaviours
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) “demonstration approach” seems designed to show flaws in decision making; are we really that bad?
+- [c] “demonstration approach” seems designed to show flaws in decision making; are we really that bad?
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) lacks ----------- of underlying mechanisms
+- [c] lacks ----------- of underlying mechanisms
 
 ---
 
@@ -313,11 +313,11 @@ Dijksterhuis (2006):
 
 Criticisms (Newell, 2015; Nieuwenstein et al., 2015):
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) some findings not replicable; meta-analysis found no advantage
+- [c] some findings not replicable; meta-analysis found no advantage
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) some studies failed to include control (i.e., immediate) condition
+- [c] some studies failed to include control (i.e., immediate) condition
 
-![☒](PSYCH%20258-%20Reasoning%20&%20Decision%20Making-files/con-new.png) giving participants as much time as they needed to think consciously led to superior performance
+- [c] giving participants as much time as they needed to think consciously led to superior performance
 
 ---
 
