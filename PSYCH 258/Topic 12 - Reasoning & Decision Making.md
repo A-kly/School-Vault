@@ -344,14 +344,14 @@ Damer (2012): -Attacking faulty reasoning: A practical guide to fallacy-free arg
 - **argument by ==innuendo==**: directing one to a particular (suggestive) conclusion by choice of words
 	- e.g., “Is the president a good guy? Well, he’s never been convicted of anything.”
 
-- **fallacy of the ---------**: assuming that small differences are always unimportant
+- **fallacy of the ==continuum==**: assuming that small differences are always unimportant
 	- e.g., “I know your monthly payments are high. But what’s another $20 a month?”
-	- e.g., The ----- Factor®: difference between spending $3/latte/day vs. saving your money = $5855 over 5 years
+	- e.g., The ==Latte== Factor®: difference between spending $3/latte/day vs. saving your money = $5855 over 5 years
 
-- **------ question**: using language that presupposes a certain conclusion
+- **==loaded== question**: using language that presupposes a certain conclusion
 	- e.g., “When are you going to stop cheating on exams?”
 
-- **fallacy of the -----------**: assuming that what is true of the parts is true of the whole
+- **fallacy of the ==composition==**: assuming that what is true of the parts is true of the whole
 	- e.g., “You like potatoes. You like chicken. You like ice cream. So you’ll love this potato-chicken-ice cream casserole.”
 
 ---
@@ -360,7 +360,7 @@ Damer (2012): -Attacking faulty reasoning: A practical guide to fallacy-free arg
 
 More is not better:
 
-- students given a large number of topics for an extra-credit essay were less likely to write one than those given a small number of topics (they also wrote essays of lower -------)
+- students given a large number of topics for an extra-credit essay were less likely to write one than those given a small number of topics (they also wrote essays of lower ==quality==)
 - when convenience stores reduced the variety of soft drinks and snacks available, sales volume increased (as did customer satisfaction)
 - more matches made in an evening of “speed dating” in which young adults met 8 potential partners than when they met 20
 - Swedes were less likely to save money using a government retirement plan when a greater variety of investment options was presented to them
