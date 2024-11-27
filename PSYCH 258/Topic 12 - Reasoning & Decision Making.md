@@ -338,29 +338,21 @@ Mill, Gray, & Mandel (1994):
 Damer (2012): -Attacking faulty reasoning: A practical guide to fallacy-free arguments-
 
 - teaches people to avoid fallacies or errors in real-life situations
-- **------- contrast**: if one thing lacks a certain property, any contrasting object must have that property (or vice-versa)
+- **==illicit== contrast**: if one thing lacks a certain property, any contrasting object must have that property (or vice-versa)
+	- e.g., “The provincial government is crooked. I’m glad I’m a member of the opposition.”
 
-e.g., “The provincial government is crooked.
-
-I’m glad I’m a member of the opposition.”
-
-- **argument by --------**: directing one to a particular (suggestive) conclusion by choice of words
-
-e.g., “Is the president a good guy? Well, he’s never been convicted of anything.”
+- **argument by ==innuendo==**: directing one to a particular (suggestive) conclusion by choice of words
+	- e.g., “Is the president a good guy? Well, he’s never been convicted of anything.”
 
 - **fallacy of the ---------**: assuming that small differences are always unimportant
-
-e.g., “I know your monthly payments are high. But what’s another $20 a month?”
-
-e.g., The ----- Factor®: difference between spending $3/latte/day vs. saving your money = $5855 over 5 years
+	- e.g., “I know your monthly payments are high. But what’s another $20 a month?”
+	- e.g., The ----- Factor®: difference between spending $3/latte/day vs. saving your money = $5855 over 5 years
 
 - **------ question**: using language that presupposes a certain conclusion
-
-e.g., “When are you going to stop cheating on exams?”
+	- e.g., “When are you going to stop cheating on exams?”
 
 - **fallacy of the -----------**: assuming that what is true of the parts is true of the whole
-
-e.g., “You like potatoes. You like chicken. You like ice cream. So you’ll love this potato-chicken-ice cream casserole.”
+	- e.g., “You like potatoes. You like chicken. You like ice cream. So you’ll love this potato-chicken-ice cream casserole.”
 
 ---
 
