@@ -28,16 +28,16 @@ Francis Galton (1822-1911):
 
 - ran a service at South Kensington Museum in London
 - would check your intelligence for a fee
-- tests mostly ----------
+- tests mostly ==perceptual==
 - pros & cons:
 
 - [p] pioneer in the study of intelligence
 
 - [p] contributed much to statistics
 
-- [c] concluded success was due to --------
+- [c] concluded success was due to ==heredity==
 
-- [c] started the -------- movement: improving humanity’s physical and mental composition by selective parenthood
+- [c] started the ==eugenics== movement: improving humanity’s physical and mental composition by selective parenthood
 
 Alfred Binet & Theodore Simon (1905/1916):
 
