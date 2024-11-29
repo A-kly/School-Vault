@@ -43,25 +43,23 @@ Alfred Binet & Theodore Simon (1905/1916):
 
 - developed a test to identify ==slow== learners
 - found they performed at the level of younger children
-- compared ------ age (MA) with chronological age (CA)
+- compared ==mental== age (MA) with chronological age (CA)
 - components:
-	- **----------** e.g., “What does -misanthrope- mean?”
-	- **-------------** e.g., “Why do people sometimes borrow money?”
-	- **------ relations** e.g., “What do an orange, an apple, and a pear have in common?”
+	- **==vocabulary==** e.g., “What does -*misanthrope*- mean?”
+	- **==comprehension==** e.g., “Why do people sometimes borrow money?”
+	- **==verbal== relations** e.g., “What do an orange, an apple, and a pear have in common?”
 - assumptions:
 	- test shows current performance differences
-- purpose: identify children who need special ----
+- purpose: identify children who need special ==help==
 	- believed special training could help slow learners catch up
-	- test not based on a theoretical conception of “------------”
+	- test not based on a theoretical conception of “==intelligence==”
 
 Lewis Terman (1916):
 
 - modified test for use in US (Stanford-Binet Intelligence Scales)
-- based on Stern’s (1912) **intelligence --------**:
-
-IQ = (MA / CA) × 100
-
-- test fine-tuned to make mean score = 100, standard deviation = 15
+- based on Stern’s (1912) **intelligence ==quotient==**:
+	- IQ = (MA / CA) × 100
+	- test fine-tuned to make mean score = 100, standard deviation = 15
 - pros & cons:
 
 - [p] easy to administer and score
