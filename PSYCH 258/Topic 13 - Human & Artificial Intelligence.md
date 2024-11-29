@@ -72,11 +72,11 @@ David Wechsler (1939):
 	- Wechsler Intelligence Scale for Children (WISC)
 	- Wechsler Preschool and Primary Scale of Intelligence (WPPSI)
 	- provide verbal, performance, and overall scores, plus IQ-equivalents
-	- included more --------- questions
+	- included more ==nonverbal== questions
 
 ## Issues
 
-- --------
+- Validity
 
 James McKeen Cattell (1890):
 
@@ -108,13 +108,13 @@ e.g., Dove Counterbalance General Intelligence Test (1971), a.k.a. the Chitling 
 - **----- effect** (James R. Flynn, 1987; 2000; 2007):
 - unstandardized intelligence scores have been increasing over time
 
-**▸** 14-point gain from 1932 to 1978
+-  14-point gain from 1932 to 1978
 
-**▸** annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
+-  annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
 
-**▸** greatest increases seen in lower grades, but not for children in grade 12 (limit?)
+-  greatest increases seen in lower grades, but not for children in grade 12 (limit?)
 
-**▸** not all subtests increase equally, thus intelligence is not a ------ entity
+-  not all subtests increase equally, thus intelligence is not a ------ entity
 
 - the nature of intelligence has changed from practical to conceptual, due to social change
 
@@ -122,11 +122,11 @@ e.g., What do dogs and rabbits have in ------?
 
 - increases in IQ are not be due to changes in genetics--they must be -------------
 
-**▸** influence of television, schooling, parenting, etc.
+-  influence of television, schooling, parenting, etc.
 
-**▸** kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
+-  kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
 
-**▸** jobs increasingly required more logical reasoning and analysis, so schooling focused more on logical reasoning and analysis and more people complete high school, leading to generational changes in abstract reasoning
+-  jobs increasingly required more logical reasoning and analysis, so schooling focused more on logical reasoning and analysis and more people complete high school, leading to generational changes in abstract reasoning
 
 - this is called the **social multiplier effect**: a virtuous cycle of skill improvement
 
@@ -397,17 +397,17 @@ e.g., pixels ![→](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/r
 - examples:
 - Google Brain (Le at al., 2012):
 
-**▸** has 16,000 processors with 1 billion connections
+-  has 16,000 processors with 1 billion connections
 
-**▸** watched 10 million YouTube videos and by itself was able to identify what a --- was despite being fed no information on distinguishing features that might help identify it
+-  watched 10 million YouTube videos and by itself was able to identify what a --- was despite being fed no information on distinguishing features that might help identify it
 
 - Microsoft’s Project Adam (Chilimbi et al., 2014):
 
-**▸** has 2 billion connections, requires 30× fewer processors, but is claimed to be twice as accurate as competitors
+-  has 2 billion connections, requires 30× fewer processors, but is claimed to be twice as accurate as competitors
 
-**▸** processed ImageNet database, which has 14 million images organized into 22,000 categories
+-  processed ImageNet database, which has 14 million images organized into 22,000 categories
 
-**▸** result: can identify dogs in images, even whether a ----- is a Pembroke or a Cardigan
+-  result: can identify dogs in images, even whether a ----- is a Pembroke or a Cardigan
 
 Real-World Applications:
 
@@ -426,11 +426,11 @@ Real-World Applications:
 - ANN based on statistical relationships of words in its training data
 - GPT = generative pre-trained transformer
 
-**▸** generative: can simulate conversations, create computer code, and write prose and poetry
+-  generative: can simulate conversations, create computer code, and write prose and poetry
 
-**▸** pre-trained: trained on a corpus of text containing 300 billion words taken from web pages, programming language documentation, books, YouTube videos, and other sources
+-  pre-trained: trained on a corpus of text containing 300 billion words taken from web pages, programming language documentation, books, YouTube videos, and other sources
 
-**▸** transformer: deep-learning architecture that processes sequential data (like words in a sentence)
+-  transformer: deep-learning architecture that processes sequential data (like words in a sentence)
 
 - GPT-4o estimated to have 1.76 trillion “----------” or variables; these include weights of connections between ANN neurons
 - limitations:
