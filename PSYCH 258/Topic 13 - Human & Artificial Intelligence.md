@@ -41,18 +41,18 @@ Francis Galton (1822-1911):
 
 Alfred Binet & Theodore Simon (1905/1916):
 
-- developed a test to identify ---- learners
+- developed a test to identify ==slow== learners
 - found they performed at the level of younger children
 - compared ------ age (MA) with chronological age (CA)
 - components:
-- **----------** e.g., “What does -misanthrope- mean?”
-- **-------------** e.g., “Why do people sometimes borrow money?”
-- **------ relations** e.g., “What do an orange, an apple, and a pear have in common?”
+	- **----------** e.g., “What does -misanthrope- mean?”
+	- **-------------** e.g., “Why do people sometimes borrow money?”
+	- **------ relations** e.g., “What do an orange, an apple, and a pear have in common?”
 - assumptions:
-- test shows current performance differences
+	- test shows current performance differences
 - purpose: identify children who need special ----
-- believed special training could help slow learners catch up
-- test not based on a theoretical conception of “------------”
+	- believed special training could help slow learners catch up
+	- test not based on a theoretical conception of “------------”
 
 Lewis Terman (1916):
 
