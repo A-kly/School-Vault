@@ -61,23 +61,18 @@ Lewis Terman (1916):
 	- IQ = (MA / CA) × 100
 	- test fine-tuned to make mean score = 100, standard deviation = 15
 - pros & cons:
-
-- [p] easy to administer and score
-
-- [c] hard to ------- children of different chronological ages
-
-- [c] could not be applied to ------
-
-- [c] test was largely language-based
+	- [p] easy to administer and score
+	- [c] hard to ==compare== children of different chronological ages
+	- [c] could not be applied to ==adults==
+	- [c] test was largely language-based
 
 David Wechsler (1939):
-
 - developed tests:
-- Wechsler Adult Intelligence Scale (WAIS)
-- Wechsler Intelligence Scale for Children (WISC)
-- Wechsler Preschool and Primary Scale of Intelligence (WPPSI)
-- provide verbal, performance, and overall scores, plus IQ-equivalents
-- included more --------- questions
+	- Wechsler Adult Intelligence Scale (WAIS)
+	- Wechsler Intelligence Scale for Children (WISC)
+	- Wechsler Preschool and Primary Scale of Intelligence (WPPSI)
+	- provide verbal, performance, and overall scores, plus IQ-equivalents
+	- included more --------- questions
 
 ## Issues
 
