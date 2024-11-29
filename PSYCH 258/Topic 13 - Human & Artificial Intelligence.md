@@ -76,26 +76,23 @@ David Wechsler (1939):
 
 ## Issues
 
-- Validity
+- **Validity**
 
 James McKeen Cattell (1890):
 
 - devised tests based on Galton’s work
 - assessed by his student, Clark Wissler
-- virtually no ----------- between intelligence and college grades
-
-(conventional IQ tests: correlations of .40 to .60)
-
+- virtually no ==correlation== between intelligence and college grades
+	- (conventional IQ tests: correlations of .40 to .60)
 - tests used extensively during WWI
 - Army Alpha: verbal test
-- Army Beta: performance test, with ---------- directions instead of words
+	- People can't read, so this didn't work well
+- Army Beta: performance test, with ==pantomimed== directions instead of words
 - used to determine job classification and leadership potential (or, who got sent to the front lines)
-- intelligence came to be seen as inherited -----, not index of learning performance
+- intelligence came to be seen as inherited ==trait==, not index of learning performance
 - tests ---------- biased:
-
-e.g., “I don’t sing for nobody” Single- or double-negative?
-
-e.g., Dove Counterbalance General Intelligence Test (1971), a.k.a. the Chitling Test
+	- e.g., “I don’t sing for nobody” Single- or double-negative?
+	- e.g., Dove Counterbalance General Intelligence Test (1971), a.k.a. the Chitling Test
 
 - Is one culture less intelligent, or is the test ------?
 - Some cultures don’t believe in testing or competitive ---------should they be exempt?
@@ -106,19 +103,13 @@ e.g., Dove Counterbalance General Intelligence Test (1971), a.k.a. the Chitling 
 - check for physiological or psychological problems
 - diagnose specific learning disability
 - **----- effect** (James R. Flynn, 1987; 2000; 2007):
-- unstandardized intelligence scores have been increasing over time
-
--  14-point gain from 1932 to 1978
-
--  annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
-
--  greatest increases seen in lower grades, but not for children in grade 12 (limit?)
-
--  not all subtests increase equally, thus intelligence is not a ------ entity
-
-- the nature of intelligence has changed from practical to conceptual, due to social change
-
-e.g., What do dogs and rabbits have in ------?
+	- unstandardized intelligence scores have been increasing over time
+	-  14-point gain from 1932 to 1978
+	-  annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
+	-  greatest increases seen in lower grades, but not for children in grade 12 (limit?)
+	-  not all subtests increase equally, thus intelligence is not a ------ entity
+	- the nature of intelligence has changed from practical to conceptual, due to social change
+		- e.g., What do dogs and rabbits have in ------?
 
 - increases in IQ are not be due to changes in genetics--they must be -------------
 
@@ -142,10 +133,8 @@ Charles Spearman (1927):
 - some evidence for a general “-g- ” factor of intelligence
 - correlations are not perfect; there are specific factors affecting each subtest
 - pros & cons:
-
-- [p] more ------- tasks (e.g., academic achievement, job performance) highly correlated with -g-
-
-- [c] other theorists have proposed other intellectual abilities that are uncorrelated with each other
+	- [p] more ------- tasks (e.g., academic achievement, job performance) highly correlated with -g-
+	- [c] other theorists have proposed other intellectual abilities that are uncorrelated with each other
 
 **Theory of Multiple Intelligences** (Howard Gardner, 2008, 2011b):
 
