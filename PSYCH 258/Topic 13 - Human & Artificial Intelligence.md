@@ -90,14 +90,13 @@ James McKeen Cattell (1890):
 - Army Beta: performance test, with ==pantomimed== directions instead of words
 - used to determine job classification and leadership potential (or, who got sent to the front lines)
 - intelligence came to be seen as inherited ==trait==, not index of learning performance
-- tests ---------- biased:
+- tests ==culturally== biased:
 	- e.g., “I don’t sing for nobody” Single- or double-negative?
 	- e.g., Dove Counterbalance General Intelligence Test (1971), a.k.a. the Chitling Test
-
-- Is one culture less intelligent, or is the test ------?
-- Some cultures don’t believe in testing or competitive ---------should they be exempt?
-- Do results reveal a lack of ------- important in our society?
-- Is the ------ for a low score important?
+- Is one culture less intelligent, or is the test ==flawed==?
+- Some cultures don’t believe in testing or competitive ==ranking== - should they be exempt?
+- Do results reveal a lack of ==ability== important in our society?
+- Is the ==reason== for a low score important?
 - most intelligence tests are ------------: depend on the number of correct answers
 - possible solution: use other kinds of -----, as well
 - check for physiological or psychological problems
@@ -110,17 +109,11 @@ James McKeen Cattell (1890):
 	-  not all subtests increase equally, thus intelligence is not a ------ entity
 	- the nature of intelligence has changed from practical to conceptual, due to social change
 		- e.g., What do dogs and rabbits have in ------?
-
-- increases in IQ are not be due to changes in genetics--they must be -------------
-
--  influence of television, schooling, parenting, etc.
-
--  kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
-
--  jobs increasingly required more logical reasoning and analysis, so schooling focused more on logical reasoning and analysis and more people complete high school, leading to generational changes in abstract reasoning
-
-- this is called the **social multiplier effect**: a virtuous cycle of skill improvement
-
+	- increases in IQ are not be due to changes in genetics--they must be -------------
+	-  influence of television, schooling, parenting, etc.
+	-  kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
+	-  jobs increasingly required more logical reasoning and analysis, so schooling focused more on logical reasoning and analysis and more people complete high school, leading to generational changes in abstract reasoning
+	- this is called the **social multiplier effect**: a virtuous cycle of skill improvement
 ---
 
 ## Other Intelligences
