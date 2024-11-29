@@ -97,11 +97,11 @@ James McKeen Cattell (1890):
 - Some cultures don’t believe in testing or competitive ==ranking== - should they be exempt?
 - Do results reveal a lack of ==ability== important in our society?
 - Is the ==reason== for a low score important?
-- most intelligence tests are ------------: depend on the number of correct answers
-- possible solution: use other kinds of -----, as well
+- most intelligence tests are ==psychometric:== depend on the number of correct answers
+- possible solution: use other kinds of ==tests==, as well
 - check for physiological or psychological problems
 - diagnose specific learning disability
-- **----- effect** (James R. Flynn, 1987; 2000; 2007):
+- **==Flynn== effect** (James R. Flynn, 1987; 2000; 2007):
 	- unstandardized intelligence scores have been increasing over time
 	-  14-point gain from 1932 to 1978
 	-  annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
