@@ -151,7 +151,7 @@ e.g., energy conservation appeals that focus on savings (gains) are less powerfu
 	- a) sure ==loss== of $10,000
 	- b) 50% chance of ==losing== $20,000 and 50% chance of losing $0
 
-- if framed in terms of gains, people are risk-==averse==; if framed in terms of losses, people are risk--------
+- if framed in terms of gains, people are risk-==averse==; if framed in terms of losses, people are risk-==seeking==
 
 Kahneman & Tversky (1984):
 
@@ -159,23 +159,21 @@ Gp 1: Imagine that you decided to see a play and you paid $20 for the admission 
 
 Gp 2: Imagine that you decided to see a play where the price of one ticket is $20. As you enter the theatre, you discover that you have lost a $20 bill. Would you still pay $20 for a ticket to the play?
 
-- only --% of gp. 1 chose another ticket (cost of play perceived to be -------)
+- only ==46==% of gp. 1 chose another ticket (cost of play perceived to be ==doubled==)
 - 88% of gp. 2 chose to buy the ticket
 - background context affects choice:
-
-Which would you prefer, saving $500 on tuition, or saving $500 on a new ---?
+	- Which would you prefer, saving $500 on tuition, or saving $500 on a new ==car==?
 
 **Representativeness Heuristic** (Kahneman & Tversky, 1972)
 
-- judging likelihood by how well something matches the ---------
-	- e.g., Is (a) finding 600 boys in a sample of ----- children as likely as (b) finding 60 boys in a sample of --- children?
+- judging likelihood by how well something matches the ==prototype==
+	- e.g., Is (a) finding 600 boys in a sample of ==1000== children as likely as (b) finding 60 boys in a sample of ==100== children?
+		- (assuming even distribution of sexes, ==(a)== is far less likely)
 
-(assuming even distribution of sexes, --- is far less likely)
-
-- **------------ fallacy**: assuming that small samples will be representative of population; this violates the law of large numbers
+- **==small-sample== fallacy**: assuming that small samples will be representative of population; this violates the law of large numbers
 	- e.g., There is a disease that has an incidence of 1 in 1,000. A test to detect it has a false positive rate of 5%. What are the chances that someone with a positive result actually has the disease?
 
-(mean response = ----%; mode = --%; correct = --%)
+(mean response = ==55.9==%; mode = --%; correct = --%)
 
 (1 in 1,000 has disease, 999 do not; 5% of --- = --
 
