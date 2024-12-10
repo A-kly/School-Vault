@@ -173,31 +173,31 @@ Gp 2: Imagine that you decided to see a play where the price of one ticket is $2
 - **==small-sample== fallacy**: assuming that small samples will be representative of population; this violates the law of large numbers
 	- e.g., There is a disease that has an incidence of 1 in 1,000. A test to detect it has a false positive rate of 5%. What are the chances that someone with a positive result actually has the disease?
 
-(mean response = ==55.9==%; mode = --%; correct = --%)
+(mean response = ==55.9==%; mode = ==95==%; correct = ==2==%)
 
-(1 in 1,000 has disease, 999 do not; 5% of --- = --
+(1 in 1,000 has disease, 999 do not; 5% of ==999== = ==50==
 
- -- test positive; only ---- actually has disease = --%)
+ ==51== test positive; only ==1/51== actually has disease = ==2==%)
 
-- **---- rate fallacy**: reasoning based on distinctive features, not probability in the population
+- **==base== rate fallacy**: reasoning based on distinctive features, not probability in the population
 	- e.g., Linda is 31 years old, single, outspoken, and very bright. As a student, she majored in philosophy, and was deeply concerned with issues of discrimination and social justice, and also participated in anti-nuclear demonstrations.
 
-Which is more probable, that she is a bank teller, or that she is a bank teller who is an ------ --------?
+Which is more probable, that she is a bank teller, or that she is a bank teller who is an ==active feminist==?
 
-(there are ---- bank tellers than -------- bank tellers)
+(there are ==more== bank tellers than ==feminist== bank tellers)
 
-- **----------- fallacy**: probability of a conjunction is less than that for a single condition
+- **==conjunction== fallacy**: probability of a conjunction is less than that for a single condition
 	- e.g., Flip a coin: H T H H H H H H
 
 What will come up next?
 
 (each side has 50% chance of coming up, each toss)
 
-- **--------- fallacy**: reasoning based on expectation, not probability
+- **==gambler’s== fallacy**: reasoning based on expectation, not probability
 
 **Availability Heuristic** (Tversky & Kahneman, 1973)
 
-- judging probability by how ------ examples are retrieved
+- judging probability by how ==easily== examples are retrieved
 	- e.g., Are there more words that begin with “k,” or have “k” as the third letter?
 
 - causes:
