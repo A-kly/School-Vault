@@ -201,22 +201,22 @@ What will come up next?
 	- e.g., Are there more words that begin with “k,” or have “k” as the third letter?
 
 - causes:
-- **-----------**: more familiar items more easily retrieved
-- **-------**: retrieving more recent items causes overestimation of probability
-- **---------- heuristic**: probability judgment affected by ability to imagine an event
+	- **==familiarity==**: more familiar items more easily retrieved
+	- **==recency==**: retrieving more recent items causes overestimation of probability
+	- **==simulation== heuristic**: probability judgment affected by ability to imagine an event
 
 **Anchoring and Adjustment Heuristic** (Tversky & Kahneman, 1974)
 
-- initial approximation (------) may affect later judgments (----------)
+- initial approximation ==(anchor)== may affect later judgments ==(adjustment)==
 	- e.g., How long is the Mississippi?
 
-|   |   |
-|---|---|
-|**“Greater or less than...**|**Average response:**|
-|...500 miles?”|------ miles|
-|...5,000 miles?”|------ miles|
+|                              |                       |
+| ---------------------------- | --------------------- |
+| **“Greater or less than...** | **Average response:** |
+| ...500 miles?”               | ~==1000== miles       |
+| ...5,000 miles?”             | ~==2000== miles       |
 
-(initial number influenced estimates; answer = ----- miles)
+(initial number influenced estimates; answer = ==2340== miles)
 
 **Overconfidence** (Fischhoff, Slovic, & Lichtenstein, 1977)
 
@@ -224,9 +224,9 @@ What will come up next?
 	- e.g., weaker tournament chess players believe they can beat someone with the same skill level more than two-thirds of the time (Chabris et al., 2014)
 
 - causes:
-- people unaware their knowledge is based on unreliable information
-- ------ effect: difficulty in recalling information
-- includes confirmation bias
+	- people unaware their knowledge is based on unreliable information
+	- ==memory== effect: difficulty in recalling information
+	- includes confirmation bias
 
 **Hindsight Bias** (Fischhoff & Beyth, 1975)
 
@@ -237,21 +237,20 @@ What will come up next?
 - hindsight group were given a plausible diagnosis in advance
 - hindsight group were 2-3 times more likely to agree with the given diagnosis than the foresight group (Arkes et al., 1981)
 - causes (Roese & Vohs, 2012):
-- memory distortion
-- beliefs about events’ objective likelihoods (-------------)
-- subjective beliefs about one’s own prediction abilities (--------------)
+	- memory distortion
+	- beliefs about events’ objective likelihoods ==(inevitability)==
+	- subjective beliefs about one’s own prediction abilities ==(foreseeability)==
 
 **Illusory Correlation** (Chapman, 1967)
 
 - judging a correlation where none exists (or vice-versa)
 	- e.g., Is there a relationship between height and temperament?
 
-|   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|
-|height:|80|63|61|79|74|69|71|75|77|60|
-|temperament:|75|66|60|90|60|42|31|60|81|39|
+| height:      | 80  | 63  | 61  | 79  | 74  | 69  | 71  | 75  | 77  | 60  |
+| ------------ | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| temperament: | 75  | 66  | 60  | 90  | 60  | 42  | 31  | 60  | 81  | 39  |
 
-(correlation: -r- = -----; -p- = .08)
+(correlation: -r- = ==.57==; -p- = .08)
 
 **Confirmation Bias** (Wason, 1960) ==IMPORTANT==
 
