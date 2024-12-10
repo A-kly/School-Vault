@@ -151,7 +151,7 @@ e.g., energy conservation appeals that focus on savings (gains) are less powerfu
 	- a) sure ==loss== of $10,000
 	- b) 50% chance of ==losing== $20,000 and 50% chance of losing $0
 
-- if framed in terms of gains, people are risk-------; if framed in terms of losses, people are risk--------
+- if framed in terms of gains, people are risk-==averse==; if framed in terms of losses, people are risk--------
 
 Kahneman & Tversky (1984):
 
