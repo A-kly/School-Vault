@@ -106,9 +106,9 @@ James McKeen Cattell (1890):
 	-  14-point gain from 1932 to 1978
 	-  annual gain from 1947-1972 was 0.31 points (0.36 in the 1990s)
 	-  greatest increases seen in lower grades, but not for children in grade 12 (limit?)
-	-  not all subtests increase equally, thus intelligence is not a ------ entity
+	-  not all subtests increase equally, thus intelligence is not a ==single== entity
 	- the nature of intelligence has changed from practical to conceptual, due to social change
-		- e.g., What do dogs and rabbits have in ------?
+		- e.g., What do dogs and rabbits have in ==common==?
 	- increases in IQ are not be due to changes in genetics--they must be -------------
 	-  influence of television, schooling, parenting, etc.
 	-  kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
