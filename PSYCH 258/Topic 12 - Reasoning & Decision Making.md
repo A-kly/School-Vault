@@ -143,16 +143,13 @@ e.g., energy conservation appeals that focus on savings (gains) are less powerfu
 **Framing Effect** (Tversky & Kahneman, 1981)
 
 - judgments can be affected by the way information is presented
-	- e.g., Which would you choose?
 
-a) sure ==gain== of $10,000
-
-b) 50% chance of ==getting== $20,000 and 50% chance of getting $0
-	- e.g., Which would you choose?
-
-a) sure ---- of $10,000
-
-b) 50% chance of ------ $20,000 and 50% chance of losing $0
+- e.g., Which would you choose?
+	- a) sure ==gain== of $10,000
+	- b) 50% chance of ==getting== $20,000 and 50% chance of getting $0
+- e.g., Which would you choose?
+	- a) sure ==loss== of $10,000
+	- b) 50% chance of ==losing== $20,000 and 50% chance of losing $0
 
 - if framed in terms of gains, people are risk-------; if framed in terms of losses, people are risk--------
 
