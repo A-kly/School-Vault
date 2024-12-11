@@ -355,20 +355,20 @@ Perceptron:
 New Connectionism:
 
 - algorithms were developed to allow ANNs to self-modify connections in multilayer networks (Rumelhart et al., 1986)
-- result: ANNs with more sophisticated neurons used feedback to ------ connection weights (**supervised learning**)
-- were able to ----- from experience
+- result: ANNs with more sophisticated neurons used feedback to ==modify== connection weights (**supervised learning**)
+- were able to ==learn== from experience
 - had greater computational power; could solve more complex problems
 - however, the computational limitations of this approach eventually became apparent leading to a second AI winter in the 1990s
 
 Deep Learning:
 
-- new approach to ANNs inspired by the structure and organization of the -------- ------, starting in the mid-2000s leading to an “AI spring” (e.g., Krizhevsky et al., 2012: AlexNet)
+- new approach to ANNs inspired by the structure and organization of the ==cerebral cortex==, starting in the mid-2000s leading to an “AI spring” (e.g., Krizhevsky et al., 2012: AlexNet)
 - contributing factors:
-- access to huge, labeled datasets
-- availability of enormous computing power in graphics-processing units (GPUs) originally designed for video games
-- multiple ------ of neurons, allowing representation of more abstract concepts
+	- access to huge, labeled datasets
+	- availability of enormous computing power in graphics-processing units (GPUs) originally designed for video games
+	- multiple ==layers== of neurons, allowing representation of more abstract concepts
 
-e.g., pixels ![→](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/right-new.png) edges ![→](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/right-new.png) features ![→](PSYCH%20258-%20Human%20&%20Artificial%20Intelligence-files/right-new.png) faces
+e.g., pixels -> edges -> features -> faces
 
 - examples:
 - Google Brain (Le at al., 2012):
