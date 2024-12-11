@@ -109,7 +109,7 @@ James McKeen Cattell (1890):
 	-  not all subtests increase equally, thus intelligence is not a ==single== entity
 	- the nature of intelligence has changed from practical to conceptual, due to social change
 		- e.g., What do dogs and rabbits have in ==common==?
-	- increases in IQ are not be due to changes in genetics--they must be -------------
+	- increases in IQ are not be due to changes in genetics--they must be ==environmental==
 	-  influence of television, schooling, parenting, etc.
 	-  kids watching basketball games on TV could learn new moves and improve their performance to match star players; their improved performance would challenge and enrich the playing of other kids on the court
 	-  jobs increasingly required more logical reasoning and analysis, so schooling focused more on logical reasoning and analysis and more people complete high school, leading to generational changes in abstract reasoning
@@ -126,7 +126,7 @@ Charles Spearman (1927):
 - some evidence for a general “-g- ” factor of intelligence
 - correlations are not perfect; there are specific factors affecting each subtest
 - pros & cons:
-	- [p] more ------- tasks (e.g., academic achievement, job performance) highly correlated with -g-
+	- [p] more ==complex== tasks (e.g., academic achievement, job performance) highly correlated with -g-
 	- [c] other theorists have proposed other intellectual abilities that are uncorrelated with each other
 
 **Theory of Multiple Intelligences** (Howard Gardner, 2008, 2011b):
