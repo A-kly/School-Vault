@@ -96,17 +96,17 @@ Bacteria
 - illness not caused by bad air (“miasma”)
 - bacteria cause infections
 - demonstrated that germs did not spontaneously generate
-- single-cell organisms found naturally on skin, in mucous membranes, and lining of intestinal tract (-------- flora)
+- single-cell organisms found naturally on skin, in mucous membranes, and lining of intestinal tract ==(resident)== flora)
 - unknown how many kinds there are
 - may be aerobic, or anaerobic (do not require oxygen)
-- there are over 300 kinds in your ----- alone
-- in/on your body, there are about as many bacteria as there are ----- cells
+- there are over 300 kinds in your ==mouth== alone
+- in/on your body, there are about as many bacteria as there are ==human== cells
 
 Antibiotics
 
-- Alexander Fleming (1928): discovered that bacteria did not survive on plate ------------ by bread mould
+- Alexander Fleming (1928): discovered that bacteria did not survive on plate ==contaminated== by bread mould
 - penicillin widely available by early 1940s
-- modern -----------:
+- modern ==antibiotics==:
 - bacteriostatic: inhibit growth, allowing host to generate an immune response
 - bacteriocidal: kill bacteria
 - mechanisms: attack outer wall or inner membrane, or attack chemical pathways necessary for bacteria to survive and multiply
