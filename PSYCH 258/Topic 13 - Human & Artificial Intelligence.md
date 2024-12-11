@@ -206,23 +206,23 @@ Duckworth & Seligman (2005):
 
 John von Neumann (1945):
 
-- conceived of stored -------- program for controlling operations of computer hardware (vs. physical switches)
+- conceived of stored ==software== program for controlling operations of computer hardware (vs. physical switches)
 - headed team to develop machine to calculate artillery trajectories for Ballistics Research Laboratory
 
 J. Presper Eckert & John W. Mauchly (1946):
 
-- built **-----**: Electronic Numerical Integrator And Calculator in 1946
+- built **==ENIAC==**: Electronic Numerical Integrator And Calculator in 1946
 - first electronic large-scale general-purpose digital computer
-- first to handle ---------- and numeric data
+- first to handle ==alphabetic== and numeric data
 
 Alan Turing (1950):
 
-- asked, “Can machines -----?”
+- asked, “Can machines ==think==?”
 - developed “the imitation game,” a.k.a. the **Turing test**:
-- judge sits in a room, with an ------ in another room
+- judge sits in a room, with an ==entity== in another room
 - communicates with entity via keyboard
 - is the entity human or not?
-- not proposed as a test of ------------
+- not proposed as a test of ==intelligence==
 
 Newell & Simon (1956):
 
@@ -232,38 +232,35 @@ Newell & Simon (1956):
 
 “**Artificial intelligence**”coined by John McCarthy in 1956
 
-- programs were not “------”, but didn’t have to be
+- programs were not “==brains==”, but didn’t have to be
 
 e.g., flying: birds vs. ornithopters vs. airplanes
 
 Computer Vision
 
 - Marvin Minsky, Terry Winograd attempted robotic vision
-- used simplified version of the world: “----- world”
+- used simplified version of the world: “==blocks== world”
 - robots programmed to “see” and move blocks
-- not very ----------
-
-e.g., tried to build tower from top down
+- not very ==successful==
+	- e.g., tried to build tower from top down
 
 AI & Language
 
 - Weizenbaum (1966) wrote ELIZA, a virtual Rogerian therapist
-- was merely a “bag of ------”
+- was merely a “bag of ==tricks==”
 - Chamberlain & Etter (1984) created RACTER (short for “raconteur”)
 - BASIC program, running on Z80 chip with 64K RAM
-- RACTER “wrote” -The Policeman’s Beard is Half Constructed-, a collection of ------ and prose
-- these are mere “-----------”, with primitive knowledge bases; understanding language is hard
+- RACTER “wrote” -The Policeman’s Beard is Half Constructed-, a collection of ==poetry== and prose
+- these are mere “==chatterbots==”, with primitive knowledge bases; understanding language is hard
 
 Machine Translation
 
 - could work word-by-word (sort of)
-- plagued by problems due to inherent --------- of language
+- plagued by problems due to inherent ==ambiguity== of language
+	- e.g., “Mary saw the bicycle in the store window, and she wanted it.”
+	- vs. “Mary saw the bicycle in the store window; she looked at it longingly and pressed her nose up against it.”
 
-e.g., “Mary saw the bicycle in the store window, and she wanted it.”
-
-vs. “Mary saw the bicycle in the store window; she looked at it longingly and pressed her nose up against it.”
-
-- a sentence in a technical journal had 1+ ------- syntactically correct interpretations
+- a sentence in a technical journal had 1+ ==million== syntactically correct interpretations
 
 ## Criticisms
 
@@ -276,7 +273,7 @@ Moravec’s paradox (1988):
 Dreyfus (1972):
 
 - wrote -What computers can’t do: A critique of artificial reason-
-- problems due to fundamental ----------- between humans and computers:
+- problems due to fundamental ==differences== between humans and computers:
 - consciousness
 - body to unitize sensory experience
 - fatigue, boredom, drive
