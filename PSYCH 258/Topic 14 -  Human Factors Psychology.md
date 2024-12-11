@@ -32,7 +32,7 @@ Worst case of bad design: **==revenge== effects** (Tenner, 1996): unforeseen, ir
 
 e.g., arthritic hands cannot open ==child==-proof bottles of pain reliever
 
-(solution: “-----open” bottles)
+(solution: “==easy==-open” bottles)
 
 - not the same thing as trade-offs or side effects, which are known in advance and don’t -prevent- use
 
@@ -43,8 +43,8 @@ Who can help in the design of things that are understandable and usable?
 **Human factors psychology**:
 
 - the design of equipment and systems that people use--intentionally taking into account human perception, cognition, and behaviour
-- also called **----------** (Greek): -ergo- (“work”) and -nomos- (“laws”), coined by Jastrzębowski (1857)
-- or **cognitive -----------**: applies knowledge of cognitive psychology to the design and operation of human-machine systems
+- also called **==ergonomics==** (Greek): -ergo- (“work”) and -nomos- (“laws”), coined by Jastrzębowski (1857)
+- or **cognitive ==engineering==**: applies knowledge of cognitive psychology to the design and operation of human-machine systems
 
 ---
 
