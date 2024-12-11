@@ -277,38 +277,38 @@ Dreyfus (1972):
 - consciousness
 - body to unitize sensory experience
 - fatigue, boredom, drive
-- intentionality (sense of -------)
+- intentionality (sense of ==purpose==)
 
 Lighthill (1972):
 
-- 20 years of research into AI had been a great --------------
+- 20 years of research into AI had been a great ==disappointment==
 
-Result: “AI ------” of decreased funding and research.
+Result: “AI ==winter==” of decreased funding and research.
 
 ---
 
 ## Classical AI: Expert Systems
 
 - everyday, generalized intelligence is hugely complex
-- instead, concentrate on intelligence displayed by experts in a ------ domain
-- expert system consists of **--------- base** developed by **knowledge engineer**
-- uses **inference ------** to apply rules to facts, to solve a problem
+- instead, concentrate on intelligence displayed by experts in a ==narrow== domain
+- expert system consists of **==knowledge== base** developed by **knowledge engineer**
+- uses **inference ==engine==** to apply rules to facts, to solve a problem
 - number of expert systems has increased to tens of thousands; $1+ billion industry
 - most popular: finance, manufacturing control, fault diagnosis
 
 Shortliffe & colleagues (1973): MYCIN
 
 - asks questions like, “Has the patient recently suffered burns?” or “Does the patient have a known allergy to Colistin?”
-- knowledge of bacterial infections represented as ~450 -----
-- performed as well as ------- (better than med students and residents) at Stanford Medical School (Yu et al., 1979)
+- knowledge of bacterial infections represented as ~450 ==rules==
+- performed as well as ==faculty== (better than med students and residents) at Stanford Medical School (Yu et al., 1979)
 
 Pros & Cons:
 
 - [p] highly specialized and accurate
 
-- [c] difficult to --------- knowledge of experts
+- [c] difficult to ==represent== knowledge of experts
 
-- [c] no intuition; could not ----- from mistakes
+- [c] no intuition; could not ==learn== from mistakes
 
 - [c] limited to domain of expertise (“weak” or “narrow” AI)
 
@@ -318,14 +318,14 @@ Pros & Cons:
 - explicitly represented background knowledge
 - give a frame of reference
 
-Lenat (1984, 2017): Cyc (short for “------------”)
+Lenat (1984, 2017): Cyc (short for “==encyclopedia==”)
 
 - explicitly represents knowledge -not- found in an encyclopedia
-- “common sense knowledge base” of over 24 million hand-entered rules; divided into “-------------”
+- “common sense knowledge base” of over 24 million hand-entered rules; divided into “==microtheories==”
 
 e.g., “On January 2, Abraham Lincoln was in Washington” implies that:
 
-- Lincoln’s left --- was probably in Washington, too
+- Lincoln’s left ==arm== was probably in Washington, too
 - his parents remained his parents for life
 - he was in Washington for the whole day
 - pros & cons:
@@ -340,17 +340,17 @@ e.g., “On January 2, Abraham Lincoln was in Washington” implies that:
 
 all of the above are GOFAI (“Good Old Fashioned Artificial Intelligence”), or classical symbolic AI based on human-coded programming
 
-- the problem with AI is that it doesn’t have a -----
+- the problem with AI is that it doesn’t have a ==brain==
 - solution: give it a brain!
 - artificial neural networks (ANNs) are inspired by the function of neurons
 - a.k.a. PDP approach, or **connectionism**: emergent properties that arise from interconnected networks of processing units
-- instead of being programmed with explicit rules, ANNs apply **------- --------**: letting computers develop algorithms iteratively from data
+- instead of being programmed with explicit rules, ANNs apply **==machine learning==**: letting computers develop algorithms iteratively from data
 
 Perceptron:
 
 - early attempt at ANN by Frank Rosenblatt (1958)
 - had array of 400 photocells in a one-layer neural network that could classify images into one of two categories
-- connections could be modified, but network was simple and computationally -------
+- connections could be modified, but network was simple and computationally ==limited==
 
 New Connectionism:
 
