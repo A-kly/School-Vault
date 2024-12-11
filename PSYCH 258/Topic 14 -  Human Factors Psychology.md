@@ -66,15 +66,15 @@ Who can help in the design of things that are understandable and usable?
 - research fields: social psychology, sociology
 - teams work cooperatively toward a common goal (groups merely have something in common with other members)
 - diffusion of responsibility decreases reliability of group
-- affected by decision-making factors like ----------
+- affected by decision-making factors like ==groupthink==
 
-4. **Organizational & Management Behaviour**: the structure of -----------
+4. **Organizational & Management Behaviour**: the structure of ==supervision==
 
 - research field: industrial/organizational (“I/O”) psychology, management theory
-- create ------, which affects entire organization
-- responsible for development of ------ culture
+- create ==policy==, which affects entire organization
+- responsible for development of ==safety== culture
 
-5. **----- & Regulatory Rules**: what is allowed/acceptable
+5. **==Legal== & Regulatory Rules**: what is allowed/acceptable
 
 - research field: legal scholars, governments?
 - restrict what can/cannot be done, via laws
@@ -84,7 +84,7 @@ Who can help in the design of things that are understandable and usable?
 - research fields: cultural anthropology, sociology, economics, political science
 - affected by economic and political pressures, cultural beliefs
 
-Also consider ------------ among components.
+Also consider ==interactions== among components.
 
 ## Case Study: Antibiotic Resistance
 
