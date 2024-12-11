@@ -373,28 +373,28 @@ e.g., pixels -> edges -> features -> faces
 - examples:
 - Google Brain (Le at al., 2012):
 
--  has 16,000 processors with 1 billion connections
-
--  watched 10 million YouTube videos and by itself was able to identify what a --- was despite being fed no information on distinguishing features that might help identify it
+	-  has 16,000 processors with 1 billion connections
+	
+	-  watched 10 million YouTube videos and by itself was able to identify what a ==cat== was despite being fed no information on distinguishing features that might help identify it
 
 - Microsoft’s Project Adam (Chilimbi et al., 2014):
 
--  has 2 billion connections, requires 30× fewer processors, but is claimed to be twice as accurate as competitors
-
--  processed ImageNet database, which has 14 million images organized into 22,000 categories
-
--  result: can identify dogs in images, even whether a ----- is a Pembroke or a Cardigan
+	-  has 2 billion connections, requires 30× fewer processors, but is claimed to be twice as accurate as competitors
+	
+	-  processed ImageNet database, which has 14 million images organized into 22,000 categories
+	
+	-  result: can identify dogs in images, even whether a ==corgi== is a Pembroke or a Cardigan
 
 Real-World Applications:
 
 - Autonomous vehicle (e.g., Waymo Driver)
 - navigates using data from GPS, camera, LIDAR (laser imaging, detection, and ranging), and multiple radar sensors
-- ANN also “------” by human driver
+- ANN also “==Taught==” by human driver
 - has driven over 32 million km by itself
 - autonomous technologies increasingly available in consumer vehicles (e.g., automatic parking, collision avoidance systems, autonomous cruise control, etc.)
 - limitations:
 
-- [c] cannot drive on an area not yet ------
+- [c] cannot drive on an area not yet ==mapped==
 
 - [c] cannot detect lane markings in wet/snowy conditions
 
@@ -408,10 +408,10 @@ Real-World Applications:
 
 -  transformer: deep-learning architecture that processes sequential data (like words in a sentence)
 
-- GPT-4o estimated to have 1.76 trillion “----------” or variables; these include weights of connections between ANN neurons
+- GPT-4o estimated to have 1.76 trillion “==parameters==” or variables; these include weights of connections between ANN neurons
 - limitations:
 
-- [c] often gives plausible but --------- answers
+- [c] often gives plausible but ==incorrect== answers
 
 - [c] subject to algorithmic bias present in the training data, including gender and racial biases
 
@@ -421,19 +421,19 @@ Real-World Applications:
 
 **AI Calibre** (Urban, 2015)
 
-- **AI Calibre 1: Artificial ------ Intelligence**
+- **AI Calibre 1: Artificial ==Narrow== Intelligence**
 - may be equal to or superior to human intelligence in a very narrow domain
 - but is the same as humans only at level 1, computational theory, in Marr’s tri-level hypothesis
 
 e.g., IBM’s Deep Blue defeated world chess champion Kasparov in 1997
 
-- **AI Calibre 2: Artificial ------- Intelligence**
+- **AI Calibre 2: Artificial ==General== Intelligence**
 - can perform the same tasks a human can
 - is the same as humans at level 1, and at level 2, representation and algorithm as well
 
 e.g., N/A
 
-- **AI Calibre 3: Artificial -----------------**
+- **AI Calibre 3: Artificial ==Superintelligence==**
 - “any intellect that greatly exceeds the cognitive performance of humans in virtually all domains of interest” (Bostrom, 2014, p.22)
 - likely will be the same as humans only at the level of computational theory
 
@@ -441,7 +441,7 @@ e.g., N/A
 
 ### AI & Consciousness
 
-John Searle (1980): The ------- ---- argument
+John Searle (1980): The ==Chinese room== argument
 
 - imagine you are alone in a room
 
@@ -451,22 +451,22 @@ John Searle (1980): The ------- ---- argument
 4. you send slip out
 
 - you do not understand Chinese
-- so where is the ------------- of Chinese?
+- so where is the ==understanding== of Chinese?
 - computers just manipulate symbols; they will never have a “mind” or “consciousness” which is an emergent property
 - based on two ideas:
-- brains cause -----
-- ------ does not suffice for semantics
+- brains cause ==minds==
+- ==syntax== does not suffice for semantics
 
 Ray Kurzweil (1999): -The Age of Spiritual Machines: When Computers Exceed Human Intelligence-
 
 - computers are doubling in power about every 2 years
-- predicted they should have computational capacity comparable to human brain by ----
+- predicted they should have computational capacity comparable to human brain by ==2030==
 - defines consciousness as:
-- the ability to have subjective experience
-- the ability of a being, animal or entity to have self-perception and self----------
-- the ability to feel
-- predicted a computer will declare, “I think, therefore I am.” before ----
-- in 2005, predicted a “technological -----------,” when artificial superintelligence emerges, in 2045
+	- the ability to have subjective experience
+	- the ability of a being, animal or entity to have self-perception and self-==awareness==
+	- the ability to feel
+	- predicted a computer will declare, “I think, therefore I am.” before ==2070==
+	- in 2005, predicted a “technological ==singularity==,” when artificial superintelligence emerges, in 2045
 
 “The question of whether machines can think...is about as relevant as the question of whether submarines can swim.” -- Edsger W. Dijkstra, 1984
 
@@ -474,7 +474,7 @@ Ray Kurzweil (1999): -The Age of Spiritual Machines: When Computers Exceed Human
 
 - emerging discipline developing AI systems that prioritize human needs, values, and capabilities
 - AI should enhance human abilities and well-being, not replace or diminish human roles
-- is interdisciplinary, involving psychologists, ---------, and AI experts
+- is interdisciplinary, involving psychologists, ==ethicists==,  and AI experts
 - goal is to create AI that is fair, respects privacy, and delivers equitable outcomes
 
 e.g., personalized healthcare assistant AI
