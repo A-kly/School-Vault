@@ -50,18 +50,18 @@ Who can help in the design of things that are understandable and usable?
 
 ## The Systems Approach
 
-1. **Physical ----------**: the immediate environment
+1. **Physical ==Ergonomics==**: the immediate environment
 
-- research field: **-------------** (measurement of human physical variation)
+- research field: **==anthropometry==** (measurement of human physical variation)
 - design of displays, controls, etc.
 
-2. **---------- Behaviour**: the actor
+2. **==Individual== Behaviour**: the actor
 
 - research field: psychology
-- ultimate “cause” of errors (i.e., -----)
+- ultimate “cause” of errors (i.e., ==blame==)
 - affected by memory, biases, heuristics
 
-3. **Interpersonal, Team, & Group Behaviour**: ----- dynamics
+3. **Interpersonal, Team, & Group Behaviour**: ==group== dynamics
 
 - research fields: social psychology, sociology
 - teams work cooperatively toward a common goal (groups merely have something in common with other members)
