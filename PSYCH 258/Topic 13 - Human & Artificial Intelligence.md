@@ -131,48 +131,48 @@ Charles Spearman (1927):
 
 **Theory of Multiple Intelligences** (Howard Gardner, 2008, 2011b):
 
-- -------- for intelligence:
-- isolated by brain damage
-- existence of prodigies, savants
-- identifiable core operations (e.g., music: melody, harmony, rhythm, etc.)
-- distinctive developmental history
-- evolutionary plausibility
-- support from experimental psychology
-- psychometric support
-- encodable in a symbol system
+- ==criteria== for intelligence:
+	- isolated by brain damage
+	- existence of prodigies, savants
+	- identifiable core operations (e.g., music: melody, harmony, rhythm, etc.)
+	- distinctive developmental history
+	- evolutionary plausibility
+	- support from experimental psychology
+	- psychometric support
+	- encodable in a symbol system
 - multiple intelligences:
-- **----------**: poets, writers, linguists
-- **--------mathematical**: mathematicians, scientists, philosophers
-- **-------**: composers, conductors, musicians
-- **spatial**: architects, artists, navigators
-- **-------kinesthetic**: dancers, athletes, actors
-- **-------------** (understanding others) and **intrapersonal** (understanding oneself): psychiatrists, politicians, anthropologists
-- **naturalist**: biologists, naturalists
-- (maybe also existential: spiritual leaders?)
+	- **==linguistics==**: poets, writers, linguists
+	- **==logical==-mathematical**: mathematicians, scientists, philosophers
+	- **==musical==**: composers, conductors, musicians
+	- **spatial**: architects, artists, navigators
+	- **==bodily==-kinesthetic**: dancers, athletes, actors
+	- **==interpersonal==** (understanding others) and **intrapersonal** (understanding oneself): psychiatrists, politicians, anthropologists
+	- **naturalist**: biologists, naturalists
+	- (maybe also existential: spiritual leaders?)
 - how should these be used?
-- descriptive, not ------------
+- descriptive, not ==prescriptive==
 - not in standardized test, but in real life or simulations
-- for more effective -------- and assessment
+- for more effective pedagogy and assessment
 
 (but there is virtually no evidence that matching type of instruction to “learning style” optimizes learning (Pashler et al., 2008))
 
 - criticisms:
 
-- [c] lacks empirical --------; rather, many of Gardner’s intelligences correlate with -g-
+- [c] lacks empirical ==evidance==; rather, many of Gardner’s intelligences correlate with -g-
 
 - [c] there is no test of multiple intelligences; assessment relies on subjective judgment
 
-- [c] “intelligences” are more like “---------” or “aptitudes” (what’s the difference?)
+- [c] “intelligences” are more like “==talents==” or “aptitudes” (what’s the difference?)
 
 **Triarchic Theory of Successful Intelligence** (Robert Sternberg, 1985):
 
-1. **------------** (analytical) **intelligence**
+1. **==Componential==** (analytical) **intelligence**
 
-a) **--------------**: recognizing a problem, selecting a procedure to solve it, checking the results
+a) **==Metacomponents==**: recognizing a problem, selecting a procedure to solve it, checking the results
 
 b) **performance components**: planning, implementing the procedure
 
-c) **----------acquisition components**: learning how to solve a problem
+c) **-acquisition components**: learning how to solve a problem
 
 2. **------------** (creative) **intelligence**
 
