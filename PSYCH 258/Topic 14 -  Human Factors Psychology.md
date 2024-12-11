@@ -15,22 +15,22 @@
 
 ## The Psychology of Everyday Things
 
-Some things are ---- to use
+Some things are ==easy== to use
 
 e.g., using a pen, reading a book
 
-Some things are ---
+Some things are ==not==
 
 e.g., flying an Airbus A380, using doors
 
 Why are some things easier to use than others?
 
-- ----------
-- better ------!
+- ==Simplicity==
+- better ==design==!
 
-Worst case of bad design: **------- effects** (Tenner, 1996): unforeseen, ironic, and unintended consequences of complex systems
+Worst case of bad design: **==revenge== effects** (Tenner, 1996): unforeseen, ironic, and unintended consequences of complex systems
 
-e.g., arthritic hands cannot open ------proof bottles of pain reliever
+e.g., arthritic hands cannot open ==child==-proof bottles of pain reliever
 
 (solution: “-----open” bottles)
 
