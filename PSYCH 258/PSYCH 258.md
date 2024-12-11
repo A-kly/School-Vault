@@ -17,6 +17,7 @@
 - [[Topic 11 - Problem Solving, Expertise, & Creativity]]
 - [[Topic 12 - Reasoning & Decision Making]]
 - [[Topic 13 - Human & Artificial Intelligence]]
+- [[Topic 14 -  Human Factors Psychology]]
 - [[Word matching]]
 
 %% End Waypoint %%
