@@ -172,20 +172,17 @@ a) **==Metacomponents==**: recognizing a problem, selecting a procedure to solve
 
 b) **performance components**: planning, implementing the procedure
 
-c) **-acquisition components**: learning how to solve a problem
+c) **==Knowledge==-acquisition components**: learning how to solve a problem
 
-2. **------------** (creative) **intelligence**
+2. **==Experiential==** (creative) **intelligence**
+	- applying your knowledge on a specific task (automated or novel tasks)
+	- may require creativity/divergent thinking
 
-- applying your knowledge on a specific task (automated or novel tasks)
-- may require creativity/divergent thinking
-
-3. **----------** (practical) **intelligence**
-
-- ability to a) adapt to, b) shape, or c) select one’s environment
-- measured by STAT (Sternberg Triarchic Abilities Test)
-- intelligence is more a matter of using what you’ve got, not how much you’ve got
+3. **==Contextual==** (practical) **intelligence**
+	- ability to a) adapt to, b) shape, or c) select one’s environment
+	- measured by STAT (Sternberg Triarchic Abilities Test)
+	- intelligence is more a matter of using what you’ve got, not how much you’ve got
 - criticisms:
-
 - [c] traditional intelligence tests correlate with income, occupational prestige, and ability to stay out of jail, which are supposedly measures of practical intelligence
 
 ## Other Factors
@@ -195,7 +192,7 @@ Terman & colleagues: “Genetic Studies of Genius” (1925-1959)
 - how to bridge gap between potential and achievement?
 - 1,528 gifted children with IQ greater than 135 (top 1%) were followed starting in 1921
 - compared most vs. least successful (school/work/ambition)
-- no -- difference, but difference in ----------
+- no ==IQ== difference, but difference in ==Motivation==
 
 Duckworth & Seligman (2005):
 
