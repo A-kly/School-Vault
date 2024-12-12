@@ -118,14 +118,14 @@ Antibiotic Resistance
 
 - bacteria constantly mutate
 - an antibiotic may kill most--but not all--pathogenic bacteria
-- survivors have resistance genes: “---------”; will propagate and be transmitted
+- survivors have resistance genes: “==superbugs==”; will propagate and be transmitted
 - microbiome (beneficial resident bacteria which compete with pathogens) also affected
 - resistance can be transferred via DNA, plasmids, or viruses
 - common resistant strains:
 - methicillin-resistant -Staphylococcus aureus- (MRSA)
 - vancomycin-resistant -Enterococci- (VRE)
 - penicillin-resistant -Streptococcus pneumoniae- (PRSP)
-- use of antibiotics is a major cause of resistance (“the antibiotic -------”)
+- use of antibiotics is a major cause of resistance (“the antibiotic ==paradox==”)
 - is a serious problem (CCA, 2019)
 - 26% of bacterial infections in Canada are resistant to first-line antibiotics
 - in 2018, there were 250,000 resistant bacterial infections in Canada, and more than 5,400 deaths
@@ -133,7 +133,7 @@ Antibiotic Resistance
 
 Environment
 
-- 50-70% of antibiotic use in U.S. is in -----------
+- 50-70% of antibiotic use in U.S. is in ==agriculture==
 - >75% in Canada (since 2018, antibiotics for livestock require a prescription)
 - excreted residues can spread into soil and water supplies, fostering resistant bacterial strains
 - trace quantities found in ----- supplies in North America and Europe
