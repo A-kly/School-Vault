@@ -107,10 +107,10 @@ Antibiotics
 - Alexander Fleming (1928): discovered that bacteria did not survive on plate ==contaminated== by bread mould
 - penicillin widely available by early 1940s
 - modern ==antibiotics==:
-- bacteriostatic: inhibit growth, allowing host to generate an immune response
-- bacteriocidal: kill bacteria
-- mechanisms: attack outer wall or inner membrane, or attack chemical pathways necessary for bacteria to survive and multiply
-- 15 groups of antibiotics
+	- bacteriostatic: inhibit growth, allowing host to generate an immune response
+	- bacteriocidal: kill bacteria
+	- mechanisms: attack outer wall or inner membrane, or attack chemical pathways necessary for bacteria to survive and multiply
+	- 15 groups of antibiotics
 
 e.g., group IV (macrolides and lincosamines) includes azithromycin (Zithromax®) and clarithromycin (Biaxin®); group IX (glycopeptides) includes vancomycin (Vancocin®)
 
