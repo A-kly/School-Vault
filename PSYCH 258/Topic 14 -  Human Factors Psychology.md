@@ -136,7 +136,7 @@ Environment
 - 50-70% of antibiotic use in U.S. is in ==agriculture==
 - >75% in Canada (since 2018, antibiotics for livestock require a prescription)
 - excreted residues can spread into soil and water supplies, fostering resistant bacterial strains
-- trace quantities found in ----- supplies in North America and Europe
+- trace quantities found in ==water== supplies in North America and Europe
 
 2. **Individual Level**
 
@@ -146,7 +146,7 @@ Environment
 3. **Interpersonal, Team, & Group Behaviour**
 
 - physicians blamed for over-prescription of antibiotics
-- about 33% of 150 million outpatient antibiotic prescriptions are ----------- (Levy, 1998)
+- about 33% of 150 million outpatient antibiotic prescriptions are ==unnecessary== (Levy, 1998)
 - culture to test for bacterial infection takes 2 days
 - if refused prescription for antibiotics, 11% of patients would see another physician
 
@@ -168,19 +168,19 @@ Environment
 
 1. **Physical Level**
 
-- -------- and development into new antibiotics must continue
+- ==research== and development into new antibiotics must continue
 
 2. **Individual Level**
 
 - do not seek antibiotics unless actually required
 - finish taking all prescribed antibiotics
 - change your behaviours to avoid infections
-- do not touch the ------ (eyes, nose, mouth)
+- do not touch the ==T-zone== (eyes, nose, mouth)
 - wear a mask
-- cover your cough: cough and sneeze into your --------, not your hands
+- cover your cough: cough and sneeze into your ==sleeve==, not your hands
 - wash your hands (80% of common infections spread by hands)
 
-1. use warm water and soap (-not- ------------- soap)
+1. use warm water and soap (-not- ==antibacterial== soap)
 2. rub hands for 20 seconds (“Twinkle twinkle” song)
 3. rinse for 10 seconds
 4. dry with a towel
@@ -198,11 +198,11 @@ Environment
 
 5. **Legal and Regulatory Level**
 
-- pass ---- to restrict use of antibiotics in agriculture
+- pass ==laws== to restrict use of antibiotics in agriculture
 
 6. **Societal & Cultural Level**
 
-- change --------- and social norms about antibiotics drug use
+- change ==attitudes== and social norms about antibiotics drug use
 - increase cost of antibiotics
 
 ---
@@ -211,12 +211,12 @@ Environment
 
 Challenges to human factors psychology (Landauer, 2003; Kadir et al., 2019):
 
-- -------- theories studied, instead of concrete applications
+- ==abstract== theories studied, instead of concrete applications
 - subtle psychological effects have been most studied; more information on robust effects needed
-- principles of cognition rarely influence machine ------
-- --------- are largely unaware of cognitive principles
-- more empirical evidence needed from ---------- settings (e.g., workplaces, industry, etc.)
-- research should be more --------, including all levels of the systems approach
+- principles of cognition rarely influence machine ==design==
+- ==designers== are largely unaware of cognitive principles
+- more empirical evidence needed from ==real-world== settings (e.g., workplaces, industry, etc.)
+- research should be more ==holistic==, including all levels of the systems approach
 
 ---
 
