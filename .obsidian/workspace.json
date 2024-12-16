@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "moral therapy",
+                "query": "ultimatum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "bb305376d8ecf05d",
+  "active": "d1f70ec830a48d37",
   "lastOpenFiles": [
     "PSYCH 258/Topic 10 - Visual Imagery & Propositions.md",
     "PSYCH 258/Topic 9 - Conceptual Knowledge.md",
