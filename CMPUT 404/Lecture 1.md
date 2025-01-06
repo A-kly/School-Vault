@@ -1,0 +1,4 @@
+- Eclass or Canvas page to be made
+- Get a cybera account with ualberta email (link will be provided
+- )
+- 
