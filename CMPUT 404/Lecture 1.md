@@ -9,3 +9,6 @@
 
 - Attribution and academic integrity
 	- Cite EVERYONE and EVERYTHING
+	- Read details on citing language models on eclass (eventually)
+		- Shit don't work, don't trust it
+	- 
