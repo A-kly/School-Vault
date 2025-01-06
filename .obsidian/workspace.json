@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "3c03157511d979ae",
+        "id": "779584b5f077c11f",
         "type": "tabs",
         "children": [
           {
-            "id": "bb305376d8ecf05d",
+            "id": "605f04f745d7310f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PSYCH 258/Topic 11 - Problem Solving, Expertise, & Creativity.md",
+                "file": "CMPUT 404/CMPUT 404.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 11 - Problem Solving, Expertise, & Creativity"
+              "title": "CMPUT 404"
+            }
+          },
+          {
+            "id": "4c81a480cbc610ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 404/Lecture 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ultimatum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +90,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -201,11 +216,14 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "d1f70ec830a48d37",
+  "active": "4c81a480cbc610ff",
   "lastOpenFiles": [
+    "CMPUT 404/CMPUT 404.md",
+    "CMPUT 404/Lecture 1.md",
+    "CMPUT 404",
+    "PSYCH 258/Topic 11 - Problem Solving, Expertise, & Creativity.md",
     "PSYCH 258/Topic 10 - Visual Imagery & Propositions.md",
     "PSYCH 258/Topic 9 - Conceptual Knowledge.md",
-    "PSYCH 258/Topic 11 - Problem Solving, Expertise, & Creativity.md",
     "PSYCH 258/Topic 14 -  Human Factors Psychology.md",
     "PSYCH 258/Topic 13 - Human & Artificial Intelligence.md",
     "PSYCH 258/Attachments/p258sHF-1.png",
@@ -237,8 +255,6 @@
     "PSYCH 258/MIDTERM DETAILS.md",
     "PSYCH 258/Topic 3 - Cognitive Neuroscience.md",
     "PSYCH 258/Topic 1&2 - Introduction to Cognitive Psychology.md",
-    "SOC 225/Chapter 4.md",
-    "SOC 225/Chapter 1&3.md",
     "SOC 225/Readings",
     "SOC 225/Media",
     "CMPUT 382/Media",
@@ -248,7 +264,6 @@
     "PSYCH 258/PSYCO 104_ Basic Psychological Processes.html",
     "CMPUT 382",
     "PSYCH 258",
-    "CMPUT 267",
     "Untitled.canvas",
     "The game/Map.canvas"
   ]
