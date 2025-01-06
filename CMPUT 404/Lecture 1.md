@@ -1,4 +1,6 @@
 - Eclass or Canvas page to be made
-- Get a cybera account with ualberta email (link will be provided
-- )
-- 
+- Get a cybera account with ualberta email (link will be provided)
+
+- 5-6 people in the groups
+	- Everyone in the same group should be in the same lab session (MONDAY)
+	- 
