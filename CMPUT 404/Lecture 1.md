@@ -6,3 +6,6 @@
 - Research docker, get an understanding of it
 - `Remote development` and `dev containers `extensions in VS code
 - I will be on my own for front end stuff, and docker image creation.
+
+- Attribution and academic integrity
+	- Cite EVERYONE and EVERYTHING
