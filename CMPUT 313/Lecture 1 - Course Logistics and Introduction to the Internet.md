@@ -3,3 +3,9 @@
 	- understand internet and it's architecture
 	- Learn socket programming
 	- Using emulator and networking tools to learn protocols and applications
+- Evaluation
+	- Assignments ( 3 of them, 15% each)
+		- ==CANNOT DISCUSS solution==, borrow code, look at code, hire people or ==submit LLM generated code==.
+		- Assignment is due in the early evening
+		- ==CONSULT TAs BUT NO ONE ELSE==
+	- 
