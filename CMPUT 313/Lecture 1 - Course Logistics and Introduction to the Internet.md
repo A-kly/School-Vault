@@ -21,4 +21,16 @@
 	- all course materials are copywritten
 	- see course outline for more policies
 
-# Intro to computer netoworks
+# Intro to computer networks
+## what is a computer network
+- Form of communication network
+- **nodes:** devices
+- network carries **packets** (chunks of data)
+- **Links:** connections between devices
+	- point to point connections (one wire connecting each computer to another computer)
+	- Multiple access connections (Data that is sent can be seen by any other computer connected to the same line)
+## Scaling more nodes
+- Switches/routers connect multiple networks and forward packets
+	- Can scale to be more and more nodes
+	- These, all connected are called an **Access Network**
+	- **Edge routers** connect between access networks
