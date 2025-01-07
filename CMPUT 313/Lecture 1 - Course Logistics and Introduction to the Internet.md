@@ -64,4 +64,15 @@
 	- Developed by internet engineering task force (IETF) called Request for Comments (RFC)
 	- nearly 9,000 RFCs
 ![[Pasted image 20250107115528.png|400]]
+- infrastructure that provides services to applications
+- provides programming interfaces
+	- “hooks” allowing sending/receiving apps to “connect” to, use Internet transport service
+## Scale and diversity
+- 5B+ users
+- 1.24 Trillion devices
+- lots of diversity in tech and, devices, applications and services
+- Design goals
+	- Accommodate variety of networks
+	- support multiple types of communications service
+	- permit distributed management of it's resources
 
