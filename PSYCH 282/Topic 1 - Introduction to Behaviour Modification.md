@@ -22,4 +22,13 @@
 	- **Latency**
 		- how long **UNTIL** behaviour happens
 	- *MUST define SPECIFIC behaviour*
-
+- Behaviour is observed, described and recorded
+	- observer detects when action occurs
+	- observer can describe and record as it occurs
+- Behaviour impacts environment
+	- physical and social
+	- effects may be obvious or not
+- Behaviour is lawful
+	- follows preductable rules
+	- environemental factors affect behaviour consistently
+		- improves understanding, pred
