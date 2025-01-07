@@ -1,2 +1,7 @@
 - Goals
-	- Write protogol
+	- Write protocols
+	- understand internet and it's architecture
+	- Learn socket programming
+	- Using emulator and networking tools to learn protocols and applications
+- I have 379 so we good
+- 
