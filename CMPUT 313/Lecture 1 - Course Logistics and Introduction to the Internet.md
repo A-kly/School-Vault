@@ -36,4 +36,13 @@
 	- **Edge routers** connect between *access networks*
 ## Protocols
 - Defines syntax and semantics of messages sent over a network
-	- Format, order, 
+	- Format, order, actions taken 
+	- TCP is an example of this
+	- Data transfer between distributed entities in a network is governed by protocols
+
+## What is the internet?
+- Connects existing netowrks that use different internet technologies
+- Nowadays connects over 100,000 independent networks
+	- Each netowrk often represents administrative boundaries with competing intrests, so the internet is a federated system
+	- no internal changes required to connect to internet
+	- interoperability is biggest goal
