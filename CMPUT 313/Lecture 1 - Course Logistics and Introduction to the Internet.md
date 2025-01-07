@@ -46,3 +46,22 @@
 	- Each netowrk often represents administrative boundaries with competing intrests, so the internet is a federated system
 	- no internal changes required to connect to internet
 	- interoperability is biggest goal
+### Nuts and bolts
+- Billions of computing devices
+	- end hosts, nodes, systems
+	- running network apps at internet's edge
+- Packet switches
+	- Forwards packets, routers, switches
+- Communication links
+	- Fiber, copper, radio, satellite
+- Networks
+	- Collections of devices, routers and links, managed by organization
+- Internet
+	- Netowork of networks
+- Protocols
+	- control sending and receiving of messages
+- Internet standsards
+	- Developed by internet engineering task force (IETF) called Request for Comments (RFC)
+	- nearly 9,000 RFCs
+![[Pasted image 20250107115528.png|400]]
+
