@@ -33,4 +33,7 @@
 - Switches/routers connect multiple networks and forward packets
 	- Can scale to be more and more nodes
 	- These, all connected are called an **Access Network**
-	- **Edge routers** connect between access networks
+	- **Edge routers** connect between *access networks*
+## Protocols
+- Defines syntax and semantics of messages sent over a network
+	- Format, order, 
