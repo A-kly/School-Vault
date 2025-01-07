@@ -8,21 +8,21 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"STAT 151\"  ",
+      "query": "path:\"CMPUT 313\"  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:\"CMPUT 379\"  ",
+      "query": "path:\"CMPUT 325\"  ",
       "color": {
         "a": 1,
         "rgb": 5431420
       }
     },
     {
-      "query": "path:\"PSYCH 105\"  ",
+      "query": "path:\"CMPUT 404\" ",
       "color": {
         "a": 1,
         "rgb": 5405920
