@@ -39,4 +39,16 @@ $$ ∀x∀y : f (x, y) = x ∗ x + y$$
 	- Evaluate for specific argunments
 
 ## Objects in Fun
-- AtomsL 
+- Atoms
+	- primitive, inseperable, includes reals
+- Lists
+	- Defined inductively
+	- () is empty list
+	- if `x1...xn` are atoms, `(x1...xn)` is a list
+	- Nothing else in list
+### List examples
+- Nested lists are allowed
+- `(a (b) c (d))`
+- `(a ((b) c (d) ((((e))))))`
+- `(((((((((()))))))))(((()))))`
+
