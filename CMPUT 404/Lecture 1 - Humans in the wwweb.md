@@ -47,4 +47,13 @@
 		- Accessible to the general public, but is a private space
 		- if you break rules, you can be banned
 		- They have the right to do this
-	- Governement regula
+	- Government regulating institutions that are in charge of regulating these spaces
+	- Calls for regulation of internet, and ai, but it's difficult
+## Cyberspace and Humans
+- We are all connected now, without as many physical limitations as in the past
+- How has it changed us?
+	- How we communicate and behave
+## Cyberspace and AI
+- Internet is now dominated by computers
+- There is a lot of AI generated content
+- Are there humans behind the anonymous IDs?
