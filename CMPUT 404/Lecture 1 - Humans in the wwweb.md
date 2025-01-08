@@ -2,7 +2,7 @@
 - Connections between more than one computer / containers / nodes
 	- must have clients
 	- must have computers
-	- must have connections
+	- must have connection protocols
 - Local networks exists and can be considered a "local web"
 - if connected to the internet, can be a node in a boarder web
 - dark web
@@ -22,3 +22,10 @@
 - ==Links==, media
 # The World Wide Web
 - A bunch of small distributed webs, around the world, like spiderweb
+	- Went over this is 313
+# The cyberspace
+- Sounds like some 90s tech speak
+- Does the cyberspace extend to the real world?
+	- It's got a lot of components in the real world
+- If a crime is committed online, how does it get prosecuted?
+- Are there boarders?
