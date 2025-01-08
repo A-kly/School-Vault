@@ -29,6 +29,7 @@
 	- physical and social
 	- effects may be obvious or not
 - Behaviour is lawful
-	- follows preductable rules
-	- environemental factors affect behaviour consistently
-		- improves understanding, pred
+	- follows predictable rules
+	- environmental factors affect behaviour consistently
+		- improves understanding, prediction and modification
+- 
