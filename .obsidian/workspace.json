@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 1 - Course overview.md",
+                "file": "CMPUT 404/Lecture 0 - Course overview.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 1 - Course overview"
+              "title": "Lecture 0 - Course overview"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 2.md",
+                "file": "CMPUT 404/Lecture 1 -.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2"
+              "title": "Lecture 1 -"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "4214306f450cd50f",
   "lastOpenFiles": [
-    "CMPUT 404/Lecture 1 - Course overview.md",
-    "CMPUT 404/Lecture 2.md",
+    "CMPUT 404/Lecture 0 - Course overview.md",
+    "CMPUT 404/Lecture 1 -.md",
     "CMPUT 325/Topic 2 - A Simple Functional Language.md",
     "CMPUT 325/Topic 1 - Introduction and Course Organization.md",
     "CMPUT 325/CMPUT 325.md",

@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- [[Lecture 1 - Course overview]]
-- [[Lecture 2]]
+- [[Lecture 0 - Course overview]]
+- [[Lecture 1 -]]
 
 %% End Waypoint %%
