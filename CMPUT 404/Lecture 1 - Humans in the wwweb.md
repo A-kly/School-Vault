@@ -34,4 +34,17 @@
 > *I'm slightly bothered by the open ended questions but i hope it picks up soon*
 - Anonymization used to be impossible but now it's very possible
 > *tldr, use a privacy related browser*
-- 
+- Who maintains it?
+	- We all are responsible for our own computers
+	- ISPs are responsible for connecting us to WWW
+	- Intranet networks are manage by the organization that's in charge of them
+	- Each website / service has their own servers that are important to be maintained
+	- **It is distributed, and hence, resilient**
+- Who regulates it?
+	- Lots of edge cases
+	- Websites are **public private spaces**
+		- Malls are a good equivalent example
+		- Accessible to the general public, but is a private space
+		- if you break rules, you can be banned
+		- They have the right to do this
+	- Governement regula
