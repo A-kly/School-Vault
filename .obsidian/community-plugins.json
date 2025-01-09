@@ -6,7 +6,5 @@
   "obsidian-git",
   "obsidian-editor-shortcuts",
   "autocorrect-formatter",
-  "obsidian-importer",
-  "obsidian-linter",
-  "obsidian-tts"
+  "obsidian-importer"
 ]

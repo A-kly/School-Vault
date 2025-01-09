@@ -29,7 +29,7 @@
 	- Header which is meaningful to network and end host
 		-  metadata describing how data must be delivered
 		-  in practice, there are multiple headers
-## Link properties
+# Link properties
 - **bandwidth/transmission rate**
 	- \# bits sent per second
 - **propagation delay**
@@ -44,12 +44,22 @@
 - **One-hop packet delay:** Transmission delay + Propagation delay = Packet size/Link bandwidth + Propagation delay
 - **End-to-end packet delay:** time it takes for a packet to be transmitted across a network from source to destination
 ![[Pasted image 20250109112238.png]]
-## Which link is better for packet delay?
+# Which link is better for packet delay?
 - Link 1: Bandwidth 10 Mbps, Propagation delay 10ms
 - Link 2: Bandwidth 1 Mbps, Propagation 1ms
 
 - Depends on packet size, as transmission delay is the dominant term for large enough packets
 - For 10 Byte packet -> link 2
 - for 100,00 byte packet -> link 1
-## Viewing link as a pipe
+# Viewing link as a pipe
 ![[Pasted image 20250109112822.png]]
+> *Starting now, I will be reducing detail in my notes*
+# Addressing and naming
+- Addresses can change but hostnames usually do not
+- **mapping** exists and uses dns to translate from hostname to address
+- many different types of addresses
+## Mapping
+- Uses dns
+- hostname gets mapped to address
+- packet headers are then sent to this address
+# Packets arriving at switch
