@@ -54,4 +54,4 @@
 	- What ==exactly== are we doing and meaning
 - Treatment implemented by non-professionals
 - Measure behaviour change
-	- Short- and 
+	- Short- and long-term
