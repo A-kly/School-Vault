@@ -125,5 +125,7 @@
   "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
   "shiba-theme-settings@@shiba-accent-style": true,
   "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-default",
-  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-two"
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-two",
+  "shiba-theme-settings@@shib-header-color-toggle": true,
+  "shiba-theme-settings@@shiba-clutter-free-headings": true
 }

@@ -94,5 +94,9 @@
 	- adds **processing delay**
 ## Queueing at router
 ![[Pasted image 20250109115300.png]]
-### Understanding queueing
-- 
+### Queueing adds delay and loss!
+![[Pasted image 20250109115850.png]]
+- We drop packets that can't be queued
+- Adds delay because we use FIFO strategy
+	- packets that are processed last are waiting the longest
+	- 
