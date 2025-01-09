@@ -32,4 +32,16 @@
 	- follows predictable rules
 	- environmental factors affect behaviour consistently
 		- improves understanding, prediction and modification
-- 
+- Behaviour can be overt or covert
+	- Can be obvious (put your hand up and teacher calls on you) or can be internal/hidden (only affects the person who did the behaviour)
+# Behaviour Modification Characteristics
+- Focus on behaviour, rather than a personal characteristic or trait  
+- **Target behaviour:** behavior you want to change  
+- **Behavioural excess:** undesirable behaviour you want to decrease  
+- **Behavioural deficit:** desirable behaviour you want to increase
+- **Experimental Analysis of Behaviour** (aka, behaviour analysis)
+	- Study of behaviour
+	- originally developed from skinner's experimental research
+- **Applied Behaviour analysis**
+	- study of behaviour to change behaviour
+	- targeted at human behavio

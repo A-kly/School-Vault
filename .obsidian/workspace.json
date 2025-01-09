@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5cf67349d49cf48e",
+        "id": "a30b38f49b9009f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b7ae7e7fac3588",
+            "id": "423e12cbd0c00f7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 2 - The life of a packet.md",
+                "file": "PSYCH 282/Topic 1 - Introduction to Behaviour Modification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 2 - The life of a packet"
+              "title": "Topic 1 - Introduction to Behaviour Modification"
             }
           }
         ]
@@ -190,8 +190,9 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "d3b7ae7e7fac3588",
+  "active": "423e12cbd0c00f7a",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 2 - The life of a packet.md",
     "CMPUT 313/Media/Pasted image 20250109120452.png",
     "CMPUT 313/Media/Pasted image 20250109115850.png",
     "CMPUT 313/Media/Pasted image 20250109115300.png",
@@ -204,7 +205,6 @@
     "CMPUT 325/CMPUT 325.md",
     "CMPUT 404/Lecture 0 - Course overview.md",
     "Markdown Cheat Sheet.md",
-    "CMPUT 313/Lecture 2 - The life of a packet.md",
     "PSYCH 282/PSYCH 282.md",
     "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
     "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
@@ -231,7 +231,6 @@
     "PSYCH 258/Topic 8 - Autobiographical Memory.md",
     "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
     "PSYCH 258/Topic 5 - Attention.md",
-    "PSYCH 258/Attachments/p258s13-2.png",
     "PSYCH 258/Word matching.md",
     "SOC 225/Readings",
     "SOC 225/Media",
