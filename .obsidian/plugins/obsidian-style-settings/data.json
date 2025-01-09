@@ -120,14 +120,5 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false,
   "neo-style@@theme-variant": "default",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
-  "shimmering-focus@@image-size": 100,
-  "shimmering-focus@@normal-tab-bar": false,
-  "shimmering-focus@@show-tab-list-button": false,
-  "shimmering-focus@@show-new-tab-button": false,
-  "shimmering-focus@@show-close-buttons": true,
-  "shimmering-focus@@show-sidebar-header-buttons": true,
-  "shimmering-focus@@normal-header-bar": false,
-  "shimmering-focus@@no-heading-background": true,
-  "shimmering-focus@@no-alternating-header-colors": false
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default"
 }

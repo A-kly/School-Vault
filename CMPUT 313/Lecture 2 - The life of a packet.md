@@ -79,4 +79,15 @@
 		- for example topology change
 	- *like full scale google maps routing*
 # Store and forward
-- wait to receive will packet to
+- wait to receive will packet to next router
+	- don't know how to forward prior to sending because we have no address yet
+	- gotta calculate checksum/validation info
+	- adds internal delay in switch before sending again.
+# What happens in router?
+- figure out address
+- update packet fields like **Time-to-live** value
+	- Counts remaining available hops before packet expires, is decremented every hop
+- do checksum
+- update internal state
+- send packet
+- these deciso
