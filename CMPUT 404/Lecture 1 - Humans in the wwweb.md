@@ -56,4 +56,6 @@
 ## Cyberspace and AI
 - Internet is now dominated by computers
 - There is a lot of AI generated content
-- Are there humans behind the anonymous IDs?
+	- Some people think it's mostly dogshit computer generated stuff
+		- Ai stuff, garbage articles, copy paste pages
+- Are there humans behind the anonymous IDs, bots, and random shit?
