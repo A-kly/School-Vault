@@ -44,4 +44,14 @@
 	- originally developed from skinner's experimental research
 - **Applied Behaviour analysis**
 	- study of behaviour to change behaviour
-	- targeted at human behavio
+	- targeted at human behaviour
+- Emphasis on current environmental events
+	- Antecedents and consequences
+	- before and after
+	- Alter controlling variables once they are identified
+		- Changes the relationship between controlling variables and behaviour
+- Clear and detailed descriptions of procedures
+	- What ==exactly== are we doing and meaning
+- Treatment implemented by non-professionals
+- Measure behaviour change
+	- Short- and 
