@@ -55,3 +55,7 @@
 - Treatment implemented by non-professionals
 - Measure behaviour change
 	- Short- and long-term
+- No real focus on past, assume current environment and recent events as best explanation
+- rejects hypothetical underlying cause
+	- Don't need internal explanation when external is sufficient
+# Brief History Review
