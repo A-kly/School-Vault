@@ -118,5 +118,6 @@
   "encore-settings@@encore-translucency-blur-amount": 10,
   "anuppuccin-theme-settings@@anp-file-label-align": "0",
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false,
+  "neo-style@@theme-variant": "default"
 }

@@ -21,19 +21,8 @@
               "icon": "lucide-file",
               "title": "Lecture 2 - The life of a packet"
             }
-          },
-          {
-            "id": "6f84461b305f7cda",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,16 +200,17 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "6f84461b305f7cda",
+  "active": "d3b7ae7e7fac3588",
   "lastOpenFiles": [
-    "PSYCH 282/PSYCH 282.md",
-    "CMPUT 313/Lecture 2 - The life of a packet.md",
-    "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
     "CMPUT 325/Topic 2 - A Simple Functional Language.md",
-    "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
-    "CMPUT 404/Lecture 0 - Course overview.md",
     "CMPUT 325/Topic 1 - Introduction and Course Organization.md",
     "CMPUT 325/CMPUT 325.md",
+    "CMPUT 404/Lecture 0 - Course overview.md",
+    "Markdown Cheat Sheet.md",
+    "CMPUT 313/Lecture 2 - The life of a packet.md",
+    "PSYCH 282/PSYCH 282.md",
+    "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
+    "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
     "PSYCH 282/Topic 1 - Introduction to Behaviour Modification.md",
     "PSYCH 282",
     "CMPUT 313/Media/Pasted image 20250107115528.png",
@@ -252,7 +242,6 @@
     "PSYCH 258/Attachments/p258s12-02.png",
     "PSYCH 258/Attachments/p258s12-01.png",
     "PSYCH 258/AI Midterm practice.md",
-    "SOC 225/Classical Criminology.md",
     "PSYCH 258/Attachments/p258s10-7.png",
     "SOC 225/Readings",
     "SOC 225/Media",
