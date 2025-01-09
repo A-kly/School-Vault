@@ -18,4 +18,14 @@
 	- glass fiber
 	- high speed
 	- low error rate
-- wireless
+- wireless radio
+	- "bands" of electromagnetic spectrum
+	- Wi-Fi, wide-area, Bluetooth, terrestrial microwave, satellite
+# How is data organized in a network?
+- data is chunked into packets before it is sent through link
+- Each packet has:
+	- Payload which is meaningful to the end host
+		- chunks of data (bits) in network byte order
+	- Header which is meaningful to network and end host
+		-  metadata describing how data must be delivered
+		-  in practice, there are multiple headers
