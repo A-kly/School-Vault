@@ -29,3 +29,14 @@
 	- Header which is meaningful to network and end host
 		-  metadata describing how data must be delivered
 		-  in practice, there are multiple headers
+## Link properties
+- **bandwidth/transmission rate**
+	- \# bits sent per second
+- **propagation delay**
+	- time for bit to travel along link
+- **bandwidth-Delay Product (BDP)**: amount of bits that can travel in the link (bits/second * seconds)
+	- AKA **Link capacity**
+	- ![[Pasted image 20250109111757.png]]
+- **Packet transmission delay**
+	- time it takes to transmit all bits in a packet
+- **transmission delay** = packet size (in bits) / link bandwidth (in bits per second)
