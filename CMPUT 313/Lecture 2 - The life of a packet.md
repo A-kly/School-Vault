@@ -99,4 +99,5 @@
 - We drop packets that can't be queued
 - Adds delay because we use FIFO strategy
 	- packets that are processed last are waiting the longest
-	- 
+### Finite buffers and packet loss
+![[Pasted image 20250109120452.png]]
