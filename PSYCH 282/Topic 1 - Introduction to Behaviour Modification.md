@@ -74,5 +74,11 @@
 	- Environmental events (stimuli) elicit responses
 ## Ivan B. Pavlov
 - Did experiments to uncover processes of classical (respondent) conditioning
-- Demonstrated that a reflex (salivation fo food) could be conditioned to a neutral stimulus (metronome sound)
-	- transfered through association between stimuli
+- Demonstrated that a reflex (salivation of food) could be conditioned to a neutral stimulus (metronome sound)
+	- transferred through association between stimuli
+## B.F. Skinner
+- Expanded the field of behaviourism
+- Stressed that while classical (respondent) conditioning described stimuli that elicited responses, operant was about the consequences of a behaviour determines the future occurrence of that behaviour
+- Elaborated the basic principles of operant behaviour
+	- The foundation of behaviour modification
+	- 
