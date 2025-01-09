@@ -52,3 +52,4 @@ $$ ∀x∀y : f (x, y) = x ∗ x + y$$
 - `(a ((b) c (d) ((((e))))))`
 - `(((((((((()))))))))(((()))))`
 
+> *I feel okay with not taking notes for this class as it moves quickly and is the same format as 204*

@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 5405920
       }
+    },
+    {
+      "query": "path:\"PSYCH 282\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -40,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1.7624345207854106,
-  "close": true
+  "close": false
 }
