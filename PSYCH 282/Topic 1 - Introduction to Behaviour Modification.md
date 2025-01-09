@@ -59,3 +59,12 @@
 - rejects hypothetical underlying cause
 	- Don't need internal explanation when external is sufficient
 # Brief History Review
+![[Pasted image 20250109155228.png]]
+## Edward Thorndike
+- Comparative psychologist
+- Puzzle box experiments
+	- Animals fed after leaving box, food strengthened association between situation (S) and latch-opening response (R)
+- **Law of effect**
+	- If a response is followed by a satisfying event, the S-R connection is strengthened
+	- If a response is followed by bad event, the S-R connection is made more weak
+#
