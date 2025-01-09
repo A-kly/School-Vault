@@ -67,4 +67,12 @@
 - **Law of effect**
 	- If a response is followed by a satisfying event, the S-R connection is strengthened
 	- If a response is followed by bad event, the S-R connection is made more weak
-#
+## John B. Watson
+- Established behaviourism
+- "psych should be about only observable behaviour"
+- Stimulus-response psychology  
+	- Environmental events (stimuli) elicit responses
+## Ivan B. Pavlov
+- Did experiments to uncover processes of classical (respondent) conditioning
+- Demonstrated that a reflex (salivation fo food) could be conditioned to a neutral stimulus (metronome sound)
+	- transfered through association between stimuli
