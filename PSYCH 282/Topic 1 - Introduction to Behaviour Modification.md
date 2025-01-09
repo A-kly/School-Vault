@@ -81,4 +81,6 @@
 - Stressed that while classical (respondent) conditioning described stimuli that elicited responses, operant was about the consequences of a behaviour determines the future occurrence of that behaviour
 - Elaborated the basic principles of operant behaviour
 	- The foundation of behaviour modification
-	- 
+![[Pasted image 20250109160722.png]]
+![[Pasted image 20250109160746.png]]
+# Applied Behavior Analysis
