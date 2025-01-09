@@ -90,4 +90,9 @@
 - do checksum
 - update internal state
 - send packet
-- these deciso
+- these decisions can be made with specialized hardware, or router CPU
+	- adds **processing delay**
+## Queueing at router
+![[Pasted image 20250109115300.png]]
+### Understanding queueing
+- 

@@ -120,5 +120,10 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": false,
   "neo-style@@theme-variant": "default",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default"
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "shiba-theme-settings@@shiba-accent-colors": "accent-turquoise",
+  "shiba-theme-settings@@shiba-colors-theme-dark": "Lilac-dark",
+  "shiba-theme-settings@@shiba-accent-style": true,
+  "shiba-theme-settings@@folder-style-change-options-colorful": "shiba-color-folder-default",
+  "shiba-theme-settings@@folder-style-change-options-colors-palette": "folder-colorful-two"
 }
