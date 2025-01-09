@@ -65,7 +65,18 @@
 # Packets arriving at switch
 ![[Pasted image 20250109113735.png]]
 - packets go from switch to switch using forwarding table until we reach the "last hop" to send to device
-- this happens on the **data plane** 
-- forwarding / switching is a local action, we only care about input links and output links for a single router, not the rest of the net
-- **control plane**
-	- make a global decision t
+
+- **forwarding / switching** is a local action, we only care about input links and output links for a single router, not the rest of the net
+	- timescale is on packet arival
+	- this happens on the **data plane** 
+	- *like google maps entry and exit from a city* 
+- routing
+	- **control plane**
+	- make a global decision to have the packet take the shortest path
+	- can be distributed or centralized algorithm
+	- ==needs global information==
+	- timescale any network event
+		- for example topology change
+	- *like full scale google maps routing*
+# Store and forward
+- wait to receive will packet to

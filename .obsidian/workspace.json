@@ -48,16 +48,6 @@
             }
           },
           {
-            "id": "93ba48367e042849",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "d1f70ec830a48d37",
             "type": "leaf",
             "state": {
@@ -200,7 +190,7 @@
       "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "d3b7ae7e7fac3588",
+  "active": "76bd567f1f76d6bf",
   "lastOpenFiles": [
     "CMPUT 313/Media/Pasted image 20250109113735.png",
     "CMPUT 313/Media/Pasted image 20250109112822.png",
