@@ -40,3 +40,11 @@
 - **Packet transmission delay**
 	- time it takes to transmit all bits in a packet
 - **transmission delay** = packet size (in bits) / link bandwidth (in bits per second)
+---
+- **One-hop packet delay:** Transmission delay + Propagation delay = Packet size/Link bandwidth + Propagation delay
+- **End-to-end packet delay:** time it takes for a packet to be transmitted across a network from source to destination
+![[Pasted image 20250109112238.png]]
+## Which link is better for packet delay?
+- Link 1: Bandwidth 10 Mbps, Propagation delay 10ms
+- Link 2: Bandwidth 1 Mbps, Propagation 1ms
+- 
