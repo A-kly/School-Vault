@@ -127,5 +127,7 @@
   "shimmering-focus@@show-new-tab-button": false,
   "shimmering-focus@@show-close-buttons": true,
   "shimmering-focus@@show-sidebar-header-buttons": true,
-  "shimmering-focus@@normal-header-bar": false
+  "shimmering-focus@@normal-header-bar": false,
+  "shimmering-focus@@no-heading-background": true,
+  "shimmering-focus@@no-alternating-header-colors": false
 }

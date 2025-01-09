@@ -47,4 +47,9 @@
 ## Which link is better for packet delay?
 - Link 1: Bandwidth 10 Mbps, Propagation delay 10ms
 - Link 2: Bandwidth 1 Mbps, Propagation 1ms
-- 
+
+- Depends on packet size, as transmission delay is the dominant term for large enough packets
+- For 10 Byte packet -> link 2
+- for 100,00 byte packet -> link 1
+## Viewing link as a pipe
+![[Pasted image 20250109112822.png]]
