@@ -20,4 +20,6 @@
 ## Domain name system (DNS)
 - Maps names to IPs
 - Depends on underlying network protocols
-- Works for LANs
+- Works for LANs, WANs, ect.
+- `victorsilva.ca -> 162.246.157.135`
+## 
