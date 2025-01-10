@@ -84,3 +84,4 @@
 ![[Pasted image 20250109160722.png]]
 ![[Pasted image 20250109160746.png]]
 # Applied Behavior Analysis
+> *Laptop died, review here*
