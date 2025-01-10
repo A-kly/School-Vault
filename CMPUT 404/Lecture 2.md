@@ -22,4 +22,6 @@
 - Depends on underlying network protocols
 - Works for LANs, WANs, ect.
 - `victorsilva.ca -> 162.246.157.135`
-## 
+## Firewall
+- Monitors and Controls network traffic
+- Acts as a security measure between distinct networks
