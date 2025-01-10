@@ -12,3 +12,12 @@
 - Automatically assigns IP addresses and other configs to host using client-server architecture
 - client requests configs
 - server responds with info
+## Secure Shell Protocol
+- Operates shell securely over non secure networks
+- Remote login
+- Command line
+- Prevents certain attacks like MitM (man in the middle attack)
+## Domain name system (DNS)
+- Maps names to IPs
+- Depends on underlying network protocols
+- Works for LANs
