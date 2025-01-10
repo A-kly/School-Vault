@@ -8,3 +8,7 @@
 - Has 2 versions: V4 and V6
 - v4 is predominant
 - v6 is being implemented
+## DHCP
+- Automatically assigns IP addresses and other configs to host using client-server architecture
+- client requests configs
+- server responds with info
