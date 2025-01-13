@@ -19,11 +19,17 @@
 	- 2001:db8::1
 	- When accessing it, use square brackets, like:
 		- https:// [2001:db8::1]/443
-# UDP
+# UDP (user datagram protocol)
 - *Like someone screaming into a room*
 - Stateless
 - Lossy
 - Real time applications lean towards it
 - No connections
 - No guarantees
-# TCP
+# TCP (transmission control protocol)
+- *Like entering a serious 1 on 1 business meeting*
+- 3 Packet handshake
+- Used by most of the internet
+- Guarantees
+- Order
+- Crucial in banking and other high sensitive areas
