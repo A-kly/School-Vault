@@ -25,3 +25,12 @@
 ## Firewall
 - Monitors and Controls network traffic
 - Acts as a security measure between distinct networks
+# Server types #research
+- Webserver
+- Storage Server
+	- Databases
+	- files
+		- samba
+		- nfs
+- directory
+	- AD

@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c7db68b3672f565",
+  "active": "d1f70ec830a48d37",
   "lastOpenFiles": [
     "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
     "CMPUT 404/Lecture 2.md",
