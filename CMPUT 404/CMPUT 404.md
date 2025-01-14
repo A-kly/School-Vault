@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[Lab 1]]
 - [[Lecture 0 - Course overview]]
 - [[Lecture 1 - Humans in the wwweb]]
 - [[Lecture 2 - Web tech]]
