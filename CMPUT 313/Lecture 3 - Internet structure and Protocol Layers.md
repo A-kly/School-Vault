@@ -77,4 +77,21 @@
 	- each layer implements a service  
 		- via its own internal-layer actions  
 		- relying on services provided by layer below (i.e. it builds on that layer)
-#### Wh
+#### Why layering?
+- Easier approach to design complex systems
+- Explicit structure alows identification, and relationship of system pieces
+	- Uses reference models
+- modularization eases maintenance, updating of system  
+	- change in layer's service implementation: transparent to rest of system
+### Layered Internet protocol stack
+![[Pasted image 20250114114822.png|200]]
+- **application:** supporting network applications  
+	- HTTP, IMAP, SMTP, DNS, NTP
+- **transport:** process-to-process data transfer  
+	- TCP, UDP
+	- Packet loss, delay, and congestion is felt roughly here
+- **network:** global packet delivery – routing of datagrams from source to destination
+		- IP, routing protocols
+- **link:** local packet delivery – data transfer between neighboring network elements  
+	- Ethernet, 802.11 (WiFi), PPP
+- **physical:** bits “on the wire”
