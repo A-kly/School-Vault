@@ -113,3 +113,10 @@
 - segment (includes port header)
 - datagram (includes ip address)
 - frame (includes mac address)
+### Distributing layers across network
+![[Pasted image 20250114120754.png]]
+- No real distinction between routers and switches anymore
+- Switch looks at link layer and sends to router
+- routers look at network layer and send to destination
+#### Protocol diagram for HTTP
+![[Pasted image 20250114120942.png]]
