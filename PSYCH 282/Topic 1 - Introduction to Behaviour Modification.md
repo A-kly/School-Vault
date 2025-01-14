@@ -168,3 +168,6 @@
 	1. Two observers record
 	2. compare recordings
 	3. calculate agreement
+# Research Designs
+- How to read a graph
+	- lame as hell, not needed
