@@ -20,4 +20,16 @@
 ### Circuit switching
 ![[Pasted image 20250114111549.png|400]]
 - end to end resources allocated and reserved for a "call" or flow between source and destination
-- eg. each l
+- eg. each link has 4 circuits
+	- the flow goes from source, through link 2, to another switch/router, through link 1, to destination
+	- reserved so quality is guaranteed
+	- links are idle if not used
+- Used in traditional telephone networks
+#### FDM and TDM
+- **Frequency division multiplexing (FDM)**
+	- Slice connection into frquency bands, each call is allocated a band, and is limited by the section's bandwidth
+![[Pasted image 20250114112138.png]]
+- **Time division bandwidth (TDM)**
+	- time is divided into slots
+	- Call is allocated time slots and can transmit on a widerband for a limmites amount of time
+	- 
