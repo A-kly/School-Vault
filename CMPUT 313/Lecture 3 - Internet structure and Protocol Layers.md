@@ -32,4 +32,15 @@
 - **Time division bandwidth (TDM)**
 	- time is divided into slots
 	- Call is allocated time slots and can transmit on a widerband for a limmites amount of time
-	- 
+![[Pasted image 20250114112149.png]]
+### Packet switching versus circuit switching
+- Does packet switching "win"?
+	- It's simpler, no setup and teardown
+	- faster recovery from a switch failure
+		- in circuit switching, if link goes down we have to restart setup
+	- better for bursty traffic
+		- more hosts can share network resources because they do not reserve network capacity based on their peak demand
+	- Does not provide performance guarantees, can have excessive congestion
+		- Protocols needed for reliable data transfer
+- **Packet switching is the default for these reasons**
+- 
