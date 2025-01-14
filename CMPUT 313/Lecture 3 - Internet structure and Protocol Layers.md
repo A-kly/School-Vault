@@ -119,4 +119,17 @@
 - Switch looks at link layer and sends to router
 - routers look at network layer and send to destination
 #### Protocol diagram for HTTP
-![[Pasted image 20250114120942.png]]
+![[Pasted image 20250114121319.png]]
+- Routers may have multiple interfaces
+- ![[Pasted image 20250114121341.png]]
+- Between routers, we can use different protocols, for example OTN
+- We need to map ethernet frames to OTN frames
+	- Encapsulation of ethernet frames by OTN frames
+## ISO/OSI reference model
+- Two layers not found in Internet protocol stack!
+- **presentation:** allow applications to interpret meaning of data, e.g., encryption, compression, machine-specific conventions
+- **session:** synchronization, checkpointing, recovery of data exchange
+- Internet stack “missing” these layers!  
+	- these services, if needed, must be implemented in application  
+	- needed?
+![[Pasted image 20250114121556.png|200]]
