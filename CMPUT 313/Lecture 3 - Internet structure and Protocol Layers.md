@@ -104,6 +104,12 @@
 - transport layer adds a header indicating the source process and destination process
 	- This is the **logical port number**
 ![[Pasted image 20250114120107.png]]
-- Netowrk layer adds another header for IP addresses
+- Network layer adds another header for IP addresses
 ![[Pasted image 20250114120143.png]]
-- Link layer adds SN
+- Link layer adds ANOTHER header layer containing MAC address for the network access cord.
+### This entire system is like pealing an onion or a Matryoshka doll
+![[Pasted image 20250114120453.png]]
+- message
+- segment (includes port header)
+- datagram (includes ip address)
+- frame (includes mac address)
