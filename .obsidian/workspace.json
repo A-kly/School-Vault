@@ -11,13 +11,34 @@
             "id": "12c7b6874f9307e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 313/Lecture 2 - The life of a packet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 2 - The life of a packet"
+            }
+          },
+          {
+            "id": "49f36cb69bae410d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3 - Internet structure and Protocol Layers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12c7b6874f9307e4",
+  "active": "49f36cb69bae410d",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 2 - The life of a packet.md",
+    "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
     "CMPUT 404/Lecture 2 - Web tech.md",
     "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
     "CMPUT 404/Lecture 3 - The internet.md",
@@ -205,7 +228,6 @@
     "PSYCH 282/Media/Pasted image 20250109160722.png",
     "PSYCH 282/Media/Pasted image 20250109155228.png",
     "PSYCH 282/Media",
-    "CMPUT 313/Lecture 2 - The life of a packet.md",
     "CMPUT 313/Media/Pasted image 20250109120452.png",
     "CMPUT 313/Media/Pasted image 20250109115850.png",
     "CMPUT 313/Media/Pasted image 20250109115300.png",
@@ -237,7 +259,6 @@
     "PSYCH 258/Topic 7 - Long-Term Memory.md",
     "PSYCH 258/Number of vowels test.md",
     "PSYCH 258/Topic 8 - Autobiographical Memory.md",
-    "PSYCH 258/Topic 6 - Short-Term & Working Memory.md",
     "SOC 225/Readings",
     "SOC 225/Media",
     "CMPUT 382/Media",
