@@ -138,3 +138,13 @@
 		- Divide observation period into intervals of time but only observe the behaviour during part of each interval
 		- **Momentary Time Sample Recording (MTS):** Records behaviour only if it occurs at the exact instant the interval ends
 		- ![[Pasted image 20250114160004.png]]
+- **Product Recording (aka Permanent Product Recording)**
+	- Record tangible outcomes (products) that result from the occurrence of the behaviour
+	- Not technically a direct behaviour
+## Where is behaviour recorded?
+- Natural setting
+	- more representative of target behaviour
+- Analogue or artificial setting
+	- Not part of daily routine
+	- more controlled environement
+	- easier to man
