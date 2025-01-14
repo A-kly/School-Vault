@@ -156,3 +156,15 @@
 - **Reactivity**
 	- Behaviour changes as a result of observation
 ### Reduce reactivity
+- Wait until observer becomes accustomed to the observed
+- One way observation is another option
+	- Has ethical issues
+	- one way mirrors for example
+- Self-monitoring may lead to changes
+	- Can be used as a treatment
+### Interobserver Agreement (IOA)
+- Is the recording consistent?
+- How do we evaluate this
+	1. Two observers record
+	2. compare recordings
+	3. calculate agreement
