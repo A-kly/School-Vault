@@ -45,6 +45,19 @@
 - **Packet switching is the default for these reasons**
 # Internet structure
 - Network of networks
-- Hosts -> access networks -> tier 3 ISPs -> tier 2 ISPs -> tier 1 ISPs
+- Hosts -> access networks -> tier 3 ISPs -> tier 2 ISPs -> tier 1 ISPs (global)
 	- Causes hierarchical network
-- Connecting all access networks to all other access netoworks is not p
+- Connecting all access networks to all other access networks is not possible
+	- Using a hierarchy is better
+	- Global ISPs are good to fix this
+	- multiple global (Tier 1) ISPs exist and compete
+		- They also have to be connected
+		- We use **Internet exchange points** for this
+			- These are links between ISPs in the same level.
+			- They use **peering links** to connect them
+	- Regional ISPs (Tier 2) can also use internet exchange points and peering links
+	- **CDNS** can bypass T2 and T3 ISPs to connect to access networks
+![[Pasted image 20250114113552.png]]
+- At “center”: small number of well-connected large networks  
+	- “tier-1” commercial ISPs (e.g., Level 3, Sprint, AT&T, NTT), national & international coverage  
+	- content provider networks (e.g., Google, Facebook): private network that connects its data centers to the Internet, often bypassing tier-1 and regional ISPs
