@@ -67,4 +67,14 @@
 ### Protocol layers and reference models
 - Networks have many pieces
 - how do we organize and talk about network structure
-> 
+> *look at example online, I'm not gonna write it out lmao*
+![[Pasted image 20250114114308.png]]
+- Only peers understand the same things (how to use letter, envelope, FedEx envelope)  
+	- aides use envelope but don’t know what’s written in letter  
+	- FedEx employees use FedEx envelopes but don’t know who will receive letter in company B
+- Air travel is another example
+	- ![[Pasted image 20250114114457.png]]
+	- each layer implements a service  
+		- via its own internal-layer actions  
+		- relying on services provided by layer below (i.e. it builds on that layer)
+#### Wh
