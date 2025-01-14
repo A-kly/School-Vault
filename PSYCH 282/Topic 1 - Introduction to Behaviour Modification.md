@@ -88,7 +88,14 @@
 ![[Pasted image 20250114153600.png]]
 ![[Pasted image 20250114153615.png]]
 ![[Pasted image 20250114153627.png]]
-
+# Behaviour assessment
+![[Pasted image 20250114153650.png]]
+![[Pasted image 20250114153658.png]]
+## Indirect vs. Direct Assessment
+![[Pasted image 20250114153714.png]]
+![[Pasted image 20250114153721.png]]
+![[Pasted image 20250114153730.png]]
+![[Pasted image 20250114153740.png]]
 # Process of Behaviour assessment
 1. Define target behaviour
 2. determine how it will be recorded
@@ -96,3 +103,9 @@
 - **Operational definition**
 	- specifies exactly how we measure
 	- objective and unambiguous
+	- examples:
+		- Label: Salivation
+		- Operational Definition: Number of milligrams of saliva absorbed by cotton balls (of size X) placed in a particular area in the mouth for specified period of time
+	- must be practical and useful
+	- should not reference internal states, feelings or motivations.
+	- 
