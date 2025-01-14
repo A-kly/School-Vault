@@ -61,3 +61,10 @@
 - At “center”: small number of well-connected large networks  
 	- “tier-1” commercial ISPs (e.g., Level 3, Sprint, AT&T, NTT), national & international coverage  
 	- content provider networks (e.g., Google, Facebook): private network that connects its data centers to the Internet, often bypassing tier-1 and regional ISPs
+## Network modularity
+- how do we decompose task of transferring data?
+- What is needed to get packets between processes on different hosts?
+### Protocol layers and reference models
+- Networks have many pieces
+- how do we organize and talk about network structure
+> 
