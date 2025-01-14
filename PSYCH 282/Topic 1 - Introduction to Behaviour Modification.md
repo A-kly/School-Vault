@@ -171,3 +171,13 @@
 # Research Designs
 - How to read a graph
 	- lame as hell, not needed
+## The research method
+1.  Measure dependent variable
+2. manipulate independent variable and demonstrate a change
+3. Eliminate confounding variables if possible
+4. Replicate
+## A-B design
+- A = baseline
+- B =  treatment
+- Not a true research design > No replication
+- 
