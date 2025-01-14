@@ -123,3 +123,16 @@
 	- can we extrapolate from a small window?
 - Consider the observer
 	- Are they only able to observe at certain times?
+- **Continuous recording**
+	- record every instance of the behaviour over period
+	- ![[Pasted image 20250114155429.png]]
+- **Sample recording**
+	- Look for some occurrences of behaviour
+	- Interval recording
+		- Partial-Interval Recording: Document if the target behaviour occurred during any part of the interval
+		- Whole-Interval Recording: Document if the target
+behaviour occurs during the entire interval
+		- Frequency-Within-Interval Recording: Document
+frequency of the target behaviour within consecutive
+intervals of time in the observation period
+	- Time sample recording
