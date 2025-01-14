@@ -179,5 +179,22 @@
 ## A-B design
 - A = baseline
 - B =  treatment
-- Not a true research design > No replication
-- 
+- **Not a true research design** > No replication
+- Does not demonstrate a functional relationship
+	- Used in clinical practice, self-management projects
+![[Pasted image 20250114162939.png]]
+## A-B-A-B Reversal Designs
+- Remove treatment; go back to ‘baseline’
+- Implement treatment again
+- Demonstrates a functional relationship
+![[Pasted image 20250114162809.png]]
+## Multiple-Baseline Designs
+- **Multiple baseline behaviours**
+	- 2+ behaviors of same subject
+	- Treatment is staggered across behaviors
+- **Multiple baseline settings**
+	- 2+ settings with same subject AND same target behavior
+	- Treatment is staggered across settings
+## Alternating-Treatment Design
+- Baseline/Treatment implemented on alternating days or sessions, for the same amount of time
+	- (e.g., one day each)
