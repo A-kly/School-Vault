@@ -144,7 +144,15 @@
 ## Where is behaviour recorded?
 - Natural setting
 	- more representative of target behaviour
+	- harder to manipulate behaviour
 - Analogue or artificial setting
 	- Not part of daily routine
-	- more controlled environement
-	- easier to man
+	- less of a good representation of target behaviour
+	- more controlled environment
+	- easier to manipulate variables
+## Important considerations
+- Process of observation can change behaviour
+	- not representative of normal behaviour
+- **Reactivity**
+	- Behaviour changes as a result of observation
+### Reduce reactivity
