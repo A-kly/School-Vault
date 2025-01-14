@@ -12,4 +12,12 @@
 	- send packets and hope for the best, compete for bandwidth
 	- resources are shared between packets in network
 	- packets can be dropped, no guarantees
-- Reservation based service model vis 
+- Reservation based service model via circuit switching (telephone networks and ATMs)
+	- reserve bandwidth on a **virtual circuit (path that the data takes, based on maximum demand of source)** between source and destination at start of **flow**
+	- source sends reservation request to each router on path to reserve bandwidth, if all requests work, we establish a virtual circuit, packets are transferred, and then a tear down message is sent to tear down virtual circuit at end of flow
+		- can be static or dynamic
+	- Resources dedicated to this flow are not shared with other flows, so we can guarantee performance
+### Circuit switching
+![[Pasted image 20250114111549.png|400]]
+- end to end resources allocated and reserved for a "call" or flow between source and destination
+- eg. each l
