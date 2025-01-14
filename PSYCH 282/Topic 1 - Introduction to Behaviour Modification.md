@@ -189,13 +189,10 @@
 - Demonstrates a functional relationship
 ![[Pasted image 20250114162809.png]]
 ## Multiple-Baseline Designs
-- Multiple baseline subjects
-• 2+ subjects with same
-target behavior
-• Treatment is staggered
-over time across subjects
-• i.e., baseline lengths are
-different
+- **Multiple baseline subjects**
+	- 2+ subjects with same target behavior
+	- Treatment is staggered over time across subjects
+		- i.e., baseline lengths are different
 - **Multiple baseline behaviours**
 	- 2+ behaviors of same subject
 	- Treatment is staggered across behaviors
