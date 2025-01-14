@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
+                "file": "PSYCH 282/Topic 1 - Introduction to Behaviour Modification.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 3 - Internet structure and Protocol Layers"
+              "title": "Topic 1 - Introduction to Behaviour Modification"
             }
           }
         ],
@@ -217,6 +217,7 @@
   },
   "active": "49f36cb69bae410d",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
     "CMPUT 313/Media/Pasted image 20250114121556.png",
     "CMPUT 313/Media/Pasted image 20250114121341.png",
     "CMPUT 313/Media/Pasted image 20250114121319.png",
@@ -227,9 +228,7 @@
     "CMPUT 313/Media/Pasted image 20250114120107.png",
     "CMPUT 313/Media/Pasted image 20250114115831.png",
     "CMPUT 313/Media/Pasted image 20250114115804.png",
-    "CMPUT 313/Media/Pasted image 20250114114822.png",
     "CMPUT 313/Lecture 2 - The life of a packet.md",
-    "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
     "CMPUT 404/Lecture 2 - Web tech.md",
     "CMPUT 404/Lecture 1 - Humans in the wwweb.md",
     "CMPUT 404/Lecture 3 - The internet.md",
