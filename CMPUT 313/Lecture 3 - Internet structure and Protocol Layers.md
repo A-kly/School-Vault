@@ -96,3 +96,14 @@
 - **link:** local packet delivery – data transfer between neighboring network elements  
 	- Ethernet, 802.11 (WiFi), PPP
 - **physical:** bits “on the wire”
+## Global VS local packet delivery
+![[Pasted image 20250114115804.png]]
+## Services, layering and encapsulation
+![[Pasted image 20250114115831.png]]
+- Application just has messge
+- transport layer adds a header indicating the source process and destination process
+	- This is the **logical port number**
+![[Pasted image 20250114120107.png]]
+- Netowrk layer adds another header for IP addresses
+![[Pasted image 20250114120143.png]]
+- Link layer adds SN
