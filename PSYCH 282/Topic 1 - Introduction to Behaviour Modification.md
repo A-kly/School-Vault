@@ -108,4 +108,3 @@
 		- Operational Definition: Number of milligrams of saliva absorbed by cotton balls (of size X) placed in a particular area in the mouth for specified period of time
 	- must be practical and useful
 	- should not reference internal states, feelings or motivations.
-	- 
