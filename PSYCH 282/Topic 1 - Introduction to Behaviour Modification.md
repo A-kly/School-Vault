@@ -128,11 +128,13 @@
 	- ![[Pasted image 20250114155429.png]]
 - **Sample recording**
 	- Look for some occurrences of behaviour
-	- Interval recording
-		- Partial-Interval Recording: Document if the target behaviour occurred during any part of the interval
-		- Whole-Interval Recording: Document if the target
-behaviour occurs during the entire interval
-		- Frequency-Within-Interval Recording: Document
-frequency of the target behaviour within consecutive
-intervals of time in the observation period
-	- Time sample recording
+	- **Interval recording**
+		- Record whether the target behaviour occurs within certain time intervals
+		- **Partial-Interval Recording:** Document if the target behaviour occurred during any part of the interval
+		- **Whole-Interval Recording:** Document if the target behaviour occurs during the entire interval
+		- **Frequency-Within-Interval Recording:** Document frequency of the target behaviour within consecutive intervals of time in the observation period
+		- ![[Pasted image 20250114155702.png]]
+	- **Time sample recording**
+		- Divide observation period into intervals of time but only observe the behaviour during part of each interval
+		- **Momentary Time Sample Recording (MTS):** Records behaviour only if it occurs at the exact instant the interval ends
+		- ![[Pasted image 20250114160004.png]]
