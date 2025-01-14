@@ -43,4 +43,8 @@
 	- Does not provide performance guarantees, can have excessive congestion
 		- Protocols needed for reliable data transfer
 - **Packet switching is the default for these reasons**
-- 
+# Internet structure
+- Network of networks
+- Hosts -> access networks -> tier 3 ISPs -> tier 2 ISPs -> tier 1 ISPs
+	- Causes hierarchical network
+- Connecting all access networks to all other access netoworks is not p
