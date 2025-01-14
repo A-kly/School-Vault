@@ -84,4 +84,15 @@
 ![[Pasted image 20250109160722.png]]
 ![[Pasted image 20250109160746.png]]
 # Applied Behavior Analysis
-> *Laptop died, review here*
+> *Laptop died, review here* #review
+![[Pasted image 20250114153600.png]]
+![[Pasted image 20250114153615.png]]
+![[Pasted image 20250114153627.png]]
+
+# Process of Behaviour assessment
+1. Define target behaviour
+2. determine how it will be recorded
+## Defining target behaviour
+- **Operational definition**
+	- specifies exactly how we measure
+	- objective and unambiguous
