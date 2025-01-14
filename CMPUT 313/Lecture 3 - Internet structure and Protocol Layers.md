@@ -91,7 +91,8 @@
 	- TCP, UDP
 	- Packet loss, delay, and congestion is felt roughly here
 - **network:** global packet delivery – routing of datagrams from source to destination
-		- IP, routing protocols
+	- IP, routing protocols
+	- Only one communication protocol here, IP
 - **link:** local packet delivery – data transfer between neighboring network elements  
 	- Ethernet, 802.11 (WiFi), PPP
 - **physical:** bits “on the wire”
