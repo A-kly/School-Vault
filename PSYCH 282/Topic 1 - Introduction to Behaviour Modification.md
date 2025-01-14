@@ -108,3 +108,18 @@
 		- Operational Definition: Number of milligrams of saliva absorbed by cotton balls (of size X) placed in a particular area in the mouth for specified period of time
 	- must be practical and useful
 	- should not reference internal states, feelings or motivations.
+## Who records the behaviour
+- **Independent observer**
+	- person beside the person
+- **Self-monitoring**
+	- Client observes and records behaviour
+- **Remote monitoring**
+	- Using recording device
+- lots of ethics concerns
+## When do we record behaviour?
+- Consider nature of behaviour
+	- all the time or certain times?
+	- do we care how often, or just if it occurs?
+	- can we extrapolate from a small window?
+- Consider the observer
+	- Are they only able to observe at certain times?
