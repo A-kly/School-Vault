@@ -29,5 +29,12 @@
 5. ?query (optional)
 6. \#argument (optional)
 
-## URL access
+### URL access
 #review ask Angela
+- passwords and login in url
+	- Vulnerable
+- ssh keys
+	- can be exposed
+### Url analysis
+#review Look online for example
+
