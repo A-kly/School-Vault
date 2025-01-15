@@ -38,3 +38,25 @@
 ### Url analysis
 #review Look online for example
 
+## Request methods
+- GET
+	- gets a resource from server
+- POST
+	- send data to create or update resource
+- PUT
+	- Updates a resource from server
+- DELETE
+	- Deletes resource
+- HEAD
+	- Gets headers
+## STATUS CODES
+- 1xx
+	- Informal (eg. 100 continue)
+- 2xx
+	- Successful (200 OK, 201 Created)
+- 3xx
+	- Redirections (301 Moved permanently, 302 found)
+- 4xx
+	- Client errors (404 not found, 400 bad request, 401 unauthorized)
+- 5xx
+	- Server errors (500 internal server error)
