@@ -16,15 +16,15 @@
 	- URI points to  a specific resource on
 - one is **LOCATOR**
 ## URLs
-- scheme
-	- ftp, http or https, etc
-- ":"
-- authority
-	- username@password (optional)
+1. scheme
+	1. ftp, http or https, etc
+2. ":"
+3. authority
+	1. username@password (optional)
 		- Not used much anymore
 		- Databases use this sometimes to log in
-	- hostname
-	- :port (optional)
-- path
-- ?query (optional)
-- \#argument (optional)
+	2. hostname
+	3. :port (optional)
+4. path
+5. ?query (optional)
+6. \#argument (optional)
