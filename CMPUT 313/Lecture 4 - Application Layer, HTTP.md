@@ -209,4 +209,17 @@
 		3) cookie file kept on user’s host, managed by user’s browser 
 		4) back-end database at Web site
 ![[Pasted image 20250116121219.png|300]]
+![[Pasted image 20250116121311.png]]
+### Cookies
+- What cookies can be used for
+	- authorization  
+	- shopping carts  
+	- recommendations  
+	- user session state (Web e-mail)
+- Challenge: How to keep state?
+	- at protocol endpoints: maintain state at sender/receiver over multiple transactions
+	- in messages: cookies in HTTP messages carry state
 
+#### 3rd party cookies example: displaying a NY Times web page
+![[Pasted image 20250116121629.png|300]]
+![[Pasted image 20250116121651.png]]
