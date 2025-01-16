@@ -238,10 +238,21 @@
 	- Relevant Variables (e.g., intensity, latency,  topography, etc.)
 - Alternative Behaviours
 ### Assessing Consequences
-For both problem and alternative behaviours  
-• Assess social and environmental (automatic)  
-consequences  
-• Consider the...  
-• Schedule of reinforcement  
-• Magnitude of reinforcement  
-• Immediacy of reinforcement
+- For both problem and alternative behaviours  
+	- Assess social and environmental (automatic) consequences  
+- Consider the...  
+	- Schedule of reinforcement  
+	- Magnitude of reinforcement  
+	- Immediacy of reinforcement
+## Two Types of Functional Analysis
+- **Exploratory Functional Analysis:** Test a range of possible functions
+	- No clear hypothesis about function  
+	- Test a range of possible functions  
+	- Test condition for each function  
+	- One control condition for all functions  
+	- Identifies function(s) and rules out other functions
+- **Hypothesis Testing Functional Analysis:** Test hypothesis from descriptive assessment
+	- Have a clear hypothesis from indirect and direct assessment  
+	- Test and control condition for one function  
+	- Identifies function  
+	- Does not rule out other functions
