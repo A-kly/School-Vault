@@ -54,8 +54,29 @@
 - **Port numbers are used to connect to a specific process, on a host, from an IP**
 	- IP is not enough, host has many processes
 # Application layer protocols defines...
-- Type of messages exchanged
+- **Type of messages exchanged**
 	- request, response
-- Syntax
-	- 
-- Semantics
+- **Syntax**
+	- message "format"
+- **Semantics**
+	- Meaning
+- **Rules for when and how messages are sent and responded to**
+---
+- **Open protocols**:
+	- defined in RFCs, everyone has access to definition
+	- allow for interoperability
+	- evolve slowly
+- **Proprietary protocols**
+	- Skype, zoom, etc.
+# What transport services does an app need?
+- **Data integrity**
+	- reliable data transfer
+	- some apps tolerate loss
+- **Timing**
+	- delay must sometimes be low (destiny 2 lmao)
+- **Throughput**
+	- Some apps need minimum throughput
+- **Security**
+	- encryption, data integrity
+## Transport service requirements: common apps
+![[Pasted image 20250116113236.png]]
