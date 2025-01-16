@@ -44,4 +44,24 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 ## Exploiting MAPs
 ![[Pasted image 20250116163224.png]]
 - Cuccos simulate other chicks with Larger, extra yellow beak and red mouth, supernormal stimulus
-- 
+# Learned Behaviours
+## Types of Learning
+- Event-alone learning  
+	- Habituation and sensitization  
+- Event-event learning  
+	- Classical (Pavlovian) conditioning  
+- Behaviour-event learning  
+	- Instrumental (operant) conditioning  
+- Social learning  
+	- Observational learning
+## Event-Alone Learning
+### Learning for Reflexes?
+- Descartes said that reflex responses occur the same way every time  
+- Not the case – repeated stimulation can alter the magnitude of the behavioural response
+### Habituation
+- process by which we respond less strongly over time to repeated stimuli  
+- Highly specific to the stimulus producing it  
+- Not habituation:  
+	- **Sensory adaptation:** Reduction in sensitivity of the sense organs caused by repeated stimulation
+	- **Fatigue:** Decrease in behaviour due to repeated or excessive use of muscles
+- Biological mechanism of habituation discovered by Eric Kandel in the sea slug, Aplysia
