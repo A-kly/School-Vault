@@ -60,3 +60,8 @@
 	- Client errors (404 not found, 400 bad request, 401 unauthorized)
 - 5xx
 	- Server errors (500 internal server error)
+## HTTP Headers
+- Request headers
+	- Client to server
+- Response headers
+	- Server to client
