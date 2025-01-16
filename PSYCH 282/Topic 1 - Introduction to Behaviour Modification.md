@@ -203,3 +203,12 @@
 - Baseline/Treatment implemented on alternating days or sessions, for the same amount of time
 	- (e.g., one day each)
 ![[Pasted image 20250114163149.png]]
+## Changing-Criterion Designs
+- Baseline and treatment phase
+- Different from A-B design:  
+	- Within treatment phase, sequential performance criteria are specified  
+		- Successive goal levels for target behavior  
+- Functional relationship is demonstrated when behavior matches performance criteria
+![[Pasted image 20250116154035.png]]
+- **Basically changing between levels of treatment, not going back to baseline**
+##
