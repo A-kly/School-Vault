@@ -196,3 +196,17 @@
 	- 505 HTTP Version Not Supported
 ## Trying out HTTP (client side) for yourself
 ![[Pasted image 20250116120657.png]]
+## Maintaining user/server state: cookies
+- We need to sometimes store the state of what happened between client and server
+- Notion of multi step exchanges to complete "transaction"
+	- No need for client or server to track state
+	- All HTTP requests are independent
+	- no need for client/server to “recover” from a partially-completed-but-never-completely-comp leted transaction
+- **Web sites and client browser use cookies to maintain some state between transactions**
+	- Four components
+		1) cookie header line of HTTP response  message 
+		2) cookie header line in next HTTP request message 
+		3) cookie file kept on user’s host, managed by user’s browser 
+		4) back-end database at Web site
+![[Pasted image 20250116121219.png|300]]
+
