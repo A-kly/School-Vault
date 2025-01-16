@@ -36,3 +36,11 @@
 		- new peers increase both demand and capacity
 - IP addresses can change
 	- We need to come up with a better way to track hosts consistently
+# Communicating processes
+- Process = program running in host
+- Within host, processes communicate using inter-process communication methods from OS
+- processes in separate hosts exchange messages
+- ![[Pasted image 20250116112127.png|200]]
+## Sockets
+- Process sends/receives messages to and from socket defined by IP and port num
+- 
