@@ -135,4 +135,29 @@
 ### Persistent HTTP
 ![[Pasted image 20250116115216.png]]
 ## HTTP request message
-- 
+- ASCII data
+	- EVERY LINE ENDS WITH CARRAGE RETURN AND LINE FEED
+- Request line
+	- GET, POST, HEAD, etc
+		- `GET this/is/a/resource HTTP/1.1\h`
+- Header
+	- Host
+	- User-Agent
+	- etc.
+- Body
+	- Good for post and put requests
+### General format
+![[Pasted image 20250116115538.png]]
+### Example request headers
+- Connection: keep-alive
+	- "don't terminate connection"
+- User-Agent: Mozilla/5.0 (X11; Linux x86_64)  
+- Accept: text/html
+	- "What am I ex"
+- Host: cs.ualberta.ca  
+...
+- Referer: amazon.com  
+- Cookie: 1678  
+...
+- If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT  
+- If-None-Match: "33a64df551425fcc55e4d42a148795d9f25f89d4"
