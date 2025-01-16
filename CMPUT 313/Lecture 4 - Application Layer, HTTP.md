@@ -223,3 +223,6 @@
 #### 3rd party cookies example: displaying a NY Times web page
 ![[Pasted image 20250116121629.png|300]]
 ![[Pasted image 20250116121651.png]]
+![[Pasted image 20250116121810.png]]
+![[Pasted image 20250116121826.png]]
+![[Pasted image 20250116121852.png]]
