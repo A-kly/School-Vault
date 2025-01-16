@@ -65,3 +65,7 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 	- **Sensory adaptation:** Reduction in sensitivity of the sense organs caused by repeated stimulation
 	- **Fatigue:** Decrease in behaviour due to repeated or excessive use of muscles
 - Biological mechanism of habituation discovered by Eric Kandel in the sea slug, Aplysia
+### Sensitization
+- increase in the strength of a response to a repeated stimulus
+- Not specific to one stimulus  
+	- Can result from repeated presentations of a stimulus or by arousal from extraneous stimuli
