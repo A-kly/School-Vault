@@ -100,4 +100,15 @@
 - `www.hostname.com/path/to/resource.gif`
 ## HTTP overview
 - HTTP is application layer protocol
+- Client server model
+	- client requests, receives and displays web objects
+	- Server sends objects in response to requests
+### HTTP is built on TCP
+- Client initiates TCP connection with a socket on port 80
+- Server accepts TCP connection
+- HTTP messages exchanged between client and server
+- TCP connection closed
+- HTTP is "stateless"
+	- Server maintains no info about client requests
+	- State maintenance is super complex, so we don't do this
 - 
