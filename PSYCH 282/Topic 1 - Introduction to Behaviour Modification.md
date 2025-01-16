@@ -238,3 +238,10 @@
 	- Relevant Variables (e.g., intensity, latency,  topography, etc.)
 - Alternative Behaviours
 ### Assessing Consequences
+For both problem and alternative behaviours  
+• Assess social and environmental (automatic)  
+consequences  
+• Consider the...  
+• Schedule of reinforcement  
+• Magnitude of reinforcement  
+• Immediacy of reinforcement
