@@ -80,3 +80,16 @@
 	- encryption, data integrity
 ## Transport service requirements: common apps
 ![[Pasted image 20250116113236.png]]
+# Internet transport protocols services
+![[Pasted image 20250116113426.png]]
+# Internet applications, and transport protocols
+![[Pasted image 20250116113444.png]]
+# Securing TCP
+- **Vanilla TCP & UDP sockets:**  
+	- no encryption  
+	- cleartext passwords sent into socket traverse Internet in plaintext
+- **Transport Layer Security (TLS)** 
+	- provides encrypted TCP connections  
+	- data integrity, confidentiality, and endpoint authentication  
+	- implemented in application layer  
+	- requires a handshake for certificate exchange and key generation
