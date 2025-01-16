@@ -8,4 +8,10 @@
 - **Innate:** something inborn or naturally occurring
 - **Reflex:** stimulus-response relationship which is either learned* or innate and indicates that behavior that happens automatically
 	- Reflex arc = unlearned
-- 
+# Elicited Behaviour
+- Occurs in response to environmental stimuli
+- Examples: 
+	- Pupils constrict when exposed to bright light  
+	- Withdrawal response to touching something hot  
+	- Food in mouth elicits salivation  
+	- Sneeze if particle of dust enters your nose
