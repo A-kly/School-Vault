@@ -43,4 +43,19 @@
 - ![[Pasted image 20250116112127.png|200]]
 ## Sockets
 - Process sends/receives messages to and from socket defined by IP and port num
-- 
+	- Abstraction of network I/O
+	- Client and server sockets (one on each side)
+- Socket = door
+	- Sending data =  push messages out door
+	- Receiving data = Open door to see if message is there
+## Addressing processes
+- Process needs identifier to receive message
+- host has unique 32 bit IP
+- **Port numbers are used to connect to a specific process, on a host, from an IP**
+	- IP is not enough, host has many processes
+# Application layer protocols defines...
+- Type of messages exchanged
+	- request, response
+- Syntax
+	- 
+- Semantics
