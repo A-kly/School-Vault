@@ -218,4 +218,15 @@
 ## The term contingency
 - **A : B --> C**
 	- Antecedent (Stimulus) : Behaviour (Response) --> Consequence (Outcome)
-	- 
+	- Example:
+		- With friends : tell stories --> friends laugh
+		- With parents : tell stories --> no laughs, reprimands
+		- Outcome: You are more likely to tell stories to friends but not to parents
+### Antecedents vs Consequences
+- Antecedents
+	- Stimuli that change probability of behaviour
+	- Presence influences behaviour
+- Consequences
+	- Strengthens or weakens behaviour
+	- behaviour is more or less likely in the future
+		- Repertoire altering effect
