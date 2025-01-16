@@ -93,3 +93,11 @@
 	- data integrity, confidentiality, and endpoint authentication  
 	- implemented in application layer  
 	- requires a handshake for certificate exchange and key generation
+# HTTP and Web
+- Web page is a collection of objects
+	- HTML, jpeg, audio file
+- Page is a base HTML file which includes reference objects, addressable by URL
+- `www.hostname.com/path/to/resource.gif`
+## HTTP overview
+- HTTP is application layer protocol
+- 
