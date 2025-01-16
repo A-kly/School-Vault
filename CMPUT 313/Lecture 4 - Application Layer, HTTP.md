@@ -153,11 +153,19 @@
 	- "don't terminate connection"
 - User-Agent: Mozilla/5.0 (X11; Linux x86_64)  
 - Accept: text/html
-	- "What am I ex"
-- Host: cs.ualberta.ca  
+	- "What am I expecting to receive?"
+- Host: cs.ualberta.ca
+	- "What page am i accessing?"
 ...
-- Referer: amazon.com  
+- Referer: amazon.com
+	- "Go to another web server to get content from the page I'm requesting"
 - Cookie: 1678  
 ...
-- If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT  
+- If-Modified-Since: Wed, 21 Oct 2015 07:28:00 GMT
+	- "Give me a new page if the page has been changed"
 - If-None-Match: "33a64df551425fcc55e4d42a148795d9f25f89d4"
+	- "Give me the resource if the hash of the resource has changed and is different from this hash"
+### Other HTTP request methods
+![[Pasted image 20250116120225.png]]
+## HTTP response message
+- Status l
