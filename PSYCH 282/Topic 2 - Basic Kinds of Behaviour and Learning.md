@@ -30,4 +30,18 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 - **Supernormal Stimulus:** exaggerated sign stimulus that elicits more vigorous response
 ### Pecking Response in Gulls
 ![[Pasted image 20250116162814.png]]
+- Simulated gull heads on the right, graph of number of pecks
+- presence or absence of red is what matters the most
+- red stick is supernormal stimulus
+- "red" is signed stimulus
+### Aggression in Sticklebacks
+![[Pasted image 20250116163053.png]]
+- No attacks with no red (realistic fish)
+- vaguely fish and red
+	- more attacks
+- closer to fish, more red
+	- EVEN more attacks
+## Exploiting MAPs
+![[Pasted image 20250116163224.png]]
+- Cuccos simulate other chicks with Larger, extra yellow beak and red mouth, supernormal stimulus
 - 
