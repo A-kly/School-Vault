@@ -168,4 +168,31 @@
 ### Other HTTP request methods
 ![[Pasted image 20250116120225.png]]
 ## HTTP response message
-- Status l
+- Status line
+	- `HTTP/1.1 200 OK`
+- Header lines
+	- Date
+	- Server
+	- Last-Modified
+	- ETag
+	- Content-length
+	- Content-Type
+- Data
+### Status codes
+- 100s Informational responses  
+- 200s Successful responses  
+- 300s Redirection messages  
+- 400s Client error responses  
+- 500s Server error responses
+- Examples
+	- 200 OK  
+		- request succeeded, requested object later in this message  
+	- 301 Moved Permanently  
+		- requested object moved, new location specified later in this message (in Location: field)  
+	- 400 Bad Request  
+		- request msg not understood by server  
+	- 404 Not Found  
+		- requested document not found on this server  
+	- 505 HTTP Version Not Supported
+## Trying out HTTP (client side) for yourself
+![[Pasted image 20250116120657.png]]
