@@ -111,4 +111,28 @@
 - HTTP is "stateless"
 	- Server maintains no info about client requests
 	- State maintenance is super complex, so we don't do this
+## HTTP connections
+- **Non-Persistent HTTP**
+	1. Connection opened with TCP
+	2. One object is sent over TCP
+	3. Connection closed
+- **Persistent HTTP**
+	1. Connection opened with TCP
+	2. Multiple objects sent
+	3. Connection closed
+### Non persistent example
+![[Pasted image 20250116114924.png]]
+![[Pasted image 20250116114944.png]]
+### Non-persistent HTTP: response time
+- **RTT**
+	- At least one Round Trip TIme required to establish connection
+- HTTP response time (per object)
+	- one RTT to initiate TCP connection
+	- one RTT for HTTP request and first few bytes of HTTP response to return
+	- object/file transmission time
+![[Pasted image 20250116115146.png]]
+**Non-persistent HTTP response time = 2RTT+ file transmission time**
+### Persistent HTTP
+![[Pasted image 20250116115216.png]]
+## HTTP request message
 - 
