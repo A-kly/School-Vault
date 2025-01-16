@@ -211,4 +211,11 @@
 - Functional relationship is demonstrated when behavior matches performance criteria
 ![[Pasted image 20250116154035.png]]
 - **Basically changing between levels of treatment, not going back to baseline**
-##
+# Functional Assessment
+- Determine why behaviour occurs (or does not occur)
+- Requires a functional understanding of the stimuli in the environment that influences behaviour
+![[Pasted image 20250116154315.png]]
+## The term contingency
+- **A : B --> C**
+	- Antecedent (Stimulus) : Behaviour (Response) --> Consequence (Outcome)
+	- 
