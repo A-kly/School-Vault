@@ -65,3 +65,8 @@
 	- Client to server
 - Response headers
 	- Server to client
+## Queries
+- URLs have a query portion
+- can have one or more arguments
+- Usually `key=value&key2=value2`
+- Other formats exist, using `;` or `&` separator or having just a string.
