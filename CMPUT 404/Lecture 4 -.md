@@ -70,3 +70,11 @@
 - can have one or more arguments
 - Usually `key=value&key2=value2`
 - Other formats exist, using `;` or `&` separator or having just a string.
+- starts with `?`
+## Paths
+- Can be absolute or relative
+- absolute
+	- Normal urls, from root to resource
+- Relative
+	- Uses linux 'dot' notation
+	- eg. `http://[::1]:8000/images`
