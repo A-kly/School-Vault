@@ -69,3 +69,10 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 - increase in the strength of a response to a repeated stimulus
 - Not specific to one stimulus  
 	- Can result from repeated presentations of a stimulus or by arousal from extraneous stimuli
+![[Pasted image 20250116164554.png]]
+### Visual Attention in Infants
+- Human infant visual fixation  
+- Infants fixated longer to complex rather than simple stimuli across trials
+![[Pasted image 20250116164639.png]]
+## Rats in background noise, habituation vs sensitization
+![[Pasted image 20250116164756.png]]
