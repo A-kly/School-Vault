@@ -65,6 +65,8 @@
 	- Client to server
 - Response headers
 	- Server to client
+- http uses port 80, https uses port 443
+
 ## Queries
 - URLs have a query portion
 - can have one or more arguments
@@ -95,7 +97,5 @@
 ## Fragments
 - Links to part of a page
 - uses `#`
-# URIs and encoding
+## URIs and encoding
 - Have to be able to handle everything
-
-#
