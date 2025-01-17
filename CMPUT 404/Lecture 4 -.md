@@ -77,4 +77,12 @@
 	- Normal urls, from root to resource
 - Relative
 	- Uses linux 'dot' notation
-	- eg. `http://[::1]:8000/images`
+	- eg. `http://[::1]:8000/images/../index.html`
+		- root dir -> images dir ->back to root -> render index.html
+
+- absolute authority
+	- Like normal
+- implied authority
+	- used in html `href`, references resource relative to current directory/page
+	- with relative path, don't use leading slash
+	- with absolute path, use leading slash
