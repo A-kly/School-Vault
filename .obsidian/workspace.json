@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 4 -.md",
+                "file": "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 -"
+              "title": "Lecture 4 - Application Layer, HTTP"
             }
           }
         ],
@@ -232,6 +232,7 @@
   },
   "active": "aaf60116068777d1",
   "lastOpenFiles": [
+    "CMPUT 404/Lecture 4 -.md",
     "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
     "CMPUT 313/Untitled.md",
     "PSYCH 282/Topic 2 - Basic Kinds of Behaviour and Learning.md",
@@ -248,7 +249,6 @@
     "PSYCH 282/Media/Pasted image 20250116154315.png",
     "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
     "CMPUT 404/Untitled.md",
-    "CMPUT 404/Lecture 4 -.md",
     "CMPUT 404/Lecture 3 - The internet.md",
     "CMPUT 313/Lecture 2 - The life of a packet.md",
     "CMPUT 404/Lecture 2 - Web tech.md",
