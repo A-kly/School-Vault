@@ -86,3 +86,16 @@
 	- used in html `href`, references resource relative to current directory/page
 	- with relative path, don't use leading slash
 	- with absolute path, use leading slash
+## SCHEME
+- http:
+- https:
+- spotify:
+- tel:
+- mailto:
+## Fragments
+- Links to part of a page
+- uses `#`
+# URIs and encoding
+- Have to be able to handle everything
+
+#
