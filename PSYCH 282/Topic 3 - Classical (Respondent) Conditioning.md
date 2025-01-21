@@ -23,3 +23,10 @@
 ![[Pasted image 20250121162920.png]]
 # Measuring the Respondent Behaviour
 ![[Pasted image 20250121163528.png]]
+# Higher order conditioning
+![[Pasted image 20250121164116.png]]
+![[Pasted image 20250121164140.png]]
+![[Pasted image 20250121164153.png]]
+![[Pasted image 20250121164203.png]]
+![[Pasted image 20250121164217.png]]
+![[Pasted image 20250121164228.png]]
