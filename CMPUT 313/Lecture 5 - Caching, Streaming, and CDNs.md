@@ -150,4 +150,12 @@
 		- Close to users
 		- eg. Akamai: 240,000 servers deployed in 120+ countries
 	- **bring home**
-		- smaller number of servers in larger
+		- smaller number of servers in larger clusters close to internet exchange points
+		- each internet exchange point has easier access to access networks
+		- *Point of presence system*
+## How does Netflix work?
+- Netflix: stores copies of content (e.g., Squid Game) at its (worldwide) OpenConnect CDN nodes
+- subscriber requests content, service provider returns manifest
+	- using manifest, client retrieves content at highest supportable rate
+	- may choose different rate or copy if network path congested
+![[Pasted image 20250121120841.png]]
