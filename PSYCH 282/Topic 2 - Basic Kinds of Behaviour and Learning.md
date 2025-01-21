@@ -116,4 +116,15 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 	- Satisfaction = stamping in  
 	- Discomfort = stamping out
 ## Operant Conditioning
-Operant (Instrumental) Conditioning: learning that is controlled by the consequences of the organisms behaviour
+- **Operant (Instrumental) Conditioning:** learning that is controlled by the consequences of the organisms behaviour
+![[Pasted image 20250121154043.png]]
+## Stimuli, Responses, & Outcomes
+- **Antecedent:** something detectable in the environment that set the occasion to respond  
+- **Behaviour:** activity that can be repeated, measured, and has an impact on the environment  
+- **Consequences:** stimuli that can increase or decrease the probability of future behavior\
+## Reinforcement Contingencies
+![[Pasted image 20250121154229.png]]
+# Operant vs. Classical
+![[Pasted image 20250121154246.png]]
+# Social Learning
+## Bandura and Social Learning
