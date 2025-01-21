@@ -3,5 +3,6 @@
 
 - [[Topic 1 - Introduction to Behaviour Modification]]
 - [[Topic 2 - Basic Kinds of Behaviour and Learning]]
+- [[Topic 3 - Classical (Respondent) Conditioning]]
 
 %% End Waypoint %%
