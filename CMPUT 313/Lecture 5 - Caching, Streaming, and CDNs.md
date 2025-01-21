@@ -45,3 +45,15 @@
 - 3 adds security, object error and congestion protocol (more pipelining) over Quick UDP internet Connections or QUIC
 	- More on 3 in transport layer
 
+# Lots of requests for loading a page
+![[Pasted image 20250121111935.png]]
+## Types of caching
+- **Private**
+	- local cache in browser
+	- reduces delay on subsequent accesses, e.g. clicking on back button in browser
+- **Proxy** (shared)
+	- in-network cache installed by network operator
+	- reducing bandwidth (and delay) required between network and origin server when multiple people locally access the same Web object
+- **Managed** (shared)
+	- in-network cache run by application provider, placed close to end users
+	- application provider can redirect requests to servers that are closer, not overloaded, etc. using DNS (discussed later)
