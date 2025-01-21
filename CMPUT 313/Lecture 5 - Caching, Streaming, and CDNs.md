@@ -159,3 +159,6 @@
 	- using manifest, client retrieves content at highest supportable rate
 	- may choose different rate or copy if network path congested
 ![[Pasted image 20250121120841.png]]
+![[Pasted image 20250121121043.png]]
+![[Pasted image 20250121121057.png]]
+- OTT = we are running all of this overtop of the internet, so we have internet as infrastructure and have to user it to work
