@@ -3,6 +3,7 @@
 - [[Lecture 2 - The life of a packet]]
 - [[Lecture 3 - Internet structure and Protocol Layers]]
 - [[Lecture 4 - Application Layer, HTTP]]
+- [[Lecture 5 - Caching, Streaming, and CDNs]]
 - **Media**
 
 
