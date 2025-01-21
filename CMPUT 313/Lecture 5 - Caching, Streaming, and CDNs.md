@@ -84,4 +84,6 @@
 	- poor content providers can use web cache instead of buying and building their own servers
 ### Example
 ![[Pasted image 20250121113445.png]]
+![[Pasted image 20250121113459.png]]
+![[Pasted image 20250121113509.png]]
 
