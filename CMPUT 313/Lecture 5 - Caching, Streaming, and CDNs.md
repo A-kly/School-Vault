@@ -120,3 +120,20 @@
 	- client interactivity: pause, fast-forward, rewind, jump through video
 	- video packets may be lost, retransmitted
 ![[Pasted image 20250121115440.png]]
+# Streaming multimedia: DASH
+- **Dynamic, Adaptive Streaming over HTTP**
+- Server
+	- Divides video into chunks (segments)
+	- each chunk is encoded at multiple rates
+	- different rates are stored in different files
+	- files are replicated in many CDN nodes
+	- **manifest file** is provided for getting different chunks
+- Client
+	- periodically estimates client-server-bandwidth
+	- consults **manifest** requesting one chunk at a time
+		- Chose best coding rate that is sustainable for bandwidth
+- Inteligence is at client side
+	- **when** we request chunk
+	- **what encoding rate**
+	- **where do we get chunk from**
+- Streaming video = encoding + DASH 
