@@ -128,3 +128,13 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 ![[Pasted image 20250121154246.png]]
 # Social Learning
 ## Bandura and Social Learning
+- A. Bandura
+	- studied kindergarten students to establish observational learning
+- Social (observational) learning
+	- we understand what to do by watching others
+		- Vicarious conditioning occurs by an organism watching another organism (a model) be conditioned
+## A Classic Observational Learning Study
+![[Pasted image 20250121154954.png]]
+## Social Learning and Cognition
+- Many models rely on cognitive explanations
+- Less of a focus in this course
