@@ -103,4 +103,20 @@
 - video is sequence of images
 	- many arrays of pixels
 - lots of redundancy between images
-	- Spacial compression = send pixel value and number of pi
+	- Spacial compression = send pixel value and number of pixels to repeat
+	- temporal compression = send pixel value and then send only new pixels
+![[Pasted image 20250121115030.png|300]]
+- **constant bit rate (CBR):** video encoding rate is fixed
+- **variable bit rate (VBR):** video encoding rate changes as amount of spatial, temporal coding changes
+## Streaming stored video
+![[Pasted image 20250121115143.png]]
+- Main challenges
+	- server-client bandwidth varries over time with changing network congestion levels
+	- packet loss and delay due to congestion will delay playout or result in poor video quality
+![[Pasted image 20250121115241.png]]
+- Continuous playout constraint: during client video playout, playout timing must match original timing
+	- … but network delays are variable (jitter), so will need client-side buffer to match continuous playout constraint
+- Other challenges:
+	- client interactivity: pause, fast-forward, rewind, jump through video
+	- video packets may be lost, retransmitted
+![[Pasted image 20250121115440.png]]
