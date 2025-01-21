@@ -86,7 +86,34 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 # Event-Event Learning
 ![[Pasted image 20250121153424.png]]
 ## Classical Conditioning
-Classical, Respondent, or Pavlovian  
-conditioning: Form of learning in which a neutral  
-stimulus comes to signal the occurrence of a  
-second stimulus
+- Classical, Respondent, or Pavlovian conditioning
+	- Form of learning in which a neutral stimulus comes to signal the occurrence of a second stimulus
+	- Behaviours are elicited (brought about by) antecedent stimuli
+	- Conditioning process involves manipulation of antecedent stimuli
+### Useful Terminology
+- Elicits
+	- brings about
+- Stimulus
+	- anything in the environment that (a) we can detect, (b) is measurable, and (c) can evoke a response or behavior
+- Association
+	- a relationship between two stimuli
+- Acquisition
+	- time while an association is being learned
+### Classical Conditioning Terms
+- **Unconditioned Stimulus (US)**
+	- Biologically significant stimulus that already has a response associated with it
+	- eg. food, pain
+- **Unconditioned Response (UR)**
+	- Response naturally associated with the unconditioned stimulus
+	- eg. Salivation, Startle
+- **Neutral Stimulus (NS)**
+	- A stimulus that does not naturally elicit a response
+	- eg. Tone; chime; bell
+![[Pasted image 20250121153929.png]]
+# Behaviour-Event Learning
+## E. L. Thorndike’s Law of Effect
+- “If a response, in the presence of a stimulus, is followed by a satisfying state of affairs, the bond between stimulus and response will be strengthened.”
+	- Satisfaction = stamping in  
+	- Discomfort = stamping out
+## Operant Conditioning
+Operant (Instrumental) Conditioning: learning that is controlled by the consequences of the organisms behaviour
