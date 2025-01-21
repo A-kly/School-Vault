@@ -136,4 +136,18 @@
 	- **when** we request chunk
 	- **what encoding rate**
 	- **where do we get chunk from**
-- Streaming video = encoding + DASH 
+- *Streaming video = encoding + DASH + playout buffering*
+# CDNS
+- How do we stream content to hundreds of thousands of users?
+- Option 1 - MEGA server
+	- Single point of failure
+	- one point of congestion
+	- long (and congested) path to distant clients
+	- **Does not scale**
+- Option 2 - save many copies of video to many distributed sites (CDN)
+	- **Enter deep**
+		- push CDN servers as deep as possible towards access networks
+		- Close to users
+		- eg. Akamai: 240,000 servers deployed in 120+ countries
+	- **bring home**
+		- smaller number of servers in larger
