@@ -30,4 +30,18 @@
 	- methods, codes, headers are unchanged from 1.1
 	- transmission order is now up to server
 	- server can push unrequested objects
-	- 
+	- we can now divide objects into "frames" to mitigate HOL blocking
+## HTTP/2: mitigating HOL blocking
+- HTTP 1.1: client requests 1 large object (e.g., video file) and 3 smaller objects
+![[Pasted image 20250121111448.png]]
+## HTTP/2: mitigating HOL blocking
+- HTTP/2: objects divided into frames, frame transmission interleaved (known as multiplexing)
+![[Pasted image 20250121111527.png]]
+# HTTP/2 to HTTP/3
+- 2 over single TCP connection means
+	- recovery from packet loss still requires retransmisson
+		- as in 1.1, we are encouraged to open multiple parallel TCP connections to reduce stalling and increase throughput
+	- no security over tcp
+- 3 adds security, object error and congestion protocol (more pipelining) over Quick UDP internet Connections or QUIC
+	- More on 3 in transport layer
+
