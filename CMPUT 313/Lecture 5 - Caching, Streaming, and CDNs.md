@@ -57,3 +57,16 @@
 - **Managed** (shared)
 	- in-network cache run by application provider, placed close to end users
 	- application provider can redirect requests to servers that are closer, not overloaded, etc. using DNS (discussed later)
+## How do we avoid a stale cache?
+- Origin tells cache about length of time we can cache this object
+	- `Cache-Control: no-cache`
+	- `Cache-Control: max-age=<seconds> `or `Expires: <date-and-time> `(supported in HTTP 1.1)
+- Poll origin before using Cached copy in request header
+	- `if-Modified-Since: <date>` or `If-None-Math: "<etag>"` (this is a hash of the object)
+- Origin server notifies client if data changes 
+	- Server is responsible
+	- requires tracking of clients (kinda impossible)
+	- not used in HTTP
+## Conditional GET
+![[Pasted image 20250121112950.png]]
+
