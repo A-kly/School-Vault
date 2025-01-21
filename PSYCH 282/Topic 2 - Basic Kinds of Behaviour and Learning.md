@@ -76,3 +76,17 @@ http://www.youtube.com/watch?v=vUNZv-ByPkU&playnext=1&list=PLF9CD787EE7D98EC0
 ![[Pasted image 20250116164639.png]]
 ## Rats in background noise, habituation vs sensitization
 ![[Pasted image 20250116164756.png]]
+## Adaptive Value
+- Habituation
+	- Reduced responding to things constant in your environment
+		- Attention drawn to new things
+- Sensitization
+	- Increased responsiveness to things in distracting environments (e.g., loud, visually busy)
+		- Ready for danger
+# Event-Event Learning
+![[Pasted image 20250121153424.png]]
+## Classical Conditioning
+Classical, Respondent, or Pavlovian  
+conditioning: Form of learning in which a neutral  
+stimulus comes to signal the occurrence of a  
+second stimulus
