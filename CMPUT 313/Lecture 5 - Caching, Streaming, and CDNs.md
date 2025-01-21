@@ -86,4 +86,8 @@
 ![[Pasted image 20250121113445.png]]
 ![[Pasted image 20250121113459.png]]
 ![[Pasted image 20250121113509.png]]
-
+# Calculating access link utilization, end-end delay with cache:
+![[Pasted image 20250121114125.png]]
+# Video streaming
+## Video Streaming and CDNs: context
+- Most of 
