@@ -90,4 +90,17 @@
 ![[Pasted image 20250121114125.png]]
 # Video streaming
 ## Video Streaming and CDNs: context
-- Most of 
+- Most of internet bandwidth is video streaming
+	- netfix, youtube, prime, 80% of residential isp traffic
+- Challenge
+	- How do we scale this to nearly 1B users?
+	- dealing with device heterogeneity
+		- network tech, client computing power
+- Solution
+	- distributed application level infrastructure
+		- CDNs that are controlled by streaming companies
+## Multimedia: video
+- video is sequence of images
+	- many arrays of pixels
+- lots of redundancy between images
+	- Spacial compression = send pixel value and number of pi
