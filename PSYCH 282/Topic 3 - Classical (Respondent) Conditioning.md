@@ -21,3 +21,5 @@
 ![[Pasted image 20250121162902.png]]
 ## After Acquisition
 ![[Pasted image 20250121162920.png]]
+# Measuring the Respondent Behaviour
+![[Pasted image 20250121163528.png]]
