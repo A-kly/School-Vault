@@ -18,3 +18,6 @@
 ![[Pasted image 20250121162643.png]]
 # The Acquisition Process
 ![[Pasted image 20250121162753.png]]
+![[Pasted image 20250121162902.png]]
+## After Acquisition
+![[Pasted image 20250121162920.png]]
