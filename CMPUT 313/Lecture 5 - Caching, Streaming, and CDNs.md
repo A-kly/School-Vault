@@ -69,4 +69,19 @@
 	- not used in HTTP
 ## Conditional GET
 ![[Pasted image 20250121112950.png]]
+## Web caches (aka proxy servers)
+- Users make browser point to web cache
+	- web cache is also client to get objects from server
+- Browsers send all HTTP requests to cache
+	- if object in cache, return object
+	- if object not in cache, request from origin server and return to user
+![[Pasted image 20250121113233.png]]
+### Advantages of Web caching
+- Reduces reponse time for client request
+	- due to proximity to user
+- reduces trafic to institution's access link
+- enables "poor" content provider to more effectively deliver content
+	- poor content providers can use web cache instead of buying and building their own servers
+### Example
+![[Pasted image 20250121113445.png]]
 
