@@ -67,4 +67,14 @@
 	- Interval between one CS-US exposure (a trial) and another CS-US exposure (a different trial)  
 	- Can vary from seconds to years  
 	- In general, longer intervals are better than short intervals
-## 
+## Contingency between NS and US
+- Contingency between the NS and the US means that the NS and US co-occur reliably  
+	- NS doesn’t happen without the US following it  
+	- US doesn’t happen without the NS having first occurred  
+- Contiguity: Events are close together in time and space
+- e.g., Rescorla (1968)  
+	- CS = Tone  
+	- US = Shock  
+	- CR = Suppression of lever pressing for food  
+		- Lower ratio = more freezing (i.e., less lever pressing)  
+- When US was as likely to occur in the presence of the CS as its absence conditioning was not effective
