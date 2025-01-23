@@ -33,3 +33,25 @@
 #review 
 > *Skipped some content to work on 404*
 
+# Temporal  Relationship
+## Short-Delay Conditioning
+- CS presentation alone, but US overlaps shortly after onset
+- Usually most effective conditioning procedure
+![[Pasted image 20250123160101.png]]
+## Long-Delay Conditioning
+- CS and US overlap, but CS is on for longer time  
+- CS becomes an imprecise predictor of US
+![[Pasted image 20250123160131.png]]
+## Trace Conditioning
+- No overlap between CS and US  
+- Temporal Contiguity matters
+![[Pasted image 20250123160207.png]]
+## Simultaneous Conditioning
+- CS and US onset is at the same time  
+- Less common in the real world  
+- Less effective than Delayed and Trace conditioning
+![[Pasted image 20250123160332.png]]
+## Backward Conditioning
+- US occurs before CS
+- Results are inconsistent
+![[Pasted image 20250123160400.png]]
