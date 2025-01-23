@@ -45,7 +45,10 @@
 ## Trace Conditioning
 - No overlap between CS and US  
 - Temporal Contiguity matters
+	- NOT continuity
+	- How close they are in time
 ![[Pasted image 20250123160207.png]]
+
 ## Simultaneous Conditioning
 - CS and US onset is at the same time  
 - Less common in the real world  
