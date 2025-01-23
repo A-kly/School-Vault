@@ -157,3 +157,10 @@ S: 221 hamburger.edu closing connection
 - Include TTL (time to live) to help make sure we don't start serving incorrect IPs
 - if we change IPs, we need to wait a bit to make sure that the TTL expire in all required servers so that we can get new IPs to all servers
 - we use best-effort name-to-address translation
+## DNS records
+![[Pasted image 20250123120104.png]]
+## DNS protocol messages
+![[Pasted image 20250123120238.png]]
+![[Pasted image 20250123120257.png]]
+## Inserting records into DNS database
+- Register name `network`
