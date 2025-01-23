@@ -100,3 +100,24 @@ S: 221 hamburger.edu closing connection
 	- replicate web servers
 		- Multiple IPs for one name
 	- CDNs
+## DNS Structure: Why not centralized design?
+![[Pasted image 20250123114018.png]]
+## Thinking about the DNS
+- humongous distributed database
+	- billion records, each simple
+- handles many trillions of queries/day
+	- many more reads than writes
+	- performance matters: almost every Internet transaction interacts with DNS - msecs count!
+- organizationally, physically decentralized
+	- millions of different organizations responsible for their records
+- “bulletproof”: reliability, security
+
+## DNS: a distributed, hierarchical database
+![[Pasted image 20250123114150.png]]
+- Client wants IP address for www.amazon.com; 1st approximation:
+	- client queries root server to find .com DNS server
+	- client queries .com DNS server to get amazon.com DNS server
+	- client queries amazon.com DNS server to get IP address for www.amazon.com
+## DNS: root name servers
+- official, contact-of-last-resort by name servers that can not resolve name
+- 
