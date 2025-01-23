@@ -132,3 +132,23 @@ S: 221 hamburger.edu closing connection
 - authoritative DNS servers
 	- organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts
 	- can be maintained by organization or service provider
+## Local DNS servers
+- Basically jsut a cache for isp and top level domain servers
+- each ISP has local DNS name server; to find yours:
+	- MacOS: % scutil --dns
+	- Windows: >ipconfig /all
+- Local DNS server does not strictly belong to hierarchy
+## DNS name resolution: iterated query
+- Example: host at `engineering.nyu.edu` wants IP address for `gaia.cs.umass.edu`
+- Iterated query:
+	- contacted server replies with name of server to contact
+	- “I don’t know this name, but ask this server”
+	- *contact local dns server, that server goes and asks servers, going down the hirarchy to get authoritative dns server response eventually, and then reply with correct IP*
+![[Pasted image 20250123115129.png]]
+## DNS name resolution: recursive query
+ - Recursive query
+	 - puts burden of name resolution on contacted name server
+	- heavy load at upper levels of hierarchy?
+	- *Ask root dns, which asks tld, which asks authoritative, which all resolves recursively*
+![[Pasted image 20250123115344.png]]
+- **We can combine these strategie**
