@@ -194,4 +194,19 @@ S: 221 hamburger.edu closing connection
 ![[Pasted image 20250123121419.png]]
 ### Assumptions
 - Internet core has hella bandwidth
-- all bottlenecks are in a
+	- all bottlenecks are in access networks
+	- core bandwidth not required to be calculates
+- bandwidth is fully devoted to distributing file
+- only one server has file initially
+## Minimum file distribution time: client-server
+![[Pasted image 20250123121726.png]]
+- server transmission: must sequentially send (upload) N file copies
+	• time to send one copy: F/u_s
+	• time to send N copies: NF/u_s
+- client: each client must download file copy
+	- d_min = min client download rate
+	- client download time is at least F/d_min
+![[Pasted image 20250123121715.png]]
+## Minimum file distribution time: P2P
+- Another assumption, peers can replicate files and add to upload
+- 
