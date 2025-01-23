@@ -151,4 +151,9 @@ S: 221 hamburger.edu closing connection
 	- heavy load at upper levels of hierarchy?
 	- *Ask root dns, which asks tld, which asks authoritative, which all resolves recursively*
 ![[Pasted image 20250123115344.png]]
-- **We can combine these strategie**
+- **We can combine these strategies to balance load and not overload single servers**
+## Caching DNS Information
+- Cache to improve response time
+- Include TTL (time to live) to help make sure we don't start serving incorrect IPs
+- if we change IPs, we need to wait a bit to make sure that the TTL expire in all required servers so that we can get new IPs to all servers
+- we use best-effort name-to-address translation
