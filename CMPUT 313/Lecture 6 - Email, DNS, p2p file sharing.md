@@ -59,3 +59,28 @@ S: 221 hamburger.edu closing connection
 	- SMTP server uses CRLF.CRLF to determine end of message
 	- SMTP uses persistent connections
 ## Mail message format
+- RFC 2822 defines syntax for e-mail message itself (like HTML defines syntax for web documents)
+- Header lines, e.g.,
+	- To:
+	- From:
+	- Subject:
+	- these lines, within the body of the email message area different from SMTP MAIL FROM:,RCPT TO: commands!
+- Body: the “message”, ASCII characters only
+![[Pasted image 20250123112451.png]]
+## Retrieving email: mail access protocols
+![[Pasted image 20250123112507.png]]
+- SMTP: delivery/storage of e-mail messages to receiver’s server
+- mail access protocol: retrieval from server
+	- IMAP: Internet Mail Access Protocol [RFC 3501]: messages stored on server, IMAP provides retrieval, deletion, folders of stored messages on server
+- HTTP: gmail, Hotmail, Yahoo!Mail, etc. provides web-based interface on top of STMP (to send), IMAP (or POP) to retrieve e-mail messages
+	- POP deletes message from mail server so you can't access the email on multiple devices
+# Domain Name System (DNS)
+## Addressing and naming
+- name
+	- easy to remember, NO character limmit
+- ip address
+	- used by address datagrams
+- Mapping between name and IP required directory service
+	- critical internet function
+	- adds delay, can be reduced with caching
+- 
