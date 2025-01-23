@@ -12,5 +12,5 @@
 * ’(a b . (c . nil))
 (A B C)
 ```
-- In order to simplify, follow series of operations with car and cdr to figure out structure, then simplify
+- In order to verify correctness between internal representation and lisp statement, follow series of operations with car and cdr on both to see if they match and acquire the same element
 - every time we get to another dotted pair, we set `car` to be that dotted pair
