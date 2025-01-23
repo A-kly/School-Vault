@@ -78,3 +78,9 @@
 	- CR = Suppression of lever pressing for food  
 		- Lower ratio = more freezing (i.e., less lever pressing)  
 - When US was as likely to occur in the presence of the CS as its absence conditioning was not effective
+![[Pasted image 20250123162004.png]]
+- ignore everything other than the first column
+## Number of Pairings
+- More pairings of the NS and US usually forms a stronger association  
+- Though first pairing produces the strongest learning effect
+![[Pasted image 20250123162323.png]]
