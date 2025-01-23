@@ -103,3 +103,7 @@
 	1) Two neutral stimuli (A & B) occur together  
 	2) One of those stimuli (B) is conditioned to become a CS  
 	3) When A is presented alone, it too will elicit the same CR as B
+# Conditioned Emotional Responses
+![[Pasted image 20250123164830.png]]
+# The Role of the US on the Form of the CR
+![[Pasted image 20250123164914.png]]
