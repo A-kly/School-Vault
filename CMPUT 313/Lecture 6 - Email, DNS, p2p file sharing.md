@@ -181,3 +181,17 @@ S: 221 hamburger.edu closing connection
 	- Insert an entry in server or DNS protocol
 	- Cache poisoning
 	- intercept queries and return bogus replies
+
+![[Pasted image 20250123121115.png]]
+# Peer-to-peer file sharing
+- Self scalable
+	- More demand but also more capacity
+- Examples
+	- P2P file sharing (BitTorrent), streaming (KanKan), VoIP (Skype)
+## File distribution: client-server vs P2P
+- Time for file (size F) to be distributed to N hosts?
+	- host upload/download is a limited resource
+![[Pasted image 20250123121419.png]]
+### Assumptions
+- Internet core has hella bandwidth
+- all bottlenecks are in a

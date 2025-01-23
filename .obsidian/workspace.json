@@ -184,7 +184,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "76ffd95e574e4e3c",
@@ -307,6 +308,8 @@
   },
   "active": "4cf9447da6045c1d",
   "lastOpenFiles": [
+    "CMPUT 313/Media/Pasted image 20250123121419.png",
+    "CMPUT 313/Media/Pasted image 20250123121115.png",
     "CMPUT 313/Media/Pasted image 20250123120257.png",
     "CMPUT 313/Media/Pasted image 20250123120238.png",
     "CMPUT 313/Media/Pasted image 20250123120104.png",
@@ -316,8 +319,6 @@
     "CMPUT 313/Media/Pasted image 20250123114603.png",
     "CMPUT 313/Media/Pasted image 20250123114422.png",
     "CMPUT 313/Media/Pasted image 20250123114150.png",
-    "CMPUT 313/Media/Pasted image 20250123114018.png",
-    "CMPUT 313/Media/Pasted image 20250123112507.png",
     "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
     "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
     "CMPUT 313/Lecture 5 - Caching, Streaming, and CDNs.md",
