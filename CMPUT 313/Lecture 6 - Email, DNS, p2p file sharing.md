@@ -120,4 +120,15 @@ S: 221 hamburger.edu closing connection
 	- client queries amazon.com DNS server to get IP address for www.amazon.com
 ## DNS: root name servers
 - official, contact-of-last-resort by name servers that can not resolve name
-- 
+![[Pasted image 20250123114422.png]]
+- Critically important for internet function
+- ICANN (Internet Corporation for Assigned Names and Numbers) manages root DNS domain
+![[Pasted image 20250123114603.png]]
+## Top-Level Domain, and authoritative servers
+- Top-Level Domain (TLD) servers
+	- responsible for .com, .org, .net, .edu, .aero, .jobs, .museums, and all top-level country domains, e.g.: .cn, .uk, .fr, .ca, .jp
+	- Network Solutions: authoritative registry for .com, .net TLD
+	- Educause: .edu TLD
+- authoritative DNS servers
+	- organization’s own DNS server(s), providing authoritative hostname to IP mappings for organization’s named hosts
+	- can be maintained by organization or service provider
