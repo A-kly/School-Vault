@@ -49,3 +49,5 @@
 ![[Pasted image 20250123103914.png]]
 ## apply and funcall
 ![[Pasted image 20250123104041.png]]
+## Built-in Lisp Functions
+![[Pasted image 20250123104405.png]]
