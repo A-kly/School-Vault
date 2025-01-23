@@ -26,4 +26,13 @@
 ### Mapcar in Lisp
 - In Common Lisp, the built-in map function is named mapcar
 	- example: ![[Pasted image 20250123102410.png]]
-	- 
+## Reduce
+![[Pasted image 20250123102808.png]]
+### Reduce in Fun
+![[Pasted image 20250123102820.png]]
+### Payroll Example
+![[Pasted image 20250123102910.png]]
+#### Fixing the Example
+![[Pasted image 20250123103047.png]]
+### Reduce Without Identity
+![[Pasted image 20250123103114.png]]
