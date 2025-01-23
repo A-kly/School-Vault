@@ -87,3 +87,9 @@
 ## Rescorla-Wagner Model
 ![[Pasted image 20250123162619.png]]
 ![[Pasted image 20250123162652.png]]
+# Conditioned Taste Aversion (CTA)
+- Taste aversions (and preferences) are learned  
+- Eat a (novel) food → aversive consequence  
+- e.g., indigestion or food poisoning  
+- Can occur with just one pairing (single trial)  
+- Can occur even if illness occurs hours later
