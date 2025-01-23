@@ -44,3 +44,8 @@
 ![[Pasted image 20250123103658.png]]
 ## Vector
 ![[Pasted image 20250123103709.png]]
+# Defining new Higher Order Functions in Lisp
+![[Pasted image 20250123103907.png]]
+![[Pasted image 20250123103914.png]]
+## apply and funcall
+![[Pasted image 20250123104041.png]]
