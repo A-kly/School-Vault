@@ -83,4 +83,15 @@ S: 221 hamburger.edu closing connection
 - Mapping between name and IP required directory service
 	- critical internet function
 	- adds delay, can be reduced with caching
-- 
+## Domain Name System (DNS)
+- Distributed database implemented in hierarchy of name servers
+- Application-layer protocol allowing hosts to query this distributed database (by communicating with DNS servers) to resolve names (address/name translation)
+	- DNS runs over UDP and uses port 53
+	- often used by other application-layer protocols such as HTTP and SMTP
+	- mapping is requested by calling gethostbyname() in UNIX-based systems
+- Core Internet function is implemented as an application-layer protocol!
+	- complexity at network’s edge
+## Services
+- Mapping hostname to IP
+- host aliasing:
+	- 
