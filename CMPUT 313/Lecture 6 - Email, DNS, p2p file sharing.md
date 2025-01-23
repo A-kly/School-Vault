@@ -163,4 +163,21 @@ S: 221 hamburger.edu closing connection
 ![[Pasted image 20250123120238.png]]
 ![[Pasted image 20250123120257.png]]
 ## Inserting records into DNS database
-- Register name `network`
+- Register name `networkuptopia.com` at dns registrar
+	- provide names, IP addresses of authoritative name server (primary and secondary)
+	- registrar inserts NS and A RRs into .com TLD server: (networkutopia.com, dns1.networkutopia.com, NS) (dns1.networkutopia.com, 212.212.212.1, A)
+- create authoritative server locally with IP address 212.212.212.1
+	- type A record for www.networkuptopia.com
+	- type MX record for networkutopia.com
+## DNS security
+- DDOS attack
+	- bombard root server with traffic
+	- not successful let
+	- use local DNS filtering
+	- bombard TLD server
+		- lil easier and more dangerous
+- Spoofing attacks
+	- Pretend to be a certain hostname
+	- Insert an entry in server or DNS protocol
+	- Cache poisoning
+	- intercept queries and return bogus replies
