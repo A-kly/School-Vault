@@ -84,3 +84,6 @@
 - More pairings of the NS and US usually forms a stronger association  
 - Though first pairing produces the strongest learning effect
 ![[Pasted image 20250123162323.png]]
+## Rescorla-Wagner Model
+![[Pasted image 20250123162619.png]]
+![[Pasted image 20250123162652.png]]
