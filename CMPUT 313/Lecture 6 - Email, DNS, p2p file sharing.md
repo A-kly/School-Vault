@@ -94,4 +94,9 @@ S: 221 hamburger.edu closing connection
 ## Services
 - Mapping hostname to IP
 - host aliasing:
-	- 
+	- `relay1.west-coast.enterprise.com` two aliases: `enterprise.com` and `www.enterprise.com`
+- Mail server aliasing
+- Local distribution
+	- replicate web servers
+		- Multiple IPs for one name
+	- CDNs
