@@ -30,3 +30,6 @@
 ![[Pasted image 20250121164203.png]]
 ![[Pasted image 20250121164217.png]]
 ![[Pasted image 20250121164228.png]]
+#review 
+> *Skipped some content to work on 404*
+
