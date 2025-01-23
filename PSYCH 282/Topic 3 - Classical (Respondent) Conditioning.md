@@ -93,3 +93,13 @@
 - e.g., indigestion or food poisoning  
 - Can occur with just one pairing (single trial)  
 - Can occur even if illness occurs hours later
+![[Pasted image 20250123164038.png]]
+# Previous Experience
+- **Latent Inhibition:**  
+	- Pre-exposure of a stimulus in the absence of a US interferes with the ability of that stimulus to become a CS  
+- **Blocking:**  
+	- Failure of a stimulus to become a CS when it is part of a compound stimulus that includes an already effective CS
+- **Sensory Preconditioning:**  
+	1) Two neutral stimuli (A & B) occur together  
+	2) One of those stimuli (B) is conditioned to become a CS  
+	3) When A is presented alone, it too will elicit the same CR as B
