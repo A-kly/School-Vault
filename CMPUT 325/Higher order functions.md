@@ -21,3 +21,9 @@
 > In the raise function, we need to write `(inc car(L))` as the helper function, but the rest of `raise` just applies `inc` to the entire list, we can generalize `raise` as `map(f, L)` to deal with this instead
 
 ![[Pasted image 20250123102158.png]]
+### Examples
+![[Pasted image 20250123102330.png]]
+### Mapcar in Lisp
+- In Common Lisp, the built-in map function is named mapcar
+	- example: ![[Pasted image 20250123102410.png]]
+	- 
