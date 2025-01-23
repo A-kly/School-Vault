@@ -36,3 +36,11 @@
 ![[Pasted image 20250123103047.png]]
 ### Reduce Without Identity
 ![[Pasted image 20250123103114.png]]
+## MapReduce for Big Data
+![[Pasted image 20250123103404.png]]
+### MapReduce in the Real World
+![[Pasted image 20250123103419.png]]
+## Filter
+![[Pasted image 20250123103658.png]]
+## Vector
+![[Pasted image 20250123103709.png]]
