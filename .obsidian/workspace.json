@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 5 - HTTP methods.md",
+                "file": "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - HTTP methods"
+              "title": "Lecture 5 - HTTP methods and more info"
             }
           }
         ],
@@ -218,7 +218,7 @@
   "active": "0f969aafa8a2a3d5",
   "lastOpenFiles": [
     "CMPUT 404/Lecture 4 - HTTP.md",
-    "CMPUT 404/Lecture 5 - HTTP methods.md",
+    "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
     "PSYCH 282/Topic 3 - Classical (Respondent) Conditioning.md",
     "PSYCH 282/Media/Pasted image 20250123164914.png",
     "PSYCH 282/Media/Pasted image 20250123164830.png",

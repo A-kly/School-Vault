@@ -6,3 +6,8 @@
 - Opposite of PUT
 - Erases the value of the URI
 - request body is usually empty
+
+# HTTP user agents
+- Client/browser
+	- Tells server about kind of browser that is accessing page
+- 
