@@ -10,4 +10,4 @@
 # HTTP user agents
 - Client/browser
 	- Tells server about kind of browser that is accessing page
-- 
+- Can allow for fingerprinting and tracking, this may be nice sometimes for preferences or personalization
