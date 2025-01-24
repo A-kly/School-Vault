@@ -46,4 +46,10 @@
 	- partial content
 	- client has to do GET with a range header to continue a big download that was interrupted
 ## Redirect - 300s
-- 
+- we redirect for many reasons, quite useful
+- 300
+	- Multiple choices for user to browse to
+- 301 
+	- moved permanently
+- #review 
+> *the*
