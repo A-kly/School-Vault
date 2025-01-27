@@ -1,0 +1,13 @@
+- Same specs as previous term BUT
+	- adding docker and cybera support
+	- can use docker or cybera in all requirements that say heroku
+	- docker will be introduced in next week's lab
+- New extra credit
+	- As a user, I can create posts that contain videos up to 4 seconds
+- malicious_user
+	- tests can be performed by instructor and TAs
+	- Send a huge amount of requests to a node to distupt it
+	- send non standard input as a post
+	- send images that are out of spec
+	- overload system with requests
+	- send code payloads to see if they execute

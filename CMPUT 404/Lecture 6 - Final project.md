@@ -1,6 +1,0 @@
-- Same specs as previous term BUT
-	- adding docker and cybera support
-	- can use docker or cybera in all requirements that say heroku
-	- docker will be introduced in next week's lab
-- New extra credit
-	- As a user, I can create posts that contai

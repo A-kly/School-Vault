@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "44e5a28e5a5eb24b",
+        "id": "67e66ad64104c2e5",
         "type": "tabs",
         "children": [
           {
-            "id": "4cf9447da6045c1d",
+            "id": "5cb44c13f60fdffc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 4 - HTTP.md",
+                "file": "CMPUT 404/Lecture 6 - More http stuff.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 4 - HTTP"
-            }
-          },
-          {
-            "id": "0f969aafa8a2a3d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 5 - HTTP methods and more info"
-            }
-          },
-          {
-            "id": "e8d90980f32e4ac2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 404/Lecture 6 - Final project.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 6 - Final project"
+              "title": "Lecture 6 - More http stuff"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,11 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8d90980f32e4ac2",
+  "active": "5cb44c13f60fdffc",
   "lastOpenFiles": [
-    "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
-    "CMPUT 404/Lecture 6 - Final project.md",
     "CMPUT 404/Lecture 4 - HTTP.md",
+    "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
+    "CMPUT 404/Final project.md",
+    "CMPUT 404/Lecture 6 - More http stuff.md",
     "PSYCH 282/Topic 3 - Classical (Respondent) Conditioning.md",
     "PSYCH 282/Media/Pasted image 20250123164914.png",
     "PSYCH 282/Media/Pasted image 20250123164830.png",
@@ -273,7 +243,6 @@
     "CMPUT 313/CMPUT 313.md",
     "CMPUT 313",
     "CMPUT 325",
-    "CMPUT 404/CMPUT 404.md",
     "CMPUT 404",
     "SOC 225/Readings",
     "SOC 225/Media",
