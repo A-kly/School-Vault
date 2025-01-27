@@ -1,2 +1,3 @@
 - Enterprise may have guidebook for error codes
+- if we use cookie based login, usually use 302 or 307 if the cookie is expired
 - 
