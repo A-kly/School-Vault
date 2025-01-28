@@ -16,3 +16,11 @@
 ![[Pasted image 20250128155006.png]]
 ### Defining Reinforcement
 ![[Pasted image 20250128155019.png]]
+### The Three-Term Contingency
+![[Pasted image 20250128155359.png]]
+## Is the Behaviour Strengthened?
+- Do we observe:
+	- Increase in frequency
+	- Increase in duration
+	- Increase in intensity
+	- Increase in speed (decrease in latency)
