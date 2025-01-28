@@ -30,3 +30,13 @@
 - TCP provides reliable, in-order byte-stream transfer between client and server processes
 ### Client/server socket interaction: TCP
 ![[Pasted image 20250128115243.png]]
+# Addressing
+- Mapping may need to be performed to get
+	- port number for a given service name
+		- `getservbyname()` returns port number in network byte order; must be converted to host byte order
+	- IP address for a given hostname:  
+		- `gethostbyname()` returns IPv4 address in network byte order; must be converted to host byte order
+	- or translate either one using `getaddrinfo()` `getaddrinfo(NULL, "http", &hints, &res)` `getaddrinfo("www.google.com", NULL, &hints, &res)` hints specifies criteria for selecting the socket address structures returned in the list pointed to by `res`, both of type `addrinfo`
+		- **This is the better option to use**
+## Structure addrinfo
+
