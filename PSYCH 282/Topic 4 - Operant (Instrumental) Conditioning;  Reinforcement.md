@@ -36,3 +36,8 @@
 ![[Pasted image 20250128160223.png]]
 ### Two Types of Reinforcement
 ![[Pasted image 20250128160247.png]]
+![[Pasted image 20250128161138.png]]
+### Escape and Avoidance
+![[Pasted image 20250128161155.png]]
+- **Escape** = do something to *stop* stimulus
+- **Avoidance** = do something to *prevent* stimulus
