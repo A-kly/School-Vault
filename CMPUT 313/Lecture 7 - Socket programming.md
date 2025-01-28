@@ -19,3 +19,13 @@
 	- receiver extracts sender IP and port number from received packet so we can respond
 ### Client/server socket interaction: UDP
 ![[Pasted image 20250128113822.png]]
+## Socket programming with TCP
+- TCP requires establishing connection between client and server
+	- server listens to connection requests on a specific socket (listening socket)
+		- This is a passive socket just for listening for connections
+	- client contacts server specifying IP and Port, if connection is established
+	- server creates new socket (connection socket) to send and receive data
+		- server can communicate with multiple clients though different connection sockets
+- Application viewpoint:  
+- TCP provides reliable, in-order byte-stream transfer between client and server processes
+### Client/server socket interaction: TCP
