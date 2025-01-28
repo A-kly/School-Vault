@@ -29,3 +29,4 @@
 - Application viewpoint:  
 - TCP provides reliable, in-order byte-stream transfer between client and server processes
 ### Client/server socket interaction: TCP
+![[Pasted image 20250128115243.png]]
