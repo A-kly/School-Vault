@@ -63,3 +63,6 @@
 	- Animals remain in apparatus and can make many responses
 	- No intervention by the experimenter
 		- Developed by BF Skinner
+![[Pasted image 20250128163440.png]]
+![[Pasted image 20250128163454.png]]
+- Peck the right hole for the reward
