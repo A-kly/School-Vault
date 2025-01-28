@@ -46,6 +46,13 @@
 - Reinforcement IS a functional description
 - Reinforcement is NOT circular
 	- Incorrect Usage: “The consequence (e.g., food) increased the probability of the response (e.g., lever pressing) because it was reinforcing.”
-		- Can't use the definition of reinforcer as a reason, Don
+		- Can't use the definition of reinforcer as a reason, Don't do this
 	- Correct Usage: “The consequence (e.g., food) functioned as a reinforcer for the response (e.g., lever pressing).”
 	- Correct Usage: “The consequence (e.g., food) reinforced the response (e.g., lever pressing).”
+- The explanatory power of “reinforcement” comes from discovering that:
+	- the stimuli that will function as a reinforcer.
+	- the conditions that allow a stimulus to have a reinforcing function.
+- “Increase the probability of” is often shortened to “strengthened”
+# How Do We Look at Operant
+Behaviour?
+Pause for Methodologies
