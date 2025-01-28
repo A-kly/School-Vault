@@ -17,3 +17,5 @@
 	- no handshake, fast and lightweight
 	- sender explicitly attaches destination IP and port number to every packet
 	- receiver extracts sender IP and port number from received packet so we can respond
+### Client/server socket interaction: UDP
+![[Pasted image 20250128113822.png]]
