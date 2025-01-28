@@ -53,6 +53,13 @@
 	- the stimuli that will function as a reinforcer.
 	- the conditions that allow a stimulus to have a reinforcing function.
 - “Increase the probability of” is often shortened to “strengthened”
-# How Do We Look at Operant
-Behaviour?
-Pause for Methodologies
+# How Do We Look at Operant Behaviour? Pause for Methodologies
+## Examining Operant Behaviour
+- Discrete Trial Procedure
+	- Instrumental response produced once per trial
+	- Each training trial ends with removal of the animal from the apparatus
+![[Pasted image 20250128162710.png]]
+- Free-Operant Procedure
+	- Animals remain in apparatus and can make many responses
+	- No intervention by the experimenter
+		- Developed by BF Skinner
