@@ -37,7 +37,8 @@
               "title": "Lecture 7 - Socket programming"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,15 +215,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cb44c13f60fdffc",
+  "active": "27153245dd1172e5",
   "lastOpenFiles": [
+    "CMPUT 313/Media/Pasted image 20250128112839.png",
+    "CMPUT 313/Media/Pasted image 20250128112814.png",
+    "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
     "CMPUT 313/Media/Pasted image 20250128112329.png",
     "CMPUT 313/Media/Pasted image 20250128111530.png",
     "CMPUT 313/Media/Pasted image 20250128111342.png",
     "CMPUT 313/Media/Pasted image 20250128110822.png",
     "CMPUT 313/Media/Pasted image 20250128110659.png",
     "CMPUT 313/Lecture 7 - Socket programming.md",
-    "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
     "CMPUT 404/Lecture 6 - More http stuff.md",
     "CMPUT 404/Lecture 4 - HTTP.md",
     "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
@@ -232,8 +235,6 @@
     "PSYCH 282/Media/Pasted image 20250123164830.png",
     "PSYCH 282/Media/Pasted image 20250123164038.png",
     "PSYCH 282/Media/Pasted image 20250123162652.png",
-    "PSYCH 282/Media/Pasted image 20250123162619.png",
-    "PSYCH 282/Media/Pasted image 20250123162323.png",
     "CMPUT 313/Lecture 5 - Caching, Streaming, and CDNs.md",
     "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
     "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
