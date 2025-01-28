@@ -12,3 +12,7 @@
 		- If response in presence of a stimulus is followed by satisfying event, the association between S and R is strengthened
 		- If response is followed by annoying event, association is weakened
 - Skinner’s operant boxes
+### Reinforcement Contingencies
+![[Pasted image 20250128155006.png]]
+### Defining Reinforcement
+![[Pasted image 20250128155019.png]]
