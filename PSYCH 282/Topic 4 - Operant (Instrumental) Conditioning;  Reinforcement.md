@@ -1,5 +1,5 @@
-# Operant Conditioning Basics
-## Operant (instrumental) Conditioning
+
+# Operant (instrumental) Conditioning
 - learning that is controlled by the consequences of the organisms behaviour
 ![[Pasted image 20250128153341.png]]
 ## Reinforcement
@@ -18,9 +18,17 @@
 ![[Pasted image 20250128155019.png]]
 ### The Three-Term Contingency
 ![[Pasted image 20250128155359.png]]
-## Is the Behaviour Strengthened?
+### Is the Behaviour Strengthened?
 - Do we observe:
 	- Increase in frequency
 	- Increase in duration
 	- Increase in intensity
 	- Increase in speed (decrease in latency)
+## What is Operant Behaviour?
+- **Operant (Behaviour)**
+	- A behaviour that is strengthened through the process of reinforcement
+		- AKA Operant response; instrumental behaviour, etc.
+- Acts on environement to produce a consequence
+- if consequence strengthens behaviour, it's a reinforcer
+- **Operant learning**
+	- change in a behaviour as a function of the consequences that followed it
