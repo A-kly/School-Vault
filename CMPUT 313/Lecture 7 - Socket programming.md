@@ -39,4 +39,10 @@
 	- or translate either one using `getaddrinfo()` `getaddrinfo(NULL, "http", &hints, &res)` `getaddrinfo("www.google.com", NULL, &hints, &res)` hints specifies criteria for selecting the socket address structures returned in the list pointed to by `res`, both of type `addrinfo`
 		- **This is the better option to use**
 ## Structure addrinfo
-
+![[Pasted image 20250128120337.png]]
+# I/O operations on sockets
+- accept, connect, send, recv are blocking call unless the non-blocking mode is enabled for the socket descriptor using the ioctl system call
+	- **accept** blocks when there’s no connection request in the pending connection queue
+	- **connect** blocks until the 3-way TCP handshake is done  
+	- **send** blocks until data can be queued in the sender buffer  
+	- **recv** blocks until data becomes available in the receive buffer
