@@ -46,3 +46,12 @@
 	- **connect** blocks until the 3-way TCP handshake is done  
 	- **send** blocks until data can be queued in the sender buffer  
 	- **recv** blocks until data becomes available in the receive buffer
+## Socket options
+- Options can be set by using `setsockopt()` and read with `getsockopt()` for example:
+	- `SO_KEEPALIVE` for periodically probing if connection is still alive  
+	- `SO_RCVTIMEO` and `SO_SNDTIMEO` for setting receiving and sending timeouts resp.  
+	- `SO_REUSEADDR` for allowing reuse of a local address (e.g., port) immediately after socket is closed  
+	- `SO_LINGER` for controlling whether socket closes immediately or waits to send remaining data  
+	- Other options can be found at https://linux.die.net/man/7/socket
+## Dispatching accepted connections
+![[Pasted image 20250128121158.png]]
