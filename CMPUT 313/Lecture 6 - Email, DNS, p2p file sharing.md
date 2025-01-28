@@ -224,3 +224,17 @@ S: 221 hamburger.edu closing connection
 - file divided into 256kb chunks
 - peers in torrent send/receive file chunks
 ![[Pasted image 20250128111530.png]]
+- peer joining torrent:  
+	- has no chunks, but will accumulate them over time from other peers  
+	- registers with tracker to get list of peers, connects to subset of peers (“neighbors”)
+- while downloading, peers upload chunks to other peers
+- peers change peers with who they wanna share data with
+- Churn
+	- peers can come and go
+- once a peer has an entire file, it may (selfishly) leave, or (altruistically) remain in torrent
+## BitTorrent: requesting, sending file chunks
+- Requesting chunks
+	- periodically ask neighbors for a lost of chunks
+	- request from peer the missing chunks, starting with the chunk that is replicated the fewest times (rarest chunk first)
+- Sending chunks: tit-for-tat trading
+	- send chunks at the high
