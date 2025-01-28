@@ -66,3 +66,14 @@
 ![[Pasted image 20250128163440.png]]
 ![[Pasted image 20250128163454.png]]
 - Peck the right hole for the reward
+![[Pasted image 20250128163728.png]]
+- Chickadee is supposed to hop at male call, and do nothing for female
+	- gets food for correct hop
+## Cumulative Record
+- Based on old cumulative recorder device (1957)
+	- Constant paper output, pen jumps with each
+![[Pasted image 20250128163927.png]]
+- Plot of cumulative responses (y-axis) over time (x-axis)
+![[Pasted image 20250128163946.png]]
+![[Pasted image 20250128164009.png]]
+![[Pasted image 20250128164053.png]]
