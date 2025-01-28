@@ -24,7 +24,7 @@
 	- Increase in duration
 	- Increase in intensity
 	- Increase in speed (decrease in latency)
-## What is Operant Behaviour?
+### What is Operant Behaviour?
 - **Operant (Behaviour)**
 	- A behaviour that is strengthened through the process of reinforcement
 		- AKA Operant response; instrumental behaviour, etc.
@@ -32,3 +32,7 @@
 - if consequence strengthens behaviour, it's a reinforcer
 - **Operant learning**
 	- change in a behaviour as a function of the consequences that followed it
+### Effect of Consequences
+![[Pasted image 20250128160223.png]]
+### Two Types of Reinforcement
+![[Pasted image 20250128160247.png]]
