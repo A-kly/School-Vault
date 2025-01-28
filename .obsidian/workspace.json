@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 7 -.md",
+                "file": "CMPUT 313/Lecture 7 - Socket programming.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 -"
+              "title": "Lecture 7 - Socket programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27153245dd1172e5",
+  "active": "5cb44c13f60fdffc",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 7 - Socket programming.md",
     "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
-    "CMPUT 313/Lecture 7 -.md",
     "CMPUT 404/Lecture 6 - More http stuff.md",
     "CMPUT 404/Lecture 4 - HTTP.md",
     "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
