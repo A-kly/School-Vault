@@ -237,4 +237,10 @@ S: 221 hamburger.edu closing connection
 	- periodically ask neighbors for a lost of chunks
 	- request from peer the missing chunks, starting with the chunk that is replicated the fewest times (rarest chunk first)
 - Sending chunks: tit-for-tat trading
-	- send chunks at the high
+	- send chunks at the highest rate to 4 neighbor peers currently sending us our missing chunks at a higher rate
+		- other peers are choked (don't receive chunks)
+		- re-evaluate top 4 peers every 10 seconds
+	- every 30 seconds: randomly select another peer, start sending chunks
+		- optimistically unchoke this peer
+		- newly chosen peer may join top 4
+![[Pasted image 20250128112329.png]]
