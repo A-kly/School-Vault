@@ -217,3 +217,10 @@ S: 221 hamburger.edu closing connection
 	- as aggregate must download NF bits
 		- max upload rate (limiting max download rate) is u_s + Σ u_i
 ![[Pasted image 20250128110822.png]]
+## Self scalability of p2p
+![[Pasted image 20250128111342.png]]
+# BitTorrent
+- Application layer protocol on top of TCP
+- file divided into 256kb chunks
+- peers in torrent send/receive file chunks
+![[Pasted image 20250128111530.png]]
