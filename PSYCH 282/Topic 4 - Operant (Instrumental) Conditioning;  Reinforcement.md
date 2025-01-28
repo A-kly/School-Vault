@@ -41,3 +41,11 @@
 ![[Pasted image 20250128161155.png]]
 - **Escape** = do something to *stop* stimulus
 - **Avoidance** = do something to *prevent* stimulus
+# Things to Keep in Mind
+- Reinforcement is NOT a theory
+- Reinforcement IS a functional description
+- Reinforcement is NOT circular
+	- Incorrect Usage: “The consequence (e.g., food) increased the probability of the response (e.g., lever pressing) because it was reinforcing.”
+		- Can't use the definition of reinforcer as a reason, Don
+	- Correct Usage: “The consequence (e.g., food) functioned as a reinforcer for the response (e.g., lever pressing).”
+	- Correct Usage: “The consequence (e.g., food) reinforced the response (e.g., lever pressing).”
