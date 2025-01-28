@@ -209,4 +209,11 @@ S: 221 hamburger.edu closing connection
 ![[Pasted image 20250123121715.png]]
 ## Minimum file distribution time: P2P
 - Another assumption, peers can replicate files and add to upload
-- 
+![[Pasted image 20250128110659.png]]
+- server transmission
+	- must upload at least one copy
+- client
+	- must each download a copy
+	- as aggregate must download NF bits
+		- max upload rate (limiting max download rate) is u_s + Σ u_i
+![[Pasted image 20250128110822.png]]
