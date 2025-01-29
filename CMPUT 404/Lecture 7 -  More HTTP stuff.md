@@ -36,4 +36,19 @@
 - Extra headers
 	- Start with `X-`
 	- we are not abiding by a given protocol, we are adding on top of the protocol ourselves
-	- 
+- Warnings
+	- warn about something
+	- code means something specific
+	- 199 is whatever you wanna make it
+# Proxies
+## Forward
+- Forwards incomming http requests to you
+- rare
+- set up by you
+- Basically like a consumer VPN
+## Reverse proxy
+- common
+- forwards http requests to server
+- how that one girl explained how she accessed cybera throught the cybera vpn
+- caddy & nginx
+	- use these for project
