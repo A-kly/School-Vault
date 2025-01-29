@@ -21,4 +21,5 @@
 	- Make sure that the connection is safe, and validate input in text boxes to make sure that there isn't insecure test input
 - Security policy reporting
 	- if there is a violation in the security policy, send a report to a specific url
-- 
+- Disconnections (aside)
+	- If 
