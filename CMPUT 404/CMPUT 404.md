@@ -7,6 +7,6 @@
 - [[Lecture 4 - HTTP]]
 - [[Lecture 5 - HTTP methods and more info]]
 - [[Lecture 6 - More http stuff]]
-- [[Lecture 7 -]]
+- [[Lecture 7 -  More HTTP stuff]]
 
 %% End Waypoint %%
