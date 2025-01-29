@@ -31,4 +31,6 @@
 	- Ask user to log into proxy server, as a first line of defence
 	- proxy is middle man between server and client
 	- Acts as a load balancer sometimes too
-- 
+- referrer-policy:  no-referrer-when-downgrade
+	- when i go back a URI directory, don't refer
+	- 
