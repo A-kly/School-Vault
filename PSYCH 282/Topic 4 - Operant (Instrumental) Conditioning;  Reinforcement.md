@@ -77,3 +77,5 @@
 ![[Pasted image 20250128163946.png]]
 ![[Pasted image 20250128164009.png]]
 ![[Pasted image 20250128164053.png]]
+## Frequency” vs. “Cumulative Frequency”
+![[Pasted image 20250128164527.png]]
