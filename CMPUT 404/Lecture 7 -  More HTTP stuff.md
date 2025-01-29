@@ -33,4 +33,7 @@
 	- Acts as a load balancer sometimes too
 - referrer-policy:  no-referrer-when-downgrade
 	- when i go back a URI directory, don't refer
+- Extra headers
+	- Start with `X-`
+	- we are not abiding by a given protocol, we are adding on top of the protocol ourselves
 	- 
