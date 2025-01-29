@@ -6,3 +6,4 @@
 - specifies encoding
 ## accept-encoding
 - specifies compression format
+> *focus was kinda bad this day, and all notes are online*
