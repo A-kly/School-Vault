@@ -22,4 +22,13 @@
 - Security policy reporting
 	- if there is a violation in the security policy, send a report to a specific url
 - Disconnections (aside)
-	- If 
+	- If ghosted, Passive disconnection
+	- If formal breakup, active disconnection
+- keep alive
+	- keep connection alive for a max of `time` if no responses
+- Proxy authenticate & authorize
+	- Gives user power to interact with server
+	- Ask user to log into proxy server, as a first line of defence
+	- proxy is middle man between server and client
+	- Acts as a load balancer sometimes too
+- 
