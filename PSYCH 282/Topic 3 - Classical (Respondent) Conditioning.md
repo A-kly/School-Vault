@@ -1,4 +1,5 @@
 ![[Topic 2 - Basic Kinds of Behaviour and Learning#Classical Conditioning]]
+![[Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement#Reinforcement Contingencies]]
 # Unconditioned Stimuli and Responses
 ![[Pasted image 20250121162140.png]]
 # Unconditioned Stimuli and Responses
