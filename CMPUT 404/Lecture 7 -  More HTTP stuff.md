@@ -12,7 +12,8 @@
 		- can be big in terms of file size so maybe use on local machine
 - Make sure to use NVM for the node lab assignment
 # Server headers
-- `TE: gzip`
-	- Like `Accept-Encoding` but with a proxy
-- `Upgrade-Insecure-Requests: 1`
-	- 
+- `Access-Control-Allow-Credentials: true`
+	- whether we alow js running in browser to make requests with cookies
+- `Access-Control-Allow-Headers: true`
+	- same as the other one for headers
+- 
