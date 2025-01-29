@@ -16,4 +16,9 @@
 	- whether we alow js running in browser to make requests with cookies
 - `Access-Control-Allow-Headers: true`
 	- same as the other one for headers
+- *more online, too fast, can't keep up!*
+- Security-policy
+	- Make sure that the connection is safe, and validate input in text boxes to make sure that there isn't insecure test input
+- Security policy reporting
+	- if there is a violation in the security policy, send a report to a specific url
 - 
