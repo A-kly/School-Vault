@@ -73,3 +73,21 @@
 - **TCP:** demultiplex using 4-tuple: source and destination IP addresses, and port numbers
 - Multiplexing/demultiplexing happen at all layers
 # UDP: User Datagram Protocol
+- "no frills" and "bare bones" extension of Internet Transport Protocol (IP)
+- best effort
+	- we may lose data or
+	- out of order delivery
+- Connectionless
+	- no handshaking between UDP sender and receiver
+	- each UDP segment handled independently of others
+![[Pasted image 20250130114608.png|300]]
+- UDP used in:
+	- some streaming multimedia protocols (loss tolerant and rate sensitive)
+	- DNS
+	- SNMP
+- If reliable transfer needed over UDP (e.g., HTTP/3):
+	- add needed reliability at application layer
+	- add congestion control at application layer
+- Described in [RFC 768]
+	- Look online for spec
+
