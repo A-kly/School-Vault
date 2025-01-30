@@ -112,3 +112,18 @@
 	- check if computed checksum equals 1111111111111111
 		- not equal (at least one 0 bit) - error detected
 		- equal - no error detected. But maybe errors nonetheless? More later ….
+#### example
+![[Pasted image 20250130120705.png]]
+- weak protection!
+![[Pasted image 20250130120742.png]]
+## UDP Summary
+- “no frills” protocol
+	- segments may be lost, delivered out of order
+	- best effort service: “send and hope for the best”
+- Why to build an application over UDP?
+	- no setup/handshaking needed (no RTT incurred)
+	- no congestion control (no throttling, immediate transfer)
+	- can function when network service is compromised
+	- helps with reliability (checksum)
+- It is possible to build additional functionality on top of UDP in application layer (e.g., HTTP/3)
+# Evolution of UDP
