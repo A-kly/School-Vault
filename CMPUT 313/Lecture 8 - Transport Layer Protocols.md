@@ -41,7 +41,23 @@
 	- contains source and destination port number
 - **Host uses IP address & port number to direct segment to appropriate socket**
 ![[Pasted image 20250130112621.png|400]]
-### Connectionless demultiplexing
+### Connectionless demultiplexing (UDP)
 - For UDP
 - When we create sockets, we specify a local port number
-- when we create datagram to send over ud
+- when we create datagram to send over UDP, must specify...
+	- desination IP
+	- port number
+
+- When receiving UDP segment..
+	- check destination port number
+	- direct segment to socket with that port number
+- `IP/UDP` datagrams with **same dest. port #**, but *different source IP addresses and/or source port numbers* will be directed to ==same socket at receiving host==
+#### Connectionless demultiplexing: Python example
+![[Pasted image 20250130112925.png]]
+### Connection-oriented demultiplexing (TCP)
+- For TCP
+- TCP connection is identified by a 4-tuple
+	- source IP address
+	- source port number
+	- dest IP address
+	- dest port number
