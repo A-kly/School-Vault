@@ -90,4 +90,7 @@
 	- add congestion control at application layer
 - Described in [RFC 768]
 	- Look online for spec
+## UDP: Transport Layer Actions
+![[Pasted image 20250130115247.png]]
+![[Pasted image 20250130115257.png]]
 
