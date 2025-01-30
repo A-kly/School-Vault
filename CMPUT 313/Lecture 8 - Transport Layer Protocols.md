@@ -31,5 +31,17 @@
 ![[Pasted image 20250130111643.png]]
 ![[Pasted image 20250130112137.png]]
 - How did transport layer know to deliver message to Firefox browser process rather than Netflix or Skype process?
+- How did transport layer know to deliver message to a specific thread/process of HTTP server?
 ![[Pasted image 20250130112203.png]]
-
+![[Pasted image 20250130112350.png|300]]![[Pasted image 20250130112435.png|300]]
+## How demultiplexing works
+- Host gets IP datagram
+	- contains source and destination IP
+	- contains one transport-layer segment
+	- contains source and destination port number
+- **Host uses IP address & port number to direct segment to appropriate socket**
+![[Pasted image 20250130112621.png|400]]
+### Connectionless demultiplexing
+- For UDP
+- When we create sockets, we specify a local port number
+- when we create datagram to send over ud
