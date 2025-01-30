@@ -152,5 +152,21 @@
 			- Produces higher rates than a comparable Fixed-Ratio Schedule
 			- Common in natural environments
 			- ![[Pasted image 20250130162938.png|200]]
+			- Two Common Variations:
+				- Random-Ratio
+					- Schedule is controlled by a random number generator.
+					- Produces similarly high rates of responding.
+					- Type of ratio used in casino games & video games!
+				- Progressive-Ratio
+					- Ratio requirements move from small to large
+					- e.g., 1,2,3,4,5,6,7,8…
+					- PRPs increase with ratio size
+					- Creates a “break-point” measure of how hard an organism will work
 		- **Fixed-Interval** (FI)
+			- ![[Pasted image 20250130163437.png|400]]
+			- Behaviour is reinforced when it occurs after a given period of time
+				- e.g., FI-4min
+			- Produce PRPs
+			- Responding increases gradually producing a “scallop” shape
+			- Uncommon in the natural environment
 		- **Variable-Interval** (VI)
