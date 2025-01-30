@@ -97,3 +97,13 @@
 	- hawks are less likely to peck normally, so use something more "normal" for them
 - Contingency
 	- A stimulus is more effective as a reinforcer when it is delivered contingent on the behaviour.
+	- The degree of correlation between a behaviour and its consequence.
+	- ![[Pasted image 20250130160617.png]]
+- Contiguity
+	- Nearness of events in time (temporal contiguity) or space (spatial contiguity)
+		- High contiguity often referred to as “pairing”
+	- Less contiguity (i.e., longer delays) between the operant response and the reinforcer, diminishes the effectiveness of the reinforcer
+		- Well described by the “Hyperbolic Decay Function”
+			- ![[Pasted image 20250130160544.png]]
+### Reinforcer Characteristics
+- 
