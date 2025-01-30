@@ -122,4 +122,30 @@
 	- Effectiveness of unconditional reinforcers tends to diminish quickly
 	- ![[Pasted image 20250130161201.png]]
 	- ![[Pasted image 20250130161211.png]]
-	- 
+- Schedule of Reinforcement:
+	- A rule describing the delivery of reinforcement.
+	- Different schedules produce unique schedule effects
+		- Schedule Effect: Particular pattern and rate of behaviour over time.
+	- Over the long-term, effects are very predictable
+	- Occur in numerous species (humans included)
+#### Schedules of Reinforcement
+- **Continuous** Reinforcement (CRF) Schedule
+	- Behaviour is reinforced *each time* it occurs
+	- Rate of behaviour increases rapidly
+		- Useful when shaping a new behaviour
+	- Rare in the natural environment!
+- **Intermittent** Reinforcement Schedule
+	- Many different types
+	- Four (4) main types:
+		- **Fixed-ratio** (FR)
+			- ![[Pasted image 20250130161702.png|400]]
+			- Behaviour reinforced after a *fixed-number of times*
+			- Generates Post-Reinforcement Pause (PRP)
+				- Pausing typically increases with ratio size and reinforcer magnitude
+			- Generates steady run rates following the PRP
+		- **Variable-ratio** (VR)
+			- ![[Pasted image 20250130161743.png]]
+			- The number of responses needed varies each time
+			- Ratio-requirement varies around an average
+		- **Fixed-Interval** (FI)
+		- **Variable-Interval** (VI)
