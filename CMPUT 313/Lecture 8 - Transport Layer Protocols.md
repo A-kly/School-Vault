@@ -11,7 +11,21 @@
 	- relies on and enhances network layer services
 - Network layer
 	- communication between hosts
+	- ![[Pasted image 20250130111404.png]]
 ## Transport Layer Actions
 ![[Pasted image 20250130111122.png]]
 ![[Pasted image 20250130111134.png]]
 
+# Transport protocols
+- TCP: transmission control protocol
+	- reliable, in-order delivery
+	- congestion control
+	- flow control
+- UDP: user datagram protocol
+	- unreliable, unordered delivery
+	- no-frills extension of "best-effort" IP
+- Services not available in any protocols
+	- delay guarantees
+	- bandwidth guarantees
+# Multiplexing/demultiplexing
+![[Pasted image 20250130111643.png]]
