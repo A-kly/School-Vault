@@ -99,3 +99,16 @@
 	- **Min:** 8 bytes (just the headers)
 	- **Max:** 2^16 - 1 bytes (in one IP message)
 		- minus 20 bytes for IP header
+## End-to-end error detection: UDP checksum
+- Goal: detect errors (i.e., flipped bits) in transmitted segment
+![[Pasted image 20250130120211.png]]
+### Internet checksum
+- **sender**:
+	- treat contents of UDP segment (including UDP header fields and IP addresses) as sequence of **16-bit integers**
+	- **checksum:** addition (one’s complement sum) of segment content
+	- checksum value put into UDP checksum field 
+- receiver:
+	- compute checksum of received segment and received checksum itself
+	- check if computed checksum equals 1111111111111111
+		- not equal (at least one 0 bit) - error detected
+		- equal - no error detected. But maybe errors nonetheless? More later ….
