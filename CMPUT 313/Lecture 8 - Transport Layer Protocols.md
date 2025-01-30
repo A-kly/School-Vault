@@ -127,3 +127,18 @@
 	- helps with reliability (checksum)
 - It is possible to build additional functionality on top of UDP in application layer (e.g., HTTP/3)
 # Evolution of UDP
+## QUIC: Quick UDP Internet Connections
+- Application-layer protocol, on top of UDP
+	- increase performance of HTTP
+	- deployed on many Google servers, apps (Chrome, mobile YouTube app)
+![[Pasted image 20250130121316.png]]
+- Adopts approaches for connection establishment, error control, congestion control
+- error and congestion control: “Readers familiar with TCP’s loss detection and congestion control will find algorithms here that parallel well-known TCP ones.” [from QUIC specification]
+- connection establishment: reliability, congestion control, authentication, encryption, state established in one RTT
+- Multiple application-level “streams” multiplexed over single QUIC connection
+	- separate reliable data transfer, security
+	- common congestion control
+### QUIC: Connection establishment
+![[Pasted image 20250130121424.png]]
+### QUIC: streams: parallelism, no HOL blocking
+![[Pasted image 20250130121439.png]]
