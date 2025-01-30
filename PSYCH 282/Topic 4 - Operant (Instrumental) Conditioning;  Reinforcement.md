@@ -85,4 +85,14 @@
 	- A reinforcer that acquired its properties as a function of species evolutionary history.
 	- Usually depends on some amount of deprivation.
 	- Often species specific!
-2. 
+2. Conditional (Secondary) Reinforcer:
+	- Otherwise neutral stimuli or events that have acquired the ability to reinforce due to a contingent relationship with other, typically unconditional, reinforcers
+## Variables Affecting Reinforcement
+- Immediacy
+	- A stimulus is more effective as a reinforcer when it is deliver immediately after the behaviour.
+- Specific Reinforcer Used
+	- e.g., Chocolate > Sunflower seeds
+- Task Characteristics
+	- e.g., Reinforce a pigeon pecking for food vs. a hawk pecking for food
+- Contingency
+	- A stimulus is more effective as a reinforcer when it is delivered contingent on the behaviour.
