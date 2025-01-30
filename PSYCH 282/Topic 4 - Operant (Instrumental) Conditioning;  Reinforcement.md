@@ -106,4 +106,20 @@
 		- Well described by the “Hyperbolic Decay Function”
 			- ![[Pasted image 20250130160544.png]]
 ### Reinforcer Characteristics
-- 
+- Specific Reinforcer Used
+	- e.g., Chocolate > Sunflower seeds
+- Task Characteristics
+	- e.g., Reinforce a pigeon pecking for food vs. a hawk pecking for food
+- Motivating Operations
+	- Establishing operations make a stimulus **more effective** as a reinforce at a particular time
+		- e.g., Deprivation
+	- Abolishing operations make a stimulus **less potent** as a reinforce at a particular time
+		- e.g., Satiation
+- Reinforcer Magnitude
+	- Generally, a **more intense stimulus is a more effective reinforcer**
+	- Relation between size and effectiveness is NOT linear
+	- Generally, the more you increase magnitude, the less benefit you get from the increase
+	- Effectiveness of unconditional reinforcers tends to diminish quickly
+	- ![[Pasted image 20250130161201.png]]
+	- ![[Pasted image 20250130161211.png]]
+	- 
