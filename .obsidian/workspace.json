@@ -8,49 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d0a16e312b4fff3",
+            "id": "02a6ecdc56b9c744",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 7 - Socket programming.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture 7 - Socket programming"
-            }
-          },
-          {
-            "id": "35821dcf5e5ec395",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
+                "file": "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8 - Transport Layer Protocols"
-            }
-          },
-          {
-            "id": "02a6ecdc56b9c744",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
+              "title": "Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,6 +202,8 @@
   },
   "active": "02a6ecdc56b9c744",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 7 - Socket programming.md",
+    "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
     "CMPUT 313/Media/Pasted image 20250130121439.png",
     "CMPUT 313/Media/Pasted image 20250130121424.png",
     "CMPUT 313/Media/Pasted image 20250130121316.png",
@@ -240,9 +214,6 @@
     "CMPUT 313/Media/Pasted image 20250130115257.png",
     "CMPUT 313/Media/Pasted image 20250130115247.png",
     "CMPUT 313/Media/Pasted image 20250130114608.png",
-    "CMPUT 313/Media/Pasted image 20250130113336.png",
-    "CMPUT 313/Lecture 7 - Socket programming.md",
-    "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
     "CMPUT 404/Lecture 6 - More http stuff.md",
     "CMPUT 404/Lecture 7 -  More HTTP stuff.md",
     "PSYCH 282/Topic 3 - Classical (Respondent) Conditioning.md",

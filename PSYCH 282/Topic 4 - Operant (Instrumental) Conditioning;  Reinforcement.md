@@ -79,3 +79,10 @@
 ![[Pasted image 20250128164053.png]]
 ## Frequency” vs. “Cumulative Frequency”
 ![[Pasted image 20250128164527.png]]
+# Qualities of the Reinforcer and Reinforcement Process
+## Two Types of Reinforcer
+1. Unconditional (Primary) Reinforcer
+	- A reinforcer that acquired its properties as a function of species evolutionary history.
+	- Usually depends on some amount of deprivation.
+	- Often species specific!
+2. 
