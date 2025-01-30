@@ -29,3 +29,7 @@
 	- bandwidth guarantees
 # Multiplexing/demultiplexing
 ![[Pasted image 20250130111643.png]]
+![[Pasted image 20250130112137.png]]
+- How did transport layer know to deliver message to Firefox browser process rather than Netflix or Skype process?
+![[Pasted image 20250130112203.png]]
+
