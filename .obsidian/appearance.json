@@ -10,5 +10,6 @@
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "canvas_arrows"
-  ]
+  ],
+  "showRibbon": true
 }

@@ -132,6 +132,8 @@
 	- increase performance of HTTP
 	- deployed on many Google servers, apps (Chrome, mobile YouTube app)
 ![[Pasted image 20250130121316.png]]
+> *this photo is missing the second half, we combine `HTTP/2` and `TLS` to be `HTTP/3`*  #review
+
 - Adopts approaches for connection establishment, error control, congestion control
 - error and congestion control: “Readers familiar with TCP’s loss detection and congestion control will find algorithms here that parallel well-known TCP ones.” [from QUIC specification]
 - connection establishment: reliability, congestion control, authentication, encryption, state established in one RTT
