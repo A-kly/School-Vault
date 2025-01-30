@@ -6,6 +6,7 @@
 - [[Lecture 5 - Caching, Streaming, and CDNs]]
 - [[Lecture 6 - Email, DNS, p2p file sharing]]
 - [[Lecture 7 - Socket programming]]
+- [[Lecture 8 - Transport Layer Protocols]]
 - **Media**
 
 
