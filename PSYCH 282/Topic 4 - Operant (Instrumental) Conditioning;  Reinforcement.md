@@ -147,5 +147,10 @@
 			- ![[Pasted image 20250130161743.png]]
 			- The number of responses needed varies each time
 			- Ratio-requirement varies around an average
+			- PRPs are rare and very short
+				- Influenced by the lowest ratio and/or the average ratio
+			- Produces higher rates than a comparable Fixed-Ratio Schedule
+			- Common in natural environments
+			- ![[Pasted image 20250130162938.png|200]]
 		- **Fixed-Interval** (FI)
 		- **Variable-Interval** (VI)
