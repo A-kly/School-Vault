@@ -94,5 +94,6 @@
 	- e.g., Chocolate > Sunflower seeds
 - Task Characteristics
 	- e.g., Reinforce a pigeon pecking for food vs. a hawk pecking for food
+	- hawks are less likely to peck normally, so use something more "normal" for them
 - Contingency
 	- A stimulus is more effective as a reinforcer when it is delivered contingent on the behaviour.
