@@ -61,3 +61,15 @@
 	- source port number
 	- dest IP address
 	- dest port number
+- **Demux:** receiver uses all four values to direct segment to appropriate socket
+- Concurrent server supports many simultaneous TCP connections
+	- each connection is identified by its own 4-tuple 
+	- each connection socket is associated with a different connecting client, so client IP address and port number can be used for demultiplexing
+#### Connection-oriented demultiplexing: example
+![[Pasted image 20250130113336.png]]
+## Summary
+- Multiplexing and demultiplexing are done based on segment and datagram header field values
+- **UDP:** demultiplex using destination port number only
+- **TCP:** demultiplex using 4-tuple: source and destination IP addresses, and port numbers
+- Multiplexing/demultiplexing happen at all layers
+# UDP: User Datagram Protocol
