@@ -93,4 +93,9 @@
 ## UDP: Transport Layer Actions
 ![[Pasted image 20250130115247.png]]
 ![[Pasted image 20250130115257.png]]
-
+## UDP segment header: 4 fields
+![[Pasted image 20250130115607.png]]
+- Min and max length
+	- **Min:** 8 bytes (just the headers)
+	- **Max:** 2^16 - 1 bytes (in one IP message)
+		- minus 20 bytes for IP header
