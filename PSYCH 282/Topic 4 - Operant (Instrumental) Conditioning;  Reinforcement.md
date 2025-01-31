@@ -171,3 +171,7 @@
 			- Responding increases gradually producing a “scallop” shape
 			- Uncommon in the natural environment
 		- **Variable-Interval** (VI)
+			- ![[Pasted image 20250130164213.png]]
+##### “Ideal” Examples of Different Schedules
+![[Pasted image 20250130164248.png]]
+#### Competing Contingencies
