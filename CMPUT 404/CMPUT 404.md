@@ -9,6 +9,7 @@
 - [[Lecture 6 - More http stuff]]
 - [[Lecture 7 -  More HTTP stuff]]
 - [[Lecture 8 - More http, and cybera live demo]]
+- [[Lecture 9 - HTML]]
 - **Media**
 
 
