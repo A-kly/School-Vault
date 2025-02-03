@@ -3,4 +3,5 @@
 		- We can style these up 
 	- Cascading
 		- If a property is applied to a parent, it is going to be cascaded to the child elements
-		- 
+	- \#id
+		- adds an id to html element, and can be used to finc speci
