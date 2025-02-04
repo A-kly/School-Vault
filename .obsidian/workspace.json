@@ -51,8 +51,7 @@
               "title": "socket(7): socket interface - Linux man page"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,8 +229,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7d777bcdb93f82a",
+  "active": "d1763a1fbcd3fb1f",
   "lastOpenFiles": [
+    "PSYCH 282/Media/Pasted image 20250204155328.png",
     "CMPUT 313/Lecture 7 - Socket programming.md",
     "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
     "PSYCH 282/Media/Pasted image 20250204154538.png",
