@@ -29,3 +29,16 @@
 	- sender sends data into underlying channel
 	- receiver reads data from underlying channel
 ![[Pasted image 20250204111608.png]]
+![[Pasted image 20250204112120.png]]
+![[Pasted image 20250204112132.png]]
+![[Pasted image 20250204112142.png]]
+![[Pasted image 20250204112157.png]]
+![[Pasted image 20250204112209.png]]
+### rdt2.0 has a fatal flaw!
+- What happens if ACK/NAK gets corrupted?
+	- corruption of ACK/NAK can be detected using a checksum too
+	- sender does not know what happened at receiver and can’t just retransmit (possible duplicate)
+- How to handle duplicates?
+	- sender retransmits current packet if ACK/NAK is corrupted
+	- sender adds sequence number to each packet
+	- receiver discards duplicate packet
