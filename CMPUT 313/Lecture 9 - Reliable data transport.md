@@ -94,3 +94,11 @@
 	- seq. numbers: 0, 1, 2, 3 (base 4 counting)
 	- window size=3
 ![[Pasted image 20250204120958.png|400]]
+![[Pasted image 20250204121059.png|400]]
+- What relationship is needed between sequence number size and sender/receiver window size to avoid problem in scenario (b)?
+### Early detection of packet loss
+- Begin retransmission before timeout to reduce delay
+	- individual ACK
+		- k (=3) subsequent ACKs arriving could imply a packet loss (e.g. receiving ACK of packet n+1, n+2, and n+3 but not ACK of packet n)
+	- cumulative ACK
+		- k (=3) duplicate ACKs arriving could imply a packet loss (e.g. receiving ACK of packet n-1 three times)
