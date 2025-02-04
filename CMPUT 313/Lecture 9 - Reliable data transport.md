@@ -55,3 +55,16 @@
 ![[Pasted image 20250204114800.png]]
 ![[Pasted image 20250204114908.png]]
 ![[Pasted image 20250204114917.png]]
+# rdt3.0: pipelined protocols operation
+![[Pasted image 20250204115123.png]]
+## Pipelining: increased utilization
+![[Pasted image 20250204115141.png]]
+### Go-Back-N: sender
+- sender: window of up to N, consecutive transmitted but unACKed packets, where N is sender window size (SWS)
+	- assign sequence number to each packet: k-bit seq # in packet header
+	- ![[Pasted image 20250204115430.png]]
+- cumulative ACK: ACK(n): ACKs all packets up to, including seq # n
+	- on receiving ACK(n): move window forward to begin at n+1
+	- avoids unnecessary retransmision if ACK of a received packet is lost
+- timer for oldest in-flight packet
+- timeout(n): retransmit packet n and all higher seq number packets in window
