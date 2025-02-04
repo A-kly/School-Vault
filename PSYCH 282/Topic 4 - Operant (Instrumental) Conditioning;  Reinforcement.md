@@ -213,3 +213,12 @@
 - **Extinction Stimulus** (S^Δ)
 	- Stimulus that happens before operant and makes reinforcement less available
 		- Sets the scene for non-reinforcement
+![[Pasted image 20250204160754.png]]
+## Telling Controlling Stimuli Apart from Other Concepts
+### Establishing Operations
+ - Establishing Operation
+	 - Makes a stimulus more effective as a reinforcer at a particular time
+		 - eg. deprivation
+- Discriminative stimulus
+		- stimulus present when behaviour is reinforced
+			- eg. establishing 
