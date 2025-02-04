@@ -7,6 +7,7 @@
 - [[Lecture 6 - Email, DNS, p2p file sharing]]
 - [[Lecture 7 - Socket programming]]
 - [[Lecture 8 - Transport Layer Protocols]]
+- [[Lecture 9 - Reliable data transport]]
 - **Media**
 
 
