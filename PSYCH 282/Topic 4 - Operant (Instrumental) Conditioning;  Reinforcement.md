@@ -244,8 +244,12 @@
 - Stimulus Control: A change in operant behaviour that occurs when either S^D or S^Δ is presented
 ## Learning Terminology
 ![[Pasted image 20250204162926.png]]
-## Discrimination Index
+## Discrimination and generalization
 ![[Pasted image 20250204163056.png]]
 ![[Pasted image 20250204163601.png]]
 ![[Pasted image 20250204163755.png]]
 ![[Pasted image 20250204163804.png]]
+![[Pasted image 20250204164400.png]]
+![[Pasted image 20250204164422.png]]
+![[Pasted image 20250204164434.png]]
+![[Pasted image 20250204164447.png]]
