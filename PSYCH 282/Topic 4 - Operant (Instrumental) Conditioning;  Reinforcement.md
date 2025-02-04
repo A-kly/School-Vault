@@ -196,3 +196,5 @@
 ![[Pasted image 20250204154209.png]]
 - Rats will run more in order to drink, but will not drink in order to run
 	- increase in running behaviour in order to access drinking
+![[Pasted image 20250204154538.png]]
+
