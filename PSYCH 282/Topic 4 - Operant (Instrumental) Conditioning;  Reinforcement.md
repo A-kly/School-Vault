@@ -190,4 +190,9 @@
 	- H → L
 - Implications: Any high probability response can serve as a reinforcer for a lower probability response
 - *As long as we are forced to do low probability behaviour before the high probability behaviour, we we are more likely to do low*
-
+![[Pasted image 20250204154006.png]]
+- Rats do not do more running in order to drink more, but they do drink more in order to run
+	- Increase in drinking behaviour in order to access running
+![[Pasted image 20250204154209.png]]
+- Rats will run more in order to drink, but will not drink in order to run
+	- increase in running behaviour in order to access drinking
