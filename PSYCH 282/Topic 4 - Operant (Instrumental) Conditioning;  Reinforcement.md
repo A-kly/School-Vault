@@ -233,3 +233,4 @@
 		- eg. No cue light
 	- **opposite of Discriminative stimulus**
 - Both make a behaviour less likely to occur in the moment
+### Antecedents versus Consequences
