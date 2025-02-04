@@ -175,3 +175,19 @@
 ##### “Ideal” Examples of Different Schedules
 ![[Pasted image 20250130164248.png]]
 #### Competing Contingencies
+- e.g., Should I watch YouTube or study?
+##### Premack Principle
+- In nature, different behaviours have different probabilities of occurring
+- e.g., eating → high probability; lever pressing → low probability
+- Premack Principle:
+	- L → H, reinforces L
+	- H → L, does not reinforce H
+		- H = high probability response
+		- L = low probability response
+1. Establish baseline responding for different behaviours
+2. Instrumental conditioning procedure with:
+	- L → H
+	- H → L
+- Implications: Any high probability response can serve as a reinforcer for a lower probability response
+- *As long as we are forced to do low probability behaviour before the high probability behaviour, we we are more likely to do low*
+
