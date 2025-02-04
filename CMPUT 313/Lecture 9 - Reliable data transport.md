@@ -68,3 +68,7 @@
 	- avoids unnecessary retransmision if ACK of a received packet is lost
 - timer for oldest in-flight packet
 - timeout(n): retransmit packet n and all higher seq number packets in window
+
+### Go-Back-N: receiver
+![[Pasted image 20250204120041.png]]
+### Go-Back-N in action
