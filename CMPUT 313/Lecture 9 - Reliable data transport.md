@@ -34,7 +34,7 @@
 ![[Pasted image 20250204112142.png]]
 ![[Pasted image 20250204112157.png]]
 ![[Pasted image 20250204112209.png]]
-### rdt2.0 has a fatal flaw!
+## rdt2.0 has a fatal flaw!
 - What happens if ACK/NAK gets corrupted?
 	- corruption of ACK/NAK can be detected using a checksum too
 	- sender does not know what happened at receiver and can’t just retransmit (possible duplicate)
@@ -50,3 +50,8 @@
 ![[Pasted image 20250204114336.png]]
 ![[Pasted image 20250204114413.png]]
 ![[Pasted image 20250204114545.png]]
+- This last example wastes bandwidth but cane be mitigated with longer timer
+## Performance of rdt3.0 (stop-and-wait)
+![[Pasted image 20250204114800.png]]
+![[Pasted image 20250204114908.png]]
+![[Pasted image 20250204114917.png]]
