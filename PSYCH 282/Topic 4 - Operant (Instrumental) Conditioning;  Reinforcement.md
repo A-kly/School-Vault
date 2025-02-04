@@ -234,3 +234,8 @@
 	- **opposite of Discriminative stimulus**
 - Both make a behaviour less likely to occur in the moment
 ### Antecedents versus Consequences
+![[Pasted image 20250204162015.png]]
+# Discriminating between Controlling Stimuli
+## Discrimination
+![[Pasted image 20250204162126.png]]
+![[Pasted image 20250204162156.png]]
