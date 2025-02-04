@@ -42,3 +42,5 @@
 	- sender retransmits current packet if ACK/NAK is corrupted
 	- sender adds sequence number to each packet
 	- receiver discards duplicate packet
+![[Pasted image 20250204113034.png]]
+![[Pasted image 20250204113049.png]]
