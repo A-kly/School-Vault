@@ -44,3 +44,9 @@
 	- receiver discards duplicate packet
 ![[Pasted image 20250204113034.png]]
 ![[Pasted image 20250204113049.png]]
+> *hella distracted, worked on work availability #review*
+![[Pasted image 20250204114253.png]]
+![[Pasted image 20250204114309.png]]
+![[Pasted image 20250204114336.png]]
+![[Pasted image 20250204114413.png]]
+![[Pasted image 20250204114545.png]]
