@@ -203,3 +203,13 @@
 	- Find out what behaviour is reinforcing (high probability of occurring) for each individual
 		- e.g., Sitting still in individual patients with schizophrenia
 		- e.g., Stereotyped behaviours in children with autism
+# The Three-Term Contingency
+## Antecedents (a.k.a. Controlling Stimuli)
+- **Controlling Stimulus** (S)
+	- Changes probability of operant behaviour
+- **Discriminative Stimulus** (S^D) (a.k.a. occasion setter)
+	- Stimulus that happens before operant and makes reinforcement more available
+		- Sets the scene for reinforcement
+- **Extinction Stimulus** (S^Δ)
+	- Stimulus that happens before operant and makes reinforcement less available
+		- Sets the scene for non-reinforcement
