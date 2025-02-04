@@ -59,6 +59,7 @@
 ![[Pasted image 20250204115123.png]]
 ## Pipelining: increased utilization
 ![[Pasted image 20250204115141.png]]
+## GBN
 ### Go-Back-N: sender
 - sender: window of up to N, consecutive transmitted but unACKed packets, where N is sender window size (SWS)
 	- assign sequence number to each packet: k-bit seq # in packet header
@@ -72,3 +73,19 @@
 ### Go-Back-N: receiver
 ![[Pasted image 20250204120041.png]]
 ### Go-Back-N in action
+![[Pasted image 20250204120104.png]]
+## Selective repeat
+- multiple packets are in flight due to pipelining
+	- receiver individually ACKs all correctly received packets
+		-  buffers packets, as needed, for in-order delivery to upper layer
+		-  receiver window size (RWS) > 1
+- sender:
+	-  maintains (conceptually) a timer for each unACKed packet
+		-  timeout: retransmits single unACKed packet associated with timeout
+	-  maintains (conceptually) window over N consecutive sequence numbers
+		-  limits pipelined, “in flight” packets to be within this window
+### Selective Repeat: sender, receiver windows
+![[Pasted image 20250204120505.png]]
+![[Pasted image 20250204120519.png]]
+### Selective Repeat in action
+![[Pasted image 20250204120535.png]]
