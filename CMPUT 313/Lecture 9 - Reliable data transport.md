@@ -89,3 +89,8 @@
 ![[Pasted image 20250204120519.png]]
 ### Selective Repeat in action
 ![[Pasted image 20250204120535.png]]
+### Selective repeat: a dilemma!
+- example:
+	- seq. numbers: 0, 1, 2, 3 (base 4 counting)
+	- window size=3
+![[Pasted image 20250204120958.png|400]]
