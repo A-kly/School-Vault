@@ -220,5 +220,16 @@
 	 - Makes a stimulus more effective as a reinforcer at a particular time
 		 - eg. deprivation
 - Discriminative stimulus
-		- stimulus present when behaviour is reinforced
-			- eg. establishing 
+	- stimulus present when behaviour is reinforced
+		- eg. Cue light
+- both make behaviour more likely in the moment
+### Abolishing Operations
+- Abolishing Operation
+	- Make stimulus less effective as reinforcer
+		- eg. satiation
+	- **opposite of Establishing operation**
+- Extinction Stimulus
+	- Stimulus present when behaviour not reinforced
+		- eg. No cue light
+	- **opposite of Discriminative stimulus**
+- Both make a behaviour less likely to occur in the moment
