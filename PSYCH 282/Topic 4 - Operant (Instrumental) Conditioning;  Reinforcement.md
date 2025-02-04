@@ -245,3 +245,4 @@
 ## Learning Terminology
 ![[Pasted image 20250204162926.png]]
 ## Discrimination Index
+![[Pasted image 20250204163056.png]]
