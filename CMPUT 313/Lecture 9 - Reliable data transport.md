@@ -102,3 +102,5 @@
 		- k (=3) subsequent ACKs arriving could imply a packet loss (e.g. receiving ACK of packet n+1, n+2, and n+3 but not ACK of packet n)
 	- cumulative ACK
 		- k (=3) duplicate ACKs arriving could imply a packet loss (e.g. receiving ACK of packet n-1 three times)
+# Summary
+![[Pasted image 20250204122044.png]]'
