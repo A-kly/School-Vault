@@ -11,3 +11,8 @@
 ![[Pasted image 20250204110825.png]]
 - How it started -> how its going
 ## Challenge: Building a reliable service on top of unreliable network
+![[Pasted image 20250204111040.png]]
+![[Pasted image 20250204111051.png]]
+## Reliable data transfer protocol (rdt): interfaces
+![[Pasted image 20250204111206.png]]
+# Reliable data transfer: getting started
