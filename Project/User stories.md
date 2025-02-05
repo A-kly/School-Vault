@@ -1,0 +1,92 @@
+# Identity
+- As an author, I want a consistent identity per node, so that URLs to me/my posts are predictable and don't stop working.
+	- Note: This includes API links and web frontend links.
+	- Note: This doesn't include authors/posts that are deleted.
+- As a node admin, I want to host multiple authors on my node, so I can have a friendly online community.
+- As an author, I want a public page with my profile information, so that I can link people to it.
+- As an author, I want to my (new, public) GitHub activity to be automatically turned into public posts, so everyone can see my GitHub activity too.
+- As an author, I want my profile page to show my public posts (most recent first), so they can decide if they want to follow me.
+- As an author, I want to be able to use my web browser to manage my profile, so I don't have to use a clunky API.
+# Posting
+- As an author, I want to make posts, so I can share my thoughts and pictures with other local authors.
+- As an author, I want my node to send my posts to my remote followers and friends, so that remote authors following me can see them. _⧟ Part 3-5 only_
+- As an author, I want to edit my posts locally, so that I'm not stuck with a typo on a popular post.
+	- That is, authors should not have to delete and re-create a post to change the content.
+- As an author, I want my node to re-send posts I've edited to everywhere they were already sent, so that people don't keep seeing the old version. _⧟ Part 3-5 only_
+- As an author, posts I make can be in CommonMark, so I can give my posts some basic formatting.
+- As an author, posts I make can be in simple plain text, because I don't always want all the formatting features of CommonMark.
+- As an author, posts I create can be images, so that I can share pictures and drawings.
+- As an author, I can create posts that contain videos of up to 4 seconds. _⧟ Bonus_
+- As an author, posts I create that are in CommonMark can link to images, so that I can illustrate my posts.
+- As an author, I want to delete my own posts locally, so I can remove posts that are out of date or made by mistake.
+- As an author, I want my node to re-send posts I've deleted to everyone they were already sent, so I know remote users don't keep seeing my deleted posts forever. _⧟ Part 3-5 only_
+- As an author, I want to be able to use my web-browser to manage/author my posts, so I don't have to use a clunky API.
+	- We don't want authors to have to use some interface like django-rest-framework or Swagger.
+- As an author, other authors cannot modify my posts, so that I don't get impersonated.
+# Reading
+- As an author, I want a "stream" which shows all the posts I should know about, so I don't have to switch between different pages.
+	- As an author, I want my stream page to show me all the public posts my node knows about, so I can find new people to follow.
+	- As an author, I want my stream page to show me all the unlisted and friends-only posts of all the authors I follow.
+	- As an author, I want my stream page to show me the most recent version of a post if it has been edited.
+	- As an author, I want my stream page to **not** show me posts that have been deleted.
+- As an author, I want my "stream" page to be sorted with the most recent posts first.
+# Visibility
+- As an author, I want to be able to make my posts "public", so that everyone can see them.
+- As an author, I want to be able to make my posts "unlisted," so that my followers see them, and anyone with the link can also see them.
+- As an author, I want to be able to make my posts "friends-only," so that I don't have to worry about people I don't know seeing them.
+- As an author, I want my friends to see my friends-only, unlisted, and public posts in their stream.
+- As an author, I want anyone following me to see my unlisted and public posts in their stream.
+- As an author, I want everyone to see my public posts in their stream.
+- As an author, I want everyone to be able to see my public and unlisted posts, if they have a link to it.
+- As an author, I don't anyone who isn't a friend to be able to see my friends-only posts and images, so I can feel safe about posting.
+- As an author, I don't want anyone except the node admin to see my deleted posts.
+- As an author, posts I create should always be visible to me until they are deleted, so I can find them to edit them or review them or get the link or whatever I want to do with them.
+# Sharing
+- As a reader, I can get a link to a public or unlisted post so I can send it to my friends over email, discord, slack, etc.
+- As a node admin, I want to share public images with users on other nodes, so that they are visible by users of other nodes. _⧟ Part 3-5 only._
+- As an author, I want my friends-only/unlisted images and posts to not be shareable, so I know that if someone wants to share it they'll at least have to take a screenshot.
+	- Note: public posts (including public image posts) are re-shareable.
+- As an author, I should be able to browse the public posts of everyone, so that I can see what's going on beyond authors I follow.
+- Note: this should include all local public posts and all public posts received in any inbox.
+	- Following/Friends
+	    
+	    - As an author, I want to follow local authors, so that I can see their public posts.
+	    - As an author, I want to follow remote authors, so that I can see their public posts. _⧟ Part 3-5 only._
+	    - As an author, I want to be able to approve or deny other authors following me, so that I don't get followed by people I don't like.
+	    - As an author, I want to know if I have "follow requests," so I can approve them.
+	    - As an author, I want to unfollow authors I am following, so that I don't have to see their posts anymore.
+	    - As an author, if I am following another author, and they are following me (only after both follow requests are approved), I want us to be considered friends, so that they can see my friends-only posts.
+	    - As an author, I want to unfriend other authors by unfollowing them, so that they can no longer see my friends-only posts.
+	    - As an author, my node will know about my followers, who I am following, and my friends, so that I don't have to keep track of it myself.
+	- Comments/Likes
+	    - As an author, I want to comment on posts that I can access, so I can make a witty reply.
+	    - As an author, I want to like posts that I can access, so I can show my appreciation.
+	    - As an author, I want to like comments that I can access, so I can show my appreciation.
+	    - As an author, when someone sends me a public post I want to see the likes, so I can tell if it's good or not.
+	    - As an author, comments on my friends-only posts are visible only to my friends and the comment's author.
+	- node Management
+	    - As a node admin, images can be hosted on my node, so that my users can use them in their CommonMark posts.
+	    - As a node admin, I want to be able to add, modify, and delete authors, to fix problems or remove unwanted users.
+	    - As a node admin, I want to OPTIONALLY be able to allow users to sign up but require my OK to finally be on my node, so that I can prevent unwanted users spambots.
+	    - As a node admin, I want to be able to connect to remote nodes by entering only the URL of the remote node, a username, and a password, so that I don't have to edit code. _⧟ Part 3-5 only._
+	    - As a node admin, I want a RESTful interface for most operations, so that I can connect to other nodes and allow my users to use alternate clients other than the web frontend.
+	    - As a node admin, I want to be able to add nodes to share with. _⧟ Part 3-5 only._
+	    - As a node admin, I want to be able to remove nodes and stop sharing with them. _⧟ Part 3-5 only._
+	    - As a node admin, I can prevent nodes from connecting to my node if they don't have a valid username and password. _⧟ Part 3-5 only._
+	    - As a node admin, node to node connections can be authenticated with HTTP Basic Auth, so that I don't have to deal with tokens. _⧟ Part 3-5 only._
+	    - As a node admin, I can disable the node to node interfaces for connections that I no longer want, in case another node goes bad. _⧟ Part 3-5 only._
+	    - As a node admin, I want everything to be stored in a well-indexed relational database, so that my website is snappy, and I can write SQL to fix things if I need to, make backups, etc...
+	        - Use Postgres on Heroku and SQLite for testing on your local machine.
+	        - Other DBaaS (e.g. Firebase) is forbidden.
+	    - As a node admin, I don't want arrays to be stored in database fields, so that my node won't get slower over time.
+	    - As a node admin, I don't want to have seperate frontend and backend web servers, so I don't have to manage two web servers/services.
+	    - As a node admin, I want deleted posts stay in the database and only be removed from the UI and API, so I can see what was deleted.
+	    - As a node admin, I want my node's UI to only communicate with my nodes web server, so I can prevent XSS.
+	    - As a node admin, I want the API objects (authors, posts, etc.) to be [identified by their full URL](https://uofa-cmput404.github.io/general/project.html#ids), to prevent collisions with other node's numbering schemes. _⧟ Part 3-5 only._
+- ##### malicious_user
+	- **Tests only to be performed by instructor or TAs. Students from different groups are not to disrupt other groups with such tests**	
+		- As a **malicious_user**, I want to send a huge amount of request to a node in order to disrupt it
+		- As a **malicious_user**, I want to send non-standard input as a post
+		- As a **malicious_user**, I want to send images that are out of the specifications
+		- As a **malicious_user**, I want to overload the system with requests
+		- As a **malicious_user**, I want to send code payloads and see whether they execute
