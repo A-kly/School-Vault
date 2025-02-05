@@ -5,4 +5,6 @@
 	- Can update info quickly
 - Looks a bit like python
 	- `function` instead of `def`
-	- 
+- Closure
+	- Inner functions can see outer variables
+	- outer functions **cannot** see inner variables
