@@ -3,4 +3,6 @@
 - Use browser console
 - JS runs locally on client
 	- Can update info quickly
-- 
+- Looks a bit like python
+	- `function` instead of `def`
+	- 
