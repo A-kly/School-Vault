@@ -14,4 +14,7 @@
 	- `let` is for a variable used only in a small context (let, while, etc.)
 	- `const` fixed value
 	- **Scope is defined by curly brackets**
+- Type coercion
+	- "1" + 1 in python = ERROR
+	- "1" + 1 in JS = "11"
 	- 
