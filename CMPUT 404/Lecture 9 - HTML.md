@@ -8,4 +8,6 @@
 	- Use flex for elements that are centered nicely
 		- used to create responsive websites
 - HTML for UI
+	- Forms accept input and use GETs and POSTs
+	- \<input> tag can be MANY many values (check on slides)
 	- 
