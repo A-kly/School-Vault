@@ -51,20 +51,6 @@
               "icon": "lucide-file",
               "title": "Lecture 6 - JS"
             }
-          },
-          {
-            "id": "f7d777bcdb93f82a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://linux.die.net/man/7/socket",
-                "title": "socket(7): socket interface - Linux man page",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "socket(7): socket interface - Linux man page"
-            }
           }
         ],
         "currentTab": 2
@@ -247,13 +233,13 @@
   },
   "active": "cd6381c439eee827",
   "lastOpenFiles": [
+    "CMPUT 404/Lecture 6 - JS.md",
     "CMPUT 404/Lecture 5 - HTML.md",
     "CMPUT 404/Lecture 4 - HTTP.md",
     "CMPUT 404/Lecture 8 - More http, and cybera live demo.md",
     "CMPUT 404/Lecture 7 -  More HTTP stuff.md",
     "CMPUT 404/Lecture 6 - More http stuff.md",
     "CMPUT 404/Lecture 5 - HTTP methods and more info.md",
-    "CMPUT 404/Lecture 6 - JS.md",
     "CMPUT 313/Lecture 7 - Socket programming.md",
     "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
     "PSYCH 282/Media/Pasted image 20250204164918.png",

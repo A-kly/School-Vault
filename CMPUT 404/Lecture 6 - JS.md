@@ -1,4 +1,6 @@
 - Use W3schools to learn and experiment
 - Use fiddle to look at live js stuff
 - Use browser console
+- JS runs locally on client
+	- Can update info quickly
 - 
