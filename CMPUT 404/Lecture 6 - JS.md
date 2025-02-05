@@ -8,3 +8,10 @@
 - Closure
 	- Inner functions can see outer variables
 	- outer functions **cannot** see inner variables
+- Scope
+	- By default, variables are always global
+	- `var` makes variables local to FUNCTION
+	- `let` is for a variable used only in a small context (let, while, etc.)
+	- `const` fixed value
+	- **Scope is defined by curly brackets**
+	- 
