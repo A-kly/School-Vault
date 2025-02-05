@@ -4,4 +4,8 @@
 	- Cascading
 		- If a property is applied to a parent, it is going to be cascaded to the child elements
 	- \#id
-		- adds an id to html element, and can be used to find specific elementx
+		- adds an id to html element, and can be used to find specific element
+	- Use flex for elements that are centered nicely
+		- used to create responsive websites
+- HTML for UI
+	- 
