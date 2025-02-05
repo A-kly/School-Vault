@@ -51,7 +51,8 @@
               "title": "socket(7): socket interface - Linux man page"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,8 +230,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1763a1fbcd3fb1f",
+  "active": "cf662ed870f8ecc7",
   "lastOpenFiles": [
+    "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
     "PSYCH 282/Media/Pasted image 20250204164918.png",
     "PSYCH 282/Media/Pasted image 20250204164900.png",
     "PSYCH 282/Media/Pasted image 20250204164447.png",
@@ -241,9 +243,7 @@
     "PSYCH 282/Media/Pasted image 20250204163755.png",
     "PSYCH 282/Media/Pasted image 20250204163601.png",
     "PSYCH 282/Media/Pasted image 20250204163056.png",
-    "PSYCH 282/Media/Pasted image 20250204162926.png",
     "CMPUT 313/Lecture 7 - Socket programming.md",
-    "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
     "PSYCH 282/Topic 1 - Introduction to Behaviour Modification.md",
     "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
     "CMPUT 404/Lecture 8 - More http, and cybera live demo.md",
