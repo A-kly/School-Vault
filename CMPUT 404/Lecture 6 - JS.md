@@ -1,0 +1,4 @@
+- Use W3schools to learn and experiment
+- Use fiddle to look at live js stuff
+- Use browser console
+- 

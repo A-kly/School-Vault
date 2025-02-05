@@ -12,4 +12,4 @@
 	- \<input> tag can be MANY many values (check on slides)
 	- Have to declare data name 
 	- have to include default value, and any hidden values
-	- 
+	-   
