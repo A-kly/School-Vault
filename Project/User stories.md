@@ -48,45 +48,44 @@
 	- Note: public posts (including public image posts) are re-shareable.
 - As an author, I should be able to browse the public posts of everyone, so that I can see what's going on beyond authors I follow.
 - Note: this should include all local public posts and all public posts received in any inbox.
-	- Following/Friends
-	    
-	    - As an author, I want to follow local authors, so that I can see their public posts.
-	    - As an author, I want to follow remote authors, so that I can see their public posts. _⧟ Part 3-5 only._
-	    - As an author, I want to be able to approve or deny other authors following me, so that I don't get followed by people I don't like.
-	    - As an author, I want to know if I have "follow requests," so I can approve them.
-	    - As an author, I want to unfollow authors I am following, so that I don't have to see their posts anymore.
-	    - As an author, if I am following another author, and they are following me (only after both follow requests are approved), I want us to be considered friends, so that they can see my friends-only posts.
-	    - As an author, I want to unfriend other authors by unfollowing them, so that they can no longer see my friends-only posts.
-	    - As an author, my node will know about my followers, who I am following, and my friends, so that I don't have to keep track of it myself.
-	- Comments/Likes
-	    - As an author, I want to comment on posts that I can access, so I can make a witty reply.
-	    - As an author, I want to like posts that I can access, so I can show my appreciation.
-	    - As an author, I want to like comments that I can access, so I can show my appreciation.
-	    - As an author, when someone sends me a public post I want to see the likes, so I can tell if it's good or not.
-	    - As an author, comments on my friends-only posts are visible only to my friends and the comment's author.
-	- node Management
-	    - As a node admin, images can be hosted on my node, so that my users can use them in their CommonMark posts.
-	    - As a node admin, I want to be able to add, modify, and delete authors, to fix problems or remove unwanted users.
-	    - As a node admin, I want to OPTIONALLY be able to allow users to sign up but require my OK to finally be on my node, so that I can prevent unwanted users spambots.
-	    - As a node admin, I want to be able to connect to remote nodes by entering only the URL of the remote node, a username, and a password, so that I don't have to edit code. _⧟ Part 3-5 only._
-	    - As a node admin, I want a RESTful interface for most operations, so that I can connect to other nodes and allow my users to use alternate clients other than the web frontend.
-	    - As a node admin, I want to be able to add nodes to share with. _⧟ Part 3-5 only._
-	    - As a node admin, I want to be able to remove nodes and stop sharing with them. _⧟ Part 3-5 only._
-	    - As a node admin, I can prevent nodes from connecting to my node if they don't have a valid username and password. _⧟ Part 3-5 only._
-	    - As a node admin, node to node connections can be authenticated with HTTP Basic Auth, so that I don't have to deal with tokens. _⧟ Part 3-5 only._
-	    - As a node admin, I can disable the node to node interfaces for connections that I no longer want, in case another node goes bad. _⧟ Part 3-5 only._
-	    - As a node admin, I want everything to be stored in a well-indexed relational database, so that my website is snappy, and I can write SQL to fix things if I need to, make backups, etc...
-	        - Use Postgres on Heroku and SQLite for testing on your local machine.
-	        - Other DBaaS (e.g. Firebase) is forbidden.
-	    - As a node admin, I don't want arrays to be stored in database fields, so that my node won't get slower over time.
-	    - As a node admin, I don't want to have seperate frontend and backend web servers, so I don't have to manage two web servers/services.
-	    - As a node admin, I want deleted posts stay in the database and only be removed from the UI and API, so I can see what was deleted.
-	    - As a node admin, I want my node's UI to only communicate with my nodes web server, so I can prevent XSS.
-	    - As a node admin, I want the API objects (authors, posts, etc.) to be [identified by their full URL](https://uofa-cmput404.github.io/general/project.html#ids), to prevent collisions with other node's numbering schemes. _⧟ Part 3-5 only._
-- ##### malicious_user
-	- **Tests only to be performed by instructor or TAs. Students from different groups are not to disrupt other groups with such tests**	
-		- As a **malicious_user**, I want to send a huge amount of request to a node in order to disrupt it
-		- As a **malicious_user**, I want to send non-standard input as a post
-		- As a **malicious_user**, I want to send images that are out of the specifications
-		- As a **malicious_user**, I want to overload the system with requests
-		- As a **malicious_user**, I want to send code payloads and see whether they execute
+# Following/Friends
+- As an author, I want to follow local authors, so that I can see their public posts.
+- As an author, I want to follow remote authors, so that I can see their public posts. _⧟ Part 3-5 only._
+- As an author, I want to be able to approve or deny other authors following me, so that I don't get followed by people I don't like.
+- As an author, I want to know if I have "follow requests," so I can approve them.
+- As an author, I want to unfollow authors I am following, so that I don't have to see their posts anymore.
+- As an author, if I am following another author, and they are following me (only after both follow requests are approved), I want us to be considered friends, so that they can see my friends-only posts.
+- As an author, I want to unfriend other authors by unfollowing them, so that they can no longer see my friends-only posts.
+- As an author, my node will know about my followers, who I am following, and my friends, so that I don't have to keep track of it myself.
+# Comments/Likes
+- As an author, I want to comment on posts that I can access, so I can make a witty reply.
+- As an author, I want to like posts that I can access, so I can show my appreciation.
+- As an author, I want to like comments that I can access, so I can show my appreciation.
+- As an author, when someone sends me a public post I want to see the likes, so I can tell if it's good or not.
+- As an author, comments on my friends-only posts are visible only to my friends and the comment's author.
+# node Management
+- As a node admin, images can be hosted on my node, so that my users can use them in their CommonMark posts.
+- As a node admin, I want to be able to add, modify, and delete authors, to fix problems or remove unwanted users.
+- As a node admin, I want to OPTIONALLY be able to allow users to sign up but require my OK to finally be on my node, so that I can prevent unwanted users spambots.
+- As a node admin, I want to be able to connect to remote nodes by entering only the URL of the remote node, a username, and a password, so that I don't have to edit code. _⧟ Part 3-5 only._
+- As a node admin, I want a RESTful interface for most operations, so that I can connect to other nodes and allow my users to use alternate clients other than the web frontend.
+- As a node admin, I want to be able to add nodes to share with. _⧟ Part 3-5 only._
+- As a node admin, I want to be able to remove nodes and stop sharing with them. _⧟ Part 3-5 only._
+- As a node admin, I can prevent nodes from connecting to my node if they don't have a valid username and password. _⧟ Part 3-5 only._
+- As a node admin, node to node connections can be authenticated with HTTP Basic Auth, so that I don't have to deal with tokens. _⧟ Part 3-5 only._
+- As a node admin, I can disable the node to node interfaces for connections that I no longer want, in case another node goes bad. _⧟ Part 3-5 only._
+- As a node admin, I want everything to be stored in a well-indexed relational database, so that my website is snappy, and I can write SQL to fix things if I need to, make backups, etc...
+	- Use Postgres on Heroku and SQLite for testing on your local machine.
+	- Other DBaaS (e.g. Firebase) is forbidden.
+- As a node admin, I don't want arrays to be stored in database fields, so that my node won't get slower over time.
+- As a node admin, I don't want to have seperate frontend and backend web servers, so I don't have to manage two web servers/services.
+- As a node admin, I want deleted posts stay in the database and only be removed from the UI and API, so I can see what was deleted.
+- As a node admin, I want my node's UI to only communicate with my nodes web server, so I can prevent XSS.
+- As a node admin, I want the API objects (authors, posts, etc.) to be [identified by their full URL](https://uofa-cmput404.github.io/general/project.html#ids), to prevent collisions with other node's numbering schemes. _⧟ Part 3-5 only._
+- # malicious_user
+- **Tests only to be performed by instructor or TAs. Students from different groups are not to disrupt other groups with such tests**	
+	- As a **malicious_user**, I want to send a huge amount of request to a node in order to disrupt it
+	- As a **malicious_user**, I want to send non-standard input as a post
+	- As a **malicious_user**, I want to send images that are out of the specifications
+	- As a **malicious_user**, I want to overload the system with requests
+	- As a **malicious_user**, I want to send code payloads and see whether they execute
