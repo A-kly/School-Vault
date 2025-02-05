@@ -253,3 +253,6 @@
 ![[Pasted image 20250204164422.png]]
 ![[Pasted image 20250204164434.png]]
 ![[Pasted image 20250204164447.png]]
+![[Pasted image 20250204164918.png]]
+## Concept Formation
+![[Pasted image 20250204164900.png]]
