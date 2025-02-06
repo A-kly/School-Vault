@@ -1,4 +1,3 @@
-
 # Operant (instrumental) Conditioning
 - learning that is controlled by the consequences of the organisms behaviour
 ![[Pasted image 20250128153341.png]]
