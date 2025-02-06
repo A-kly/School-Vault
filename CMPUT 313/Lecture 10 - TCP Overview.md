@@ -69,3 +69,8 @@
 	- TCP uses cumulative ACK
 	- ACK can piggyback on data segment
 ![[Pasted image 20250206114802.png]]
+## TCP sequence numbers and ACKs
+![[Pasted image 20250206115226.png]]
+- ISN in this scenario is `41`
+- Host `A` sends 'C' and ISN plus 1
+- First packet sent from `B` to `A` is the sequence number of the received packet, plus `1` indicating that we have received all data up to 43
