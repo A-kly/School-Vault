@@ -8,6 +8,7 @@
 - [[Lecture 7 - Socket programming]]
 - [[Lecture 8 - Transport Layer Protocols]]
 - [[Lecture 9 - Reliable data transport]]
+- [[Lecture 10 - TCP Overview]]
 - **Media**
 
 
