@@ -112,3 +112,12 @@ How big should W be?
 ![[Pasted image 20250206120353.png]]
 ## TCP Receiver: ACK generation \[RFC 5681]
 ![[Pasted image 20250206120457.png]]
+## TCP: retransmission scenarios
+![[Pasted image 20250206120717.png]]
+![[Pasted image 20250206120728.png|250]]
+## TCP fast retransmit (with implicit NAK)
+![[Pasted image 20250206120847.png]]
+# Flow Control
+## TCP flow control
+ - What happens if network layer delivers data faster than application layer removes data from socket buffers?
+![[Pasted image 20250206121021.png]]
