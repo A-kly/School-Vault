@@ -25,11 +25,20 @@
 - Reliable, in order byte stream
 - full-duplex service
 	- Bidirectional data flow
-	- packets carry data AND Ack ifo
-- Cumulative ACk
+	- packets carry data AND Ack info
+- Cumulative Ack
 - pipelining
 	- congestion and flow control change window size
 - Single retransmission timer
 - Flow controlled
 - connection-oriented
 	- handshaking (control messages) initializes sender and receiver state variables
+## What is a byte stream
+- Sequence of bytes
+![[Pasted image 20250206112114.png]]
+- Application writes some bytes to socket buffer
+- TCP protocol grabs these bytes, once we reach enough of them, it sends them over the network
+- Other machine removes header and reconstructs the byte stream from these packets
+- **For every socket, we have a send buffer and a receive buffer**
+	- Buffer size can change during runtime
+- 
