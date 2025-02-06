@@ -61,3 +61,11 @@
 	- Synchronize
 - FIN
 	- For tearing down connection
+## TCP sequence numbers
+- Indicates where the first bute of this segment fits into byte stream (byte offset)
+	- Expressed in terms of # of bytes rather than # of Packets
+![[Pasted image 20250206114654.png]]
+- Acknowledgement contains sequence number of the next byte expected from the other side
+	- TCP uses cumulative ACK
+	- ACK can piggyback on data segment
+![[Pasted image 20250206114802.png]]
