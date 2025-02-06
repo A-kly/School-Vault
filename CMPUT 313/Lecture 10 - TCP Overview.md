@@ -136,4 +136,21 @@ How big should W be?
 ![[Pasted image 20250206121546.png|300]]
 ### 2-way handshake scenario: misinterpreting as new connection request
 ![[Pasted image 20250206121619.png|300]]
-
+### 2-way handshake scenario: duplicate data
+![[Pasted image 20250206121728.png|300]]
+## TCP 3-way handshake
+![[Pasted image 20250206121758.png]]
+### A human 3-way handshake protocol
+![[Pasted image 20250206121924.png]]
+## Closing a TCP connection
+- client and server each close their side of connection
+	- sending TCP segment with FIN bit = 1
+- respond to received FIN with ACK
+	- on receiving FIN, ACK can be combined with own FIN
+- simultaneous FIN exchanges can be handled
+## Abrupt termination (e.g. server not accepting connection on this port)
+- Receiver sends TCP segment with RST bit = 1 to sender
+	- this segment is not acknowledged
+- If sender sends more data, another TCP segment with RST bit = 1 will be sent
+- nmap port scanning tool uses this technique to discover open TCP ports
+	- for non-matching UDP port, an ICMP packet is returned
