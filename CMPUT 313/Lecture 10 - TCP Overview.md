@@ -55,4 +55,9 @@
 ![[Pasted image 20250206113113.png]]
 - Don't need to memorize
 - look online lol
-- 
+- RST
+	- Reset
+- SYN
+	- Synchronize
+- FIN
+	- For tearing down connection
