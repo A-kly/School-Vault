@@ -41,4 +41,7 @@
 - Other machine removes header and reconstructs the byte stream from these packets
 - **For every socket, we have a send buffer and a receive buffer**
 	- Buffer size can change during runtime
-- 
+## When is a TCP segment sent?
+![[Pasted image 20250206112441.png]]
+## MSS vs MTU
+- Maximum segment size (MSS): maximum size of payload in TCP segments (i.e. application-layer data)

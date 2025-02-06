@@ -9,5 +9,7 @@
 - [[Lecture 6 - JS]]
 - **Media**
 
+- **Project**
+	- [[User stories]]
 
 %% End Waypoint %%
