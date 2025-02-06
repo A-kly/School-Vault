@@ -71,6 +71,28 @@
 ![[Pasted image 20250206114802.png]]
 ## TCP sequence numbers and ACKs
 ![[Pasted image 20250206115226.png]]
-- ISN in this scenario is `41`
+- ISN in this scenario is `41` for host A and `78` for host B
 - Host `A` sends 'C' and ISN plus 1
 - First packet sent from `B` to `A` is the sequence number of the received packet, plus `1` indicating that we have received all data up to 43
+- We echo back 'C' just because telnet does that
+## TCP sliding window and pipelining
+- Window size is **maximum contiguous bytes in flight**
+	- expresses in bytes not packets
+![[Pasted image 20250206115835.png]]
+How big should W be?
+- definitely less than delay-bandwidth product
+- minimum of receiver advertised window to avoid overwhelming receiver and sender congestion window (discussed next lecture) to avoid network congestion
+## TCP timeout
+- How to set TCP timeout value?
+	- longer than rtt, but rtt changes
+	- too short:
+		- premature timeout, extra retransmissions
+	- too long
+		- slow reaction to segment loss
+- How to estimate RTT
+	- SampleRTT
+		- measured time from segment transmission until ACK receipt
+			- only measured for segments transmitted once
+		- SampleRTT will fluctuate due to
+varying network conditions; we
+want estimated RTT smoother
