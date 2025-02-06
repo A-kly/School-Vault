@@ -20,3 +20,16 @@
 - can improve performance sometimes tho
 	- Reducing per-link drop rate
 # TCP: overview
+- Point-to-point
+	- one sender and one receiver
+- Reliable, in order byte stream
+- full-duplex service
+	- Bidirectional data flow
+	- packets carry data AND Ack ifo
+- Cumulative ACk
+- pipelining
+	- congestion and flow control change window size
+- Single retransmission timer
+- Flow controlled
+- connection-oriented
+	- handshaking (control messages) initializes sender and receiver state variables
