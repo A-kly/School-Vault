@@ -121,3 +121,19 @@ How big should W be?
 ## TCP flow control
  - What happens if network layer delivers data faster than application layer removes data from socket buffers?
 ![[Pasted image 20250206121021.png]]
+## TCP flow control (speed matching)
+- Flow control: receiver controls sender, so sender won’t overflow receiver’s buffer by transmitting too much, too fast
+![[Pasted image 20250206121312.png]]
+# Connection setup and tear-down
+## TCP connection management
+- Before exchanging data, sender and receiver handshake:
+	- agree to establish connection (each knowing the other willing to establish connection)
+	- agree on connection parameters (e.g., starting seq numbers or ISNs), set aside buffers
+![[Pasted image 20250206121433.png]]
+## Agreeing to establish a connection
+![[Pasted image 20250206121521.png]]
+### 2-way handshake scenarios
+![[Pasted image 20250206121546.png|300]]
+### 2-way handshake scenario: misinterpreting as new connection request
+![[Pasted image 20250206121619.png|300]]
+
