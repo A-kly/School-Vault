@@ -93,6 +93,22 @@ How big should W be?
 	- SampleRTT
 		- measured time from segment transmission until ACK receipt
 			- only measured for segments transmitted once
-		- SampleRTT will fluctuate due to
-varying network conditions; we
-want estimated RTT smoother
+		- SampleRTT will fluctuate due to varying network conditions; we want estimated RTT smoother
+			- average several recent measurements, not just current SampleRTT
+### Estimating round trip time
+- Exponential weighted moving average (EWMA) of SampleRTT
+	- `EstimatedRTT = (1- α)*EstimatedRTT + α*SampleRTT`
+	- Influence of past sample decreases exponentially fast
+	- Typical value: α = 0.125
+![[Pasted image 20250206120245.png]]
+### Setting timeout value
+- Timeout interval: EstimatedRTT plus some safety margin
+	- large variation in EstimatedRTT want a larger safety margin
+![[Pasted image 20250206120314.png]]
+- DevRTT: EWMA of SampleRTT deviation from EstimatedRTT
+![[Pasted image 20250206120331.png]]
+
+## TCP Sender (simplified)
+![[Pasted image 20250206120353.png]]
+## TCP Receiver: ACK generation \[RFC 5681]
+![[Pasted image 20250206120457.png]]
