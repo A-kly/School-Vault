@@ -44,4 +44,15 @@
 ## When is a TCP segment sent?
 ![[Pasted image 20250206112441.png]]
 ## MSS vs MTU
-- Maximum segment size (MSS): maximum size of payload in TCP segments (i.e. application-layer data)
+- **Maximum segment size (MSS)**: maximum size of payload in TCP segments (i.e. application-layer data)
+	- negotiated during connection setup
+- **Maximum transmission unit (MTU)**: maximum size of link-layer frames, including transport and IP headers
+	- for TCP segments: MSS = MTU - IP header - TCP header
+	- MTU depends on network technology
+	- Ethernet and PPP link-layer protocols have an MTU of 1,500 Bytes
+- Typical size of TCP/IP headers is 40 Bytes in total, so a typical value of MSS is 1460 bytes
+## TCP segment structure
+![[Pasted image 20250206113113.png]]
+- Don't need to memorize
+- look online lol
+- 
