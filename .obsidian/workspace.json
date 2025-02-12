@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 404/Lecture 6 - JS.md",
+                "file": "CMPUT 313/Lecture 2 - The life of a packet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 6 - JS"
+              "title": "Lecture 2 - The life of a packet"
             }
           }
         ],
@@ -218,6 +218,7 @@
   },
   "active": "7828cbc3d1c10b50",
   "lastOpenFiles": [
+    "CMPUT 404/Lecture 6 - JS.md",
     "CMPUT 313/Lecture 2 - The life of a packet.md",
     "CMPUT 313/Studying notes.md",
     "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
@@ -243,7 +244,6 @@
     "CMPUT 404/Lecture 5 - HTML.md",
     "CMPUT 404/Project/User stories.md",
     "CMPUT 404/Project",
-    "CMPUT 404/Lecture 6 - JS.md",
     "CMPUT 404/Lecture 4 - HTTP.md",
     "CMPUT 404/Lecture 8 - More http, and cybera live demo.md",
     "CMPUT 404/Lecture 7 -  More HTTP stuff.md",
