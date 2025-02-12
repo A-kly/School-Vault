@@ -26,4 +26,64 @@
 		- has user created functions
 - loops
 	- `for ... in ...`
-	- 
+	- can loop over object values
+- Classes
+	- most controvertial part of JS
+	- js has many ways of creating them
+- Recomended
+	```js
+class Pokemon {
+  constructor(name, level) {
+    this.name = name;
+    this.level = level;
+  }
+  levelUp() {
+    this.level += 1;
+  }
+}
+pikachu = new Pokemon("Pikachu", 1);
+pikachu.levelUp();
+```
+- old way of doing it
+```js
+
+// classes start with a capital letter by convention
+function Pokemon(name,level) {
+  this.name = name;
+  this.level = level;
+  this.levelUp = function() {
+    this.level += 1;
+  }
+}
+pikachu = new Pokemon("Pikachu", 1);
+pikachu.levelUp();
+```
+- You might also see the methods added to the prototype later
+```js
+ // classes start with a capital letter by convention
+function Pokemon(name,level) {
+  this.name = name;
+  this.level = level;
+}
+// have to include "prototype" here so "this" works in the method
+Pokemon.prototype.levelUp = function() {
+  this.level += 1;
+}
+pikachu = new Pokemon("Pikachu", 1);
+pikachu.levelUp();
+```
+- Awkward and rarely used
+```js
+// classes start with a capital letter by convention
+var Pokemon = {
+  name: null,
+  level: null,
+  levelUp: function() {
+    this.level += 1;
+  }
+}
+pikachu = Object.create(Pokemon);
+pikachu.name = "Pikachu";
+pikachu.level = 1;
+pikachu.levelUp();
+```
