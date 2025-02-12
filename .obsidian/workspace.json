@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Studying notes.md",
+                "file": "CMPUT 313/Lecture 2 - The life of a packet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Studying notes"
+              "title": "Lecture 2 - The life of a packet"
             }
           }
         ],
@@ -218,8 +218,8 @@
   },
   "active": "7828cbc3d1c10b50",
   "lastOpenFiles": [
-    "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
     "CMPUT 313/Studying notes.md",
+    "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
     "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
     "PSYCH 282/Topic 1 - Introduction to Behaviour Modification.md",
     "PSYCH 282/Topic 3 - Classical (Respondent) Conditioning.md",
