@@ -17,4 +17,13 @@
 - Type coercion
 	- "1" + 1 in python = ERROR
 	- "1" + 1 in JS = "11"
+	- Always try to coerce to str if str is there
+- objects and prototypes
+	- like struct
+	- objects 
+		- just has values
+	- prototypes
+		- has user created functions
+- loops
+	- `for ... in ...`
 	- 
