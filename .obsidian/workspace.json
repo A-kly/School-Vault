@@ -36,6 +36,18 @@
               "icon": "lucide-file",
               "title": "Lecture 2 - The life of a packet"
             }
+          },
+          {
+            "id": "ade7266f1e277d11",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "CMPUT 313/Media/Pasted image 20250109112238.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250109112238"
+            }
           }
         ],
         "currentTab": 1
@@ -218,8 +230,9 @@
   },
   "active": "7828cbc3d1c10b50",
   "lastOpenFiles": [
-    "CMPUT 404/Lecture 6 - JS.md",
+    "CMPUT 313/Media/Pasted image 20250109112238.png",
     "CMPUT 313/Lecture 2 - The life of a packet.md",
+    "CMPUT 404/Lecture 6 - JS.md",
     "CMPUT 313/Studying notes.md",
     "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
     "PSYCH 282/Topic 4 - Operant (Instrumental) Conditioning;  Reinforcement.md",
@@ -255,7 +268,6 @@
     "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
     "CMPUT 404/Final project.md",
     "CMPUT 313/Lecture 5 - Caching, Streaming, and CDNs.md",
-    "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
     "CMPUT 325/Media",
     "PSYCH 282/Media",
     "PSYCH 282",
