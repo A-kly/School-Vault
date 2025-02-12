@@ -1,0 +1,1 @@
+- frequency division multiplexing (FDM): different channels transmitted in different frequency bands

@@ -11,5 +11,6 @@
 - [[Lecture 10 - TCP Overview]]
 - **Media**
 
+- [[Studying notes]]
 
 %% End Waypoint %%
