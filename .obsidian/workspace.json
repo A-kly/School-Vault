@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 5 - Caching, Streaming, and CDNs.md",
+                "file": "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 5 - Caching, Streaming, and CDNs"
+              "title": "Lecture 6 - Email, DNS, p2p file sharing"
             }
           },
           {
@@ -230,6 +230,7 @@
   },
   "active": "7828cbc3d1c10b50",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 5 - Caching, Streaming, and CDNs.md",
     "CMPUT 313/Lecture 4 - Application Layer, HTTP.md",
     "CMPUT 313/Lecture 3 - Internet structure and Protocol Layers.md",
     "CMPUT 313/Lecture 2 - The life of a packet.md",
@@ -267,7 +268,6 @@
     "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
     "CMPUT 404/Media",
     "CMPUT 313/Lecture 6 - Email, DNS, p2p file sharing.md",
-    "CMPUT 404/Final project.md",
     "CMPUT 325/Media",
     "PSYCH 282/Media",
     "PSYCH 282",
