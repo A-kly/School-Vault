@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMPUT 313/Lecture 7 - Socket programming.md",
+                "file": "CMPUT 313/Lecture 9 - Reliable data transport.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 7 - Socket programming"
+              "title": "Lecture 9 - Reliable data transport"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "94ec49d0a18ccf52",
   "lastOpenFiles": [
+    "CMPUT 313/Lecture 10 - TCP Overview.md",
+    "CMPUT 313/Lecture 9 - Reliable data transport.md",
     "CMPUT 313/Lecture 8 - Transport Layer Protocols.md",
     "CMPUT 313/Lecture 7 - Socket programming.md",
     "CMPUT 313/Lecture 1 - Course Logistics and Introduction to the Internet.md",
@@ -220,8 +222,6 @@
     "CMPUT 404/CMPUT 404.md",
     "PSYCH 282/Topic 2 - Basic Kinds of Behaviour and Learning.md",
     "PSYCH 282/Must review.md",
-    "CMPUT 313/Lecture 10 - TCP Overview.md",
-    "CMPUT 313/Lecture 9 - Reliable data transport.md",
     "CMPUT 313/Media/Pasted image 20250206121924.png",
     "CMPUT 313/Media/Pasted image 20250206121758.png",
     "CMPUT 313/Media/Pasted image 20250206121728.png",
