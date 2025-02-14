@@ -101,4 +101,4 @@ pikachu.levelUp();
 	- Select using a query selector
 	- we can create new content and replace old content
 	- change the style of elements
-	- 
+- We can experiment on pages like metafilter
