@@ -87,3 +87,8 @@ pikachu.name = "Pikachu";
 pikachu.level = 1;
 pikachu.levelUp();
 ```
+# Manipulating the DOM (document object model)
+- Tutorial is online at W3schools
+- Using a hyperlink is not a DOM modification
+- Using JS to modify the content of a page is a dom modification
+- 
