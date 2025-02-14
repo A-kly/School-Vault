@@ -91,4 +91,14 @@ pikachu.levelUp();
 - Tutorial is online at W3schools
 - Using a hyperlink is not a DOM modification
 - Using JS to modify the content of a page is a dom modification
-- 
+- Queryselector
+	- uses css style selector
+	- jumps straight to an element
+- Jquery
+	- system for querying in JS
+	- Modern day, we don't use as browsers support features by itself
+- Changing doc content
+	- Select using a query selector
+	- we can create new content and replace old content
+	- change the style of elements
+	- 
